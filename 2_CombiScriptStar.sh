@@ -34,15 +34,12 @@ featureCounts="/home/irathman/sw/subread-1.6.5-source/bin"
 
 # here you map against: .fasta
 dict="BsubNC_000964wt"
-ID=$(ls -1 $myDataRaw | grep "W" | grep "_1.fastq.gz" | sed -n ''$i'p' | cut -d"_" -f1)
-IDout=$ID"_lm2Bsub"
+ID=$(ls -1 $myDataTrim |grep "_1P.fastq" | sed -n ''$i'p' | cut -d"_" -f1,2)
 
 cd $StarFold
-ID=$(ls -1 $myDir | grep "0" | grep "_1P.fq" | sed -n ''$i'p' | cut -d"_" -f1)
-./STAR --runThreadN 8 --runMode genomeGenerate --genomeSAindexNbases 4 --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict
+./STAR --runThreadN 8 --runMode genomeGenerate --genomeSAindexNbases 4 --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta"
 chmod a+x $myDictPath/*
-./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$ID"_" --readFilesIn $myDataRaw/$ID"_1P".fastq $myDataRaw/$ID"_2P".fastq
-
+./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$ID"_" --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq"
 cd $featureCounts
 ./featureCounts -p -T 8 -F SAF -a $myDictPath/BsubNC_000964wt.saf -o $myDataPath/$ID"_raw.count" $myDataPath/$ID"_Aligned.out".sam
 #done

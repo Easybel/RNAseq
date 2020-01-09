@@ -1,4 +1,4 @@
-#!/bin/batch -1
+#!/bin/batch -l
 #SBATCH -J Combi
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=16GB

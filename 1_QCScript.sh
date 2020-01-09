@@ -23,7 +23,6 @@ TrimmFold="/home/irathman/sw/Trimmomatic-0.36"
 
 ID=$(ls -1 $myDataRaw | grep "R2_001.fastq.gz" | sed -n ''$i'p' | cut -d"_" -f1,2,3,4)
 
-
 #FastQC before
 cd $FastQCFold
 ./fastqc -o $myQCRaw/ $myDataRaw/$ID"_R1_001.fastq.gz" -t 8

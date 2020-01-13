@@ -1,4 +1,4 @@
-#!/bin/batch -l
+#!/bin/bash -l
 #SBATCH -J Combi
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=16GB

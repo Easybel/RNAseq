@@ -36,10 +36,19 @@ featureCounts="/home/irathman/sw/subread-1.6.5-source/bin"
 dict="BsubNC_000964wt"
 ID=$(ls -1 $myDataTrim |grep "_1P.fastq" | sed -n ''$i'p' | cut -d"_" -f1,2)
 
+#mapping the reads to the reference
 cd $StarFold
 ./STAR --runThreadN 8 --runMode genomeGenerate --genomeSAindexNbases 4 --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta"
 chmod a+x $myDictPath/*
 ./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$ID"_" --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq"
+
+#..sam is converted here to bam, sorted and indexed, so that it can be oppened with IGVviewer
+cd $samFold
+./samtools view -b $myDataPath/$ID"_Aligned.out.sam" --threads 8 -T $myDictPath/$dict.fasta -o $myDataPath/$ID".bam"
+./samtools sort $myDataPath/$ID".bam" --threads 8 --reference $myDictPath/$dict.fasta -o $myDataPath/$ID"_sort.bam"
+./samtools index -b $myDataPath/$ID"_sort.bam" > $myDataPath/$ID"_sort.bam.bai"
+
+#here the coverage is determined
 cd $featureCounts
 ./featureCounts -p -T 8 -F SAF -a $myDictPath/BsubNC_000964wt.saf -o $myDataPath/$ID"_raw.count" $myDataPath/$ID"_Aligned.out".sam
 #done

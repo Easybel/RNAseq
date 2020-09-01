@@ -9,7 +9,8 @@
 -**Fasta Referenz erzeugen**
   - Zuerst brauchen wir eine DNA Referenz (fasta) des Organismus, dessen Transkriptom wir analysieren wollen. 
     - die NCBI datenbank fasta fixen (SNPs ersetzen und vllt Gene reparieren)
-  - Für diese Referenz muss ein Index gemacht werden und wir brauchen eine Liste der features, hier Gene, (für featureCounts: SAF), deren Coverage wir bestimmen wollen. 
+    - Für diese Referenz muss ein Index gemacht werden **0_DicIndex.sh**
+    - Liste der features, hier Gene, (für featureCounts: SAF), deren Coverage wir bestimmen wollen
 
 - **Rohdaten bearbeiten**
   - **fastq**: Daten sind im .fastq Format gegeben, da wir paired-end data haben immer mit forward _ 1 und reverse _ 2 run. Die Daten sind komprimiert und liegen als .fastq.gz vor.  

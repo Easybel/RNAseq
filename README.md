@@ -1,5 +1,7 @@
 # RNAseq
 
+![alt text](RNApipeline.png)
+
 ## TheMaster Plan
 ... What we have to do
 

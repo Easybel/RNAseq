@@ -19,7 +19,7 @@ Here I collected all the things that I could think of that we should work on unt
   - Indexing
 
 - **Reads mappen**
-  - Die getrimmten reads werden mit Star auf die Referenz gemappt 
+  - Die getrimmten reads werden mit [Star](https://github.com/alexdobin/STAR) auf die Referenz gemappt. 
   
   
 - **Other software**

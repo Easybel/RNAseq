@@ -1,17 +1,14 @@
 #!/bin/bash -l
 #SBATCH -J Combi
 #SBATCH --cpus-per-task=8
-#SBATCH --mem=16GB
+#SBATCH --mem=32GB
 #SBATCH -N 1
-#SBATCH --time=05:00:00
-#SBATCH --array=1
 #SBATCH --account=AG-Maier
 #SBATCH --mail-type=END 
 #SBATCH --mail-user irathman@uni-koeln.de 
+#SBATCH --time=05:00:00
+#SBATCH --array=1
 i=$SLURM_ARRAY_TASK_ID
-
-#Define input and output paths
-#Make directories if necessary
 
 #Define input and output paths
 #Make directories if necessary
@@ -34,13 +31,15 @@ featureCounts="/home/irathman/sw/subread-1.6.5-source/bin"
 
 # here you map against: .fasta
 dict="BsubNC_000964wt"
-ID=$(ls -1 $myDataTrim |grep "_1P.fastq" | sed -n ''$i'p' | cut -d"_" -f1,2)
+ID=$(ls -1 $myDataTrim | grep "_1P.fastq" | sed -n ''$i'p' | cut -d"_" -f1,2,3,4)
+IDout=$(echo $ID)
 
 #mapping the reads to the reference
 cd $StarFold
 ./STAR --runThreadN 8 --runMode genomeGenerate --genomeSAindexNbases 4 --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta"
 chmod a+x $myDictPath/*
-./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$ID"_" --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq"
+./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$ID"_"  \
+--readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq"
 
 #..sam is converted here to bam, sorted and indexed, so that it can be oppened with IGVviewer
 cd $samFold

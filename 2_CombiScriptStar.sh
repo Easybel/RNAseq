@@ -19,7 +19,7 @@ myDataPath="/scratch2/easy/Directs/DirectsRNA"
 #Define folders where software is installed
 samFold="/home/irathman/sw/samtools-1.8"
 StarFold="/home/irathman/sw/STAR-2.5.3a/bin/Linux_x86_64/"
-featureCounts="/home/irathman/sw/subread-1.6.5-source/bin"
+featureCounts="/home/irathman/sw/subread-2.0.1-source/bin"
 
 # here you map against: .fasta
 dict="BsubNC_000964wt"
@@ -37,8 +37,6 @@ IDout=$(echo $ID)
 # Chimeric/ circular reads
 # --chimSegmentMin positive value ??how to set??
 # --chimOutType WithinBAM
-
-
 cd $StarFold
 ./STAR --runThreadN 8 --genomeDir $myDictPath/ --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq" \
 --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_"  \
@@ -49,8 +47,13 @@ cd $samFold
 ./samtools sort $myDataPath/$IDout".bam" --threads 8 --reference $myDictPath/$dict.fasta -o $myDataPath/$IDout"_sort.bam"
 ./samtools index -b $myDataPath/$IDout"_sort.bam" > $myDataPath/$IDout"_sort.bam.bai"
 
-#here the coverage is determined
+# Read quantification
+# Here the featurecount is done with subread package -> output: count table
+# Input data (i) aligned reads in sam/bam, (ii) list of genomic features in either GTF, GFF or simplified annotation format (SAF)
+
+
 cd $featureCounts
-./featureCounts -p -T 8 -F SAF -a $myDictPath/BsubNC_000964wt.saf -o $myDataPath/$ID"_raw.count" $myDataPath/$ID"_Aligned.out".sam
+./featureCounts -p -T 8 -F GTF -a $myDictPath/$dict".saf" $myDataPath/$IDout"_Aligned.out".sam \
+-o $myDataPath/$IDout"_raw.count"
 #done
 exit 0

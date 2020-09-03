@@ -17,15 +17,7 @@ myDictPath="/projects/ag-advol/dictionaries/BsubNC_000964wt"
 myDataPath="/scratch2/easy/Directs/DirectsRNA"
 
 #Define folders where software is installed
-FastQCFold="/home/irathman/sw/FastQC"
-TrimmFold="/home/irathman/sw/Trimmomatic-0.36"
-bwaFold="/home/irathman/sw/bwa-0.7.17"
 samFold="/home/irathman/sw/samtools-1.8"
-picardFold="/home/irathman/sw"
-GATKFold="/home/irathman/sw/GATK3.5"
-bcfFold="/home/irathman/sw/bcftools-1.8"
-snpEffFold="/home/irathman/sw/snpEff"
-bedtoolsFold="/home/irathman/sw/bedtools2/bin"
 StarFold="/home/irathman/sw/STAR-2.5.3a/bin/Linux_x86_64/"
 featureCounts="/home/irathman/sw/subread-1.6.5-source/bin"
 
@@ -34,18 +26,28 @@ dict="BsubNC_000964wt"
 ID=$(ls -1 $myDataTrim | grep "_1P.fastq" | sed -n ''$i'p' | cut -d"_" -f1,2,3,4)
 IDout=$(echo $ID)
 
-#mapping the reads to the reference
+# Mapping the reads to the reference with STAR
+# basic options:
+#--runThreadN NumberOfThreads
+#--genomeDir /path/to/genomeDir
+#--readFilesIn /path/to/read1 [/path/to/read2]
+#--outFileNamePrefix /path/to/output/dir/prefix
+# Multimappers
+# --outSAMmultNmax limits  the  number  of  output  alignments  (SAM  lines)  for multimappers ??
+# Chimeric/ circular reads
+# --chimSegmentMin positive value ??how to set??
+# --chimOutType WithinBAM
+
+
 cd $StarFold
-./STAR --runThreadN 8 --runMode genomeGenerate --genomeSAindexNbases 4 --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta"
-chmod a+x $myDictPath/*
-./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$ID"_"  \
---readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq"
+./STAR --runThreadN 8 --genomeDir $myDictPath/ --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq" \
+--outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_"  \
 
 #..sam is converted here to bam, sorted and indexed, so that it can be oppened with IGVviewer
 cd $samFold
-./samtools view -b $myDataPath/$ID"_Aligned.out.sam" --threads 8 -T $myDictPath/$dict.fasta -o $myDataPath/$ID".bam"
-./samtools sort $myDataPath/$ID".bam" --threads 8 --reference $myDictPath/$dict.fasta -o $myDataPath/$ID"_sort.bam"
-./samtools index -b $myDataPath/$ID"_sort.bam" > $myDataPath/$ID"_sort.bam.bai"
+./samtools view -b $myDataPath/$IDout"_Aligned.out.sam" --threads 8 -T $myDictPath/$dict.fasta -o $myDataPath/$IDout".bam"
+./samtools sort $myDataPath/$IDout".bam" --threads 8 --reference $myDictPath/$dict.fasta -o $myDataPath/$IDout"_sort.bam"
+./samtools index -b $myDataPath/$IDout"_sort.bam" > $myDataPath/$IDout"_sort.bam.bai"
 
 #here the coverage is determined
 cd $featureCounts

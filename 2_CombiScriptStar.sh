@@ -12,9 +12,11 @@ i=$SLURM_ARRAY_TASK_ID
 
 #Define input and output paths
 #Make directories if necessary
+#Define input and output paths
+#Make directories if necessary
 myDataTrim="/projects/ag-advol/RNAseq/Trim"
-myDictPath="/projects/ag-advol/dictionaries/BsubNC_000964wt"
-myDataPath="/scratch2/easy/Directs/DirectsRNA"
+myDictPath="/projects/ag-advol/dictionaries/MS11_ncbi_IR"
+myDataPath="/scratch/easy/Ngo/RNA"
 
 #Define folders where software is installed
 samFold="/home/irathman/sw/samtools-1.8"
@@ -22,7 +24,7 @@ StarFold="/home/irathman/sw/STAR-2.5.3a/bin/Linux_x86_64/"
 featureCounts="/home/irathman/sw/subread-2.0.1-source/bin"
 
 # here you map against: .fasta
-dict="BsubNC_000964wt"
+dict="MS11"
 ID=$(ls -1 $myDataTrim | grep "_1P.fastq" | sed -n ''$i'p' | cut -d"_" -f1,2,3,4)
 IDout=$(echo $ID)
 
@@ -53,7 +55,7 @@ cd $samFold
 
 
 cd $featureCounts
-./featureCounts -p -T 8 -F GTF -a $myDictPath/$dict".saf" $myDataPath/$IDout"_Aligned.out".sam \
+./featureCounts -p -T 8 -F GTF -a $myDictPath/$dict".gft" $myDataPath/$IDout"_Aligned.out".sam \
 -o $myDataPath/$IDout"_raw.count"
 #done
 exit 0

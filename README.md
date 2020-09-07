@@ -21,7 +21,11 @@
  
 
 - **Reads mappen**
-  - Die getrimmten reads werden mit [Star](https://github.com/alexdobin/STAR) auf die Referenz gemappt. 
+  - Die getrimmten reads werden mit [Star](https://github.com/alexdobin/STAR) auf die Referenz gemappt
+  - mit featurecounts (subread) wird die Anzahl der reads bestimmt, die auf die feature entfallen
+  
+- **Count quantification/ analysis**
+  - Was bedeuten die counts pro feature jetzt? --> das wird in R (matlab?) analysiert 
   
   
 - **Other software**

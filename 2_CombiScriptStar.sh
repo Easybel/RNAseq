@@ -7,7 +7,7 @@
 #SBATCH --mail-type=END 
 #SBATCH --mail-user irathman@uni-koeln.de 
 #SBATCH --time=05:00:00
-#SBATCH --array=1
+#SBATCH --array=1-6
 i=$SLURM_ARRAY_TASK_ID
 
 #Define input and output paths
@@ -41,7 +41,7 @@ IDout=$(echo $ID)
 # --chimOutType WithinBAM
 cd $StarFold
 ./STAR --runThreadN 8 --genomeDir $myDictPath/ --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq" \
---outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_"  \
+--outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_"  
 
 #..sam is converted here to bam, sorted and indexed, so that it can be oppened with IGVviewer
 cd $samFold

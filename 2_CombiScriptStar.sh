@@ -40,8 +40,7 @@ IDout=$(echo $ID)
 # --chimSegmentMin positive value ??how to set??
 # --chimOutType WithinBAM
 cd $StarFold
-./STAR --runThreadN 8 --genomeDir $myDictPath/ --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq" \
---outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_"  
+./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_" --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq" 
 
 #..sam is converted here to bam, sorted and indexed, so that it can be oppened with IGVviewer
 cd $samFold

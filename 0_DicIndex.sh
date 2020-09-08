@@ -21,5 +21,5 @@ StarFold="/home/irathman/sw/STAR-2.5.3a/bin/Linux_x86_64" #!
 # !!--genomeSAindexNbases min(14, log2(GenomeLength)/2 - 1) (For small genomes, this parameter must be scaled down)!!
 
 cd $StarFold
-./STAR --runThreadN 8 --runMode genomeGenerate --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta" \
---sjdbGTFtagExonParentTranscript Parent --sjdbGTFfile $myDictPath/$ann".gff3" --sjdbOverhang 149 
+./STAR --runThreadN 8 --runMode genomeGenerate --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta"
+#--sjdbGTFtagExonParentTranscript Parent --sjdbGTFfile $myDictPath/$ann".gff3" --sjdbOverhang 149 

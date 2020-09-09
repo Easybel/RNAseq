@@ -20,7 +20,7 @@ hist(log2(tab$med))
 hist(log2(tab$mean))
 # based on distriutions, prefilter your data a bit 
 # I do not use extremely covered transcripts and transcripts with less than 10 mapped reads 
-tab_red <- tab[which(tab$med > 9 & (tab$sum > 15 || tab$sum < 10000)),]
+tab_red <- tab[which(tab$med > 9 & (tab$sum > 15 | tab$sum < 10000)),]
 head(tab_red)
 mat <- as.matrix(tab_red[,c(2,3,4,5,6,7)])
 rownames(mat) <- tab_red[,1]

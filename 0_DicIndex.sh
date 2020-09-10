@@ -6,7 +6,7 @@ myDictPath="/projects/ag-advol/dictionaries/MS11_ncbi_IR" #!
 
 # name of dictionary
 dict="MS11"  #!
-ann="MS11" #!
+#ann="MS11" #!
 
 #Define folders where software is installed
 StarFold="/home/irathman/sw/STAR-2.5.3a/bin/Linux_x86_64" #!
@@ -18,8 +18,10 @@ StarFold="/home/irathman/sw/STAR-2.5.3a/bin/Linux_x86_64" #!
 #--genomeFastaFiles /path/to/genome/fasta1 /path/to/genome/fasta2 ...
 #--sjdbGTFfile /path/to/annotations.gtf
 #--sjdbOverhang ReadLength-1
-# !!--genomeSAindexNbases min(14, log2(GenomeLength)/2 - 1) (For small genomes, this parameter must be scaled down)!!
+# !!--genomeSAindexNbases min(14, log2(GenomeLength)/2 - 1) (For small genomes, this parameter must be scaled down)
+# --> otherwise segementation fault
 
 cd $StarFold
-./STAR --runThreadN 8 --runMode genomeGenerate --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta"
+./STAR --runThreadN 8 --runMode genomeGenerate --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta" \
+--genomeSAindexNbases 8
 #--sjdbGTFtagExonParentTranscript Parent --sjdbGTFfile $myDictPath/$ann".gff3" --sjdbOverhang 149 

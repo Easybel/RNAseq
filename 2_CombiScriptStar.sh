@@ -40,7 +40,10 @@ IDout=$(echo $ID)
 # --chimSegmentMin positive value ??how to set??
 # --chimOutType WithinBAM
 cd $StarFold
-./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_" --readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq" 
+./STAR --runThreadN 8 --genomeDir $myDictPath/ --outSAMmultNmax 10 --outFileNamePrefix $myDataPath/$IDout"_" \ 
+--readFilesIn $myDataTrim/$ID"_1P.fastq" $myDataTrim/$ID"_2P.fastq" 
+echo "done with mapping"
+
 
 #..sam is converted here to bam, sorted and indexed, so that it can be oppened with IGVviewer
 cd $samFold
@@ -51,7 +54,6 @@ cd $samFold
 # Read quantification
 # Here the featurecount is done with subread package -> output: count table
 # Input data (i) aligned reads in sam/bam, (ii) list of genomic features in either GTF, GFF or simplified annotation format (SAF)
-
 
 cd $featureCounts
 ./featureCounts -p -T 8 -F GTF -a $myDictPath/$dict".gft" $myDataPath/$IDout"_Aligned.out".sam \

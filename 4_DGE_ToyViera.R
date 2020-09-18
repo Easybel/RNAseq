@@ -1,6 +1,6 @@
 # Silene vulgaris - population Stranska Skala - root tissue
 # prepare 1 big matrix (table) from all featureCounts outputs - here called: myTab.csv
-# myTab.csv contains 7 columns: contig names, wt1, wt2, wt3, Cu1, Cu2, Cu3
+# myTab.csv contains 7 columns: contig names, ctl1, ctl2, ctl3, azi1, azi2, azi3
 # in rstudio or R
 # install packages: DESeq2 and pheatmap
 
@@ -25,14 +25,14 @@ head(tab_red)
 mat <- as.matrix(tab_red[,c(2,3,4,5,6,7)])
 rownames(mat) <- tab_red[,1]
 head(mat)
-conditions <- c(rep("SS_wt",3),rep("SS_cu",3))
+conditions <- c(rep("SS_ctl",3),rep("SS_azi",3))
 Batch <- rep(1,6)
 myColData <- data.frame(condition = conditions, Batch = Batch)
-rownames(myColData) <-  c("R_SS1_wt","R_SS2_wt","R_SS3_wt","R_SS1_cu","R_SS2_cu","R_SS3_cu")
+rownames(myColData) <-  c("R_SS1_ctl","R_SS2_ctl","R_SS3_ctl","R_SS1_azi","R_SS2_azi","R_SS3_azi")
 myColData
 dds <- DESeqDataSetFromMatrix(countData = mat, colData = myColData, design =  ~ condition)
 ## be sure that you know your reference 
-dds$condition <- relevel(dds$condition, ref="SS_wt")
+dds$condition <- relevel(dds$condition, ref="SS_ctl")
 dds <- DESeq(dds)
 res <- results(dds)
 summary(res)
@@ -40,6 +40,3 @@ write.table(res, "SS_refWT_queriedCopper_results.csv", sep="\t")
 strictCond <- res[which(res$padj <= 0.001 & res$baseMean > 10),]
 strictCond
 write.table(res[which(res$padj <= 0.001 & res$baseMean > 10),], "SS_refWT_queriedCopper_results_padj1e-3.csv", sep="\t")
-
-
-

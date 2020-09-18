@@ -6,19 +6,29 @@
 
 library(DESeq2)
 library(pheatmap)
-setwd("path_to_your_files")
+setwd("/home/isabel/Documents/Doktorarbeit/RNA_Seb/CDS/")
 
-## ROOTS - SS - control condition versus copper treatment 
+## Ngo -- 
 
-tab <- read.table("myTab.csv", sep="\t", header = TRUE)
+tab <- read.table("Ngo_CDS_Counts.csv", sep=" ", header = TRUE)
 tab$sum <- apply(tab[,2:7],1, sum)
 tab$mean <- apply(tab[,2:7],1, mean)
 tab$med <- apply(tab[,2:7],1, median)
-par(mfrow=c(1,3))
-hist(log2(tab$sum))
-hist(log2(tab$med))
-hist(log2(tab$mean))
-# based on distriutions, prefilter your data a bit 
+
+par(mfrow=c(1,3)) #combines plots, in 1 line and 3 columns
+hist(log2(tab$sum), ylab="Genes", xlab="log of sum count, all conditions", main="Distribution of counts")
+hist(log2(tab$med), ylab="Genes", xlab="log of median count, all conditions", main="Distribution of counts")
+hist(log2(tab$mean), ylab="Genes", xlab="log of mean count, all conditions", main="Distribution of counts")
+
+par(mfrow=c(1,3)) #combines plots, in 1 line and 3 columns
+hist(tab$sum, breaks=1000, xlim=c(0,1000),
+     ylab="Genes", xlab="log of sum count, all conditions", main="Distribution of counts")
+hist(tab$med, breaks=1000, xlim=c(0,1000),
+     ylab="Genes", xlab="log of median count, all conditions", main="Distribution of counts")
+hist(tab$mean, breaks=1000, xlim=c(0,1000),
+     ylab="Genes", xlab="log of mean count, all conditions", main="Distribution of counts")
+
+# based on distributions, prefilter your data a bit 
 # I do not use extremely covered transcripts and transcripts with less than 10 mapped reads 
 tab_red <- tab[which(tab$med > 9 & (tab$sum > 15 | tab$sum < 10000)),]
 head(tab_red)

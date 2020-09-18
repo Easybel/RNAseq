@@ -1,6 +1,6 @@
 # Silene vulgaris - population Stranska Skala - root tissue
 # prepare 1 big matrix (table) from all featureCounts outputs - here called: myTab.csv
-# myTab.csv contains 7 columns: contig names, wt1, wt2, wt3, Cu1, Cu2, Cu3
+# myTab.csv contains 7 columns: contig names, ctl1, ctl2, ctl3, azi1, azi2, azi3
 # in rstudio or R
 # install packages: DESeq2 and pheatmap
 

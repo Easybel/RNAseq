@@ -60,7 +60,7 @@ resLFC <- lfcShrink(dds, coef= "condition_azi_vs_ctl", type="apeglm") # other op
 
 # generate the results tables - this function already does independant filtering, alpha is the FDR cutoff (default would be 0.1)
 #?? or should I use independant hypothesis weighing? library("IHW"), resIHW <- results(dds, filterFun=ihw)
-res <- results(dds, alpha=0.05)
+res <- results(dds, alpha=0.05) # ?? I changed this to 0.05, right?
 summary(res)
 mcols(res)$description # what means what in the results??
 
@@ -94,8 +94,8 @@ with(subset(resOrdered, padj<.01 & abs(log2FoldChange)>2), points(log2FoldChange
 # for DGE we used raw counts - but for visualization and clustering it can be useful to use transformed count data
 # the two options are rlog (regularized logarithm) and vst (variance stabilizing transformations)
 # look at the PCA
-rld <- rlog(dds, blind=FALSE)
-head(assay(vsd), 3)
+rld <- rlog(dds, blind=FALSE) #?? why false and why rlog?
+head(assay(rld), 3)
 par(mfrow=c(1,1)); plotPCA(rld, intgroup="condition") 
 
 # look at the heatmap 

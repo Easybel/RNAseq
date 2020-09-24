@@ -64,8 +64,9 @@ res <- results(dds, alpha=0.05) # ?? I changed this to 0.05, right?
 summary(res)
 mcols(res)$description # what means what in the results??
 
+
 resOrdered <- res[order(res$padj),]
-resOrdered_Mat <- as.matrix(res_sort[,c(1:6)]) # convert data from res to matrix for later use
+resOrdered_Mat <- as.matrix(resOrdered[,c(1:6)]) # convert data from res to matrix for later use
 
 # write data to files
 write.table(resOrdered, "refctl_queriedAzi_results.csv", sep="\t")
@@ -82,7 +83,7 @@ par(mfrow=c(1,1)); plot(res$log2FoldChange,resLFC$log2FoldChange); title("What t
 # plot the 9 most extreme 
 par(mfrow=c(3,3))
 for (i in c(1:9)){
-plotCounts(dds, gene=rownames(resOrdered_Mat)[i], intgroup="condition")}
+  plotCounts(dds, gene=rownames(resOrdered_Mat)[i], intgroup="condition")}
 
 # Make a basic volcano plot
 par(mfrow=c(1,1)); with(resOrdered, plot(log2FoldChange, -log10(pvalue), pch=20, main="Volcano plot", xlim=c(-3,3)))

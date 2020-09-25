@@ -35,7 +35,7 @@ cd $TrimmFold
 java -Xmx30G -Xms24G -jar trimmomatic-0.36.jar PE -threads 8 -trimlog $myDataTrim/$ID.TrimLog \
 $myDataRaw/$ID"_1.fastq.gz" $myDataRaw/$ID"_2.fastq.gz" \
 $myDataTrim/$IDout"_1P".fastq $myDataTrim/$IDout"_1U".fastq $myDataTrim/$IDout"_2P".fastq $myDataTrim/$IDout"_2U".fastq \
-ILLUMINACLIP:$TrimmFold/adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ILLUMINACLIP:$TrimmFold/adapters/CCG_RNA_IlluminaAdapter.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 
 #FastQC_script_after.sh
 cd $FastQCFold

@@ -63,9 +63,9 @@ cd $samFold
 cd $featureCounts
 # change the output name depending on settings
 IDout2=$IDout"_O_minO20"
-./featureCounts -p -O --minOverlap 20 -t "CDS" -T 8 -F GTF -a $myDictPath/$dict".gft" $myDataPath/$IDout"_Aligned.out".sam \
+./featureCounts -p -O --minOverlap 20 -t "CDS" -T 8 -F GTF -a $myDictPath/$dict".gtf" $myDataPath/$IDout"_Aligned.out".sam \
 -o $myDataPath/$IDout2"_CDS_raw.count"
-./featureCounts -p -O --minOverlap 20 -t "exon" -T 8 -F GTF -a $myDictPath/$dict".gft" $myDataPath/$IDout"_Aligned.out".sam \
+./featureCounts -p -O --minOverlap 20 -t "exon" -T 8 -F GTF -a $myDictPath/$dict".gtf" $myDataPath/$IDout"_Aligned.out".sam \
 -o $myDataPath/$IDout2"_exon_raw.count"
 #done
 exit 0

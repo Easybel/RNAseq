@@ -21,8 +21,8 @@ myQCTrim="/projects/ag-advol/RNAseq/Trim/QC"
 FastQCFold="/home/irathman/sw/FastQC"
 TrimmFold="/home/irathman/sw/Trimmomatic-0.36"
 
-ID=$(ls -1 $myDataRaw | grep "_1.fastq.gz" | sed -n ''$i'p' | cut -d"_" -f1,2,3,4)
-IDout=$(echo $ID | cut -d"_" -f1,2)
+ID=$(ls -1 $myDataRaw | grep "_1.fastq.gz" | sed -n ''$i'p' | cut -d"_" -f1,2,3)
+IDout=$(echo $ID)
 
 #FastQC before
 cd $FastQCFold
@@ -30,6 +30,7 @@ cd $FastQCFold
 ./fastqc -o $myQCRaw/ $myDataRaw/$ID"_2.fastq.gz" -t 8
 
 #Trimm_Script.sh
+# as adapter lsit instead of TruSeq3-PE-2.fa (Illumina standart) use the one created with CCG information: CCG_RNA_IlluminaAdapter.fa
 cd $TrimmFold
 java -Xmx30G -Xms24G -jar trimmomatic-0.36.jar PE -threads 8 -trimlog $myDataTrim/$ID.TrimLog \
 $myDataRaw/$ID"_1.fastq.gz" $myDataRaw/$ID"_2.fastq.gz" \

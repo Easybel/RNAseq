@@ -13,10 +13,13 @@ setwd("/home/isabel/Dokumente/ExpEvol/Neisseria/Analysis/CDS/")
 #####################
 ## Ngo -- here the data is loaded and columns are added with sum, mean, median
 tab <- read.table("Ngo_CDS_Counts.csv", sep=" ", header = TRUE)
+geneInfo <- read.csv("/home/isabel/Dokumente/ExpEvol/Neisseria/dictionaries/MS11_ncbi_IR/FilterLists/MS11_GenesAndProducts_CDS.csv", sep=" ", header = FALSE)
+
 tab$sum <- apply(tab[,2:7],1, sum)
 tab$mean <- apply(tab[,2:7],1, mean)
 tab$med <- apply(tab[,2:7],1, median)
 tab$var <- apply(tab[,2:7],1, var)
+
 
 ######################### plots prior to analysis
 ## a plot is opened in which the log2 distributions are plotted
@@ -26,21 +29,21 @@ hist(log2(tab$med), ylab="Genes", xlab="log of median count, all conditions", ma
 hist(log2(tab$mean), ylab="Genes", xlab="log of mean count, all conditions", main="Distribution of counts")
 # a plot is opened in which the raw data distributions are plotted
 par(mfrow=c(1,3)) #combines plots, in 1 line and 3 columns
-hist(tab$sum, breaks=1000, xlim=c(0,1000),
+hist(tab$sum, breaks=1000, xlim=c(0,20000),
      ylab="Genes", xlab="log of sum count, all conditions", main="Distribution of counts")
-hist(tab$med, breaks=1000, xlim=c(0,1000),
+hist(tab$med, breaks=1000, xlim=c(0,20000),
      ylab="Genes", xlab="log of median count, all conditions", main="Distribution of counts")
-hist(tab$mean, breaks=1000, xlim=c(0,1000),
+hist(tab$mean, breaks=1000, xlim=c(0,20000),
      ylab="Genes", xlab="log of mean count, all conditions", main="Distribution of counts")
 
 ################## Handle the data
 # Pre-filter: Based on distributions the data is pre-filtered 
-tab_red <- tab[which(tab$med > 9 & (tab$sum > 15 | tab$sum < 10000)),] #?? is this necessary??
-
+#tab_red <- tab[which(tab$med > 9 & (tab$sum > 15 | tab$sum < 10000)),] #?? is this necessary??
+#geneInfo_red <- geneInfo[which(tab$med > 9 & (tab$sum > 15 | tab$sum < 10000)),] 
 # convert data in table to matrix
-mat <- as.matrix(tab_red[,c(2,3,4,5,6,7)]) #here we have information on row names
+mat <- as.matrix(tab[,c(2,3,4,5,6,7)]) #here we have information on row names
 head(mat)
-rownames(mat) <- tab_red[,1] # but with this function we can add the row names to the matrix
+rownames(mat) <- tab[,1] # but with this function we can add the row names to the matrix
 
 # give information on samples, conditions, batch
 conditions <- c(rep("ctl",3),rep("azi",3))
@@ -52,6 +55,8 @@ dds <- DESeqDataSetFromMatrix(countData = mat, colData = myColData, design =  ~ 
 ## be sure that you know your reference 
 dds$condition <- relevel(dds$condition, ref="ctl")
 
+
+boxplot(apply(tab[,2:7],2,mean) ~ conditions)
 ################### Run DESeq2 and get the results
 # run DESeq2: this wraps up the most important analysis steps
 dds <- DESeq(dds)
@@ -60,18 +65,20 @@ resLFC <- lfcShrink(dds, coef= "condition_azi_vs_ctl", type="apeglm") # other op
 
 # generate the results tables - this function already does independant filtering, alpha is the FDR cutoff (default would be 0.1)
 #?? or should I use independant hypothesis weighing? library("IHW"), resIHW <- results(dds, filterFun=ihw)
-res <- results(dds, alpha=0.05) # ?? I changed this to 0.05, right?
+res <- results(dds) # ?? I changed this to 0.05, right?
 summary(res)
 mcols(res)$description # what means what in the results??
-
-
 resOrdered <- res[order(res$padj),]
 resOrdered_Mat <- as.matrix(resOrdered[,c(1:6)]) # convert data from res to matrix for later use
 
+# sort and replace the 
+geneInfo_sort <- geneInfo[order(res$padj),]
+resOrdered_Mat_GN <- resOrdered_Mat 
+rownames(resOrdered_Mat_GN) <- geneInfo_sort[,4]
+
 # write data to files
 write.table(resOrdered, "refctl_queriedAzi_results.csv", sep="\t")
-strictCond <- resOrdered[which(res$padj <= 0.001 & res$baseMean > 10),]
-write.table(strictCond, "refctl_queriedazi_results_padj1e-3.csv", sep="\t")
+write.table(resOrdered_Mat_GN, "refctl_queriedAzi_results_GN.csv", sep="\t")
 
 ################## PLOT results
 # MA-plot: shows the log2 fold changes attributable to a given variable over the mean of normalized counts for all the samples in the DESeqDataSet

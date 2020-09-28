@@ -25,3 +25,7 @@ cd $StarFold
 ./STAR --runThreadN 8 --runMode genomeGenerate --genomeDir $myDictPath --genomeFastaFiles $myDictPath/$dict".fasta" \
 --genomeSAindexNbases 8
 #--sjdbGTFtagExonParentTranscript Parent --sjdbGTFfile $myDictPath/$ann".gff3" --sjdbOverhang 149 
+
+
+# convert gff3 to gtf with cufflinks
+# ./gffread -T input.gff -o output

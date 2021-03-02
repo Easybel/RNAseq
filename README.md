@@ -18,6 +18,7 @@
     - [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) benutzen, um die Qualität der Rohdaten zu checken.
     - [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) benutzen, um Adapter und zu kurze/ zu schlechte reads zu trimmen.
     - (check die Qualität nochmal - verbessert?)
+    - richtige Wahl der Adapter siehe adapter_Consideration.txt und CCG_RNA_IlluminaAdapter.fa 
  
 
 - **Reads mappen**

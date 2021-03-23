@@ -41,7 +41,7 @@ outPath = '/home/isabel/Dokumente/P5_ExpEvol_Ngo/RNA/2021Feb_Run2/2b_Results_DGE
 plotFigs = "ON";
     
 %% Run the function
-[collectExps] = CollectDGEData_fcn(sampleName,inPath,conditions,GONames) 
+[collectExps] = 6_CollectDGEData_fcn(sampleName,inPath,conditions,GONames) 
 
 
 %% collect the data of the genes that you are interested in

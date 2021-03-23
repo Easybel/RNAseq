@@ -1,4 +1,4 @@
-function [collectExps] = CollectDGEData_fcn(sampleName,inPath,conditions,GONames) 
+function [collectExps] = T_CollectDGEData_fcn(sampleName,inPath,conditions,GONames) 
 
 %%%%%%%%%%%%%%%%%%%%%%%%% Function to collect DGE data %%%%%%%%%%%%%%%%%%%
 %% What this function does %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

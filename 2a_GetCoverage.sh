@@ -12,7 +12,7 @@ i=$SLURM_ARRAY_TASK_ID
 
 #Define input and output paths
 #Make directories if necessary
-
+myDataTrim="/scratch/easy/NgoTrans_Run3/Trim"
 myDataPath="/scratch/easy/NgoTrans_Run3/Results"
 
 #Define folders where software is installed

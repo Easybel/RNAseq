@@ -6,15 +6,15 @@
 ... What we have to do
 
 
--**Fasta Referenz erzeugen**
-  - Zuerst brauchen wir eine DNA Referenz (fasta) des Organismus, dessen Transkriptom wir analysieren wollen. 
-    - die NCBI datenbank fasta fixen (SNPs ersetzen und vllt Gene reparieren)
-    - Für diese Referenz muss ein Index gemacht werden **0_DicIndex.sh**
-    - Liste der features, hier Gene, (für featureCounts: SAF), deren Coverage wir bestimmen wollen
+-**Preparing a fasta reference**
+  - First we need a DNA reference (fasta) of the organism that we are investigating. 
+    - we can optionally adjust the fasta to our lab strain (change SNPs, Indels)
+    - Create an index with the script: **0_DicIndex.sh**
+    - We need a list of features, (genes in this case), for which we count the reads that map to it
 
 - **Rohdaten bearbeiten**
-  - **fastq**: Daten sind im .fastq Format gegeben, da wir paired-end data haben immer mit forward _ 1 und reverse _ 2 run. Die Daten sind komprimiert und liegen als .fastq.gz vor.  
-  - Quality control und trimmen: **1_ QCScript.sh**
+  - **fastq**: Raw data is provided in the .fastq format, where we have paired-end reads (forward _1 & reverse _2), compressed in the .fastq.gz format.  
+  - First, run a Quality control und trimmen: **1_ QCScript.sh**
     - [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) benutzen, um die Qualität der Rohdaten zu checken.
     - [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) benutzen, um Adapter und zu kurze/ zu schlechte reads zu trimmen.
     - (check die Qualität nochmal - verbessert?)

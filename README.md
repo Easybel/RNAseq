@@ -10,7 +10,7 @@
   - First we need a DNA reference (fasta) of the organism that we are investigating. 
     - we can optionally adjust the fasta to our lab strain (change SNPs, Indels)
     - Create an index with the script: **0_DicIndex.sh**
-    - We need a list of features, (genes in this case), for which we count the reads that map to it
+    - We need a list of features, (genes in this case), for which we count the reads that map to it. In this case we have it in the gtf format
 
 - **Prepare the raw data**
   - **fastq**: Raw data is provided in the .fastq format, where we have paired-end reads (forward _1 & reverse _2), compressed in the .fastq.gz format.  
@@ -19,12 +19,13 @@
     - [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) trimms bad quality reads and removes adapters, that are specified by the company
        
 
-- **Reads mappen**
-  - Die getrimmten reads werden mit [Star](https://github.com/alexdobin/STAR) auf die Referenz gemappt
-  - mit featurecounts (subread) wird die Anzahl der reads bestimmt, die auf die feature entfallen
+- **Mapping the reads**
+  - The trimmed reads are mapped with [Star](https://github.com/alexdobin/STAR) against the fasta reference
+    - keep in mind that we have to decide what to do with multimapping reads!    
+  - with featurecounts (subread), we count the number of reads that map to a specific feature, specified for the reference in the gtf file
   
 - **Count quantification/ analysis**
-  - Was bedeuten die counts pro feature jetzt? --> das wird in R (matlab?) analysiert 
+  - Now perform 
   
   
 - **Other software**

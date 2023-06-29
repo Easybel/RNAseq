@@ -1,6 +1,6 @@
 # RNAseq
 
-![alt text](RNApipeline.png)
+![alt text](RNApipeline.pdf)
 
 
 ... What we have to do

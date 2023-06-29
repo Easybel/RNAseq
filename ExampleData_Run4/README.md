@@ -1,7 +1,6 @@
 # Run4 - Biofilm vs. planktonic strains 
 
-![](ExampleData_Overview.png | width=100)
-
+<img src="https://github.com/favicon.ico" width="48">
 
 -**Preparing a fasta reference**
   - XX

@@ -1,0 +1,59 @@
+Q5FA35	rho	GO:0071281	Transcription termination factor Rho	NCBITaxon:242231
+Q5FA17	NGO_0217	GO:0071281	Iron ABC transporter substrate-binding protein	NCBITaxon:242231
+Q5FA01	NGO_0233	GO:0071281	Opacity domain-containing protein	NCBITaxon:242231
+Q5F5G9	sstT	GO:0071281	Serine/threonine transporter SstT	NCBITaxon:242231
+Q5F5D9	obg	GO:0003924	GTPase Obg	NCBITaxon:242231
+Q5F5D9	obg	GO:0005525	GTPase Obg	NCBITaxon:242231
+Q5F5D9	obg	GO:0005737	GTPase Obg	NCBITaxon:242231
+Q5F5D9	obg	GO:0019003	GTPase Obg	NCBITaxon:242231
+Q5F5D9	obg	GO:0043022	GTPase Obg	NCBITaxon:242231
+Q5F9F9	panB	GO:0071281	3-methyl-2-oxobutanoate hydroxymethyltransferase	NCBITaxon:242231
+Q5F8W9	NGO_0641	GO:0071281	Site-specific DNA-methyltransferase (adenine-specific)	NCBITaxon:242231
+Q5F961	NGO_0542	GO:0000976	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F961	NGO_0542	GO:0001216	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F961	NGO_0542	GO:0001217	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F961	NGO_0542	GO:0032993	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F924	priB	GO:0001671	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0003690	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0003697	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0003697	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0005515	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0005515	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0032781	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0042803	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0051096	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:0051117	Primosomal replication protein N	NCBITaxon:242231
+Q5F924	priB	GO:1990099	Primosomal replication protein N	NCBITaxon:242231
+Q5F8H9	NGO_0794	GO:0071281	Bacterioferritin	NCBITaxon:242231
+Q5F885	NGO_0904	GO:0071281	Oxidoreductase	NCBITaxon:242231
+Q5F7W3	recX	GO:0032780	Regulatory protein RecX	NCBITaxon:242231
+Q5F7W3	recX	GO:0032780	Regulatory protein RecX	NCBITaxon:242231
+Q5F882	fitB	GO:0005515	Toxin FitB	NCBITaxon:242231
+Q5F882	fitB	GO:0044001	Toxin FitB	NCBITaxon:242231
+Q5F881	fitA	GO:0005515	Antitoxin FitA	NCBITaxon:242231
+Q5F881	fitA	GO:0042803	Antitoxin FitA	NCBITaxon:242231
+Q5F881	fitA	GO:0043565	Antitoxin FitA	NCBITaxon:242231
+Q5F881	fitA	GO:0044001	Antitoxin FitA	NCBITaxon:242231
+Q5F7H1	uvrA	GO:0071281	UvrABC system protein A	NCBITaxon:242231
+Q5F6V8	priA	GO:0005515	Primosomal protein N'	NCBITaxon:242231
+Q5F6V8	priA	GO:0005515	Primosomal protein N'	NCBITaxon:242231
+Q5F5Y9	fur	GO:0000976	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0000976	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0000976	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0001216	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0001216	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0001216	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0001217	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0032993	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0032993	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0032993	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0032993	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0043565	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0045892	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0045893	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0045893	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5Y9	fur	GO:0045893	Ferric uptake regulation protein	NCBITaxon:242231
+Q5F5R5	rpoB	GO:0071281	DNA-directed RNA polymerase subunit beta	NCBITaxon:242231
+Q5F628	NGO_1738	GO:0071281	NADH:ubiquinone oxidoreductase subunit M	NCBITaxon:242231
+Q5F615	nuoA	GO:0071281	NADH-quinone oxidoreductase subunit A	NCBITaxon:242231
+Q5F769	NGO_1317	GO:0071281	DDE_Tnp_IS1595 domain-containing protein	NCBITaxon:242231

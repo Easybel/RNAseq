@@ -1,0 +1,60 @@
+UniProtKB	Q5FA35	rho		GO:0071281	PMID:22287521	EXP		P	Transcription termination factor Rho	NGO_0199	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5FA17	NGO_0217		GO:0071281	PMID:8759870	EXP		P	Iron ABC transporter substrate-binding protein		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5FA01	NGO_0233		GO:0071281	PMID:22287521	EXP		P	Opacity domain-containing protein		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5G9	sstT		GO:0071281	PMID:24811061	EXP		P	Serine/threonine transporter SstT	NGO1957	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5D9	obg		GO:0003924	PMID:26122105	IDA		F	GTPase Obg	NGO1990	protein	NCBITaxon:242231	20150728	UniProt		
+UniProtKB	Q5F5D9	obg		GO:0005525	PMID:26122105	IDA		F	GTPase Obg	NGO1990	protein	NCBITaxon:242231	20150728	UniProt		
+UniProtKB	Q5F5D9	obg		GO:0005737	PMID:26122105	IDA		C	GTPase Obg	NGO1990	protein	NCBITaxon:242231	20150728	UniProt		
+UniProtKB	Q5F5D9	obg		GO:0019003	PMID:26122105	IDA		F	GTPase Obg	NGO1990	protein	NCBITaxon:242231	20150728	UniProt		
+UniProtKB	Q5F5D9	obg		GO:0043022	PMID:26122105	IDA		F	GTPase Obg	NGO1990	protein	NCBITaxon:242231	20150728	UniProt		
+UniProtKB	Q5F9F9	panB		GO:0071281	PMID:24811061	EXP		P	3-methyl-2-oxobutanoate hydroxymethyltransferase	NGO0436	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F8W9	NGO_0641		GO:0071281	PMID:24811061	EXP		P	Site-specific DNA-methyltransferase (adenine-specific)		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F961	NGO_0542		GO:0000976	PMID:19854902	IEP		F	Ferric uptake regulation protein		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F961	NGO_0542		GO:0001216	PMID:19854902	IEP		F	Ferric uptake regulation protein		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F961	NGO_0542		GO:0001217	PMID:19854902	IEP		F	Ferric uptake regulation protein		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F961	NGO_0542		GO:0032993	PMID:19854902	IEP		C	Ferric uptake regulation protein		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F924	priB		GO:0001671	PMID:21861872	IDA		F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0003690	PMID:21861872	IDA		F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0003697	PMID:19906704	IDA		F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0003697	PMID:21861872	IDA		F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0005515	PMID:19906704	IPI	UniProtKB:Q5F6V8	F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0005515	PMID:21861872	IPI	UniProtKB:Q5F6V8	F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0032781	PMID:21861872	IDA		P	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0042803	PMID:19906704	IDA		F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0051096	PMID:21861872	IDA		P	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:0051117	PMID:21861872	IPI	UniProtKB:Q5F6V8	F	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F924	priB		GO:1990099	GO_REF:0000024	ISS	UniProtKB:P07013	C	Primosomal replication protein N	NGO_0582	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F8H9	NGO_0794		GO:0071281	PMID:22287521	EXP		P	Bacterioferritin		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F885	NGO_0904		GO:0071281	PMID:22287521	EXP		P	Oxidoreductase		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F7W3	recX		GO:0032780	PMID:20851893	IDA		P	Regulatory protein RecX	NGO1053	protein	NCBITaxon:242231	20131104	CACAO		
+UniProtKB	Q5F7W3	recX		GO:0032780	PMID:20851893	IMP		P	Regulatory protein RecX	NGO1053	protein	NCBITaxon:242231	20131104	CACAO		
+UniProtKB	Q5F882	fitB		GO:0005515	PMID:16982615	IPI	UniProtKB:Q5F881	F	Toxin FitB	vapC|NGO0907	protein	NCBITaxon:242231	20110321	UniProt		
+UniProtKB	Q5F882	fitB		GO:0044001	PMID:10639460	IMP		P	Toxin FitB	vapC|NGO0907	protein	NCBITaxon:242231	20110321	UniProt		
+UniProtKB	Q5F881	fitA		GO:0005515	PMID:16982615	IPI	UniProtKB:Q5F882	F	Antitoxin FitA	vapB|NGO0908	protein	NCBITaxon:242231	20110321	UniProt		
+UniProtKB	Q5F881	fitA		GO:0042803	PMID:16156663	IDA		F	Antitoxin FitA	vapB|NGO0908	protein	NCBITaxon:242231	20110321	UniProt		
+UniProtKB	Q5F881	fitA		GO:0043565	PMID:16156663	IDA		F	Antitoxin FitA	vapB|NGO0908	protein	NCBITaxon:242231	20110321	UniProt		
+UniProtKB	Q5F881	fitA		GO:0044001	PMID:10639460	IMP		P	Antitoxin FitA	vapB|NGO0908	protein	NCBITaxon:242231	20110321	UniProt		
+UniProtKB	Q5F7H1	uvrA		GO:0071281	PMID:22287521	EXP		P	UvrABC system protein A	NGO_1207	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F6V8	priA		GO:0005515	PMID:19906704	IPI	UniProtKB:Q5F924	F	Primosomal protein N'	NGO_1437	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F6V8	priA		GO:0005515	PMID:21861872	IPI	UniProtKB:Q5F924	F	Primosomal protein N'	NGO_1437	protein	NCBITaxon:242231	20160624	UniProt		
+UniProtKB	Q5F5Y9	fur		GO:0000976	PMID:22287521	IPI	RefSeq:NC_002946.2	F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0000976	PMID:24811061	EXP		F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0000976	PMID:8759870	IPI	RefSeq:NC_002946.2	F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0001216	PMID:22287521	IPI	RefSeq:NC_002946.2	F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0001216	PMID:24811061	EXP		F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0001216	PMID:8759870	IPI	RefSeq:NC_002946.2	F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0001217	PMID:24811061	EXP		F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0032993	PMID:12081969	IMP		C	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0032993	PMID:22287521	IPI	RefSeq:NC_002946.2	C	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0032993	PMID:24811061	EXP		C	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0032993	PMID:8759870	IPI	RefSeq:NC_002946.2	C	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0043565	PMID:12081969	IMP		F	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0045892	PMID:24811061	EXP		P	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0045893	PMID:22287521	EXP		P	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0045893	PMID:24811061	EXP		P	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5Y9	fur		GO:0045893	PMID:8759870	EXP		P	Ferric uptake regulation protein	NGO_1779	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F5R5	rpoB		GO:0071281	PMID:22287521	EXP		P	DNA-directed RNA polymerase subunit beta	NGO1851	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F628	NGO_1738		GO:0071281	PMID:24811061	EXP		P	NADH:ubiquinone oxidoreductase subunit M		protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F615	nuoA		GO:0071281	PMID:22287521	EXP		P	NADH-quinone oxidoreductase subunit A	NGO_1751	protein	NCBITaxon:242231	20170328	CollecTF		
+UniProtKB	Q5F769	NGO_1317		GO:0071281	PMID:22287521	EXP		P	DDE_Tnp_IS1595 domain-containing protein		protein	NCBITaxon:242231	20170328	CollecTF		
+

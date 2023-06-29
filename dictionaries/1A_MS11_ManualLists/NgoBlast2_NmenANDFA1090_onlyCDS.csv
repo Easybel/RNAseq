@@ -1,0 +1,2079 @@
+locustag_in_Ngo	GN_in_Ngo	type_in_Ngo	product_in_Ngo	locustag_in_Nmen	GN_in_Nmen	locustag_in_FA1090	GN_in_FA1090
+NGFG_00137	dnaA	gene	chromosomal replication initiator protein dnaA	NMB1903	dnaA	NGO_0001	dnaA
+NGFG_00138		gene	DNA polymerase III%2C beta subunit	NMB1902		NGO_0002	
+NGFG_00139		gene	polyphosphate kinase	NMB1900	ppk1	NGO_0003	ppk1
+NGFG_00140		gene	hypothetical protein	NMB1899		NGO_0004	
+NGFG_00143		gene	leucyl-tRNA synthetase	NMB1897		NGO_0006	
+NGFG_00147		gene	hypothetical protein			NGO_0009	
+NGFG_00149		gene	transcriptional regulator	NMB1891		NGO_0011	
+NGFG_00152		gene	preprotein translocase%2C SecG subunit	NMB1888	secG	NGO_0016	secG
+NGFG_00153		gene	triosephosphate isomerase	NMB1887		NGO_0017	
+NGFG_00154		gene	GAF protein	NMB1886		NGO_0018	
+NGFG_00155		gene	protein-L-isoaspartate O-methyltransferase	NMB1885		NGO_0019	
+NGFG_00156		gene	thiosulfate sulfurtransferase	NMB1884		NGO_0020	
+NGFG_00157		gene	TonB-dependent siderophore receptor	NMB1882		NGO_0021	
+NGFG_00158		gene	hypothetical protein	NMB1881		NGO_0022	
+NGFG_00159		gene	iron chelate ABC transporter%2C periplasmic iron chelate-binding protein	NMB1880		NGO_0023	
+NGFG_00160		gene	AraC family transcriptional regulator	NMB1878		NGO_0025	
+NGFG_00161		gene	prolyl oligopeptidase	NMB1877		NGO_0026	
+NGFG_00162		gene	amino-acid acetyltransferase	NMB1876	argA	NGO_0027	argA
+NGFG_00163		gene	hypothetical protein	NMB1875		NGO_0028	
+NGFG_00164		gene	orotate phosphoribosyltransferase	NMB1874	pyrE	NGO_0029	pyrE
+NGFG_00165		gene	uracil-DNA glycosylase%2C family 4	NMB1873		NGO_0030	
+NGFG_00166		gene	ribosomal-protein-alanine acetyltransferase	NMB1872	rimI	NGO_0031	rimI
+NGFG_00167		gene	glycoprotease	NMB1871	tsaB	NGO_0032	tsaB
+NGFG_00169		gene	fructose-bisphosphate aldolase	NMB1869		NGO_0034	
+NGFG_00170	xerC	gene	tyrosine recombinase xerC	NMB1868	xerC	NGO_0035	xerC
+NGFG_00171		gene	1-deoxy-D-xylulose-5-phosphate synthase	NMB1867	dxs	NGO_0036	dxs
+NGFG_00172	miaB	gene	(Dimethylallyl)adenosine tRNA methylthiotransferase miaB	NMB1866	miaB	NGO_0037	miaB
+NGFG_02254		gene	hypothetical protein				
+NGFG_02255		gene	hypothetical protein				
+NGFG_00174		gene	glutamate-1-semialdehyde 2%2C1-aminomutase	NMB1864	hemL	NGO_0040	hemL
+NGFG_00175		gene	oligoribonuclease	NMB1863	orn	NGO_0042	orn
+NGFG_00176		gene	ribosomal protein L11 methyltransferase	NMB1862	prmA	NGO_0043	prmA
+NGFG_00177		gene	biotin carboxylase	NMB1861	accC	NGO_0044	accC
+NGFG_00178		gene	acetyl-CoA carboxylase%2C biotin carboxyl carrier protein	NMB1860		NGO_0045	
+NGFG_00180		gene	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	NMB1859	queA	NGO_0047	queA
+NGFG_00181		gene	carbamoyl-phosphate synthase large chain	NMB1855	carB	NGO_0048	carB
+NGFG_00182		gene	hypothetical protein				
+NGFG_00183		gene	hypothetical protein				
+NGFG_00184		gene	DNA (Cytosine-5-)-methyltransferase	NMB1852		NGO_0050	
+NGFG_00186		gene	glyoxalase			NGO_0050a	
+NGFG_00187		gene	carbamoyl-phosphate synthase small chain	NMB1849	carA	NGO_0053	carA
+NGFG_02257		gene	hypothetical protein				
+NGFG_00189		gene	chromosome partitioning ATPase	NMB1846	apbC	NGO_0056	apbC
+NGFG_00190		gene	thioredoxin	NMB1845		NGO_0057	
+NGFG_00192	hpaR	gene	homoprotocatechuate degradation operon regulator%2C HpaR	NMB1843	nadR	NGO_0058	nadR
+NGFG_00193		gene	4-hydroxyphenylacetate 3-monooxygenase%2C reductase component	NMB1842	hpaC	NGO_0059	hpaC
+NGFG_00194		gene	sugar-phosphate transferase	NMB1841		NGO_0060	
+NGFG_00195		gene	membrane protein	NMB1840		NGO_0060a	
+NGFG_00196		gene	formate-tetrahydrofolate ligase	NMB1839		NGO_0062	
+NGFG_00197	ychF	gene	GTP-binding protein YchF	NMB1838	ychF	NGO_0063	ychF
+NGFG_00199	wbpC	gene	lipopolysaccharide biosynthesis protein WbpC	NMB1836		NGO_0065	
+NGFG_00200		gene	tyrosyl-tRNA synthetase	NMB1835	tyrS	NGO_0066	tyrS
+NGFG_02258		gene	opacity protein	NMB1636		NGO_0950a	
+NGFG_00203	ribF	gene	riboflavin biosynthesis protein RibF	NMB1834	ribF	NGO_0068	ribF
+NGFG_00204		gene	isoleucyl-tRNA synthetase	NMB1833	ileS	NGO_0069	ileS
+NGFG_02259		gene	opacity protein	NMB1636		NGO_1073a	
+NGFG_00207		gene	lipoprotein signal peptidase	NMB1832		NGO_0071	lspA
+NGFG_00208		gene	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	NMB1831	ispH	NGO_0072	ispH
+NGFG_02260		gene	transposase			NGO_0072a	
+NGFG_00209		gene	phosphoglycolate phosphatase	NMB1830		NGO_0073	
+NGFG_00214		gene	DNA polymerase III subunit alpha	NMB1827	dnaE	NGO_0078	dnaE
+NGFG_00217		gene	ribosome-associated protein	NMB1826		NGO_0079	
+NGFG_00218		gene	hypothetical protein	NMB1825		NGO_0080	
+NGFG_00219		gene	PHP domain protein	NMB1824		NGO_0081	
+NGFG_00220		gene	valine-pyruvate aminotransferase	NMB1823		NGO_0082	
+NGFG_00221	pglD	gene	pilin glycosylation protein PglD	NMB1822	pglD	NGO_0083	
+NGFG_00222	pglC	gene	pilin glycosylation protein PglC	NMB1821		NGO_0084	
+NGFG_00223	pglB	gene	pilin glycosylation protein PglB	NMB1820		NGO_0085	
+NGFG_00224		gene	lipopolysaccharide biosynthesis translocase	NMB1818		NGO_0088	
+NGFG_00225	ribD	gene	riboflavin biosynthesis protein RibD	NMB1817	ribD	NGO_0089	ribD
+NGFG_00226	nrdR	gene	transcriptional repressor NrdR	NMB1816	nrdR	NGO_0090	nrdR
+NGFG_00227		gene	glutamine amidotransferase	NMB1815		NGO_0091	
+NGFG_00230		gene	3-dehydroquinate synthase	NMB1814	aroB	NGO_0092	aroB
+NGFG_00231		gene	shikimate kinase	NMB1813		NGO_0093	
+NGFG_00232	pilQ	gene	type IV pilus biogenesis and competence protein pilQ	NMB1812	pilQ	NGO_0094	pilQ
+NGFG_00233	pilP	gene	type IV pilus assembly protein PilP	NMB1811	pilP	NGO_0095	pilP
+NGFG_00234	pilO	gene	type IV pilus assembly protein PilO	NMB1810	pilO	NGO_0096	pilO
+NGFG_00235	pilN	gene	type IV pilus assembly protein PilN	NMB1809		NGO_0097	
+NGFG_00236	pilM	gene	type IV pilus assembly protein PilM	NMB1808	pilM	NGO_0098	pilM
+NGFG_00237		gene	penicillin-binding protein 1A	NMB1807		NGO_0099	
+NGFG_00238	ysxC	gene	ribosome biogenesis GTP-binding protein YsxC	NMB1806		NGO_0100	
+NGFG_00239		gene	cytochrome c	NMB1805		NGO_0101	
+NGFG_00240		gene	cytochrome c biogenesis protein	NMB1804		NGO_0102	
+NGFG_00241	ccsB	gene	cytochrome c-type biogenesis protein CcsB	NMB1803	ccsB	NGO_0103	ccsB
+NGFG_00242		gene	glycoprotease/Kae1 family metallohydrolase	NMB1802	tsaD	NGO_0104	tsaD
+NGFG_00243		gene	lipid A biosynthesis lauroyl acyltransferase	NMB1801		NGO_0105	
+NGFG_00245		gene	S-adenosylmethionine synthase	NMB1799		NGO_0106	
+NGFG_00246		gene	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase	NMB1797	dacB	NGO_0107	dacB
+NGFG_00247		gene	oxidoreductase	NMB1796		NGO_0108	
+NGFG_00249		gene	citrate transporter	NMB1794		NGO_0110	
+NGFG_00250		gene	two-component system%2C OmpR family%2C response regulator			NGO_0110a	
+NGFG_00251	qseC	gene	two-component system%2C OmpR family%2C sensor kinase QseC			NGO_0112	
+NGFG_00252		gene	cytoplasmic axial filament protein	NMB1791	rng	NGO_0113	rng
+NGFG_00253		gene	glutaredoxin	NMB1790	grxC	NGO_0114	grxC
+NGFG_00254	secB	gene	protein-export protein secB	NMB1789	secB	NGO_0116	secB
+NGFG_00255	recG	gene	ATP-dependent DNA helicase RecG	NMB1788	recG	NGO_0117	recG
+NGFG_00256		gene	N-acetyl-gamma-glutamyl-phosphate reductase	NMB1787		NGO_0118	
+NGFG_00257		gene	hypothetical protein			NGO_0119	
+NGFG_00259		gene	Cupin family protein	NMB1786		NGO_0121	
+NGFG_00260		gene	hypothetical protein	NMB1785		NGO_00655	
+NGFG_00262		gene	Colicin V secretion protein			NGO_0123	
+NGFG_00263		gene	hypothetical protein			NGO_0124	
+NGFG_00264		gene	hypothetical protein			NGO_0125	
+NGFG_00266	brkB	gene	virulence factor BrkB	NMB0524		NGO_0127	
+NGFG_02262		gene	Trp repressor binding protein				
+NGFG_00267	queC	gene	queuosine biosynthesis protein QueC	NMB0525	queC	NGO_0129	queC
+NGFG_00268		gene	hypothetical protein	NMB0526		NGO_0130	
+NGFG_00269	queD	gene	queuosine biosynthesis protein QueD	NMB0527	queD	NGO_0131	queD
+NGFG_00270		gene	membrane protein	NMB0528		NGO_00715	
+NGFG_00271		gene	hypothetical protein	NMB0529	queE	NGO_0132	queE
+NGFG_00272		gene	beta-N-acetylhexosaminidase	NMB0530	nagZ	NGO_0135	nagZ
+NGFG_00273		gene	Na+:H+ antiporter	NMB0531		NGO_0136	
+NGFG_00275		gene	peptidase Do	NMB0532		NGO_0138	
+NGFG_00276		gene	endonuclease III	NMB0533	nth	NGO_0139	nth
+NGFG_00277		gene	membrane protein	NMB0534		NGO_0140	
+NGFG_02263		gene	glucose/galactose transporter warning	NMB0535		NGO_0142	
+NGFG_00281	nhaC	gene	Na+/H+ antiporter NhaC	NMB0536	nhaC	NGO_0143	nhaC
+NGFG_00282		gene	magnesium and cobalt transporter	NMB0537		NGO_0144	
+NGFG_00283		gene	rRNA maturation factor	NMB0538	ybeY	NGO_0145	ybeY
+NGFG_00284		gene	porphobilinogen deaminase	NMB0539	hemC	NGO_0146	hemC
+NGFG_02264		gene	hypothetical protein				
+NGFG_02265		gene	hypothetical protein	NMB1736		NGO_00200	
+NGFG_00286		gene	FAD-binding protein			NGO_0147	
+NGFG_00287		gene	ATP-dependent RNA helicase	NMB1422		NGO_0149	
+NGFG_00289		gene	tRNA-dihydrouridine synthase B	NMB1421	dusB	NGO_0151	dusB
+NGFG_00291		gene	fis family transcriptional regulator%2C factor for inversion stimulation protein	NMB1420		NGO_0152	
+NGFG_00292	ruvC	gene	crossover junction endodeoxyribonuclease ruvC	NMB1419	ruvC	NGO_0153	ruvC
+NGFG_00293		gene	lipid A biosynthesis lauroyl acyltransferase	NMB1418		NGO_0154	
+NGFG_00295		gene	hypothetical protein	NMB1417		NGO_0156	
+NGFG_00297		gene	aminopeptidase N	NMB1416	pepN	NGO_0158	pepN
+NGFG_02266		gene	transposase	NMB1411		NGO_0528	
+NGFG_00300		gene	hypothetical protein				
+NGFG_00301		gene	hypothetical protein	NMB0859		NGO_0163	
+NGFG_00302		gene	hypothetical protein	NMB0860		NGO_0164	
+NGFG_00303		gene	hypothetical protein	NMB0861		NGO_0165	
+NGFG_00304		gene	hypothetical protein	NMB0866		NGO_0166	
+NGFG_00305		gene	zinc/manganese ABC transporter substrate-binding protein	NMB0586		NGO_0168	
+NGFG_00306		gene	zinc/manganese ABC transporter permease	NMB0587		NGO_0169	
+NGFG_00307		gene	zinc/manganese ABC transporter ATP-binding protein	NMB0588		NGO_0170	
+NGFG_00308		gene	50S ribosomal protein L19	NMB0589	rplS	NGO_0171	rplS
+NGFG_00309		gene	tRNA (guanine-N(1)-)-methyltransferase	NMB0590	trmD	NGO_0172	trmD
+NGFG_00310	rimM	gene	ribosome maturation factor rimM	NMB0591	rimM	NGO_0173	rimM
+NGFG_00311		gene	30S ribosomal protein S16	NMB0592	rpsP	NGO_0174	rpsP
+NGFG_00313		gene	two-component system%2C OmpR family%2C sensor kinase	NMB0594		NGO_0176	
+NGFG_00314		gene	two-component system%2C OmpR family%2C response regulator	NMB0595		NGO_0177	
+NGFG_00316		gene	O-antigen polymerase	NMB0596		NGO_0178	
+NGFG_00317		gene	hypothetical protein	NMB0597		NGO_0179	
+NGFG_00318	maf	gene	septum formation protein Maf	NMB0598	maf	NGO_0180	maf
+NGFG_00319	tatC	gene	twin arginine-targeting protein translocase TatC	NMB0599	tatC	NGO_0181	tatC
+NGFG_00320	tatB	gene	twin arginine-targeting protein translocase TatB	NMB0600	tatB	NGO_0182	tatB
+NGFG_00321		gene	TatA/E family twin arginine-targeting protein translocase	NMB0601	tatA	NGO_0183	tatA
+NGFG_00322		gene	purine nucleoside phosphoramidase	NMB0602		NGO_0184	
+NGFG_00323		gene	phosphoribosyl-ATP pyrophosphatase	NMB0603		NGO_0185	
+NGFG_00324		gene	zinc-binding alcohol dehydrogenase	NMB0604		NGO_0186	
+NGFG_02267		gene	transposase			NGO_0590a	
+NGFG_00325		gene	Histone deacetylase family protein	NMB0605		NGO_0187	
+NGFG_00326		gene	preprotein translocase%2C YajC subunit	NMB0606	yajC	NGO_0188	yajC
+NGFG_00327	secD	gene	protein-export membrane protein SecD	NMB0607	secD	NGO_0189	secD
+NGFG_00328	secF	gene	protein-export membrane protein SecF	NMB0608	secF	NGO_0190	secF
+NGFG_00329		gene	30S ribosomal protein S15	NMB0609	rpsO	NGO_0191	rpsO
+NGFG_00330		gene	polyamine ABC transporter%2C ATP-binding protein	NMB0610	potA	NGO_0192	potA
+NGFG_02268		gene	hypothetical protein			NGO_01035	
+NGFG_00331		gene	putrescine ABC transporter permease	NMB0611		NGO_0195	
+NGFG_00332		gene	putrescine ABC transporter permease	NMB0612		NGO_0196	
+NGFG_00333		gene	oxidoreductase	NMB0614		NGO_0197	
+NGFG_00334		gene	ammonium transporter	NMB0615		NGO_0198	
+NGFG_00335	rho	gene	transcription termination factor Rho	NMB0617	rho	NGO_0199	rho
+NGFG_00336		gene	phosphoenolpyruvate synthase	NMB0618	ppsA	NGO_0200	ppsA
+NGFG_02269		gene	transposase	NMB1411		NGO_1211	
+NGFG_00337		gene	hypothetical protein	NMB0619		NGO_0202	
+NGFG_00338		gene	phosphoglycolate phosphatase%2C bacterial	NMB0620		NGO_0203	
+NGFG_00339		gene	hypothetical protein	NMB0621		NGO_0204	
+NGFG_00340		gene	outer-membrane lipoprotein carrier protein	NMB0622	lolA	NGO_0205	lolA
+NGFG_00341		gene	putrescine ABC transporter substrate-binding protein	NMB0623		NGO_0206	
+NGFG_00343		gene	hypothetical protein	NMB0625		NGO_0208	
+NGFG_00345		gene	peptide chain release factor 3	NMB0626		NGO_0209	
+NGFG_00346		gene	phosphoribosyl-AMP cyclohydrolase	NMB0627	hisI	NGO_0210	hisI
+NGFG_00347	hisF	gene	imidazole glycerol phosphate synthase subunit hisF	NMB0628	hisF	NGO_0211	hisF
+NGFG_00348		gene	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	NMB0629	hisA	NGO_0212	hisA
+NGFG_00349	hisH	gene	imidazole glycerol phosphate synthase subunit hisH	NMB0630	hisH	NGO_0213	hisH
+NGFG_00350		gene	phosphate acetyltransferase	NMB0631	pta	NGO_0214	pta
+NGFG_00351	fbpC	gene	Fe(3+) ions import ATP-binding protein FbpC	NMB0632	fbpC	NGO_0215	fbpC
+NGFG_00352		gene	Fe(3+)-transport system permease fbpB 2	NMB0633	fbpB	NGO_0216	fbpB
+NGFG_00353		gene	major ferric iron-binding protein	NMB0634	fbpA	NGO_0217	fbpA
+NGFG_00355		gene	hypothetical protein	NMB0636		NGO_0218	
+NGFG_00356		gene	argininosuccinate lyase	NMB0637	argH	NGO_0219	argH
+NGFG_00357		gene	UTP-glucose-1-phosphate uridylyltransferase	NMB0638	galU	NGO_0220	galU
+NGFG_00358		gene	nucleoside-triphosphatase	NMB0639	rdgB	NGO_0221	rdgB
+NGFG_00359		gene	hypothetical protein	NMB0640		NGO_0222	
+NGFG_00360		gene	inorganic pyrophosphatase	NMB0641		NGO_0223	
+NGFG_00361		gene	dATP pyrophosphohydrolase	NMB0642	nudB	NGO_0224	nudB
+NGFG_00362		gene	MafB family adhesin protein	NMB0643	mafB	NGO_0225	mafB
+NGFG_00363		gene	hypothetical protein	NMB0648		NGO_0226	
+NGFG_02270		gene	hypothetical protein				
+NGFG_00364		gene	hypothetical protein				
+NGFG_00366		gene	hypothetical protein	NMB0651		NGO_0229	
+NGFG_02271		gene	TrkH family potassium uptake protein	NMB0661	trk	NGO_0230	trk
+NGFG_02272		gene	Bis(5'-nucleosyl)-tetraphosphatase			NGO_0231	
+NGFG_00368		gene	endoribonuclease L-PSP	NMB0662		NGO_0232	
+NGFG_00369		gene	opacity protein	NMB0663	nspA	NGO_0233	nspA
+NGFG_00371		gene	oxygen-independent coproporphyrinogen III oxidase	NMB0665		NGO_0234	
+NGFG_00372		gene	DNA ligase	NMB0666	ligA	NGO_0235	ligA
+NGFG_00373		gene	hypothetical protein	NMB0667	zipA	NGO_0236	zipA
+NGFG_00374	ampD	gene	N-acetyl-anhydromuranmyl-L-alanine amidase AmpD	NMB0668	ampD	NGO_0237	ampD
+NGFG_00375		gene	aminodeoxychorismate lyase	NMB0669	mltG	NGO_0238	mltG
+NGFG_00376		gene	thymidylate kinase	NMB0670		NGO_0239	
+NGFG_00377		gene	malate dehydrogenase	NMB0671		NGO_0240	
+NGFG_00378		gene	hypothetical protein			NGO_0241	
+NGFG_00379		gene	tetraacyldisaccharide 4'-kinase	NMB0672		NGO_0242	
+NGFG_02273		gene	hypothetical protein	NMB0673		NGO_0243	
+NGFG_00381		gene	3-deoxy-manno-octulosonate cytidylyltransferase	NMB0675	kdsB	NGO_0245	kdsB
+NGFG_02274		gene	hypothetical protein	NMB0676		NGO_0246	
+NGFG_00383		gene	hypothetical protein			NGO_0247	
+NGFG_00384		gene	tryptophan synthase alpha chain	NMB0678		NGO_0248	
+NGFG_00385		gene	acetyl-CoA carboxylase%2C carboxyl transferase%2C beta subunit	NMB0679		NGO_0249	
+NGFG_00386		gene	hypothetical protein	NMB0680	cnp1	NGO_0250	
+NGFG_00387		gene	UPF0033 protein	NMB0681		NGO_0250a	
+NGFG_02275		gene	lipoprotein			NGO_0252	
+NGFG_02276		gene	hypothetical protein			NGO_0040a	
+NGFG_02277		gene	hypothetical protein				
+NGFG_00390		gene	dihydroorotase	NMB0682	pyrC	NGO_0255	pyrC
+NGFG_00391	nusB	gene	transcription antitermination factor NusB	NMB0683	nusB	NGO_0256	nusB
+NGFG_00392		gene	6%2C7-dimethyl-8-ribityllumazine synthase	NMB0684		NGO_0257	
+NGFG_00393		gene	hypothetical protein	NMB0685		NGO_0258	
+NGFG_02278		gene	ribonuclease 3	NMB0686	rnc	NGO_0259	rnc
+NGFG_00396	era	gene	GTPase Era	NMB0687	era	NGO_0260	era
+NGFG_02279		gene	hypothetical protein				
+NGFG_00398		gene	lactoferrin binding protein B	NMB1541	lbpB		
+NGFG_00400		gene	lactoferrin-binding protein A	NMB1540	lbpA	NGO_0260a	
+NGFG_00401		gene	N-(5'-phosphoribosyl)anthranilate isomerase	NMB0688		NGO_0261	
+NGFG_00402	greB	gene	transcription elongation factor greB	NMB0689	greB	NGO_0262	greB
+NGFG_00403		gene	amidophosphoribosyltransferase	NMB0690	purF	NGO_0263	purF
+NGFG_00405		gene	colicin V production membrane protein	NMB0691		NGO_0264	
+NGFG_00406	ftsN	gene	cell division protein FtsN	NMB0692	ftsN	NGO_0265	ftsN
+NGFG_00407		gene	FolC protein	NMB0693	folC	NGO_0266	folC
+NGFG_00408	folI	gene	transcriptional regulator FolI	NMB0694	folI	NGO_0267	
+NGFG_00409		gene	hypothetical protein	NMB0695		NGO_0268	
+NGFG_00410		gene	polar amino acid ABC transporter ATP-binding protein	NMB0696		NGO_0269	
+NGFG_00411		gene	hypothetical protein			NGO_0270	
+NGFG_00412		gene	hypothetical protein			NGO_0271	
+NGFG_00413		gene	ribosomal RNA small subunit methyltransferase A	NMB0697	rsmA	NGO_0272	rsmA
+NGFG_00414		gene	hypothetical protein	NMB0698		NGO_272a	
+NGFG_00415		gene	tryptophan synthase beta chain	NMB0699	trpB	NGO_0274	trpB
+NGFG_00416		gene	IgA-specific serine endopeptidase autotransporter			NGO_0275	
+NGFG_00417	comA	gene	competence protein ComA	NMB0702		NGO_0276	
+NGFG_00418	comL	gene	competence lipoprotein ComL	NMB0703	bamD	NGO_0277	bamD
+NGFG_00419		gene	ribosomal large subunit pseudouridine synthase D	NMB0704	rluD	NGO_0278	rluD
+NGFG_00422		gene	hypothetical protein	NMB0706	pgeF	NGO_0281	pgeF
+NGFG_00423		gene	rare lipoprotein B	NMB0707		NGO_0282	
+NGFG_00424		gene	DNA polymerase III%2C delta subunit	NMB0708		NGO_0283	
+NGFG_00425		gene	hypothetical protein	NMB0709		NGO_0284	
+NGFG_00426		gene	RDD family protein	NMB0710		NGO_0285	
+NGFG_00427		gene	hypothetical protein	NMB0711		NGO_0286	
+NGFG_00428		gene	UPF0114 protein			NGO_01540	
+NGFG_00429		gene	hypothetical protein				
+NGFG_00430	rpoH	gene	alternative sigma factor RpoH	NMB0712	rpoH	NGO_0288	rpoH
+NGFG_00432		gene	apolipoprotein N-acyltransferase	NMB0713	lnt	NGO_0289	lnt
+NGFG_00433		gene	hypothetical protein			NGO_0290	
+NGFG_00435		gene	cell volume regulation potassium/proton antiporter			NGO_0291	
+NGFG_02280		gene	cytochrome c	NMB0717		NGO_0292	
+NGFG_02281		gene	ferrochelatase	NMB0718		NGO_0293	
+NGFG_00439		gene	queuine tRNA-ribosyltransferase	NMB0719	tgt	NGO_0294	tgt
+NGFG_00440		gene	threonyl-tRNA synthetase	NMB0720	thrS	NGO_0295	thrS
+NGFG_00441		gene	translation initiation factor IF-3	NMB0721	infC	NGO_0296	infC
+NGFG_00442		gene	50S ribosomal protein L35	NMB0722	rpmI	NGO_0297	rpmI
+NGFG_00443		gene	50S ribosomal protein L20	NMB0723	rplT	NGO_0298	rplT
+NGFG_00444		gene	phenylalanyl-tRNA synthetase alpha chain	NMB0724	pheS	NGO_0299	pheS
+NGFG_00445	vsr	gene	DNA mismatch endonuclease Vsr			NGO_0300	
+NGFG_00446		gene	DNA (cytosine-5-)-methyltransferase			NGO_01615	
+NGFG_00447		gene	hypothetical protein			NGO_0302	
+NGFG_00448		gene	restriction endonuclease			NGO_0303	
+NGFG_00449		gene	phenylalanyl-tRNA synthetase beta chain	NMB0728		NGO_0304	
+NGFG_00450		gene	integration host factor subunit alpha	NMB0729		NGO_0305	
+NGFG_00451		gene	hypothetical protein			NGO_0306	
+NGFG_00452		gene	FxsA-like membrane protein	NMB0730	fxsA	NGO_0307	fxsA
+NGFG_00453		gene	hypothetical protein	NMB0731		NGO_01650	
+NGFG_00454		gene	adenosylmethionine-8-amino-7-oxononanoate transaminase	NMB0732	bioA	NGO_0308	bioA
+NGFG_00455		gene	dethiobiotin synthetase	NMB0733	bioD	NGO_0309	bioD
+NGFG_00456		gene	chorismate-pyruvate lyase	NMB0734		NGO_0310	
+NGFG_00458		gene	4-hydroxybenzoate octaprenyltransferase	NMB0735	ubiA	NGO_0312	ubiA
+NGFG_00459	ptsN	gene	PTS IIA-like nitrogen-regulatory protein PtsN	NMB0736	ptsN	NGO_0313	ptsN
+NGFG_00460		gene	HPr kinase/phosphorylase	NMB0737		NGO_0314	
+NGFG_00461		gene	UPF0042 nucleotide-binding protein	NMB0738	rapZ	NGO_0315	rapZ
+NGFG_00462	ylqF	gene	ribosome biogenesis GTP-binding protein YlqF		ylqF	NGO_0316	ylqF
+NGFG_00463		gene	segregation and condensation protein B		scpB	NGO_0317	scpB
+NGFG_00464	recN	gene	DNA repair protein RecN	NMB0740	recN	NGO_0318	recN
+NGFG_00466		gene	tRNA U-34 5-methylaminomethyl-2-thiouridine biosynthesis protein MnmC domain protein	NMB0741	mnmC	NGO_0319	mnmC
+NGFG_00467		gene	hypothetical protein	NMB0742		NGO_0320	
+NGFG_00468	ubiE	gene	ubiquinone/menaquinone biosynthesis methyltransferase ubiE	NMB0743	ubiE	NGO_0321	ubiE
+NGFG_00469		gene	hypothetical protein	NMB0744		NGO_0322	
+NGFG_00470		gene	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	NMB0745	folK	NGO_0323	folK
+NGFG_00471		gene	SirB family regulatory protein	NMB0746		NGO_0324	
+NGFG_00472		gene	hypothetical protein				
+NGFG_00473		gene	hypothetical protein	NMB0747		NGO_01750	
+NGFG_00474	hfq	gene	RNA chaperone Hfq	NMB0748	hfq	NGO_0326	hfq
+NGFG_00475		gene	D-alanyl-D-alanine endopeptidase (penicillin-binding protein 7)	NMB0749		NGO_0327	
+NGFG_00477		gene	bacterioferritin comigratory protein	NMB0750		NGO_0328	
+NGFG_00478	xerD	gene	tyrosine recombinase xerD	NMB0751	xerD	NGO_0329	xerD
+NGFG_00479		gene	bacterioferritin-associated ferredoxin	NMB0752		NGO_0329a	
+NGFG_00480		gene	thioredoxin	NMB0753		NGO_0331	
+NGFG_00482		gene	dTDP-4-dehydrorhamnose reductase	NMB0756	rfbD	NGO_0332	rfbD
+NGFG_00483		gene	phosphoribosylaminoimidazole-succinocarboxamide synthase	NMB0757		NGO_0333	
+NGFG_02282		gene	polyribonucleotide nucleotidyltransferase	NMB0758	pnp	NGO_0335	pnp
+NGFG_00486		gene	hypothetical protein	NMB0759		NGO_0336	
+NGFG_00487		gene	lipoprotein			NGO_0337	
+NGFG_00488		gene	diaminopimelate epimerase	NMB0760	dapF	NGO_0338	dapF
+NGFG_00489		gene	hypothetical protein			NGO_0339	
+NGFG_00490		gene	cysteine synthase	NMB0763	cysK	NGO_0340	cysK
+NGFG_00491	pump	gene	amino acid metabolite efflux pump	NMB0764		NGO_0340a	
+NGFG_00492		gene	hypothetical protein				
+NGFG_00495		gene	signal peptidase I	NMB0765	lepB	NGO_0343	lepB
+NGFG_00496	lepA	gene	GTP-binding protein LepA	NMB0766	lepA	NGO_0344	lepA
+NGFG_00497		gene	MTA/SAH nucleosidase	NMB0767		NGO_0345	
+NGFG_00498		gene	twitching motility protein	NMB0768		NGO_0346	
+NGFG_00499		gene	DNA polymerase III%2C delta' subunit	NMB0769		NGO_0347	
+NGFG_00500	pilZ	gene	type IV pilus assembly protein PilZ	NMB0770	pilZ	NGO_0348	pilZ
+NGFG_00501		gene	TatD family hydrolase	NMB0771		NGO_0349	
+NGFG_00502		gene	hypothetical protein	NMB0772		NGO_0350	
+NGFG_00503		gene	Grx4 family monothiol glutaredoxin	NMB0773	grxD	NGO_0351	grxD
+NGFG_02283		gene	hypothetical protein				
+NGFG_00504		gene	uracil phosphoribosyltransferase	NMB0774	upp	NGO_0353	upp
+NGFG_00505		gene	hypothetical protein	NMB0775		NGO_0354	
+NGFG_00506		gene	hypothetical protein			NGO_0355	
+NGFG_00507		gene	hypothetical protein			NGO_0356	
+NGFG_00508		gene	hypothetical protein			NGO_0357	
+NGFG_00509		gene	hypothetical protein	NMB0776		NGO_0358	
+NGFG_00510		gene	uroporphyrinogen-III synthase	NMB0777		NGO_0359	
+NGFG_00511		gene	hypothetical protein	NMB0778		NGO_0360	
+NGFG_00512	hemY	gene	heme biosynthesis-associated protein HemY	NMB0779	hemY	NGO_0361	hemY
+NGFG_00513		gene	uroporphyrinogen decarboxylase	NMB0781		NGO_0362	
+NGFG_00514		gene	stress-sensitive restriction system protein			NGO_0363	
+NGFG_00515		gene	restriction endonuclease			NGO_0364	
+NGFG_00516		gene	DNA-cytosine methyltransferase			NGO_0365	
+NGFG_00517		gene	hypothetical protein				
+NGFG_00518	radA	gene	DNA repair protein RadA	NMB0782	radA	NGO_0367	radA
+NGFG_00519		gene	hypothetical protein	NMB0783		NGO_0368	
+NGFG_00520		gene	phage shock protein E	NMB0784		NGO_0369	
+NGFG_00521		gene	exodeoxyribonuclease V%2C beta subunit	NMB0785	recB	NGO_0370	recB
+NGFG_00522		gene	dyp-type peroxidase	NMB0786		NGO_0371	
+NGFG_00523		gene	amino acid ABC transporter substrate-binding protein	NMB0787		NGO_0372	
+NGFG_00524		gene	His/Glu/Gln/Arg/opine family amino ABC transporter%2C permease%2C 3-TM region	NMB0788		NGO_0373	
+NGFG_00525		gene	amino acid ABC transporter ATP-binding protein	NMB0789		NGO_0374	
+NGFG_00526		gene	phosphoglucomutase	NMB0790		NGO_0375	
+NGFG_00527		gene	peptidyl-prolyl cis-trans isomerase B	NMB0791		NGO_0376	
+NGFG_00528		gene	divalent anion:Na+ symporter (DASS) family transporter	NMB0792		NGO_0377	
+NGFG_00529		gene	hypothetical protein	NMB0794	vanZ	NGO_0378	
+NGFG_00530		gene	hypothetical protein			NGO_02015	
+NGFG_00531		gene	peptidyl-tRNA hydrolase	NMB0795	pth	NGO_0379	pth
+NGFG_00532	rnfH	gene	protein rnfH	NMB0796		NGO_0380	
+NGFG_00533		gene	hypothetical protein	NMB0797		NGO_0381	
+NGFG_00534	ftsH	gene	cell division protease FtsH	NMB0798	ftsH	NGO_0382	ftsH
+NGFG_00535		gene	ribosomal RNA large subunit methyltransferase E	NMB0799		NGO_0383	
+NGFG_00536		gene	RNA-binding protein	NMB0800	yhbY	NGO_0384	yhbY
+NGFG_00537		gene	delta-aminolevulinic acid dehydratase	NMB0801	hemB	NGO_0385	hemB
+NGFG_00538		gene	cystathionine beta-lyase	NMB0802		NGO_0386	
+NGFG_00539		gene	GTP cyclohydrolase folE2	NMB0803		NGO_0387	
+NGFG_00541		gene	NAD(P)H-flavin oxidoreductase	NMB0804		NGO_0388	
+NGFG_00542		gene	pseudouridine synthase	NMB0806		NGO_0389	
+NGFG_00543	ppnK	gene	inorganic polyphosphate/ATP-NAD kinase PpnK	NMB0807		NGO_0390	
+NGFG_00544		gene	hypothetical protein	NMB0808		NGO_0391	
+NGFG_00545		gene	hypothetical protein	NMB0809		NGO_0392	
+NGFG_00546		gene	TetR family transcriptional regulator	NMB0810		NGO_0393	
+NGFG_00547		gene	UDP-N-acetylenolpyruvoylglucosamine reductase	NMB0811	murB	NGO_0394	murB
+NGFG_00548		gene	MATE efflux family protein	NMB0812	norM	NGO_0395	norM
+NGFG_00550		gene	ATP phosphoribosyltransferase regulatory subunit	NMB0814		NGO_0397	
+NGFG_00551		gene	adenylosuccinate synthetase	NMB0815		NGO_0398	
+NGFG_02284	htpX	gene	heat shock protein HtpX	NMB0822	htpX	NGO_0399	htpX
+NGFG_00554		gene	adenylate kinase	NMB0823	adk	NGO_0400	adk
+NGFG_00555		gene	orotidine 5'-phosphate decarboxylase	NMB0824	pyrF	NGO_0401	pyrF
+NGFG_00556		gene	RfaE%2C domain I	NMB0825	hldA	NGO_0402	hldA
+NGFG_00557		gene	ADP-L-glycero-D-manno-heptose-6-epimerase	NMB0828	rfaD	NGO_0403	rfaD
+NGFG_00558		gene	type I restriction enzyme EcoprrI M protein	NMB0829		NGO_0404	
+NGFG_00559		gene	DNA-damage-inducible protein D			NGO_0405	dinD
+NGFG_00562	clpA	gene	ATP-dependent Clp protease ATP-binding subunit ClpA	NMB0836	clpA	NGO_0408	clpA
+NGFG_00563	clpS	gene	ATP-dependent Clp protease adapter protein ClpS	NMB0837	clpS	NGO_0409	clpS
+NGFG_00564	cspA	gene	cold shock-like protein CspA	NMB0838		NGO_0410	
+NGFG_00565		gene	PmbA protein	NMB0839	pmbA	NGO_0411	pmbA
+NGFG_00566		gene	ribosome-associated protein	NMB0840		NGO_0412	
+NGFG_00567		gene	hypothetical protein	NMB0841		NGO_0413	
+NGFG_00568	recJ	gene	single-stranded-DNA-specific exonuclease RecJ	NMB0842	recJ	NGO_0414	recJ
+NGFG_00569		gene	poly(A) polymerase	NMB0843	pcnB	NGO_0415	pcnB
+NGFG_00570		gene	hypothetical protein	NMB0844		NGO_0416	
+NGFG_00571	phoH	gene	phosphate starvation-inducible protein PhoH	NMB0845		NGO_0417	
+NGFG_00574		gene	hypothetical protein	NMB0848		NGO_0420	
+NGFG_00575		gene	deoxycytidine triphosphate deaminase	NMB0849		NGO_0421	
+NGFG_00576		gene	hypothetical protein	NMB0850		NGO_0422	
+NGFG_00577	rdgC	gene	recombination-associated protein rdgC	NMB0851	rdgC	NGO_0423	rdgC
+NGFG_00578	engA	gene	GTP-binding protein EngA	NMB0852	der	NGO_0424	der
+NGFG_00580		gene	histidyl-tRNA synthetase	NMB0854	hisS	NGO_0426	hisS
+NGFG_02233		gene	peptidase	NMB0855		NGO_0427	
+NGFG_02234		gene	hypothetical protein			NGO_0428	
+NGFG_00582		gene	hypothetical protein				
+NGFG_00583		gene	hypothetical protein			NGO_02290	
+NGFG_00584		gene	hypothetical protein	NMB0866		NGO_0432	
+NGFG_00585		gene	tRNA pseudouridine32 synthase/23S rRNA pseudouridine746 synthase	NMB0867		NGO_0433	
+NGFG_00586		gene	hypothetical protein	NMB0868		NGO_0434	
+NGFG_00587		gene	spermidine synthase	NMB0869		NGO_0435	
+NGFG_00588		gene	3-methyl-2-oxobutanoate hydroxymethyltransferase	NMB0870	panB	NGO_0436	panB
+NGFG_00590		gene	pantoate-beta-alanine ligase	NMB0871		NGO_0437	
+NGFG_00591		gene	hypothetical protein	NMB0872		NGO_02330	
+NGFG_00592	lolB	gene	outer-membrane lipoprotein lolB	NMB0873	lolB	NGO_0439	
+NGFG_00593		gene	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	NMB0874	ispE	NGO_0440	ispE
+NGFG_00594		gene	ribose-phosphate pyrophosphokinase	NMB0875		NGO_0441	
+NGFG_00595		gene	50S ribosomal protein L25	NMB0876	ctc	NGO_0442	ctc
+NGFG_00596		gene	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5/6)	NMB0877		NGO_0443	
+NGFG_00597		gene	threonine ammonia-lyase%2C biosynthetic	NMB0878	ilvA	NGO_0444	ilvA
+NGFG_00598	cysA	gene	sulfate/thiosulfate import ATP-binding protein CysA	NMB0879		NGO_0445	
+NGFG_00599	cysW	gene	sulfate ABC transporter%2C permease CysW	NMB0880	cysW	NGO_0446	cysW
+NGFG_00600	cysT	gene	sulfate ABC transporter%2C permease CysT	NMB0881	cysT	NGO_02385	cysT
+NGFG_00601		gene	hypothetical protein	NMB0882		NGO_0448	
+NGFG_00602		gene	isoprenylcysteine carboxyl methyltransferase	NMB0883		NGO_0449	
+NGFG_00603		gene	superoxide dismutase [Fe]	NMB0884		NGO_02400	
+NGFG_00605		gene	replicative DNA helicase	NMB0885	dnaB	NGO_0451	dnaB
+NGFG_00606		gene	prepilin-type N-terminal cleavage/methylation domain-containing protein	NMB0886		NGO_0452	
+NGFG_00607	pilV	gene	type IV pilus modification protein PilV	NMB0887	pilV	NGO_0453	pilV
+NGFG_00608	pilW	gene	type IV pilus assembly protein PilW	NMB0888		NGO_0454	
+NGFG_00609	pilX	gene	type IV pilus assembly protein PilX	NMB0889		NGO_0455	
+NGFG_00610		gene	prepilin-type N-terminal cleavage/methylation domain-containing protein	NMB0890		NGO_0456	
+NGFG_00611		gene	branched-chain amino acid transporter			NGO_0457	
+NGFG_00614		gene	AzlC-like protein	NMB0892		NGO_02440	
+NGFG_00615		gene	dUTP pyrophosphatase	NMB0893	dut	NGO_0459	dut
+NGFG_00616		gene	succinyldiaminopimelate transaminase	NMB0894	dapC	NGO_0460	dapC
+NGFG_00617		gene	UPF0246 protein	NMB0895	yaaA	NGO_0461	yaaA
+NGFG_00618		gene	phage integrase	NMB0896		NGO_0462	
+NGFG_00619		gene	phage protein			NGO_0463	
+NGFG_00620		gene	phage protein			NGO_0464	
+NGFG_00621		gene	phage protein			NGO_0465	
+NGFG_02285		gene	phage protein			NGO_0466	
+NGFG_02286		gene	phage protein			NGO_0467	
+NGFG_02287		gene	phage protein			NGO_0468	
+NGFG_02288		gene	phage protein			NGO_0469	
+NGFG_02289		gene	phage protein			NGO_0470	
+NGFG_00622		gene	phage protein			NGO_1622	
+NGFG_00623		gene	phage protein			NGO_1123	
+NGFG_00626		gene	phage protein			NGO_1120	
+NGFG_00627		gene	phage protein			NGO_0476	
+NGFG_00628		gene	phage protein			NGO_0477	
+NGFG_00629		gene	phage protein			NGO_0478	
+NGFG_00630		gene	phage repressor protein			NGO_0479	
+NGFG_00631		gene	hypothetical protein				
+NGFG_02290		gene	phage protein			NGO_0480	
+NGFG_02291		gene	phage protein			NGO_0481	
+NGFG_02292		gene	phage protein			NGO_0483	
+NGFG_02293		gene	hypothetical protein				
+NGFG_02294		gene	phage protein			NGO_0484	
+NGFG_02295		gene	DnaB family phage replicative helicase			NGO_0485	
+NGFG_02296		gene	phage protein			NGO_0487	
+NGFG_02297		gene	hypothetical protein			NGO_0488	
+NGFG_02298		gene	hypothetical protein				
+NGFG_02299		gene	phage protein			NGO_1640	
+NGFG_01305		gene	phage protein			NGO_0491	
+NGFG_01304		gene	hypothetical protein				
+NGFG_01303		gene	phage protein				
+NGFG_01302		gene	phage protein			NGO_0494	
+NGFG_01301		gene	phage protein			NGO_0495	terL
+NGFG_01300		gene	SPP1 gp7 family phage head morphogenesis protein			NGO_0496	
+NGFG_01299		gene	phage protein			NGO_0497	
+NGFG_01298		gene	phage protein			NGO_0498	
+NGFG_01297		gene	phage protein				
+NGFG_01296		gene	phage protein			NGO_0500	
+NGFG_01295		gene	phage protein			NGO_0501	
+NGFG_01294		gene	phage protein			NGO_0502	
+NGFG_01293		gene	phage protein			NGO_0503	
+NGFG_01292		gene	phage protein			NGO_0504	
+NGFG_01291		gene	phage protein			NGO_0505	
+NGFG_01290		gene	phage protein			NGO_0506	
+NGFG_01289		gene	phage protein			NGO_0507	
+NGFG_01288		gene	hypothetical protein			NGO_0508	
+NGFG_01287		gene	phage protein			NGO_0509	
+NGFG_01285		gene	phage protein			NGO_0511	
+NGFG_01284		gene	phage protein			NGO_0513	
+NGFG_01283		gene	phage protein			NGO_0514	
+NGFG_02300		gene	hypothetical protein				
+NGFG_01281		gene	plasmid toxin protein			NGO_0516	
+NGFG_01280		gene	antitoxin			NGO_0517	
+NGFG_01279		gene	phage protein			NGO_0518	
+NGFG_01278		gene	phage protein			NGO_0519	
+NGFG_01277		gene	hypothetical protein				
+NGFG_01275		gene	hypothetical protein			NGO_0521	
+NGFG_01274		gene	phage tape measure protein			NGO_0522	
+NGFG_01273		gene	phage protein	NMB0899		NGO_0523	
+NGFG_01272		gene	phage integrase			NGO_0524	
+NGFG_01270		gene	phosphoribosylformylglycinamidine cyclo-ligase	NMB1252	purM	NGO_0526	
+NGFG_02301		gene	transposase	NMB1411		NGO_0673	
+NGFG_01269		gene	betaine/carnitine/choline transporter (BCCT) family transporter	NMB1277		NGO_0529	
+NGFG_01268		gene	long-chain acyl-CoA synthetase	NMB1276		NGO_0530	
+NGFG_01266		gene	hypothetical protein	NMB1275		NGO_0532	
+NGFG_01265		gene	hypothetical protein	NMB1274		NGO_0533	
+NGFG_01264		gene	polysaccharide modification protein	NMB1273		NGO_0534	
+NGFG_01262		gene	mercury transport periplasmic protein	NMB1271		NGO_0537	
+NGFG_01260		gene	hypothetical protein	NMB1270		NGO_0537a	
+NGFG_01259		gene	hypothetical protein	NMB1269		NGO_0539	
+NGFG_02302		gene	hypothetical protein				
+NGFG_01257		gene	protein-tyrosine phosphatase	NMB1267		NGO_0541	
+NGFG_01256		gene	fur family transcriptional regulator%2C zinc uptake regulator	NMB1266		NGO_0542	
+NGFG_01255	cobW	gene	cobalamin biosynthesis protein CobW	NMB1263		NGO_0543	
+NGFG_01254		gene	peptidyl-prolyl cis-trans isomerase A (cyclophilin A)	NMB1262		NGO_0544	
+NGFG_01253		gene	adenine-specific DNA-methyltransferase	NMB1261		NGO_0545	
+NGFG_01252		gene	type III restriction system endonuclease	NMB1260		NGO_0546	
+NGFG_01251	ttcA	gene	tRNA 2-thiocytidine biosynthesis protein TtcA	NMB1023	ttcA	NGO_0547	ttcA
+NGFG_01250	ygfZ	gene	tRNA-modifying protein YgfZ	NMB1024	ygfZ	NGO_0548	ygfZ
+NGFG_01249		gene	hypothetical protein	NMB1025		NGO_0549	
+NGFG_01248		gene	YbaK/EbsC protein	NMB1026	ybaK	NGO_0550	ybaK
+NGFG_01247	dnaJ	gene	molecular chaperone DnaJ	NMB1027		NGO_0551	
+NGFG_01246		gene	hypothetical protein	NMB1028		NGO_0552	
+NGFG_01245		gene	hemoglobin/transferrin/lactoferrin receptor protein				
+NGFG_01244		gene	hypothetical protein				
+NGFG_01243		gene	hypothetical protein			NGO_0555	
+NGFG_01242		gene	aspartate ammonia-lyase	NMB1029	aspA	NGO_0556	aspA
+NGFG_01240		gene	hypothetical protein	NMB1030		NGO_0558	
+NGFG_02303		gene	transposase	NMB1411		NGO_0201	
+NGFG_01236		gene	hypothetical protein	NMB1345		NGO_0561	
+NGFG_01234		gene	dihydrolipoyl dehydrogenase	NMB1344	lpdA	NGO_0562	lpdA
+NGFG_01233		gene	dihydrolipoyllysine-residue acetyltransferase	NMB1342	aceF	NGO_0564	aceF
+NGFG_01232		gene	pyruvate dehydrogenase (acetyl-transferring)%2C homodimeric type	NMB1341	aceE	NGO_0565	aceE
+NGFG_01231		gene	prolyl-tRNA synthetase	NMB1339		NGO_0566	
+NGFG_01230		gene	fumarylacetoacetate hydrolase	NMB1338		NGO_0567	
+NGFG_01229		gene	YqgF family RNAse H domain-containing protein	NMB1337	ruvX	NGO_0568	ruvX
+NGFG_01228		gene	transcriptional regulator	NMB1336		NGO_0569	
+NGFG_01227		gene	CreA protein	NMB1335		NGO_0570	
+NGFG_01225		gene	metallopeptidase	NMB1333		NGO_0571	
+NGFG_01224		gene	C-terminal processing peptidase	NMB1332		NGO_0572	
+NGFG_01223		gene	UvrABC system protein B	NMB1331	uvrB	NGO_0573	uvrB
+NGFG_01222		gene	carbonic anhydrase			NGO_0574	
+NGFG_02304		gene	hypothetical protein				
+NGFG_01220		gene	tRNA (guanine-N(7)-)-methyltransferase	NMB1328	trmB	NGO_0575	trmB
+NGFG_01217		gene	heavy metal translocating P-type ATPase	NMB1325		NGO_0579	
+NGFG_01216		gene	thioredoxin-disulfide reductase	NMB1324	trxB	NGO_0580	trxB
+NGFG_01215		gene	30S ribosomal protein S6	NMB1323	rpsF	NGO_0581	rpsF
+NGFG_01213		gene	30S ribosomal protein S18	NMB1321		NGO_0583	rpsR
+NGFG_01212		gene	50S ribosomal protein L9	NMB1320		NGO_0584	
+NGFG_01211		gene	hypothetical protein	NMB1319		NGO_0585	
+NGFG_01210		gene	CDP-diacylglycerol-serine O-phosphatidyltransferase	NMB1318	pssA	NGO_0586	pssA
+NGFG_01208		gene	hypothetical protein	NMB1317a		NGO_0588	
+NGFG_01207		gene	uracil-xanthine permease	NMB1315		NGO_0589	
+NGFG_01206		gene	DNA translocase ftsK 1	NMB1314	ftsK	NGO_0590	ftsK
+NGFG_02305		gene	transposase			NGO_06310	
+NGFG_01205		gene	trigger factor	NMB1313		NGO_0592	
+NGFG_01204		gene	ATP-dependent Clp protease proteolytic subunit	NMB1312	clpP	NGO_0593	clpP
+NGFG_01203		gene	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	NMB1310	ispG	NGO_0594	ispG
+NGFG_01202	pilW	gene	type IV pilus biogenesis/stability protein PilW	NMB1309	pilW	NGO_0595	pilW
+NGFG_01201		gene	ribosomal RNA large subunit methyltransferase N	NMB1308	rlmN	NGO_0596	rlmN
+NGFG_01200		gene	nucleoside diphosphate kinase	NMB1307	ndk	NGO_0597	ndk
+NGFG_01199		gene	ATPase	NMB1306	zapE	NGO_0598	zapE
+NGFG_01198		gene	S-formylglutathione hydrolase	NMB1305	fghA	NGO_0600	fghA
+NGFG_01196		gene	MerR family transcriptional regulator	NMB1303		NGO_0602	
+NGFG_01195		gene	integration host factor subunit beta	NMB1302		NGO_0603	
+NGFG_01194		gene	30S ribosomal protein S1	NMB1301	rpsA	NGO_0604	rpsA
+NGFG_01193		gene	cytidylate kinase	NMB1300		NGO_0605	
+NGFG_01192		gene	NSS family neurotransmitter:Na+ symporter			NGO_0606	
+NGFG_01191		gene	pseudouridine synthase	NMB1298		NGO_0607	
+NGFG_01190		gene	membrane-bound lytic murein transglycosylase D	NMB1297		NGO_0608	
+NGFG_01189		gene	hypothetical protein	NMB1296		NGO_0609	
+NGFG_01188		gene	formamidopyrimidine-DNA glycosylase	NMB1295	mutM	NGO_0610	mutM
+NGFG_01187		gene	1-acyl-sn-glycerol-3-phosphate acyltransferase	NMB1294		NGO_0611	
+NGFG_01186		gene	hypothetical protein	NMB1293		NGO_0613	
+NGFG_01185		gene	ribonucleoside-diphosphate reductase subunit alpha	NMB1291	nrdA	NGO_0614	nrdA
+NGFG_02306		gene	hypothetical protein				
+NGFG_01184		gene	ribonucleoside-diphosphate reductase 1 subunit beta	NMB1288	nrdB	NGO_0615	nrdB
+NGFG_01183		gene	2Fe-2S iron-sulfur cluster binding protein	NMB1287		NGO_6151	
+NGFG_01182	ftsB	gene	cell division protein FtsB	NMB1286	ftsB	NGO_0616	ftsB
+NGFG_01181		gene	enolase	NMB1285	eno	NGO_0617	eno
+NGFG_01180		gene	hypothetical protein	NMB1284		NGO_0618	
+NGFG_01179		gene	2-dehydro-3-deoxyphosphooctonate aldolase	NMB1283	kdsA	NGO_0619	kdsA
+NGFG_01178		gene	aspartate 1-decarboxylase	NMB1282		NGO_0620	
+NGFG_01176		gene	transcription-repair coupling factor	NMB1281	mfd	NGO_0623	mfd
+NGFG_01175		gene	acyl-CoA dehydrogenase	NMB1280		NGO_0624	
+NGFG_01173		gene	lytic murein transglycosylase B	NMB1279	mltB	NGO_0626	mltB
+NGFG_01172		gene	site-specific recombinase	NMB1278		NGO_0627	
+NGFG_02307		gene	transposase	NMB1411		NGO_0528	
+NGFG_01171		gene	DNA gyrase subunit A	NMB1384	gyrA	NGO_0629	gyrA
+NGFG_01170	hscB	gene	Fe-S protein assembly co-chaperone HscB	NMB1383	hscB	NGO_0630	hscB
+NGFG_01169		gene	alternative ribosome-rescue factor	NMB1382		NGO_03320	
+NGFG_01168	iscA	gene	iron-sulfur cluster assembly protein IscA	NMB1381	iscA	NGO_0632	iscA
+NGFG_01167		gene	FeS cluster assembly scaffold protein	NMB1380	iscU	NGO_0633	iscU
+NGFG_01166		gene	cell filamentation protein			NGO_03335	
+NGFG_01165		gene	hypothetical protein			NGO_0635	
+NGFG_01164		gene	cysteine desulfurase	NMB1379	iscS	NGO_0636	iscS
+NGFG_01163	iscR	gene	iron-sulfur cluster assembly transcription factor IscR	NMB1378	iscR	NGO_0637	iscR
+NGFG_01161		gene	L-lactate dehydrogenase	NMB1377		NGO_0639	
+NGFG_01160		gene	type III restriction enzyme	NMB1376		NGO_0640	
+NGFG_01158		gene	tRNA pseudouridine synthase B	NMB1374	truB	NGO_0642	truB
+NGFG_01157		gene	hypothetical protein			NGO_0643	
+NGFG_01156		gene	ribosome-binding factor A	NMB1373	rbfA	NGO_0644	rbfA
+NGFG_01155	clpX	gene	ATP-dependent Clp protease ATP-binding subunit ClpX	NMB1372	clpX	NGO_0645	clpX
+NGFG_01154		gene	acetylornithine aminotransferase	NMB1371		NGO_0646	
+NGFG_01153		gene	hypothetical protein	NMB1370		NGO_0647	
+NGFG_01152		gene	lipoprotein	NMB1369		NGO_0648	
+NGFG_01150		gene	ATP-dependent RNA helicase	NMB1368		NGO_0650	
+NGFG_01149		gene	23S rRNA (-C5)-methyltransferase	NMB1367		NGO_0651	
+NGFG_01148		gene	thioredoxin	NMB1366	trxA	NGO_0652	trxA
+NGFG_01146		gene	hypothetical protein	NMB1365		NGO_0653	dnrN
+NGFG_01145		gene	NAD+ synthetase	NMB1364	nadE	NGO_0654	nadE
+NGFG_01144		gene	exodeoxyribonuclease 7 large subunit	NMB1363		NGO_0655	
+NGFG_01143		gene	oxalate/formate antiporter	NMB1362		NGO_0656	
+NGFG_01141		gene	pseudouridine synthase	NMB1361		NGO_0657	
+NGFG_01139		gene	pyridoxine/pyridoxamine 5'-phosphate oxidase	NMB1360	pdxH	NGO_0658	pdxH
+NGFG_01138		gene	CDP-4-dehydro-6-deoxyglucose reductase	NMB1359		NGO_0659	
+NGFG_01137		gene	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	NMB1358	gatB	NGO_0660	gatB
+NGFG_01136		gene	hypothetical protein	NMB1357		NGO_0661	
+NGFG_01135		gene	glutamyl-tRNA(Gln) amidotransferase subunit A	NMB1356	gatA	NGO_0662	gatA
+NGFG_01134		gene	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	NMB1355	gatC	NGO_0663	gatC
+NGFG_01133	marC	gene	multiple antibiotic resistance membrane protein MarC			NGO_0664	
+NGFG_01132		gene	aldehyde dehydrogenase	NMB1353		NGO_0665	
+NGFG_01131		gene	hypothetical protein	NMB1352		NGO_0666	
+NGFG_01129		gene	ribosomal RNA small subunit methyltransferase B	NMB1351		NGO_0668	
+NGFG_01128		gene	hypothetical protein	NMB1349		NGO_0669	
+NGFG_01127		gene	RNA methyltransferase%2C TrmH family%2C group 1	NMB1348		NGO_0670	
+NGFG_01125		gene	inositol-1-monophosphatase	NMB1347		NGO_0671	
+NGFG_02308		gene	hypothetical protein				
+NGFG_02309		gene	transposase	NMB1411		NGO_0528	
+NGFG_01123		gene	3-isopropylmalate dehydrogenase	NMB1031	leuB	NGO_0674	leuB
+NGFG_01122		gene	type II restriction endonuclease NlaIV	NMB1032		NGO_0675	
+NGFG_01121		gene	modification methylase NlaIV	NMB1033		NGO_0676	
+NGFG_01120		gene	3-isopropylmalate dehydratase small subunit	NMB1034	leuD	NGO_0677	leuD
+NGFG_01119		gene	lipoprotein	NMB1035		NGO_0678	
+NGFG_01118		gene	3-isopropylmalate dehydratase large subunit	NMB1036	leuC	NGO_0679	leuC
+NGFG_01117		gene	glutamate-cysteine ligase	NMB1037	gshA	NGO_0680	gshA
+NGFG_01116	radC	gene	DNA repair protein RadC	NMB1038	radC	NGO_0681	radC
+NGFG_01115		gene	hypothetical protein	NMB1039	queH	NGO_0682	queH
+NGFG_01114		gene	hypothetical protein	NMB1040		NGO_0683	
+NGFG_01113	hflX	gene	GTP-binding protein HflX	NMB1041	hflX	NGO_0684	hflX
+NGFG_01112		gene	heavy metal translocating P-type ATPase	NMB1042		NGO_0685	
+NGFG_01110		gene	ferredoxin-NADP+ reductase	NMB1044		NGO_0687	
+NGFG_01109		gene	hypothetical protein	NMB1045		NGO_0688	
+NGFG_01108		gene	threonine synthase	NMB1046		NGO_0689	
+NGFG_01107		gene	lipoprotein	NMB1047		NGO_0690	
+NGFG_01106		gene	membrane protein				
+NGFG_01105		gene	membrane protein				
+NGFG_01104		gene	hypothetical protein				
+NGFG_01100		gene	outer membrane autotransporter barrel domain-containing protein			NGO_0694	
+NGFG_01099		gene	hypothetical protein				
+NGFG_01097		gene	hypothetical protein			NGO_03650	
+NGFG_01096		gene	recombination factor protein R	NMB1258		NGO_0696	
+NGFG_01095		gene	type I restriction enzyme%2C R subunit			NGO_0697	
+NGFG_01094		gene	hypothetical protein			NGO_0698	
+NGFG_01093		gene	type I restriction enzyme%2C S subunit			NGO_0699	
+NGFG_01092		gene	hypothetical protein			NGO_0700	
+NGFG_01091		gene	hypothetical protein			NGO_0701	
+NGFG_01088		gene	3%2C4-dihydroxy-2-butanone 4-phosphate synthase	NMB1256	ribB	NGO_0704	ribB
+NGFG_02310		gene	hypothetical protein				
+NGFG_02311		gene	hypothetical protein				
+NGFG_01084		gene	hypothetical protein			NGO_0709	
+NGFG_01083		gene	hypothetical protein				
+NGFG_01081		gene	A/G-specific adenine glycosylase	NMB1396	mutY	NGO_0710	mutY
+NGFG_01080		gene	alcohol dehydrogenase	NMB1395		NGO_0711	
+NGFG_01078		gene	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase	NMB1394		NGO_0713	
+NGFG_01077		gene	phosphogluconate dehydratase	NMB1393	edd	NGO_0714	edd
+NGFG_01076		gene	glucose-6-phosphate dehydrogenase	NMB1392	zwf	NGO_0715	zwf
+NGFG_01075		gene	6-phosphogluconolactonase	NMB1391	pgl	NGO_0716	pgl
+NGFG_01074		gene	glucokinase	NMB1390		NGO_0717	
+NGFG_01073		gene	RpiR family transcriptional regulator	NMB1389	hexR	NGO_0718	hexR
+NGFG_01072		gene	glucose-6-phosphate isomerase 1	NMB1388	pgi	NGO_0719	pgi
+NGFG_01070		gene	phage protein			NGO_0721	
+NGFG_01069		gene	hypothetical protein			NGO_0722	
+NGFG_01068		gene	hypothetical protein			NGO_0723	
+NGFG_02312		gene	hypothetical protein	NMB1119			
+NGFG_01064		gene	proteic killer suppression protein				
+NGFG_01063		gene	plasmid maintenance system antidote protein				
+NGFG_01062		gene	phage protein				
+NGFG_01060		gene	phage tail protein I			NGO_0725a	
+NGFG_01059		gene	phage baseplate assembly protein			NGO_0727	
+NGFG_01058		gene	phage protein			NGO_03855	
+NGFG_01056		gene	phage protein			NGO_0729	
+NGFG_02313		gene	transposase	NMB1411		NGO_0528	
+NGFG_01055		gene	phage protein			NGO_0731	
+NGFG_01054		gene	phage protein			NGO_0732	
+NGFG_01053		gene	hypothetical protein				
+NGFG_01052		gene	phage integrase			NGO_03890	
+NGFG_01051		gene	ferredoxin-NADP+ reductase	NMB1450		NGO_0734	
+NGFG_01048		gene	DNA polymerase IV	NMB1448	dinB	NGO_0738	dinB
+NGFG_01046		gene	3-dehydroquinate dehydratase	NMB1446		NGO_0740	
+NGFG_01045	recA	gene	protein recA	NMB1445	recA	NGO_0741	recA
+NGFG_01044		gene	UPF0133 protein	NMB1444		NGO_0742	
+NGFG_01043	tau	gene	DNA polymerase III%2C subunit gamma and tau	NMB1443	dnaX	NGO_0743	dnaX
+NGFG_01041		gene	hypothetical protein	NMB1441a		NGO_0745	
+NGFG_01040		gene	O-methyltransferase	NMB1441		NGO_0746	
+NGFG_01039		gene	hypothetical protein	NMB1440		NGO_0747	
+NGFG_01038		gene	phosphoribosylaminoimidazole carboxylase%2C catalytic subunit	NMB1439	purE	NGO_0748	purE
+NGFG_02314		gene	hypothetical protein	NMB1736		NGO_00200	
+NGFG_02315		gene	hypothetical protein				
+NGFG_01037		gene	outer membrane autotransporter barrel domain-containing protein			NGO_0751	
+NGFG_01036	narL	gene	two-component system%2C NarL family%2C nitrate/nitrite response regulator NarL	NMB1250		NGO_0752	
+NGFG_01035	narX	gene	two-component system%2C NarL family%2C nitrate/nitrite sensor kinase NarX	NMB1249		NGO_0753	
+NGFG_01034		gene	molybdopterin-guanine dinucleotide biosynthesis protein A			NGO_0754	
+NGFG_01033		gene	riboflavin synthase%2C alpha subunit			NGO_0755	
+NGFG_01032		gene	hypothetical protein	NMB1246		NGO_0756	
+NGFG_01031		gene	hypothetical protein			NGO_0757	
+NGFG_01030		gene	ribulose-phosphate 3-epimerase	NMB1244	rpe	NGO_0758	rpe
+NGFG_01029	ruvB	gene	Holliday junction ATP-dependent DNA helicase ruvB	NMB1243	ruvB	NGO_0760	ruvB
+NGFG_01028		gene	hypothetical protein	NMB1242		NGO_0761	
+NGFG_01027		gene	multifunctional CCA protein	NMB1241		NGO_0763	
+NGFG_01026		gene	ABC transporter ATP-binding protein	NMB1240		NGO_0764	
+NGFG_01025		gene	ArsC family protein	NMB1239		NGO_0765	
+NGFG_01024		gene	peptidyl-prolyl cis-trans isomerase D	NMB1238		NGO_0766	
+NGFG_01023	recR	gene	recombination protein recR	NMB1237	recR	NGO_0767	recR
+NGFG_01022		gene	hypothetical protein	NMB1236		NGO_04070	
+NGFG_01020	lolC	gene	lipoprotein-releasing system transmembrane protein lolC	NMB1235		NGO_0769	
+NGFG_01019	lolD	gene	lipoprotein-releasing system ATP-binding protein LolD	NMB1234	lolD	NGO_0770	lolD
+NGFG_01018		gene	exodeoxyribonuclease V%2C alpha subunit	NMB1233	recD	NGO_0771	recD
+NGFG_01016		gene	hypothetical protein			NGO_04090	
+NGFG_02316		gene	hypothetical protein			NGO_0773	
+NGFG_01015		gene	hypothetical protein			NGO_04100	
+NGFG_01014		gene	ATP-dependent protease La	NMB1231	lon	NGO_0775	lon
+NGFG_01012		gene	DNA-binding protein HU-beta	NMB1230		NGO_0777	
+NGFG_01011		gene	hypothetical protein	NMB1229		NGO_0778	
+NGFG_01010		gene	homoserine dehydrogenase	NMB1228		NGO_0779	
+NGFG_01009		gene	hypothetical protein	NMB1227		NGO_0780	
+NGFG_01008		gene	ABC transporter ATP-binding protein	NMB1226		NGO_0781	
+NGFG_01006		gene	hypothetical protein	NMB1225		NGO_0783	
+NGFG_01005		gene	hypothetical protein				
+NGFG_01004		gene	TraD protein				
+NGFG_01003		gene	conjugative coupling factor TraD%2C PFGI-1 class				
+NGFG_01002	traI	gene	conjugal transfer pilus assembly protein TraI				
+NGFG_01001		gene	hypothetical protein				
+NGFG_01000		gene	LtgX protein				
+NGFG_00999		gene	hypothetical protein				
+NGFG_00998	traA	gene	conjugal transfer pilus assembly protein TraA				
+NGFG_00997	traL	gene	type IV conjugative transfer system protein TraL				
+NGFG_00996	traE	gene	type IV conjugative transfer system protein TraE				
+NGFG_00995	traK	gene	type-F conjugative transfer system secretin TraK				
+NGFG_00994	traB	gene	conjugal transfer pilus assembly protein TraB				
+NGFG_00993	dsbC	gene	thiol:disulfide interchange protein DsbC				
+NGFG_00992	traV	gene	type IV conjugative transfer system protein TraV				
+NGFG_00991	traC	gene	type-IV secretion system protein TraC				
+NGFG_00990		gene	hypothetical protein				
+NGFG_00989	trbI	gene	conjugal transfer pilin signal peptidase TrbI				
+NGFG_00988	traW	gene	type-F conjugative transfer system protein TraW				
+NGFG_00987	traU	gene	conjugal transfer pilus assembly protein TraU				
+NGFG_00986	trbC	gene	type-F conjugative transfer system pilin assembly protein TrbC				
+NGFG_00985		gene	hypothetical protein				
+NGFG_00984	traN	gene	conjugal transfer mating pair stabilization protein TraN				
+NGFG_00983		gene	hypothetical protein				
+NGFG_00982	traF	gene	conjugal transfer pilus assembly protein TraF				
+NGFG_00981	traH	gene	conjugative transfer pilus assembly protein TraH				
+NGFG_00980	traG	gene	conjugal transfer mating pair stabilization protein TraG				
+NGFG_00979		gene	hypothetical protein				
+NGFG_00978		gene	hypothetical protein				
+NGFG_00976		gene	CspA protein				
+NGFG_00975		gene	hypothetical protein				
+NGFG_00974		gene	hypothetical protein				
+NGFG_00973		gene	hypothetical protein				
+NGFG_00972		gene	hypothetical protein				
+NGFG_00971		gene	hypothetical protein				
+NGFG_00970		gene	hypothetical protein				
+NGFG_00969		gene	hypothetical protein				
+NGFG_02317		gene	hypothetical protein				
+NGFG_00968		gene	hypothetical protein				
+NGFG_00967		gene	hypothetical protein				
+NGFG_00966		gene	hypothetical protein				
+NGFG_00964		gene	hypothetical protein				
+NGFG_02318		gene	hypothetical protein				
+NGFG_02319		gene	hypothetical protein				
+NGFG_00963		gene	hypothetical protein				
+NGFG_00962		gene	hypothetical protein				
+NGFG_00961		gene	acetyltransferase				
+NGFG_00960		gene	hypothetical protein				
+NGFG_02320		gene	hypothetical protein				
+NGFG_02209		gene	hypothetical protein				
+NGFG_02321		gene	hypothetical protein				
+NGFG_00959		gene	hypothetical protein				
+NGFG_00958		gene	hypothetical protein				
+NGFG_00956		gene	hypothetical protein				
+NGFG_00955		gene	hypothetical protein				
+NGFG_00954		gene	hypothetical protein				
+NGFG_00953		gene	DNA topoisomerase III				
+NGFG_00952		gene	single-strand DNA-binding protein				
+NGFG_00950		gene	integrating conjugative element protein				
+NGFG_00949		gene	hypothetical protein				
+NGFG_00948		gene	hypothetical protein				
+NGFG_00947		gene	hypothetical protein				
+NGFG_00946		gene	chromosome partitioning protein ParB family protein				
+NGFG_00945		gene	hypothetical protein				
+NGFG_00943		gene	uracil-DNA glycosylase	NMB1222	ung	NGO_0786	ung
+NGFG_00942		gene	hypothetical protein	NMB1221		NGO_0787	
+NGFG_00941		gene	outer membrane protein	NMB1220		NGO_0788	
+NGFG_00940		gene	hypothetical protein	NMB1219		NGO_0789	
+NGFG_00938		gene	UPF0250 protein	NMB1218		NGO_0791	
+NGFG_00937		gene	octanoyltransferase	NMB1217	lipB	NGO_0792	lipB
+NGFG_00936		gene	lipoyl synthase	NMB1216	lipA	NGO_0793	lipA
+NGFG_00934		gene	bacterioferritin A	NMB1207	bfr	NGO_0794	bfr
+NGFG_00933		gene	bacterioferritin B	NMB1206	bfr	NGO_0795	bfr
+NGFG_00932		gene	transcriptional regulator	NMB1204		NGO_0797	
+NGFG_00931		gene	[protein-PII] uridylyltransferase	NMB1203	glnD	NGO_0798	glnD
+NGFG_00930		gene	inosine-5'-monophosphate dehydrogenase	NMB1201	guaB	NGO_0799	guaB
+NGFG_00928		gene	ribonuclease R	NMB1200	rnr	NGO_0801	rnr
+NGFG_00926		gene	GTP-binding protein TypA/BipA	NMB1199	typA	NGO_0803	typA
+NGFG_00925		gene	carbohydrate kinase	NMB1159		NGO_0804	
+NGFG_00924		gene	nickel-dependent hydrogenase%2C b-type cytochrome subunit	NMB1158		NGO_0805	
+NGFG_00923		gene	siroheme synthase			NGO_0806	
+NGFG_00922		gene	sulfite reductase [NADPH] flavoprotein alpha-component				
+NGFG_00921		gene	sulfite reductase [NADPH] flavoprotein alpha-component	NMB1152		NGO_04265	
+NGFG_00920		gene	sulfite reductase [NADPH] hemoprotein beta-component				
+NGFG_00919		gene	sulfite reductase [NADPH] hemoprotein beta-component	NMB1151	cysI	NGO_04270	cysI
+NGFG_00918		gene	dihydroxy-acid dehydratase	NMB1150	ilvD	NGO_0809	ilvD
+NGFG_02322		gene	hypothetical protein	NMB1147			
+NGFG_00914		gene	biotin synthase	NMB1146	bioB	NGO_0813	bioB
+NGFG_00913		gene	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase	NMB1145	mpl	NGO_0815	mpl
+NGFG_00912		gene	hypothetical protein	NMB1144		NGO_0816	
+NGFG_00911		gene	hypothetical protein	NMB1143		NGO_04310	
+NGFG_00910		gene	hypothetical protein			NGO_0818	
+NGFG_00909		gene	TrmH family RNA methyltransferase	NMB1141		NGO_0819	
+NGFG_00908		gene	tRNA(Ile)-lysidine synthase	NMB1140	tilS	NGO_0820	tilS
+NGFG_00907		gene	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	NMB1139		NGO_0821	
+NGFG_00906		gene	hsp15-like protein	NMB1138		NGO_0822	
+NGFG_00905	iscX	gene	FeS assembly protein IscX	NMB1137	iscX	NGO_0823	iscX
+NGFG_00903		gene	hypothetical protein	NMB1135a			
+NGFG_00901		gene	ferredoxin%2C 2Fe-2S type%2C ISC system protein	NMB1134	fdx	NGO_0825	fdx
+NGFG_00900		gene	hypothetical protein	NMB1133		NGO_0826	
+NGFG_00899		gene	hypothetical protein	NMB1132		NGO_0827	
+NGFG_00898	hscA	gene	Fe-S protein assembly chaperone HscA	NMB1131	hscA	NGO_0829	hscA
+NGFG_00897	hpnD	gene	squalene synthase HpnD	NMB1130	hpnD	NGO_0830	hpnD
+NGFG_00896		gene	oxidoreductase	NMB1128		NGO_0831	
+NGFG_00895		gene	short chain dehydrogenase	NMB1127		NGO_0832	
+NGFG_00894		gene	lipoprotein	NMB1126		NGO_0834	
+NGFG_00893		gene	hypothetical protein	NMB1125		NGO_04400	
+NGFG_00892		gene	lipoprotein	NMB1124		NGO_0835	
+NGFG_00889	hda	gene	DnaA regulatory inactivator Hda	NMB1076	hda	NGO_0841	hda
+NGFG_00888		gene	HAD hydrolase%2C family IB	NMB1075		NGO_0842	
+NGFG_02323		gene	ubiquitin-activating enzyme E1 family protein				
+NGFG_00886		gene	acetylglutamate kinase	NMB1074	argB	NGO_0844	argB
+NGFG_00884		gene	zinc carboxypeptidase	NMB1073		NGO_0845	
+NGFG_00883		gene	prolipoprotein diacylglyceryl transferase	NMB1072		NGO_0846	
+NGFG_00882		gene	yecA family protein	NMB1071		NGO_0847	
+NGFG_00881		gene	2-isopropylmalate synthase	NMB1070		NGO_0848	
+NGFG_00880		gene	glutamate 5-kinase	NMB1069	proB	NGO_04475	proB
+NGFG_00879		gene	gamma-glutamyl phosphate reductase	NMB1068		NGO_0850	
+NGFG_00878		gene	DNA translocase ftsK 2	NMB1067	ftsK	NGO_0851	ftsK
+NGFG_00877		gene	hypothetical protein	NMB1066		NGO_0852	
+NGFG_00876	crcB	gene	protein CrcB	NMB1065	crcB	NGO_0853	
+NGFG_00874		gene	ADP-ribose pyrophosphatase	NMB1064		NGO_04510	
+NGFG_00873		gene	dihydroneopterin aldolase	NMB1063	folB	NGO_0857	folB
+NGFG_00872		gene	glycerol-3-phosphate acyltransferase	NMB1062	plsY	NGO_0858	plsY
+NGFG_00871		gene	hypothetical protein	NMB1061	rlmJ	NGO_0859	rlmJ
+NGFG_00870		gene	hypothetical protein			NGO_04530	
+NGFG_00869		gene	hypothetical protein			NGO_0861	
+NGFG_00868		gene	fructose-1%2C6-bisphosphatase class 1	NMB1060		NGO_0862	
+NGFG_00867		gene	hypothetical protein	NMB1059		NGO_0863	
+NGFG_00866		gene	glutaredoxin-like protein	NMB1058	grxD		
+NGFG_00864		gene	hypothetical protein			NGO_0865	
+NGFG_00863		gene	serine hydroxymethyltransferase	NMB1055		NGO_0866	
+NGFG_00862		gene	hypothetical protein			NGO_0867	
+NGFG_00859		gene	dedA family membrane protein	NMB1052		NGO_0869	
+NGFG_00858		gene	ABC transporter ATP-binding protein	NMB1051		NGO_0870	
+NGFG_00857		gene	hypothetical protein			NGO_0871	
+NGFG_00856		gene	anthranilate synthase component 1	NMB1021		NGO_0872	
+NGFG_00855		gene	modification methylase NgoMIV			NGO_0873	
+NGFG_00854		gene	type-2 restriction enzyme NgoMIV			NGO_0874	
+NGFG_00853		gene	phosphoribosylaminoimidazole carboxylase%2C ATPase subunit	NMB1019		NGO_0875	
+NGFG_00852		gene	acetyltransferase	NMB1018		NGO_0876	
+NGFG_00851		gene	sulfate ABC transporter%2C sulfate-binding protein	NMB1017		NGO_04615	
+NGFG_00848		gene	hypothetical protein	NMB1016		NGO_0880	
+NGFG_02324		gene	transposase				
+NGFG_02325		gene	transposase	NMB1015		NGO_0881	
+NGFG_02200		gene	hypothetical protein	NMB1752		NGO_04640	
+NGFG_00847		gene	rubredoxin	NMB0993		NGO_0885	
+NGFG_00845		gene	acyl-CoA dehydrogenase	NMB0994		NGO_0886	
+NGFG_00844		gene	alkylhydroperoxidase	NMB0995		NGO_0887	
+NGFG_00843		gene	hypothetical protein	NMB0996		NGO_0888	
+NGFG_00841		gene	D-lactate dehydrogenase	NMB0997	dld	NGO_0890	dld
+NGFG_00840		gene	hypothetical protein			NGO_0891	
+NGFG_00839		gene	oxidoreductase	NMB0998		NGO_0893	
+NGFG_00836		gene	hypothetical protein			NGO_0895	
+NGFG_02326		gene	hypothetical protein				
+NGFG_00831	greA	gene	transcription elongation factor greA	NMB1430	greA	NGO_0899	greA
+NGFG_00829		gene	3-phosphoshikimate 1-carboxyvinyltransferase	NMB1432	aroA	NGO_0900	aroA
+NGFG_00828		gene	lipoprotein	NMB1433		NGO_0901	
+NGFG_00827		gene	phospholipase D-family protein	NMB1434		NGO_0902	
+NGFG_00826		gene	drug:H+ antiporter-2 (14 Spanner) (DHA2) family drug resistance MFS transporter	NMB1435		NGO_0903	
+NGFG_00825		gene	hypothetical protein	NMB1436		NGO_0904	
+NGFG_00824		gene	hypothetical protein	NMB1437		NGO_0905	
+NGFG_00823		gene	iron-sulfur cluster-binding protein	NMB1438		NGO_0906	
+NGFG_00822		gene	toxin component of toxin-antitoxin system			NGO_0907	fitB
+NGFG_00821		gene	antitoxin component of toxin-antitoxin system			NGO_0908	fitA
+NGFG_02328		gene	hypothetical protein	NMB1752		NGO_04640	
+NGFG_02329		gene	transposase			NGO_04785	
+NGFG_00820		gene	succinyl-CoA ligase [ADP-forming] subunit alpha	NMB0960	sucD	NGO_0912	sucD
+NGFG_00819		gene	succinyl-CoA ligase [ADP-forming] subunit beta	NMB0959	sucC	NGO_0913	sucC
+NGFG_00818		gene	hypothetical protein	NMB0958		NGO_0914	
+NGFG_00817		gene	dihydrolipoyl dehydrogenase	NMB0957	lpdA	NGO_0915	lpdA
+NGFG_00816		gene	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	NMB0956	odhB	NGO_0916	odhB
+NGFG_00815		gene	oxoglutarate dehydrogenase (succinyl-transferring)%2C E1 component	NMB0955		NGO_0917	
+NGFG_00814		gene	citrate (Si)-synthase	NMB0954	gltA	NGO_0918	gltA
+NGFG_00813		gene	hypothetical protein	NMB0952		NGO_0919	
+NGFG_00812		gene	succinate dehydrogenase and fumarate reductase iron-sulfur protein	NMB0951		NGO_0920	
+NGFG_00811		gene	succinate dehydrogenase%2C flavoprotein subunit	NMB0950	sdhA	NGO_0921	sdhA
+NGFG_00810		gene	succinate dehydrogenase%2C hydrophobic membrane anchor protein	NMB0949	sdhD	NGO_0922	sdhD
+NGFG_00809		gene	succinate dehydrogenase%2C cytochrome b556 subunit	NMB0948	sdhC	NGO_0923	sdhC
+NGFG_00807		gene	dihydrolipoamide dehydrogenase	NMB0947		NGO_0925	
+NGFG_00806		gene	peroxiredoxin	NMB0946		NGO_0926	
+NGFG_00804		gene	5-methyltetrahydropteroyltriglutamate-homocysteine methyltransferase	NMB0944	metE	NGO_0928	metE
+NGFG_00803		gene	5%2C10-methylenetetrahydrofolate reductase	NMB0943	metF	NGO_0929	metF
+NGFG_00802		gene	50S ribosomal protein L31 type B	NMB0942		NGO_0930	
+NGFG_00801		gene	50S ribosomal protein L36	NMB0941	rpmJ	NGO_0931	rpmJ
+NGFG_00800		gene	hypothetical protein			NGO_04890	
+NGFG_00799		gene	homoserine O-acetyltransferase	NMB0940		NGO_0933	
+NGFG_00798	metW	gene	methionine biosynthesis protein MetW	NMB0939	metW	NGO_0934	metW
+NGFG_00796		gene	elongation factor P	NMB0937	efp	NGO_0936	efp
+NGFG_00795		gene	hypothetical protein	NMB0935a	earP	NGO_0937	earP
+NGFG_00794		gene	hypothetical protein			NGO_0938	
+NGFG_00792		gene	tRNA dimethylallyltransferase	NMB0935	miaA	NGO_0940	miaA
+NGFG_00791		gene	cytosine deaminase	NMB0933		NGO_0941	
+NGFG_00790		gene	hypothetical protein	NMB0932		NGO_0942	
+NGFG_00789	rlmB	gene	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	NMB0931	rlmB	NGO_0942a	rlmB
+NGFG_00787		gene	dihydrodipicolinate synthase	NMB0929		NGO_0947	
+NGFG_00786		gene	lipoprotein	NMB0928	bamC	NGO_0948	bamC
+NGFG_00785		gene	proline iminopeptidase	NMB0927	pip	NGO_0949	pip
+NGFG_02330		gene	opacity protein	NMB1465		NGO_1277a	
+NGFG_02331		gene	hypothetical protein				
+NGFG_00782	hup	gene	heme-utilization protein Hup	NMB1497		NGO_0952	
+NGFG_00780		gene	hypothetical protein			NGO_04995	
+NGFG_00779		gene	aspartate kinase	NMB1498		NGO_0956	
+NGFG_00777		gene	ribonuclease PH	NMB1499	rph	NGO_0958	rph
+NGFG_00776		gene	universal stress protein	NMB1500		NGO_0959	
+NGFG_00775		gene	HesA/MoeB/ThiF family protein	NMB1501		NGO_0960	
+NGFG_00774		gene	segregation and condensation protein A	NMB1504		NGO_0961	
+NGFG_00773		gene	nicotinate phosphoribosyltransferase	NMB1505	pncB	NGO_0962	pncB
+NGFG_00772		gene	arginyl-tRNA synthetase	NMB1506	argS	NGO_0963	argS
+NGFG_00770		gene	hypothetical protein	NMB1508		NGO_05045	
+NGFG_02332		gene	hypothetical protein				
+NGFG_00768		gene	polar amino acid ABC transporter permease	NMB1509		NGO_0968	
+NGFG_00766		gene	nuclease	NMB1510		NGO_0969	
+NGFG_00765		gene	ribose-5-phosphate isomerase A	NMB1511	rpiA	NGO_0970	rpiA
+NGFG_00764		gene	2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase	NMB1512		NGO_0971	
+NGFG_00763		gene	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	NMB1513		NGO_0972	
+NGFG_00762		gene	DNA polymerase III%2C epsilon subunit	NMB1514	dnaQ	NGO_0973	dnaQ
+NGFG_00761		gene	major facilitator family transporter	NMB1515		NGO_0974	
+NGFG_00760		gene	cytochrome oxidase maturation protein	NMB1516	ccoS	NGO_0975	ccoS
+NGFG_00759		gene	hypothetical protein	NMB1517		NGO_0976	
+NGFG_00758		gene	acetate kinase 1	NMB1518		NGO_0977	
+NGFG_00757	dsbD	gene	Thiol:disulfide interchange protein DsbD	NMB1519	dsbD	NGO_0978	dsbD
+NGFG_00756		gene	hypothetical protein	NMB1521a		NGO_0979	
+NGFG_00755	hpnC	gene	squalene synthase HpnC	NMB1521	hpnC	NGO_0980	hpnC
+NGFG_00754	slyD	gene	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	NMB1522		NGO_0981	
+NGFG_00752		gene	outer membrane protein H.8	NMB1523		NGO_0983	
+NGFG_00751		gene	oxidoreductase%2C FAD-binding protein	NMB1524		NGO_0984	
+NGFG_00750		gene	thymidylate kinase			NGO_05145	
+NGFG_00747		gene	SsrA-binding protein	NMB1526	smpB	NGO_0986	smpB
+NGFG_00746		gene	lipopolysaccharide heptosyltransferase II	NMB1527	waaF	NGO_0987	waaF
+NGFG_00745		gene	methylated-DNA-[protein]-cysteine S-methyltransferase	NMB1528		NGO_0988	
+NGFG_00744		gene	hypothetical protein				
+NGFG_00743		gene	AraC family transcriptional regulator			NGO_0990	
+NGFG_00742		gene	succinyl-diaminopimelate desuccinylase	NMB1530	dapE	NGO_0991	dapE
+NGFG_00741		gene	hypothetical protein	NMB1531		NGO_0992	
+NGFG_00740		gene	hypothetical protein	NMB1532		NGO_0993	
+NGFG_00739		gene	outer membrane protein H.8	NMB1533	azu	NGO_0994	azu
+NGFG_00736		gene	hypothetical protein	NMB1536q		NGO_0995	
+NGFG_00735	secA	gene	protein translocase subunit secA	NMB1536	secA	NGO_0996	secA
+NGFG_00734		gene	DNA primase	NMB1537		NGO_0998	
+NGFG_00733	rpoD	gene	RNA polymerase sigma factor rpoD	NMB1538	rpoD	NGO_0999	rpoD
+NGFG_00732	cas4	gene	CRISPR-associated protein cas4			NGO_1000	
+NGFG_00731	cas4	gene	CRISPR-associated protein cas4				
+NGFG_00730		gene	hypothetical protein				
+NGFG_02333		gene	hypothetical protein				
+NGFG_00729		gene	CRISPR-associated recb family exonuclease			NGO_1001	cas4
+NGFG_00728		gene	phage protein			NGO_1002	
+NGFG_00727		gene	CRISPR-associated protein			NGO_1003	cas7c
+NGFG_02334		gene	transposase				cas5
+NGFG_02335		gene	hypothetical protein				
+NGFG_00725		gene	TraR family phage/conjugal plasmid C-4 type zinc finger protein			NGO_1007	
+NGFG_00724		gene	phage protein			NGO_1008	
+NGFG_00723		gene	phage protein	NMB1014		NGO_1009	
+NGFG_00721		gene	phage protein			NGO_1012	
+NGFG_00720		gene	phage repressor protein	NMB1007		NGO_1013	
+NGFG_00719		gene	hypothetical protein				
+NGFG_00718		gene	phage protein			NGO_1013a	
+NGFG_00717		gene	hypothetical protein	NMB1003		NGO_1015	
+NGFG_00715		gene	phage protein			NGO_1020	
+NGFG_00713		gene	2-nitropropane dioxygenase	NMB1452		NGO_1024	
+NGFG_00712		gene	hypothetical protein	NMB1453		NGO_1025	
+NGFG_00711		gene	ferredoxin	NMB1454	ccoG	NGO_1026	ccoG
+NGFG_00709		gene	transketolase	NMB1457	tkt	NGO_1028	tkt
+NGFG_00708		gene	fumarate hydratase class II	NMB1458	fumC	NGO_1029	fumC
+NGFG_00707		gene	hypothetical protein	NMB1459		NGO_1030	
+NGFG_00705		gene	single-stranded DNA-binding protein	NMB1460		NGO_1031	
+NGFG_00704		gene	major facilitator family transporter drug resistance translocase	NMB1461		NGO_1032	
+NGFG_00703		gene	transglycosylase	NMB1462		NGO_1033	
+NGFG_00701		gene	transposase			NGO_05410	
+NGFG_02336		gene	hypothetical protein	NMB1464		NGO_05415	
+NGFG_02337		gene	opacity protein	NMB1636		NGO_1277a	
+NGFG_02338		gene	opacity protein				
+NGFG_00699		gene	hypothetical protein	NMB1466		NGO_1040	
+NGFG_00698		gene	exopolyphosphatase	NMB1467	ppx	NGO_1041	
+NGFG_02339		gene	hypothetical protein	NMB1468		NGO_1043	
+NGFG_00696		gene	hypothetical protein	NMB1470		NGO_1044	
+NGFG_00695		gene	tryptophanyl-tRNA synthetase	NMB1471	trpS	NGO_1045	trpS
+NGFG_00694	clpB	gene	chaperone ClpB	NMB1472	clpB	NGO_1046	clpB
+NGFG_00693	alaT	gene	aminotransferase AlaT	NMB1473		NGO_1047	
+NGFG_00692		gene	4-oxalocrotonate tautomerase family enzyme	NMB1474		NGO_1048	
+NGFG_00691		gene	hypothetical protein	NMB1475		NGO_1049	
+NGFG_02340		gene	hypothetical protein				
+NGFG_00688		gene	phosphoglycolate phosphatase	NMB1478		NGO_1052	
+NGFG_00687	recX	gene	regulatory protein recX	NMB1479	recX	NGO_1053	recX
+NGFG_00686		gene	hypothetical protein	NMB1480		NGO_1054	
+NGFG_00684		gene	acyl-CoA thioester hydrolase	NMB1482		NGO_1055	
+NGFG_00683	nlpD	gene	lipoprotein NlpD	NMB1483		NGO_1056	
+NGFG_00682	surE	gene	5'-nucleotidase surE	NMB1484	surE	NGO_1058	surE
+NGFG_00679	fimB	gene	fimbrial assembly protein FimB	NMB1487		NGO_1060	
+NGFG_00678		gene	succinate-semialdehyde dehydrogenase	NMB1488		NGO_1061	
+NGFG_00676		gene	hypothetical protein	NMB1489		NGO_05545	
+NGFG_00675		gene	lipoprotein	NMB1490		NGO_1063	
+NGFG_00674		gene	carbon starvation protein	NMB1493		NGO_1064	
+NGFG_00673		gene	hypothetical protein	NMB1494		NGO_1065	
+NGFG_02341		gene	hypothetical protein			NGO_1074	
+NGFG_02217	mafA	gene	adhesin mafA	NMB2104	mafA	NGO_1067	mafA
+NGFG_00672		gene	MafB family adhesin protein	NMB2105	mafB	NGO_1971	
+NGFG_00671		gene	hypothetical protein				
+NGFG_00670		gene	hypothetical protein	NMB2112			
+NGFG_02342		gene	hypothetical protein				
+NGFG_02343		gene	hypothetical protein				
+NGFG_00667		gene	hypothetical protein	NMB2121			
+NGFG_00666		gene	hypothetical protein				
+NGFG_02344		gene	hypothetical protein				
+NGFG_02345		gene	hypothetical protein				
+NGFG_02346		gene	MafB family adhesin protein	NMB2105	mafB	NGO_1068	mafB
+NGFG_02347		gene	hypothetical protein				
+NGFG_02348		gene	hypothetical protein	NMB2113		NGO_1069	
+NGFG_02349		gene	hypothetical protein				
+NGFG_00664		gene	hypothetical protein	NMB2118		NGO_1070	
+NGFG_00662		gene	hypothetical protein				
+NGFG_00661		gene	hypothetical protein	NMB2115		NGO_1073	
+NGFG_02350		gene	hypothetical protein			NGO_1074	
+NGFG_02351		gene	opacity protein	NMB1636		NGO_1073a	
+NGFG_00659	yciA	gene	acyl-CoA thioesterase YciA	NMB0925	yciA	NGO_1078	yciA
+NGFG_00658		gene	oxidoreductase	NMB0924		NGO_1079	
+NGFG_00657		gene	cytochrome c'	NMB0923		NGO_1080	
+NGFG_00656		gene	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2%2C3-sialyltransferase	NMB0922	lst	NGO_1081	lst
+NGFG_00654		gene	isocitrate dehydrogenase%2C NADP-dependent	NMB0920		NGO_1082	
+NGFG_00653		gene	hypothetical protein			NGO_1083	
+NGFG_00652		gene	hypothetical protein			NGO_1084	
+NGFG_00651		gene	phage protein			NGO_1085	
+NGFG_00649		gene	hypothetical protein			NGO_05680	
+NGFG_00648		gene	phage protein			NGO_1088	
+NGFG_00647		gene	phage protein			NGO_1089	
+NGFG_00646		gene	phage protein			NGO_1090	
+NGFG_02352		gene	phage protein			NGO_1092	
+NGFG_00643		gene	phage protein			NGO_1094	
+NGFG_00641		gene	PBSX family phage terminase%2C large subunit			NGO_1098	
+NGFG_00640		gene	phage protein			NGO_1099	
+NGFG_00639		gene	phage protein			NGO_1101	
+NGFG_00638		gene	phage protein			NGO_1102	
+NGFG_00637		gene	phage protein			NGO_1103	ninB
+NGFG_02353		gene	phage protein			NGO_1104	
+NGFG_02354		gene	phage protein			NGO_05770	
+NGFG_02355		gene	hypothetical protein				
+NGFG_02245		gene	hypothetical protein			NGO_0488	
+NGFG_02356		gene	phage protein				
+NGFG_02357		gene	phage protein			NGO_0487	
+NGFG_01308		gene	phage protein			NGO_0486	
+NGFG_01309		gene	DnaB family phage replicative helicase			NGO_0485	
+NGFG_02358		gene	hypothetical protein				
+NGFG_02359		gene	hypothetical protein				
+NGFG_02360		gene	hypothetical protein				
+NGFG_02189		gene	phage protein			NGO_0483	
+NGFG_02188		gene	phage repressor protein	NMB0910		NGO_1116	
+NGFG_02187		gene	phage protein			NGO_1117	
+NGFG_02186		gene	phage protein			NGO_1118	
+NGFG_02185		gene	phage protein			NGO_1119	
+NGFG_02361		gene	phage protein			NGO_1120	
+NGFG_02362		gene	phage protein			NGO_0474	
+NGFG_02363		gene	hypothetical protein				
+NGFG_02364		gene	phage protein			NGO_1123	
+NGFG_02365		gene	phage protein			NGO_1622	
+NGFG_02366		gene	phage protein			NGO_0470	
+NGFG_02367		gene	phage protein			NGO_0469	
+NGFG_02368		gene	phage protein			NGO_0468	
+NGFG_02369		gene	hypothetical protein				
+NGFG_02232		gene	phage protein			NGO_1128	
+NGFG_02231		gene	phage protein			NGO_0466	
+NGFG_02370		gene	phage protein			NGO_1130	
+NGFG_02213		gene	hypothetical protein			NGO_1131	
+NGFG_02371		gene	phage protein			NGO_1131	
+NGFG_02190		gene	phage protein			NGO_1132	
+NGFG_02191		gene	hypothetical protein	NMB1253		NGO_1133	
+NGFG_02192		gene	GTP cyclohydrolase-2	NMB1254	ribA	NGO_1134	ribA
+NGFG_02372		gene	hypothetical protein			NGO_1136	
+NGFG_02373		gene	hypothetical protein			NGO_0773	
+NGFG_02374		gene	phage protein			NGO_06650	
+NGFG_02375		gene	hypothetical protein				
+NGFG_02376		gene	phage protein	NMB1749		NGO_1138	
+NGFG_02073		gene	TspB-like protein	NMB1748		NGO_1264	
+NGFG_02074		gene	hypothetical protein				
+NGFG_02075		gene	hypothetical protein	NMB0482		NGO_1142	
+NGFG_02377		gene	phage protein	NMB0483		NGO_1143	
+NGFG_02076		gene	hypothetical protein			NGO_1144	
+NGFG_02077		gene	hypothetical protein			NGO_1145	
+NGFG_02078		gene	phage protein			NGO_1146	
+NGFG_02079		gene	hypothetical protein			NGO_1147	
+NGFG_02080		gene	hypothetical protein	NMB1608a		NGO_1148	
+NGFG_02081		gene	O-succinylhomoserine sulfhydrylase	NMB1609	metZ	NGO_1149	metZ
+NGFG_02082		gene	hypothetical protein	NMB1610		NGO_1150	
+NGFG_02084		gene	hypothetical protein	NMB1611		NGO_1151	
+NGFG_02085		gene	histidine-binding protein	NMB1612		NGO_1152	
+NGFG_02086		gene	fumarate hydratase	NMB1613		NGO_06020	
+NGFG_02087	trkA	gene	trk system potassium uptake protein TrkA	NMB1614	trkA	NGO_1154	trkA
+NGFG_02088		gene	outer membrane autotransporter barrel domain-containing protein			NGO_1155	
+NGFG_02089		gene	hypothetical protein			NGO_1156	
+NGFG_02378		gene	transposase	NMB1411		NGO_0673	
+NGFG_02090		gene	hypothetical protein			NGO_1158	
+NGFG_02092		gene	phosphomethylpyrimidine kinase	NMB1616	thiD	NGO_1160	thiD
+NGFG_02093	tehB	gene	tellurite resistance protein TehB	NMB1617	tehB	NGO_1161	tehB
+NGFG_02094		gene	ribonuclease H	NMB1618	rnhA	NGO_1162	rnhA
+NGFG_02379		gene	hypothetical protein			NGO_1137	
+NGFG_02380		gene	phage protein			NGO_06650	
+NGFG_02381		gene	phage protein	NMB1749		NGO_1263	
+NGFG_02382		gene	phage protein	NMB1748		NGO_1264	
+NGFG_02383		gene	TspB3 protein	NMB1747	tspB	NGO_1140	tspB
+NGFG_02384		gene	cell-surface protein				
+NGFG_02385		gene	hypothetical protein				
+NGFG_02386		gene	hypothetical protein	NMB0482		NGO_1142	
+NGFG_02387		gene	hypothetical protein	NMB0484		NGO_1169	
+NGFG_02388		gene	hypothetical protein	NMB0485		NGO_1170	
+NGFG_02389		gene	replication initiation factor	NMB0486			
+NGFG_02180	vsr	gene	DNA mismatch endonuclease Vsr			NGO_1173	
+NGFG_02183		gene	hypothetical protein				
+NGFG_02390		gene	hypothetical protein				
+NGFG_02184		gene	pilin	NMB2016		NGO_1177	
+NGFG_02391		gene	comEA protein	NMB0299		NGO_1178	
+NGFG_01986	iIB	gene	HAD hydrolase%2C family IIB				
+NGFG_02392		gene	transposase	NMB1411		NGO_0528	
+NGFG_01987		gene	nitrogen regulatory protein P-II 1	NMB1995		NGO_1182	
+NGFG_01988		gene	phosphoribosylformylglycinamidine synthase	NMB1996	purL	NGO_1183	purL
+NGFG_01989		gene	FMN oxidoreductase			NGO_1184	
+NGFG_01990		gene	ArsR family transcriptional regulator			NGO_1185	
+NGFG_01992		gene	hydroxyacylglutathione hydrolase	NMB1997	gloB	NGO_1187	gloB
+NGFG_01993		gene	magnesium transporter	NMB1999	mgtE	NGO_1188	mgtE
+NGFG_01994		gene	hsp33-like protein	NMB2000	hslO	NGO_1189	hslO
+NGFG_01996		gene	outer membrane protein	NMB2001		NGO_1190	
+NGFG_01997		gene	hypothetical protein	NMB2002		NGO_1191	
+NGFG_01999		gene	holin-like protein	NMB2003		NGO_1192	
+NGFG_02000		gene	LrgB family protein	NMB2004		NGO_1193	
+NGFG_02001	argJ	gene	arginine biosynthesis ArgJ	NMB2005	argJ	NGO_1194	argJ
+NGFG_02002		gene	chloride channel protein	NMB2006		NGO_1195	
+NGFG_02003	hrpA	gene	ATP-dependent helicase HrpA	NMB2007	hrpA	NGO_1196	hrpA
+NGFG_02004		gene	hypothetical protein			NGO_1197	
+NGFG_02005		gene	sulfatase	NMB2010	lpt3	NGO_1198	lpt3
+NGFG_02006	hrpA	gene	ATP-dependent helicase HrpA			NGO_1199	
+NGFG_02393		gene	hypothetical protein			NGO_0773	
+NGFG_02248		gene	hypothetical protein				
+NGFG_02394		gene	transposase			NGO_0072a	
+NGFG_02007		gene	anthranilate phosphoribosyltransferase	NMB0967	trpD	NGO_1203	trpD
+NGFG_02008		gene	anthranilate synthase component II	NMB0966		NGO_1204	
+NGFG_02010		gene	TonB-dependent receptor	NMB0964		NGO_1205	
+NGFG_02011		gene	phosphatidylserine decarboxylase proenzyme	NMB0963		NGO_1206	
+NGFG_02012		gene	UvrABC system protein A	NMB0962	uvrA	NGO_1207	uvrA
+NGFG_02013		gene	restriction endonuclease			NGO_1208	
+NGFG_02014		gene	DNA (cytosine-5-)-methyltransferase			NGO_1209	dcm
+NGFG_02015		gene	hypothetical protein				
+NGFG_02395		gene	transposase	NMB1411		NGO_1211	
+NGFG_02016		gene	CTP synthase	NMB1554		NGO_1212	
+NGFG_02017		gene	long-chain acyl-CoA synthetase	NMB1555		NGO_1213	
+NGFG_02018	mnmA	gene	tRNA-specific 2-thiouridylase mnmA	NMB1556	mnmA	NGO_1214	mnmA
+NGFG_02019		gene	hypothetical protein	NMB1557		NGO_1215	
+NGFG_02020		gene	diacylglycerol kinase	NMB1558		NGO_1216	
+NGFG_02022		gene	glutathione synthetase	NMB1559	gshB	NGO_1217	gshB
+NGFG_02023		gene	glutaminyl-tRNA synthetase	NMB1560		NGO_1218	
+NGFG_02024		gene	DeoR family transcriptional regulator%2C glycerol-3-phosphate regulon repressor	NMB1561		NGO_1219	
+NGFG_02025		gene	hypothetical protein	NMB1562		NGO_1220	
+NGFG_02027		gene	GntR family transcriptional regulator	NMB1563		NGO_1221	
+NGFG_02029		gene	OsmC family redox protein	NMB1564		NGO_1222	
+NGFG_02030		gene	hypothetical protein	NMB1565		NGO_1223	
+NGFG_02031		gene	phosphoribosylglycinamide formyltransferase	NMB1566		NGO_1224	
+NGFG_02032	fkpA	gene	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA	NMB1567		NGO_1225	
+NGFG_02033	chi	gene	DNA polymerase III subunit chi	NMB1568	chi	NGO_1226	chi
+NGFG_02034		gene	aminopeptidase A	NMB1569		NGO_1227	
+NGFG_02035		gene	lipopolysaccharide exporter permease	NMB1570	lptF	NGO_1228	lptF
+NGFG_02036		gene	lipopolysaccharide exporter permease	NMB1571	lptG	NGO_1229	lptG
+NGFG_02037		gene	aconitate hydratase 2	NMB1572	acnB	NGO_1231	acnB
+NGFG_02038		gene	ornithine carbamoyltransferase	NMB1573		NGO_1232	
+NGFG_02039		gene	ketol-acid reductoisomerase	NMB1574	ilvC	NGO_1233	ilvC
+NGFG_02040		gene	hypothetical protein	NMB1575		NGO_1234	
+NGFG_02041		gene	acetolactate synthase%2C small subunit	NMB1576	ilvN	NGO_1235	ilvN
+NGFG_02042		gene	acetolactate synthase%2C large subunit%2C biosynthetic type	NMB1577	ilvB	NGO_1236	ilvB
+NGFG_02043		gene	lipoprotein	NMB1578		NGO_1237	
+NGFG_02044		gene	ATP phosphoribosyltransferase	NMB1579		NGO_1238	
+NGFG_02045		gene	hypothetical protein	NMB1580		NGO_1239	
+NGFG_02046		gene	histidinol dehydrogenase	NMB1581	hisD	NGO_1240	hisD
+NGFG_02047		gene	histidinol-phosphate aminotransferase	NMB1582		NGO_1241	
+NGFG_02048		gene	imidazoleglycerol-phosphate dehydratase	NMB1583	hisB	NGO_1242	hisB
+NGFG_02049		gene	3-hydroxyisobutyrate dehydrogenase	NMB1584		NGO_1243	
+NGFG_02050		gene	hypothetical protein				
+NGFG_02051		gene	MarR family transcriptional regulator	NMB1585		NGO_1244	
+NGFG_02052		gene	hypothetical protein	NMB1586		NGO_1245	
+NGFG_02053		gene	signal peptide peptidase SppA%2C 36K type	NMB1587	sohB	NGO_1246	sohB
+NGFG_02054		gene	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase	NMB1588	pgsA	NGO_1247	pgsA
+NGFG_02055		gene	hypothetical protein			NGO_1248	
+NGFG_02056		gene	4-carboxymuconolactone decarboxylase	NMB1590		NGO_1249	
+NGFG_02057	mtrA	gene	transcriptional regulator MtrA	NMB1591	mtrA	NGO_1250	mtrA
+NGFG_02058		gene	hypothetical protein	NMB1592		NGO_1251	
+NGFG_02396		gene	hypothetical protein	NMB1593		NGO_1252	
+NGFG_02061		gene	putrescine ABC transporter substrate-binding protein	NMB1594		NGO_1253	
+NGFG_02062		gene	alanyl-tRNA synthetase	NMB1595	alaS	NGO_1254	alaS
+NGFG_02397		gene	transposase	NMB1411		NGO_0673	
+NGFG_02065		gene	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase	NMB1604		NGO_1258	
+NGFG_02066		gene	DNA topoisomerase 4 subunit A	NMB1605	parC	NGO_1259	parC
+NGFG_02067	pilS	gene	two-component system%2C NtrC family%2C sensor kinase PilS	NMB1606		NGO_1260	
+NGFG_02068		gene	UPF0341 protein in rsp 3'region	NMB1608		NGO_1261	
+NGFG_02398		gene	hypothetical protein			NGO_1137	
+NGFG_02399		gene	phage protein			NGO_06650	
+NGFG_02400		gene	phage protein	NMB1749		NGO_1263	
+NGFG_02401		gene	phage protein	NMB1748		NGO_1264	
+NGFG_02402		gene	TspB-like protein	NMB1747	tspB	NGO_1140	tspB
+NGFG_02403		gene	hypothetical protein				
+NGFG_02404		gene	hypothetical protein	NMB0482		NGO_1142	
+NGFG_02196		gene	hypothetical protein	NMB0484		NGO_1169	
+NGFG_02197		gene	hypothetical protein	NMB0485		NGO_1170	
+NGFG_02198		gene	replication initiation factor	NMB0486			
+NGFG_02151		gene	hypothetical protein	NMB1619		NGO_1273	
+NGFG_02152		gene	muramoyltetrapeptide carboxypeptidase	NMB1620		NGO_1274	
+NGFG_02153		gene	nitric oxide reductase subunit B	NMB1622		NGO_1275	
+NGFG_02154		gene	copper-containing nitrite reductase	NMB1623	nirK	NGO_1276	nirK
+NGFG_02155		gene	formylglycine-generating sulfatase enzyme	NMB1624		NGO_1277	
+NGFG_02405		gene	pilin pilS5			NGO_11165	
+NGFG_02406		gene	opacity protein	NMB1465		NGO_1277a	
+NGFG_02156		gene	nitroreductase	NMB1637		NGO_1279	
+NGFG_02157		gene	sulfatase	NMB1638	lptA	NGO_06735	
+NGFG_02407		gene	phosphoserine aminotransferase	NMB1640	serC	NGO_1283	serC
+NGFG_02160	rimP	gene	ribosome maturation factor RimP	NMB1641	rimP	NGO_1284	rimP
+NGFG_02161	nusA	gene	transcription termination factor NusA	NMB1642	nusA	NGO_1285	nusA
+NGFG_02162		gene	translation initiation factor IF-2	NMB1643	infB	NGO_1286	infB
+NGFG_02163		gene	GTP-binding protein	NMB1644		NGO_1287	
+NGFG_02164		gene	hypothetical protein	NMB1645		NGO_1288	
+NGFG_02165		gene	hemolysin III family channel protein	NMB1646		NGO_1289	
+NGFG_02166		gene	sodium:alanine symporter	NMB1647		NGO_1290	
+NGFG_02167		gene	UPF0082 protein	NMB1648		NGO_1291	
+NGFG_02170		gene	lrp/AsnC family transcriptional regulator%2C leucine-responsive regulatory protein	NMB1650		NGO_1294	
+NGFG_02171		gene	alanine racemase	NMB1651	alr	NGO_1295	alr
+NGFG_02173		gene	UPF0210 protein	NMB1652		NGO_1297	
+NGFG_02174		gene	ACT protein	NMB1653		NGO_1298	
+NGFG_02175		gene	hypothetical protein	NMB1654		NGO_1299	
+NGFG_02176		gene	protein-(glutamine-N5) methyltransferase%2C ribosomal protein L3-specific	NMB1655	prmB	NGO_1300	prmB
+NGFG_02408		gene	transposase	NMB1411		NGO_0673	
+NGFG_02244		gene	phage protein			NGO_06860	
+NGFG_02409		gene	comEA protein	NMB0299		NGO_1178	
+NGFG_01611		gene	phosphopantothenoylcysteine decarboxylase/phosphopantothenate-cysteine ligase	NMB1658	coaBC	NGO_1307	coaBC
+NGFG_01610		gene	RelA/SpoT family protein	NMB1659		NGO_1308	
+NGFG_01609		gene	DNA-directed RNA polymerase subunit omega	NMB1660		NGO_1309	
+NGFG_01608		gene	guanylate kinase	NMB1661	gmk	NGO_1310	gmk
+NGFG_01607		gene	adenine phosphoribosyltransferase	NMB1662		NGO_1311	
+NGFG_01606		gene	HAD hydrolase	NMB1663		NGO_1312	
+NGFG_01605		gene	protease	NMB1664	yegQ	NGO_1314	yegQ
+NGFG_01603		gene	hypothetical protein				
+NGFG_01602		gene	hemoglobin receptor				
+NGFG_01601		gene	hemoglobin/transferrin/lactoferrin receptor protein				
+NGFG_01600		gene	hemoglobin receptor				
+NGFG_02410		gene	transposase	NMB1411		NGO_0528	
+NGFG_01599		gene	heme oxygenase	NMB1669		NGO_1318	
+NGFG_01598	pqiA	gene	paraquat-inducible protein PqiA	NMB1670		NGO_1319	
+NGFG_01597		gene	paraquat-inducible protein B	NMB1671	pqiB	NGO_1320	pqiB
+NGFG_01596		gene	hypothetical protein	NMB1672	pqiC	NGO_1321	pqiC
+NGFG_01595		gene	DNA-3-methyladenine glycosylase I	NMB1673		NGO_1322	
+NGFG_01594		gene	GDSL lipase/acylhydrolase	NMB1674		NGO_1323	
+NGFG_01593		gene	hypothetical protein	NMB1675		NGO_1324	
+NGFG_01592		gene	glycine dehydrogenase [decarboxylating]	NMB1676	gcvP	NGO_1325	gcvP
+NGFG_02411		gene	hypothetical protein	NMB1736		NGO_00200	
+NGFG_02412		gene	hypothetical protein				
+NGFG_01591		gene	cytochrome c	NMB1677		NGO_1328	
+NGFG_01590		gene	aromatic-amino-acid transaminase	NMB1678		NGO_1329	
+NGFG_01589		gene	tRNA (uracil-5-)-methyltransferase	NMB1679	trmA	NGO_1330	trmA
+NGFG_01588		gene	chorismate synthase	NMB1680	aroC	NGO_1331	aroC
+NGFG_01587		gene	hypothetical protein	NMB1681	proQ	NGO_1332	proQ
+NGFG_01586		gene	DNA topoisomerase IV%2C B subunit	NMB1682	parE	NGO_1333	
+NGFG_01585		gene	dinucleoside polyphosphate hydrolase	NMB1683		NGO_1334	
+NGFG_01584		gene	seryl-tRNA synthetase	NMB1684	serS	NGO_1335	serS
+NGFG_01583		gene	D-lactate dehydrogenase	NMB1685		NGO_1336	
+NGFG_01582		gene	peptide chain release factor 1	NMB1686	prfA	NGO_1337	prfA
+NGFG_01581		gene	TatD family hydrolase	NMB1687		NGO_1338	
+NGFG_01580		gene	L-asparaginase	NMB1688		NGO_1339	
+NGFG_01579		gene	dedA family membrane protein	NMB1689		NGO_1340	
+NGFG_01578		gene	phosphoglucosamine mutase	NMB1690	glmM	NGO_1341	glmM
+NGFG_01577		gene	dihydropteroate synthase	NMB1691	folP	NGO_1342	folP
+NGFG_01576		gene	hypothetical protein	NMB1692		NGO_1343	
+NGFG_01575		gene	AsmA-like protein	NMB1693		NGO_1344	
+NGFG_01574		gene	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	NMB1694	ubiD	NGO_1345	ubiD
+NGFG_01573		gene	hypothetical protein	NMB1696a		NGO_1346	
+NGFG_01572		gene	hypothetical protein	NMB1696b		NGO_1347	
+NGFG_02413		gene	hypothetical protein				
+NGFG_01571		gene	hypothetical protein	NMB1699		NGO_1349	
+NGFG_01569		gene	hypothetical protein				
+NGFG_01568		gene	3-oxoacyl-[acyl-carrier-protein] reductase	NMB1702	fabG	NGO_07125	fabG
+NGFG_01567		gene	3-oxoacyl-[acyl-carrier-protein] synthase II	NMB1703		NGO_1352	
+NGFG_01566	lgtF	gene	beta-1%2C4-glucosyltransferase LgtF	NMB1704		NGO_1353	
+NGFG_01565		gene	lipopolysaccharide N-acetylglucosaminyltransferase	NMB1705		NGO_1354	
+NGFG_01564		gene	NSS family neurotransmitter:Na+ symporter	NMB1707		NGO_1355	
+NGFG_01562		gene	thymidylate synthase	NMB1709		NGO_1357	
+NGFG_01561		gene	glutamate dehydrogenase (NADP+)	NMB1710	gdhA	NGO_1358	gdhA
+NGFG_01560		gene	hypothetical protein				
+NGFG_01559		gene	GntR family transcriptional regulator	NMB1711		NGO_1360	
+NGFG_01558		gene	L-lactate permease-like protein	NMB1712		NGO_1361	
+NGFG_01556		gene	NodT family efflux transporter%2C outer membrane factor (OMF) lipoprotein	NMB1714	mtrE	NGO_1363	mtrE
+NGFG_01555		gene	hydrophobe/amphiphile efflux-1 (HAE1) family RND transporter	NMB1715	mtrD	NGO_1364	mtrD
+NGFG_01554	mtrC	gene	membrane fusion protein mtrC	NMB1716	mtrC	NGO_1365	mtrC
+NGFG_01553		gene	TetR/AcrR family transcriptional regulator%2C acrAB operon repressor	NMB1717	mtrR	NGO_1366	mtrR
+NGFG_01552		gene	hypothetical protein	NMB1718		NGO_1367	
+NGFG_01551		gene	AbgT transporter	NMB1719	mtrF	NGO_1368	mtrF
+NGFG_01550		gene	exodeoxyribonuclease V%2C gamma subunit	NMB1720	recC	NGO_1369	recC
+NGFG_01549		gene	hypothetical protein	NMB1721		NGO_1370	
+NGFG_01548		gene	cytochrome c oxidase%2C cbb3-type%2C subunit III	NMB1723	ccoP	NGO_1371	ccoP
+NGFG_01547		gene	cytochrome c oxidase subunit	NMB1723a		NGO_1372	
+NGFG_01546		gene	cytochrome c oxidase%2C cbb3-type%2C subunit II	NMB1724	ccoO	NGO_1373	ccoO
+NGFG_01545		gene	cytochrome c oxidase%2C cbb3-type%2C subunit I	NMB1725	ccoN	NGO_1374	ccoN
+NGFG_02414		gene	hypothetical protein				
+NGFG_01544		gene	M61 family glycyl aminopeptidase	NMB1726		NGO_1375	
+NGFG_01543		gene	hypothetical protein	NMB1727		NGO_1376	
+NGFG_01542	exbD	gene	biopolymer transporter exbD	NMB1728	exbD	NGO_1377	exbD
+NGFG_01541	exbB	gene	biopolymer transporter exbB	NMB1729	exbB	NGO_1378	exbB
+NGFG_01540	tonB	gene	protein tonB	NMB1730	tonB	NGO_1379	tonB
+NGFG_01539		gene	M50 family peptidase	NMB1731		NGO_1380	
+NGFG_01538		gene	GrxB family glutaredoxin	NMB1734	grxB	NGO_1381	grxB
+NGFG_01537		gene	GTP pyrophosphokinase	NMB1735		NGO_1382	
+NGFG_01536		gene	hypothetical protein	NMB0370		NGO_1383	
+NGFG_02415		gene	hypothetical protein	NMB0368		NGO_1384	
+NGFG_02416		gene	hypothetical protein	NMB0369		NGO_1385	
+NGFG_02203		gene	hypothetical protein			NGO_1386a	
+NGFG_02204		gene	hypothetical protein			NGO_07320	
+NGFG_02205		gene	hypothetical protein	NMB0655		NGO_1386	
+NGFG_02417		gene	hypothetical protein	NMB0373			
+NGFG_01534		gene	MafB protein				
+NGFG_01533		gene	hypothetical protein			NGO_1586	
+NGFG_01532		gene	MafB protein				
+NGFG_01531		gene	hypothetical protein				
+NGFG_02418		gene	hypothetical protein	NMB0655			
+NGFG_01529		gene	hypothetical protein			NGO_1388	
+NGFG_01528		gene	hypothetical protein			NGO_1389	rraB
+NGFG_01527		gene	hypothetical protein			NGO_1390	
+NGFG_01526		gene	hypothetical protein			NGO_1391	
+NGFG_02419		gene	MafB family adhesin protein	NMB0374	mafB	NGO_1392	mafB
+NGFG_02194		gene	adhesin mafA 2/3	NMB0375	mafA	NGO_1393	mafA
+NGFG_02420		gene	transposase	NMB1411		NGO_0673	
+NGFG_02421		gene	bacteriocin resistance protein	NMB0582		NGO_1395	
+NGFG_01524		gene	electron-transfer flavoprotein dehydrogenase	NMB0581		NGO_1396	
+NGFG_01523		gene	NosL-like lipoprotein	NMB0580	nosL	NGO_1397	nosL
+NGFG_01522		gene	ABC transporter permease			NGO_1398	
+NGFG_01521		gene	ABC transporter ATP-binding protein	NMB0579		NGO_1399	
+NGFG_01520		gene	copper ABC transporter periplasmic copper-binding protein				
+NGFG_01519		gene	nitrous oxidase accessory protein	NMB0578	nosD		nosD
+NGFG_01517	nosR	gene	nitrous-oxide reductase transcriptional activator NosR				nosR
+NGFG_01516		gene	FMN-binding protein				
+NGFG_01515		gene	glutamyl-tRNA reductase	NMB0576		NGO_1403	
+NGFG_01514		gene	glycine cleavage system H protein	NMB0575	gcvH	NGO_1404	gcvH
+NGFG_01513		gene	hypothetical protein			NGO_1405	
+NGFG_01512		gene	aminomethyltransferase	NMB0574	gcvT	NGO_1406	gcvT
+NGFG_01511		gene	lrp/AsnC family transcriptional regulator%2C leucine-responsive regulatory protein	NMB0573		NGO_1407	
+NGFG_01510		gene	hypothetical protein	NMB0572		NGO_1408	
+NGFG_01509		gene	hypothetical protein	NMB0571		NGO_1410	
+NGFG_01507		gene	citrate transporter	NMB0570		NGO_1411	
+NGFG_02422		gene	transposase	NMB1411		NGO_1211	
+NGFG_01506		gene	Na(+)-translocating NADH-quinone reductase subunit A	NMB0569		NGO_1413	
+NGFG_01505		gene	Na(+)-translocating NADH-quinone reductase subunit B	NMB0568		NGO_1414	
+NGFG_01504		gene	Na(+)-translocating NADH-quinone reductase subunit C	NMB0567		NGO_1415	
+NGFG_01503		gene	Na(+)-translocating NADH-quinone reductase subunit D	NMB0566		NGO_1416	
+NGFG_01502		gene	Na(+)-translocating NADH-quinone reductase subunit E	NMB0565	nqrE	NGO_1417	nqrE
+NGFG_01501		gene	Na(+)-translocating NADH-quinone reductase subunit F	NMB0564	nqrF	NGO_1418	nqrF
+NGFG_01500		gene	hypothetical protein				
+NGFG_01499		gene	thiamine biosynthesis lipoprotein	NMB0563		NGO_1420	
+NGFG_01498		gene	hypothetical protein	NMB0562	nqrM	NGO_1421	nqrM
+NGFG_01497	grpE	gene	protein grpE	NMB0561	grpE	NGO_1422	grpE
+NGFG_01496		gene	serine O-acetyltransferase	NMB0560	cysE	NGO_1423	cysE
+NGFG_01495		gene	ubiquinone biosynthesis protein	NMB0559	ubiB	NGO_1424	ubiB
+NGFG_01493		gene	iron-sulfur cluster assembly accessory protein	NMB0557	erpA	NGO_1426	erpA
+NGFG_01492		gene	transcriptional regulator	NMB0556		NGO_1427	
+NGFG_01491		gene	hypothetical protein	NMB0555		NGO_1428	
+NGFG_01490	dnaK	gene	chaperone dnaK	NMB0554	dnaK	NGO_1429	dnaK
+NGFG_01488		gene	Tat (Twin-arginine translocation) pathway signaling protein			NGO_1432	
+NGFG_01486		gene	NitT/TauT ABC transporter ATP-binding protein			NGO_1434	
+NGFG_01485		gene	cadmium resistance transporter			NGO_1435	
+NGFG_01483		gene	primosomal protein N'	NMB0551		NGO_1437	
+NGFG_01482	dsbC	gene	thiol:disulfide interchange protein DsbC	NMB0550		NGO_1438	
+NGFG_01481	macB	gene	macrolide export ATP-binding/permease MacB	NMB0549	macB	NGO_1439	macB
+NGFG_01480		gene	efflux transporter%2C RND family%2C MFP subunit	NMB0548	macA	NGO_1440	macA
+NGFG_01479		gene	prepilin-type N-terminal cleavage/methylation domain-containing protein	NMB0547		NGO_1441	
+NGFG_01478		gene	alcohol dehydrogenase%2C propanol-preferring	NMB0546	adhP	NGO_1442	adhP
+NGFG_01476		gene	chromosome segregation protein SMC	NMB0545		NGO_1443	
+NGFG_02423		gene	hypothetical protein				
+NGFG_01472		gene	UDP-2%2C3-diacylglucosamine hydrolase	NMB0544	lpxH	NGO_1448	lpxH
+NGFG_01471		gene	lactate permease (LctP) family transporter	NMB0543		NGO_1449	
+NGFG_01470		gene	hypothetical protein	NMB0542		NGO_1450	
+NGFG_01469		gene	hypothetical protein	NMB0541		NGO_1451	
+NGFG_01468		gene	aspartate aminotransferase	NMB0540		NGO_1452	
+NGFG_02424		gene	hypothetical protein	NMB1736		NGO_00200	
+NGFG_02425		gene	hypothetical protein				
+NGFG_01467		gene	lysyl-tRNA synthetase	NMB1425	lysS	NGO_1454	lysS
+NGFG_01466		gene	hypothetical protein	NMB1426		NGO_1455	
+NGFG_01464		gene	xaa-Pro aminopeptidase	NMB1428		NGO_1456	
+NGFG_02426		gene	hypothetical protein				
+NGFG_02237		gene	opacity protein			NGO_07715	
+NGFG_02238		gene	opacity protein	NMB0442		NGO_1463a	
+NGFG_02427		gene	hypothetical protein				
+NGFG_02428		gene	hypothetical protein				
+NGFG_01461	purH	gene	bifunctional purine biosynthesis protein purH	NMB0983	purH	NGO_1466	purH
+NGFG_01460		gene	voltage gated chloride channel protein	NMB0982		NGO_1467	
+NGFG_01459	serB	gene	phosphoserine phosphatase SerB	NMB0981	serB	NGO_1468	serB
+NGFG_01458		gene	NAD(P)(+) transhydrogenase (AB-specific)%2C alpha subunit	NMB0980		NGO_1470	
+NGFG_01457		gene	hypothetical protein	NMB0979		NGO_1471	
+NGFG_01455		gene	NAD(P) transhydrogenase subunit beta	NMB0978	pntB	NGO_1472	pntB
+NGFG_01453		gene	LysR family transcriptional regulator	NMB1856	crgA	NGO_1474	crgA
+NGFG_01452		gene	hypothetical protein	NMB0479		NGO_1475	
+NGFG_01447	bioC	gene	biotin biosynthesis protein BioC	NMB0474	bioC	NGO_1481	bioC
+NGFG_01446		gene	hypothetical protein	NMB0473		NGO_1482	
+NGFG_01445		gene	8-amino-7-oxononanoate synthase	NMB0472	bioF	NGO_1483	bioF
+NGFG_02429		gene	hypothetical protein			NGO_07840	
+NGFG_01444		gene	hypothetical protein	NMB0471		NGO_1484	
+NGFG_01443		gene	divalent anion:Na+ symporter (DASS) family transporter	NMB0470		NGO_1485	
+NGFG_01442		gene	agmatinase	NMB0469	speB	NGO_1486	speB
+NGFG_01441		gene	biosynthetic arginine decarboxylase	NMB0468	speA	NGO_1487	speA
+NGFG_01440		gene	hypothetical protein	NMB0467		NGO_1488	
+NGFG_01439		gene	aspartyl-tRNA synthetase	NMB0466	aspS	NGO_1489	aspS
+NGFG_01438		gene	hypothetical protein	NMB0465		NGO_1491	
+NGFG_01437		gene	phospholipase A1	NMB0464		NGO_1492	
+NGFG_01436		gene	30S ribosomal protein S20	NMB0463	rpsT	NGO_1493	rpsT
+NGFG_01435		gene	spermidine/putrescine ABC transporter substrate-binding protein	NMB0462		NGO_1494	
+NGFG_02430		gene	hypothetical protein				
+NGFG_01432		gene	hypothetical protein	NMB0459		NGO_1499	
+NGFG_01431		gene	glutamate racemase	NMB0458		NGO_1500	
+NGFG_01430		gene	YjeE family ATPase	NMB0457	tsaE	NGO_1501	tsaE
+NGFG_01429	amiC	gene	N-acetylmuramoyl-L-alanine amidase AmiC	NMB0456		NGO_1502	
+NGFG_01428		gene	hypothetical protein			NGO_1503	
+NGFG_01427		gene	N6-adenine-specific DNA methylase	NMB0455		NGO_1504	
+NGFG_01426		gene	hypothetical protein	NMB0454		NGO_1505	
+NGFG_01425		gene	mutator mutT protein	NMB0453		NGO_1506	
+NGFG_01424		gene	holo-[acyl-carrier-protein] synthase	NMB0452		NGO_1507	
+NGFG_01423		gene	pyridoxine 5'-phosphate synthase	NMB0448	pdxJ	NGO_1508	pdxJ
+NGFG_01422	recO	gene	DNA repair protein recO	NMB0447	recO	NGO_1509	recO
+NGFG_01421		gene	chorismate mutase	NMB0446	pheA	NGO_1510	pheA
+NGFG_01420		gene	drug resistance transporter%2C Bcr/CflA subfamily	NMB0445		NGO_1511	
+NGFG_01419		gene	integral membrane efflux protein			NGO_07985	
+NGFG_01418		gene	integral membrane protein	NMB0444		NGO_1512	
+NGFG_02431		gene	pilin pilS7	NMB0019			
+NGFG_02432		gene	opacity protein	NMB1636		NGO_1040a	
+NGFG_01417		gene	nitrilase	NMB0441		NGO_1514	
+NGFG_01416		gene	prephenate dehydrogenase	NMB0440		NGO_1515	
+NGFG_01415		gene	hypothetical protein	NMB0439		NGO_1516	
+NGFG_01414		gene	hypothetical protein	NMB0438		NGO_1517	
+NGFG_01413		gene	Rrf2 family protein	NMB0437		NGO_1519	
+NGFG_01412		gene	tRNA threonylcarbamoyladenosine biosynthesis protein	NMB0436		NGO_1520	
+NGFG_01411		gene	acetate kinase 2	NMB0435		NGO_1521	
+NGFG_01409		gene	hypothetical protein	NMB0434	prpF	NGO_08045	prpF
+NGFG_01408		gene	hypothetical protein				
+NGFG_01407		gene	aconitate hydratase	NMB0433	acnD	NGO_08050	acnD
+NGFG_01406		gene	aconitate hydratase				
+NGFG_01405		gene	hypothetical protein	NMB0432		NGO_1524	
+NGFG_01404		gene	2-methylcitrate synthase	NMB0431	prpC	NGO_1525	prpC
+NGFG_02433		gene	hypothetical protein				
+NGFG_01403		gene	methylisocitrate lyase	NMB0430	prpB	NGO_1526	prpB
+NGFG_02434		gene	hypothetical protein				
+NGFG_01402		gene	MFS transporter%2C AGZA family%2C xanthine/uracil permease	NMB0428		NGO_1527	
+NGFG_01401	ftsZ	gene	cell division protein ftsZ	NMB0427	ftsZ	NGO_1528	ftsZ
+NGFG_01400	ftsA	gene	cell division protein ftsA	NMB0426	ftsA	NGO_1529	ftsA
+NGFG_01399	ftsQ	gene	cell division protein FtsQ	NMB0425		NGO_1530	
+NGFG_01398		gene	D-alanine-D-alanine ligase	NMB0424		NGO_1531	
+NGFG_01397		gene	UDP-N-acetylmuramate-L-alanine ligase	NMB0423		NGO_1532	
+NGFG_01396		gene	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	NMB0422	murG	NGO_1533	murG
+NGFG_01395	ftsW	gene	cell division protein FtsW	NMB0421	ftsW	NGO_1534	ftsW
+NGFG_01394		gene	UDP-N-acetylmuramoylalanine-D-glutamate ligase	NMB0420		NGO_1535	
+NGFG_01393		gene	hypothetical protein			NGO_1536	
+NGFG_01392		gene	phospho-N-acetylmuramoyl-pentapeptide-transferase	NMB0418		NGO_1537	
+NGFG_01391		gene	hypothetical protein	NMB0417		NGO_1538	
+NGFG_01390		gene	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase	NMB0416		NGO_1539	
+NGFG_01389	dca	gene	division cluster competence associated sulfatase Dca	NMB0415		NGO_1540	
+NGFG_01388		gene	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2%2C6-diaminopimelate ligase	NMB0414		NGO_1541	
+NGFG_01387		gene	penicillin-binding protein 2	NMB0413		NGO_1542	
+NGFG_01386	ftsL	gene	cell division protein FtsL	NMB0412	ftsL	NGO_1543	ftsL
+NGFG_01385		gene	ribosomal RNA small subunit methyltransferase H	NMB0411	rsmH	NGO_1544	rsmH
+NGFG_01384	mraZ	gene	protein MraZ	NMB0410	mraZ	NGO_1545	mraZ
+NGFG_01383		gene	hypothetical protein	NMB0409		NGO_1546	
+NGFG_01382		gene	undecaprenyl-diphosphatase	NMB0408		NGO_1547	
+NGFG_01381	dsbA	gene	thiol:disulfide interchange protein DsbA	NMB0407		NGO_1548	
+NGFG_01380	ftsN	gene	cell division protein FtsN	NMB0406	ftsN	NGO_1549	ftsN
+NGFG_01379		gene	magnesium chelatase	NMB0405		NGO_1550	
+NGFG_01378		gene	hypothetical protein	NMB0404		NGO_1551	
+NGFG_01377		gene	sodium/proline symporter	NMB0402	putP	NGO_1552	putP
+NGFG_01376		gene	delta-1-pyrroline-5-carboxylate dehydrogenase	NMB0401	putA	NGO_1552a	putA
+NGFG_02435		gene	opacity protein	NMB1465		NGO_1040a	
+NGFG_02436		gene	hypothetical protein			NGO_07715	
+NGFG_01375		gene	hypothetical protein			NGO_1559	
+NGFG_01374		gene	exodeoxyribonuclease III	NMB0399	xth	NGO_1561	xth
+NGFG_01373		gene	ArsR family transcriptional regulator	NMB0398		NGO_1562	
+NGFG_01370		gene	nicotinate-nucleotide diphosphorylase (carboxylating)	NMB0396	nadC	NGO_1565	nadC
+NGFG_01369		gene	hypothetical protein	NMB0395		NGO_1566	
+NGFG_01368		gene	quinolinate synthase A	NMB0394	nadA	NGO_1567	nadA
+NGFG_01367		gene	L-aspartate oxidase	NMB0392	nadB	NGO_1568	nadB
+NGFG_02437		gene	transposase			NGO_01000	
+NGFG_01366		gene	beta-phosphoglucomutase	NMB0391	pgmB		pgmB
+NGFG_01362		gene	ABC transporter ATP-binding protein	NMB0387	ettA	NGO_1573	ettA
+NGFG_01361		gene	phosphatidylglycerophosphatase A	NMB0386		NGO_1574	
+NGFG_01360		gene	thiamine-monophosphate kinase	NMB0385	thiL	NGO_1575	thiL
+NGFG_01357		gene	outer membrane protein P.III	NMB0382	rmpM	NGO_1577	rmpM
+NGFG_01356		gene	LysR family transcriptional regulator%2C Cys regulon transcriptional activator	NMB0381		NGO_1578	
+NGFG_01355		gene	CRP/FNR family transcriptional regulator%2C anaerobic regulatory protein	NMB0380	fnr	NGO_1579	fnr
+NGFG_01354		gene	oxygen-independent coproporphyrinogen III oxidase	NMB0379	hemN	NGO_1580	hemN
+NGFG_01353		gene	PiT family inorganic phosphate transporter	NMB0378		NGO_1581	
+NGFG_01351		gene	anhydro-N-acetylmuramic acid kinase	NMB0377		NGO_1583	
+NGFG_02438		gene	MafA family adhesin protein	NMB0375	mafA	NGO_1393	mafA
+NGFG_01350		gene	MafB family adhesin protein	NMB0374	mafB	NGO_1392	mafB
+NGFG_01349		gene	hypothetical protein			NGO_1588	
+NGFG_01348		gene	hypothetical protein	NMB0372		NGO_1589	
+NGFG_02439		gene	hypothetical protein	NMB0371		NGO_1590	
+NGFG_01347		gene	hypothetical protein	NMB0370		NGO_1591	
+NGFG_02440		gene	hypothetical protein			NGO_1592	
+NGFG_01346		gene	hypothetical protein			NGO_1593	
+NGFG_01345		gene	hypothetical protein			NGO_1594	
+NGFG_01343		gene	hypothetical protein			NGO_1595	
+NGFG_01341		gene	hypothetical protein	NMB0659		NGO_1596	
+NGFG_01340		gene	hypothetical protein				
+NGFG_01339		gene	hypothetical protein	NMB0366		NGO_08475	
+NGFG_02441		gene	hypothetical protein				
+NGFG_01338		gene	endonuclease	NMB0361		NGO_1598	
+NGFG_01337	ampG	gene	MFS transporter%2C PAT family%2C beta-lactamase induction signal transducer AmpG	NMB0360		NGO_1599	
+NGFG_01336		gene	glutamine synthetase	NMB0359	glnA	NGO_1600	glnA
+NGFG_01335		gene	shikimate dehydrogenase	NMB0358	aroE	NGO_1602	aroE
+NGFG_01334		gene	monofunctional biosynthetic peptidoglycan transglycosylase	NMB0357	mtgA	NGO_1603	mtgA
+NGFG_01332		gene	lipopolysaccharide ABC transporter ATP-binding protein	NMB0356	lptB	NGO_1605	lptB
+NGFG_01331	lptA	gene	lipopolysaccharide transport periplasmic protein LptA	NMB0355	lptA	NGO_1606	lptA
+NGFG_01330		gene	hypothetical protein	NMB0354	lptC	NGO_1607	lptC
+NGFG_01329		gene	YrbI family 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	NMB0353		NGO_1608	
+NGFG_01328		gene	KpsF/GutQ family sugar isomerase	NMB0352		NGO_1609	
+NGFG_01327		gene	transaldolase	NMB0351	tal	NGO_1610	tal
+NGFG_02442		gene	hypothetical protein				
+NGFG_01326		gene	hypothetical protein			NGO_08550	
+NGFG_01325		gene	glutamyl-Q tRNA(Asp) synthetase	NMB0349		NGO_1611	
+NGFG_01324		gene	tRNA dihydrouridine synthase A	NMB0348	dusA	NGO_1612	dusA
+NGFG_01323		gene	phage integrase/recombinase			NGO_1613	
+NGFG_01322		gene	phage protein			NGO_1614	
+NGFG_02443		gene	phage protein			NGO_1615	
+NGFG_02444		gene	hypothetical protein			NGO_1131	
+NGFG_02445		gene	phage protein			NGO_1130	
+NGFG_02446		gene	phage protein			NGO_0467	
+NGFG_02206		gene	phage protein			NGO_0468	
+NGFG_02207		gene	phage protein			NGO_0469	
+NGFG_02208		gene	phage protein			NGO_0470	
+NGFG_01320		gene	phage protein			NGO_1622	
+NGFG_01319		gene	phage protein			NGO_1123	
+NGFG_01318		gene	phage protein			NGO_1624	
+NGFG_01316		gene	phage protein			NGO_1626	
+NGFG_01315		gene	phage protein			NGO_1627	
+NGFG_01313		gene	phage protein			NGO_1629	
+NGFG_01312		gene	phage repressor protein			NGO_1630	
+NGFG_01311		gene	hypothetical protein			NGO_08655	
+NGFG_02225		gene	phage protein			NGO_0480	
+NGFG_02226		gene	phage protein			NGO_0481	
+NGFG_00632		gene	phage protein			NGO_1633	
+NGFG_00633		gene	phage replication protein O domain protein				
+NGFG_00634		gene	phage replication protein			NGO_1636	
+NGFG_02243		gene	phage protein			NGO_0487	
+NGFG_02447		gene	phage protein				
+NGFG_02448		gene	phage protein			NGO_0488	
+NGFG_02449		gene	phage protein			NGO_1640	
+NGFG_02450		gene	hypothetical protein			NGO_1137	
+NGFG_02239		gene	phage protein			NGO_06650	
+NGFG_02070		gene	phage protein	NMB1749		NGO_1263	
+NGFG_02071		gene	phage protein	NMB1748		NGO_1264	
+NGFG_02452		gene	hypothetical protein				
+NGFG_02453		gene	integral membrane protein	NMB1550		NGO_1646	
+NGFG_02454		gene	Zona occludens toxin	NMB1551		NGO_1647	
+NGFG_02455		gene	transposase	NMB1552		NGO_1648	
+NGFG_02095		gene	phage protein			NGO_1649	
+NGFG_02096		gene	phage protein				
+NGFG_02097		gene	phage protein			NGO_0519	
+NGFG_02098		gene	hypothetical protein				
+NGFG_02100		gene	phage protein	NMB0897		NGO_1651	
+NGFG_02102		gene	phage protein			NGO_1652	
+NGFG_02103		gene	hypothetical protein			NGO_1653	
+NGFG_02104		gene	D-tyrosyl-tRNA(Tyr) deacylase	NMB0347		NGO_1654	
+NGFG_02105		gene	hypothetical protein	NMB0346		NGO_1655	
+NGFG_02106		gene	hypothetical protein	NMB0345		NGO_1656	
+NGFG_02107		gene	BolA-lie protein	NMB0344		NGO_1657	
+NGFG_02108		gene	hypothetical protein	NMB0343		NGO_1658	
+NGFG_02109		gene	intracellular septation protein A	NMB0342		NGO_1659	
+NGFG_02111		gene	lactoylglutathione lyase	NMB0340	gloA	NGO_08805	gloA
+NGFG_02112		gene	hypothetical protein	NMB0339	lapB	NGO_1662	lapB
+NGFG_02113		gene	hypothetical protein	NMB0338		NGO_1663	
+NGFG_02115		gene	branched-chain amino acid aminotransferase	NMB0337	ilvE	NGO_1665	ilvE
+NGFG_02116		gene	enoyl-[acyl-carrier-protein] reductase [NADH]	NMB0336	fabI	NGO_1666	fabI
+NGFG_02117		gene	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase	NMB0335	dapD	NGO_1667	dapD
+NGFG_02118		gene	glucose-6-phosphate isomerase 2	NMB0334	pgi	NGO_1668	pgi
+NGFG_02119	pilC	gene	type IV pilus assembly protein PilC	NMB0333	pilG	NGO_1669	pilG
+NGFG_02120		gene	type 4 prepilin-like protein leader peptide-processing enzyme	NMB0332		NGO_1670	
+NGFG_02121		gene	dephospho-CoA kinase	NMB0331		NGO_1671	
+NGFG_02122	oRFY	gene	UPF0243 zinc-binding protein ORFY	NMB0330	yacG	NGO_1672	yacG
+NGFG_02123	pilF	gene	type IV pilus assembly protein pilF	NMB0329	pilB	NGO_1673	pilB
+NGFG_02124		gene	UPF0756 membrane protein	NMB0327		NGO_1674	
+NGFG_02125		gene	octaprenyl-diphosphate synthase	NMB0326	ispB	NGO_1675	
+NGFG_02126		gene	50S ribosomal protein L21	NMB0325	rplU	NGO_1676	rplU
+NGFG_02127		gene	50S ribosomal protein L27	NMB0324	rpmA	NGO_1677	rpmA
+NGFG_02128		gene	UbiH/UbiF/VisC/COQ6 family ubiquinone biosynthesis hydroxylase	NMB0323	ubiM	NGO_1678	ubiM
+NGFG_02129		gene	50S ribosomal protein L33			NGO_1679	rpmG
+NGFG_02130		gene	50S ribosomal protein L28	NMB0321	rpmB	NGO_1680	rpmB
+NGFG_02456		gene	drug:H+ antiporter-2 (14 Spanner) (DHA2) family drug resistance MFS transporter	NMB0319	farB	NGO_1682	farB
+NGFG_02457		gene	multidrug resistance efflux pump membrane protein A	NMB0318	farA	NGO_1683	farA
+NGFG_02134		gene	NADPH-dependent 7-cyano-7-deazaguanine reductase	NMB0317	queF	NGO_1684	queF
+NGFG_02135		gene	hypothetical protein	NMB0316		NGO_1685	
+NGFG_02136		gene	metallopeptidase	NMB0315		NGO_1686	
+NGFG_02137		gene	hypothetical protein	NMB0314		NGO_1687	
+NGFG_02138	ompU	gene	outer membrane protein OmpU	NMB0313		NGO_1688	
+NGFG_02140		gene	hypothetical protein	NMB0311		NGO_1690	
+NGFG_02141		gene	membrane protein	NMB0310		NGO_1692	
+NGFG_02142		gene	adenylate cyclase	NMB0309		NGO_1693	
+NGFG_02143		gene	dihydrofolate reductase	NMB0308		NGO_1694	
+NGFG_02144		gene	3-deoxy-7-phosphoheptulonate synthase	NMB0307	aroG	NGO_1695	aroG
+NGFG_02147		gene	major outer membrane protein			NGO_08995	
+NGFG_02148		gene	major outer membrane protein			NGO_09000	
+NGFG_02149		gene	hypothetical protein				
+NGFG_02458		gene	comEA protein	NMB0299		NGO_1178	
+NGFG_02459		gene	hypothetical protein				
+NGFG_01612		gene	cytochrome c assembly protein	NMB0296	ypjD	NGO_1699	ypjD
+NGFG_01613		gene	signal recognition particle protein	NMB0295	ffh	NGO_1700	ffh
+NGFG_01614		gene	hypothetical protein			NGO_1701	
+NGFG_01615		gene	hypothetical protein	NMB0292		NGO_1702	
+NGFG_02069		gene	hypothetical protein			NGO_0773	
+NGFG_02460		gene	hypothetical protein			NGO_1704	
+NGFG_01616		gene	oxidoreductase	NMB0291		NGO_1705	
+NGFG_01617		gene	LysR family transcriptional regulator	NMB0290		NGO_1706	
+NGFG_01618		gene	deoxyribodipyrimidine photo-lyase	NMB0289		NGO_1707	
+NGFG_01619	dinG	gene	ATP-dependent DNA helicase DinG	NMB0287	dinG	NGO_1708	dinG
+NGFG_01620		gene	hypothetical protein	NMB0286		NGO_1709	
+NGFG_01621		gene	acyltransferase	NMB0285		NGO_1710	
+NGFG_01622		gene	adenylosuccinate lyase	NMB0284	purB	NGO_1711	purB
+NGFG_01623		gene	hypothetical protein	NMB0283		NGO_1712	
+NGFG_01624		gene	exoribonuclease II	NMB0282		NGO_1713	
+NGFG_01625	surA	gene	peptidyl-prolyl cis-trans isomerase SurA	NMB0281		NGO_1714	
+NGFG_01626	lptD	gene	LPS-assembly protein lptD	NMB0280	lptD	NGO_1715	lptD
+NGFG_01627		gene	phosphotransferase	NMB0279		NGO_1716	
+NGFG_01628	dsbA	gene	thiol:disulfide interchange protein DsbA	NMB0278		NGO_1717	
+NGFG_01630	mviN	gene	integral membrane virulence factor MviN	NMB0277	murJ	NGO_1718	murJ
+NGFG_02461		gene	hypothetical protein				
+NGFG_01631		gene	hypothetical protein	NMB0276		NGO_1719	
+NGFG_01632		gene	indole-3-glycerol phosphate synthase	NMB0275	trpC	NGO_1721	trpC
+NGFG_01633	recQ	gene	ATP-dependent DNA helicase RecQ	NMB0274	recQ	NGO_1722	recQ
+NGFG_01634		gene	hypothetical protein			NGO_1723	
+NGFG_01635	bioH	gene	carboxylesterase BioH	NMB0271		NGO_1724	
+NGFG_01636	bioH	gene	carboxylesterase BioH	NMB0270	bioH	NGO_1725	bioH
+NGFG_01637		gene	comF family protein	NMB0269		NGO_1726	
+NGFG_01638		gene	tRNA (cytidine(34)-2'-O)-methyltransferase	NMB0268	trmL	NGO_1727	trmL
+NGFG_01639		gene	rare lipoprotein A	NMB0267		NGO_1728	
+NGFG_01640		gene	hypothetical protein	NMB0266		NGO_1729	
+NGFG_01641	ruvA	gene	Holliday junction ATP-dependent DNA helicase ruvA	NMB0265	ruvA	NGO_1730	ruvA
+NGFG_01642		gene	hypothetical protein			NGO_1731	
+NGFG_01643		gene	ABC transporter ATP-binding protein/permease	NMB0264		NGO_1732	
+NGFG_01644		gene	ribosome small subunit-dependent GTPase A	NMB0263	rsgA	NGO_1733	rsgA
+NGFG_01645		gene	exodeoxyribonuclease 7 small subunit	NMB0262		NGO_1734	
+NGFG_01646		gene	geranyltranstransferase	NMB0261		NGO_1735	
+NGFG_01647		gene	hypothetical protein	NMB0260		NGO_1736	
+NGFG_01648		gene	NADH-quinone oxidoreductase subunit N	NMB0259	nuoN	NGO_1737	nuoN
+NGFG_01649		gene	proton-translocating NADH-quinone oxidoreductase%2C chain M	NMB0258		NGO_1738	
+NGFG_01652		gene	NADH-quinone oxidoreductase subunit L	NMB0257	nuoL	NGO_1740	nuoL
+NGFG_01653		gene	NADH-quinone oxidoreductase subunit K	NMB0254	nuoK	NGO_1741	nuoK
+NGFG_01654		gene	NADH-quinone oxidoreductase subunit J	NMB0253		NGO_1742	
+NGFG_01655		gene	NADH-quinone oxidoreductase subunit I	NMB0251	nuoI	NGO_1743	nuoI
+NGFG_01656		gene	NADH-quinone oxidoreductase subunit H	NMB0250	nuoH	NGO_1744	nuoH
+NGFG_01657		gene	NADH dehydrogenase (quinone)%2C G subunit	NMB0249		NGO_1745	
+NGFG_01659		gene	NADH oxidoreductase (quinone)%2C F subunit	NMB0246	nuoF	NGO_1746	nuoF
+NGFG_01660		gene	NADH-quinone oxidoreductase%2C E subunit	NMB0245	nuoE	NGO_1747	nuoE
+NGFG_01661		gene	NADH-quinone oxidoreductase subunit D	NMB0244	nuoD	NGO_1748	nuoD
+NGFG_01662		gene	NADH-quinone oxidoreductase subunit C	NMB0243		NGO_1749	
+NGFG_01663		gene	NADH-quinone oxidoreductase subunit B	NMB0242		NGO_1750	
+NGFG_01664		gene	NADH-quinone oxidoreductase subunit A	NMB0241		NGO_1751	
+NGFG_01665		gene	hypothetical protein	NMB0240		NGO_1752	
+NGFG_01666		gene	hypothetical protein	NMB0239		NGO_1753	
+NGFG_02462		gene	hypothetical protein			NGO_1074	
+NGFG_01667		gene	DNA helicase II	NMB0232	uvrD	NGO_1757	uvrD
+NGFG_01668		gene	hypothetical protein				
+NGFG_01669		gene	glutamate-ammonia-ligase adenylyltransferase	NMB0224	glnE	NGO_1758	glnE
+NGFG_01670		gene	hypothetical protein	NMB0223		NGO_1759	
+NGFG_01671		gene	hypothetical protein	NMB0222		NGO_1760	
+NGFG_01672		gene	dihydroorotate dehydrogenase	NMB0221		NGO_1761	
+NGFG_01673		gene	acyl carrier protein	NMB0220	acpP	NGO_1762	acpP
+NGFG_01674		gene	beta-ketoacyl-acyl-carrier-protein synthase II	NMB0219	fabF	NGO_1763	fabF
+NGFG_01676	pglA	gene	pilin glycosyltransferase PglA	NMB0218		NGO_1765	
+NGFG_01677		gene	RNA polymerase sigma-54 factor	NMB0217		NGO_09380	
+NGFG_01678		gene	catalase	NMB0216	katA	NGO_1767	katA
+NGFG_01680		gene	cytochrome c peroxidase			NGO_1769	
+NGFG_01681		gene	oligopeptidase A	NMB0214		NGO_1770	
+NGFG_01682		gene	small conductance mechanosensitive ion channel protein	NMB0213		NGO_1771	
+NGFG_01684		gene	DNA gyrase subunit B	NMB0212	gyrB	NGO_1772	gyrB
+NGFG_01685		gene	L-serine ammonia-lyase	NMB0211		NGO_1773	
+NGFG_02463		gene	hypothetical protein	NMB0210			
+NGFG_01686		gene	monovalent cation:proton antiporter-2 (CPA2) family transporter	NMB0209		NGO_1774	
+NGFG_01687		gene	electron transport complex%2C rnfabcdge type%2C B subunit	NMB0208		NGO_1775	
+NGFG_01688		gene	glyceraldehyde-3-phosphate dehydrogenase%2C type I	NMB0207	gap	NGO_1776	gap
+NGFG_01689		gene	leucyl/phenylalanyl-tRNA-protein transferase	NMB0206		NGO_1778	
+NGFG_01690		gene	ferric uptake regulation protein	NMB0205	fur	NGO_1779	fur
+NGFG_01691		gene	lipoprotein	NMB0204	bamE	NGO_1780	bamE
+NGFG_01692		gene	dihydrodipicolinate reductase	NMB0203	dapB	NGO_1781	dapB
+NGFG_01695		gene	lipid-A-disaccharide synthase	NMB0199	lpxB	NGO_1782	lpxB
+NGFG_01696		gene	RluA family pseudouridine synthase	NMB0198		NGO_1783	
+NGFG_01697		gene	rne/Rng family ribonuclease	NMB0196		NGO_1785	
+NGFG_01698		gene	4-hydroxythreonine-4-phosphate dehydrogenase	NMB0195	pdxA	NGO_1786	pdxA
+NGFG_01699		gene	AGCS family alanine or glycine:cation symporter	NMB0194		NGO_1787	
+NGFG_01700	mnmG	gene	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	NMB0193	mnmG	NGO_1788	mnmG
+NGFG_01701		gene	ribonuclease HII	NMB0192	rnhB	NGO_1789	rnhB
+NGFG_01703	parA	gene	chromosome partitioning protein ParA	NMB0191		NGO_1790	
+NGFG_01704		gene	ribosomal RNA small subunit methyltransferase G	NMB0190	rsmG	NGO_1791	rsmG
+NGFG_01705		gene	hypothetical protein	NMB0189		NGO_1792	
+NGFG_01706		gene	hypothetical protein	NMB0188		NGO_1793	
+NGFG_01707		gene	hypothetical protein				
+NGFG_01708		gene	hypothetical protein				
+NGFG_01709		gene	site-specific DNA methyltransferase			NGO_1795	
+NGFG_01710		gene	ribosome-recycling factor	NMB0187	frr	NGO_1796	frr
+NGFG_01711		gene	undecaprenyl pyrophosphate synthase	NMB0186		NGO_1797	
+NGFG_01712		gene	phosphatidate cytidylyltransferase	NMB0185		NGO_1798	
+NGFG_01713		gene	1-deoxy-D-xylulose 5-phosphate reductoisomerase	NMB0184		NGO_1799	
+NGFG_01714	rseP	gene	RIP metalloprotease RseP	NMB0183	rseP	NGO_1800	rseP
+NGFG_01715		gene	outer membrane protein omp85	NMB0182	bamA	NGO_1801	bamA
+NGFG_01716	ompH	gene	outer membrane protein OmpH	NMB0181		NGO_1802	
+NGFG_01717		gene	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	NMB0180	lpxD	NGO_1803	lpxD
+NGFG_01718		gene	(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase	NMB0179	fabZ	NGO_1804	fabZ
+NGFG_01719		gene	hypothetical protein			NGO_1805	
+NGFG_01720		gene	acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase	NMB0178	lpxA	NGO_1806	lpxA
+NGFG_01721		gene	sodium:alanine symporter	NMB0177		NGO_1807	
+NGFG_01722		gene	D-amino acid dehydrogenase small subunit	NMB0176		NGO_1808	
+NGFG_01723		gene	valyl-tRNA synthetase	NMB0174		NGO_1809	
+NGFG_01724		gene	hypothetical protein			NGO_1810	
+NGFG_02199		gene	tRNA pseudouridine synthase A	NMB2036	truA	NGO_1811	truA
+NGFG_01725	p.IB	gene	major outer membrane protein P.IB	NMB2039	porB	NGO_1812	
+NGFG_01726		gene	LysR family transcriptional regulator%2C hydrogen peroxide-inducible genes activator	NMB0173	oxyR	NGO_1813	oxyR
+NGFG_01727		gene	cell division topological specificity factor	NMB0172	minE	NGO_1814	minE
+NGFG_01728	minD	gene	septum site-determining protein minD	NMB0171	minD	NGO_09675	minD
+NGFG_01729	minC	gene	septum site-determining protein MinC	NMB0170	minC	NGO_1816	minC
+NGFG_02464		gene	hypothetical protein				
+NGFG_01730		gene	50S ribosomal protein L17	NMB0169	rplQ	NGO_1817	rplQ
+NGFG_01731		gene	DNA-directed RNA polymerase subunit alpha	NMB0168	rpoA	NGO_1818	rpoA
+NGFG_01732		gene	30S ribosomal protein S4	NMB0167	rpsD	NGO_1819	rpsD
+NGFG_01734		gene	30S ribosomal protein S13	NMB0165	rpsM	NGO_1821	rpsM
+NGFG_01735		gene	translation initiation factor IF-1	NMB0163	infA	NGO_18211	infA
+NGFG_01736		gene	preprotein translocase%2C SecY subunit	NMB0162	secY	NGO_1822	secY
+NGFG_01737		gene	50S ribosomal protein L15	NMB0161	rplO	NGO_1823	rplO
+NGFG_01738		gene	50S ribosomal protein L30	NMB0160	rpmD	NGO_18231	rpmD
+NGFG_01739		gene	30S ribosomal protein S5	NMB0159	rpsE	NGO_1824	rpsE
+NGFG_01741		gene	50S ribosomal protein L6	NMB0157	rplF	NGO_1825	rplF
+NGFG_01742		gene	30S ribosomal protein S8	NMB0156	rpsH	NGO_1826	rpsH
+NGFG_01743		gene	30S ribosomal protein S14	NMB0155	rpsN	NGO_18261	rpsN
+NGFG_01744		gene	50S ribosomal protein L5	NMB0154	rplE	NGO_1827	rplE
+NGFG_01745		gene	50S ribosomal protein L24	NMB0153	rplX	NGO_1828	rplX
+NGFG_01746		gene	50S ribosomal protein L14	NMB0152	rplN	NGO_1829	rplN
+NGFG_01747		gene	30S ribosomal protein S17	NMB0151	rpsQ	NGO_1830	rpsQ
+NGFG_01748		gene	50S ribosomal protein L29	NMB0150	rpmC	NGO_1831	rpmC
+NGFG_01749		gene	50S ribosomal protein L16	NMB0149	rplP	NGO_18311	rplP
+NGFG_01750		gene	30S ribosomal protein S3	NMB0148	rpsC	NGO_1832	rpsC
+NGFG_01751		gene	50S ribosomal protein L22	NMB0147	rplV	NGO_1833	rplV
+NGFG_01752		gene	30S ribosomal protein S19	NMB0146	rpsS	NGO_1834	rpsS
+NGFG_01753		gene	50S ribosomal protein L2	NMB0145	rplB	NGO_1835	rplB
+NGFG_01754		gene	50S ribosomal protein L23	NMB0144	rplW	NGO_1836	rplW
+NGFG_01755		gene	50S ribosomal protein L4	NMB0143	rplD	NGO_1837	rplD
+NGFG_01756		gene	50S ribosomal protein L3	NMB0142	rplC	NGO_1838	rplC
+NGFG_02229		gene	30S ribosomal protein S10	NMB0140	rpsJ	NGO_1841	rpsJ
+NGFG_02465		gene	elongation factor Tu	NMB0124	tuf	NGO_1842	tuf
+NGFG_01757		gene	elongation factor G	NMB0138	fusA	NGO_1843	fusA
+NGFG_01758		gene	30S ribosomal protein S7	NMB0137	rpsG	NGO_1844	rpsG
+NGFG_01759		gene	30S ribosomal protein S12	NMB0136	rpsL	NGO_1845	rpsL
+NGFG_01761		gene	hypothetical protein			NGO_1847	
+NGFG_01762		gene	hypothetical protein	NMB0134		NGO_1848	
+NGFG_01763		gene	hypothetical protein			NGO_09870	
+NGFG_01764		gene	hypothetical protein			NGO_09875	
+NGFG_01766		gene	DNA-directed RNA polymerase subunit beta	NMB0132	rpoB	NGO_1851	rpoB
+NGFG_01767		gene	50S ribosomal protein L7/L12	NMB0131	rplL	NGO_1852	rplL
+NGFG_01768		gene	50S ribosomal protein L10	NMB0130	rplJ	NGO_1853	rplJ
+NGFG_01770		gene	50S ribosomal protein L1	NMB0128	rplA	NGO_1854	rplA
+NGFG_01771		gene	50S ribosomal protein L11	NMB0127	rplK	NGO_1855	rplK
+NGFG_01772	nusG	gene	transcription antitermination protein nusG	NMB0126	nusG	NGO_1856	nusG
+NGFG_01773		gene	preprotein translocase%2C SecE subunit	NMB0125	secE	NGO_1857	secE
+NGFG_02466		gene	elongation factor Tu	NMB0124	tuf	NGO_1858	tuf
+NGFG_01774		gene	ferredoxin	NMB0123		NGO_1859	
+NGFG_01775		gene	RsmD family RNA methyltransferase	NMB0122	rsmD	NGO_1860	rsmD
+NGFG_01776		gene	hypothetical protein				
+NGFG_02467		gene	opacity protein	NMB1636		NGO_1040a	
+NGFG_02468		gene	opacity protein				
+NGFG_01779		gene	DNA topoisomerase I	NMB0118	topA	NGO_1863	topA
+NGFG_01780		gene	smg protein	NMB0117		NGO_1864	
+NGFG_01781		gene	DNA processing protein	NMB0116	dprA	NGO_1865	dprA
+NGFG_01782		gene	two-component system transcriptional response regulator	NMB0115		NGO_1866	
+NGFG_01783		gene	two-component system sensor kinase	NMB0114		NGO_1867	
+NGFG_01784		gene	hypothetical protein	NMB0113		NGO_1868	
+NGFG_01785		gene	ribosomal RNA small subunit methyltransferase B	NMB0112	rsmB	NGO_1869	rsmB
+NGFG_01786		gene	methionyl-tRNA formyltransferase	NMB0111		NGO_1870	
+NGFG_01787		gene	peptide deformylase	NMB0110	def	NGO_1871	def
+NGFG_01788		gene	LysM protein	NMB0109		NGO_1873	
+NGFG_01790		gene	hypothetical protein	NMB0108		NGO_1875	
+NGFG_01791		gene	aspartate carbamoyltransferase regulatory chain	NMB0107		NGO_1876	
+NGFG_01792		gene	aspartate carbamoyltransferase	NMB0106	pyrB	NGO_1877	pyrB
+NGFG_01793		gene	acetyltransferase	NMB0105		NGO_1878	
+NGFG_01794		gene	hypothetical protein	NMB0102		NGO_1880	
+NGFG_01796		gene	pyruvate kinase	NMB0089	pyk	NGO_1881	pyk
+NGFG_01797		gene	long-chain fatty acid transporter				
+NGFG_01798		gene	hypothetical protein	NMB0088			
+NGFG_01799		gene	hypothetical protein			NGO_1886	
+NGFG_01801		gene	hypothetical protein	NMB0087		NGO_1888	
+NGFG_01802		gene	lipoprotein	NMB0086		NGO_1889	
+NGFG_01803		gene	sodium/glutamate symporter	NMB0085	gltS	NGO_1890	gltS
+NGFG_02469		gene	hypothetical protein			NGO_1891	
+NGFG_01805		gene	restriction endonuclease			NGO_10130	
+NGFG_01806		gene	modification methylase HphIB			NGO_1893	
+NGFG_02470		gene	modification methylase HphIA	NMB0076	dcm	NGO_1894	dcm
+NGFG_01809		gene	competence protein ComEA helix-hairpin-helix repeat region	NMB0075		NGO_1895	
+NGFG_01810		gene	UDP-glucose 4-epimerase	NMB0078	galE	NGO_1896	galE
+NGFG_01811		gene	dTDP-glucose 4%2C6-dehydratase	NMB0063	rfbB	NGO_1897	rfbB
+NGFG_01812		gene	glucose-1-phosphate thymidylyltransferase	NMB0062	rfbA	NGO_1898	rfbA
+NGFG_01813		gene	dTDP-4-dehydrorhamnose 3%2C5-epimerase	NMB0061	rfbC	NGO_1898a	rfbC
+NGFG_01814		gene	OPT family oligopeptide transporter	NMB0060		NGO_1900	
+NGFG_01815	dnaJ	gene	chaperone dnaJ	NMB0059	dnaJ	NGO_1901	dnaJ
+NGFG_01816		gene	transposase			NGO_10180	
+NGFG_02471		gene	comEA protein	NMB0299		NGO_1178	
+NGFG_02472		gene	hypothetical protein				
+NGFG_01984		gene	DnaK suppressor protein	NMB0056	dksA	NGO_1904	dksA
+NGFG_01983		gene	pyrroline-5-carboxylate reductase	NMB0055		NGO_1905	
+NGFG_01982		gene	lipoprotein	NMB0054		NGO_1906	
+NGFG_01981		gene	YggS family pyridoxal phosphate enzyme	NMB0053		NGO_1907	
+NGFG_01980		gene	twitching motility protein	NMB0052	pilT	NGO_1908	pilT
+NGFG_01979		gene	twitching motility protein	NMB0051		NGO_1909	
+NGFG_01978		gene	TIGR01666 family membrane protein	NMB0050	yccS	NGO_1910	yccS
+NGFG_02247		gene	endonuclease	NMB0047		NGO_1911	
+NGFG_01977	pilC	gene	type IV pilus assembly protein PilC	NMB1847	pilC	NGO_0055	pilC
+NGFG_01975		gene	6-phosphogluconate dehydrogenase%2C decarboxylating	NMB0015	gnd	NGO_1914	gnd
+NGFG_01974		gene	3-deoxy-D-manno-octulosonic-acid transferase	NMB0014		NGO_1915	
+NGFG_01973		gene	hypothetical protein	NMB0013		NGO_1916	
+NGFG_01972	terC	gene	tellurite resistance integral membrane protein TerC	NMB0012		NGO_1917	
+NGFG_01971		gene	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	NMB0011	murA	NGO_1918	murA
+NGFG_01970		gene	phosphoglycerate kinase	NMB0010		NGO_1919	
+NGFG_01969		gene	BolA-like protein	NMB0009		NGO_1920	
+NGFG_01968	ftsX	gene	cell division protein FtsX	NMB0008	ftsX	NGO_1921	ftsX
+NGFG_02473		gene	cell division ABC transporter ATP-binding protein	NMB0007	ftsE	NGO_1922	ftsE
+NGFG_01965		gene	thioredoxin	NMB0006		NGO_1923	
+NGFG_01964		gene	arsenate reductase (glutaredoxin)	NMB0005	arsC	NGO_1924	arsC
+NGFG_01963		gene	hypothetical protein	NMB0004		NGO_1924a	
+NGFG_01962		gene	glutamyl-tRNA synthetase	NMB0003		NGO_1926	
+NGFG_01961		gene	hypothetical protein	NMB0002		NGO_1927	
+NGFG_01960		gene	acetyltransferase	NMB0001		NGO_1928	
+NGFG_01959	mutS	gene	DNA mismatch repair protein mutS	NMB2160	mutS	NGO_1930	mutS
+NGFG_01958		gene	glyceraldehyde-3-phosphate dehydrogenase	NMB2159	gap	NGO_1931	gap
+NGFG_01957		gene	hypothetical protein	NMB2158	tsaA	NGO_1932	tsaA
+NGFG_01956		gene	nicotinamidase/pyrazinamidase	NMB2157		NGO_1933	
+NGFG_01955		gene	lipopolysaccharide heptosyltransferase I	NMB2156	waaC	NGO_1934	waaC
+NGFG_01954	eTFB	gene	electron transfer flavoprotein beta subunit ETFB	NMB2155		NGO_1935	
+NGFG_01953	etfA	gene	electron transfer flavoprotein alpha subunit EtfA	NMB2154		NGO_1936	
+NGFG_01952		gene	hypothetical protein	NMB2153		NGO_10400	
+NGFG_01951		gene	hypothetical protein	NMB2152		NGO_1938	
+NGFG_01950		gene	phosphoribosylamine-glycine ligase	NMB2151	purD	NGO_1939	purD
+NGFG_01949	rimN	gene	tRNA threonylcarbamoyladenosine biosynthesis protein RimN	NMB2150		NGO_1940	
+NGFG_01948		gene	hypothetical protein			NGO_1941	
+NGFG_01947		gene	lipoprotein	NMB2147		NGO_1942	
+NGFG_01946		gene	hypothetical protein	NMB2145		NGO_1943	
+NGFG_01945		gene	TIGR02943 family RNA polymerase sigma-70 factor	NMB2144		NGO_1944	
+NGFG_01944		gene	hypothetical protein	NMB2143		NGO_1945	
+NGFG_01943		gene	UPF0276 protein	NMB2142		NGO_1946	
+NGFG_01942		gene	hypothetical protein	NMB2141		NGO_1947	
+NGFG_01941		gene	oxidoreductase	NMB2140		NGO_1948	
+NGFG_01940		gene	phospholipase patatin family protein	NMB2139		NGO_1949	
+NGFG_01939		gene	peptide chain release factor 2	NMB2138	prfB	NGO_1951	prfB
+NGFG_02474		gene	hypothetical protein		rnpB	NGO_19101	rnpB
+NGFG_01937		gene	amino acid/peptide transporter (Peptide:H+ symporter)	NMB2136		NGO_1954	
+NGFG_01935		gene	hypothetical protein	NMB2135	tamB	NGO_1955	tamB
+NGFG_01934		gene	outer membrane protein	NMB2134		NGO_1956	
+NGFG_01933	sstT	gene	serine/threonine transporter sstT	NMB2133	sstT	NGO_1957	sstT
+NGFG_01931		gene	iron transporter outer membrane receptor	NMB2132		NGO_1958	
+NGFG_02475		gene	hypothetical protein			NGO_1959	
+NGFG_01929		gene	hypothetical protein				
+NGFG_01928		gene	hypothetical protein	NMB2131		NGO_1959a	
+NGFG_01927		gene	hypothetical protein	NMB2130		NGO_1960a	
+NGFG_01926		gene	argininosuccinate synthase	NMB2129	argG	NGO_1961	argG
+NGFG_01925		gene	CinA-like protein	NMB2128		NGO_1962	
+NGFG_01924		gene	signal peptide peptidase SppA%2C 36K type	NMB2127		NGO_1963	
+NGFG_02476		gene	transposase				
+NGFG_01923		gene	hypothetical protein	NMB2125		NGO_1965	
+NGFG_01922		gene	hypothetical protein	NMB2123		NGO_1966	
+NGFG_02477		gene	MafB family adhesin protein	NMB2105	mafB	NGO_10555	mafB
+NGFG_01919		gene	hypothetical protein	NMB0237		NGO_1967	
+NGFG_02223		gene	hypothetical protein	NMB2108		NGO_10580	
+NGFG_02222		gene	MafB family adhesin protein	NMB2107	mafB	NGO_10585	mafB
+NGFG_01917		gene	hypothetical protein			NGO_1969	
+NGFG_01916		gene	hypothetical protein			NGO_1970	
+NGFG_01915		gene	MafB family adhesin protein	NMB2105	mafB	NGO_1971	
+NGFG_01914		gene	hypothetical protein	NMB2110			
+NGFG_02478		gene	MafB family adhesin protein	NMB2105	mafB	NGO_1971	
+NGFG_02219	mafA	gene	adhesin mafA	NMB2104	mafA	NGO_1067	mafA
+NGFG_01912		gene	uridylate kinase	NMB2103		NGO_1973	
+NGFG_01911		gene	elongation factor Ts	NMB2102		NGO_1974	
+NGFG_02479		gene	hypothetical protein				
+NGFG_01910		gene	30S ribosomal protein S2	NMB2101	rpsB	NGO_1975	rpsB
+NGFG_01909		gene	hypothetical protein	NMB2100		NGO_1976	
+NGFG_01908		gene	5-formyltetrahydrofolate cyclo-ligase	NMB2099		NGO_1977	
+NGFG_01907		gene	hypothetical protein	NMB2098		NGO_1978	
+NGFG_01906		gene	malate dehydrogenase (acceptor)	NMB2096		NGO_1980	
+NGFG_01905		gene	hypothetical protein	NMB2095		NGO_1981	
+NGFG_01904		gene	hypothetical protein	NMB2094		NGO_1982	
+NGFG_01903		gene	methionine aminopeptidase%2C type I	NMB2093	map	NGO_1983	map
+NGFG_01902		gene	hypothetical protein	NMB2092		NGO_1984	
+NGFG_01901		gene	phospholipid-binding protein	NMB2091		NGO_1985	
+NGFG_01900		gene	phosphoheptose isomerase	NMB2090		NGO_1986	
+NGFG_01899		gene	endonuclease	NMB2089		NGO_1987	
+NGFG_01898		gene	ribosomal RNA small subunit methyltransferase I	NMB2088	rsmI	NGO_1988	rsmI
+NGFG_01897		gene	cytochrome b561			NGO_10685	
+NGFG_01895	obg	gene	GTPase obg	NMB2086	obgE	NGO_1990	obgE
+NGFG_01894		gene	DNA (cytosine-5-)-methyltransferase			NGO_1991	
+NGFG_01893		gene	NgoI restriction endonuclease			NGO_1992	
+NGFG_01892		gene	cysteinyl-tRNA synthetase	NMB2083		NGO_1993	
+NGFG_01891		gene	exodeoxyribonuclease III (xth)	NMB2082	xth	NGO_1994	xth
+NGFG_01890		gene	hypothetical protein	NMB2081		NGO_1995	
+NGFG_01889		gene	hypothetical protein	NMB2080		NGO_1996	
+NGFG_01888		gene	aspartate-semialdehyde dehydrogenase	NMB2079	asd	NGO_1997	asd
+NGFG_01887		gene	integral membrane protein	NMB2078		NGO_1998	
+NGFG_01886		gene	FolD protein	NMB2077	folD	NGO_1999	folD
+NGFG_01885		gene	transferase	NMB2076	rfaE2	NGO_2000	rfaE2
+NGFG_01884		gene	bifunctional enzyme BirA/CoaX	NMB2075		NGO_2001	
+NGFG_01883		gene	hypothetical protein	NMB2074		NGO_2002	
+NGFG_02480		gene	histone-like nucleoid-structuring protein H-NS			NGO_10775	
+NGFG_01880	thiG	gene	thiamine biosynthesis protein ThiG	NMB2071		NGO_2005	
+NGFG_01879	thiS	gene	thiamine biosynthesis protein ThiS	NMB2070	thiS	NGO_2006	thiS
+NGFG_01878		gene	thiamine-phosphate pyrophosphorylase	NMB2069	thiE	NGO_2007	thiE
+NGFG_01877	thiO	gene	glycine oxidase ThiO	NMB2068		NGO_2008	
+NGFG_01876	cytX	gene	hydroxymethylpyrimidine transporter permease CytX	NMB2067	cytX	NGO_2009	cytX
+NGFG_01875		gene	TldD protein	NMB2066	tldD	NGO_2010	tldD
+NGFG_01874		gene	His/Glu/Gln/Arg/opine family amino ABC transporter%2C permease%2C 3-TM region			NGO_2011	
+NGFG_01873		gene	His/Glu/Gln/Arg/opine family amino ABC transporter%2C permease%2C 3-TM region			NGO_2012	
+NGFG_01872		gene	polar amino acid ABC transporter ATP-binding protein			NGO_2013	
+NGFG_01870		gene	protein-(glutamine-N5) methyltransferase%2C release factor-specific		prmC	NGO_2015	prmC
+NGFG_01869		gene	membrane protein	NMB2064		NGO_2016	
+NGFG_01868		gene	SlyX protein	NMB2063	slyX	NGO_2017	slyX
+NGFG_01865	thiF	gene	thiazole biosynthesis adenylyltransferase ThiF	NMB2062		NGO_2019	
+NGFG_01864		gene	phosphoenolpyruvate carboxylase	NMB2061	ppc	NGO_2020	ppc
+NGFG_01863		gene	glycerol-3-phosphate dehydrogenase [NAD(P)+]	NMB2060		NGO_2021	
+NGFG_01862		gene	hypothetical protein	NMB2059		NGO_2022	
+NGFG_01861	zapA	gene	cell division protein ZapA	NMB2058	zapA	NGO_2023	zapA
+NGFG_01860		gene	50S ribosomal protein L13	NMB2057	rplM	NGO_2024	rplM
+NGFG_01859		gene	30S ribosomal protein S9	NMB2056	rpsI	NGO_2025	rpsI
+NGFG_01857		gene	hypothetical protein			NGO_2026	
+NGFG_01856	metH	gene	LysR family transcriptional regulator%2C regulator for metE and metH	NMB2055		NGO_2027	
+NGFG_01855		gene	UPF0135 protein	NMB2054		NGO_2028	
+NGFG_01854		gene	ubiquinol-cytochrome c reductase%2C iron-sulfur subunit	NMB2053	petA	NGO_2029	petA
+NGFG_01853		gene	cytochrome b	NMB2052		NGO_2030	
+NGFG_01852		gene	cytochrome c1	NMB2051		NGO_2031	
+NGFG_01851	rmuC	gene	DNA recombination protein RmuC	NMB2050	rmuC	NGO_2032	rmuC
+NGFG_01850		gene	metallo-dependent hydrolase	NMB2049		NGO_2033	
+NGFG_01849		gene	DNA ligase	NMB2048		NGO_2034	
+NGFG_01848		gene	hypoxanthine phosphoribosyltransferase	NMB2047		NGO_2035	
+NGFG_01847		gene	PTS system ascorbate-specific IIA component	NMB2046	iIA	NGO_2036	iIA
+NGFG_01846	hPr	gene	phosphocarrier protein HPr	NMB2045		NGO_2037	
+NGFG_01845		gene	phosphoenolpyruvate-protein phosphotransferase	NMB2044	ptsP	NGO_2038	ptsP
+NGFG_01844		gene	ABC transporter ATP-binding protein	NMB2042		NGO_2039	
+NGFG_01843		gene	NUDIX family hydrolase	NMB2041		NGO_2040	
+NGFG_01842	thiC	gene	thiamine biosynthesis protein ThiC	NMB2040	thiC	NGO_2041	thiC
+NGFG_02481		gene	pilin pilS6c1	NMB0023		NGO_11125	
+NGFG_02482		gene	pilin pilS6c3	NMB0019			
+NGFG_01841		gene	glycerate dehydrogenase			NGO_2043	
+NGFG_01840		gene	methionyl-tRNA synthetase	NMB0030	metG	NGO_2044	metG
+NGFG_01839		gene	glucosamine-fructose-6-phosphate aminotransferase [isomerizing]	NMB0031	glmS	NGO_2045	glmS
+NGFG_01837		gene	lipoprotein	NMB0032		NGO_2047	
+NGFG_01836		gene	membrane-bound lytic murein transglycosylase A	NMB0033		NGO_2048	
+NGFG_01834		gene	FTR1 family protein	NMB0034		NGO_11035	
+NGFG_01832		gene	UPF0409 lipoprotein	NMB0035	efeO	NGO_2050	efeO
+NGFG_01831		gene	dye decolorizing peroxidase	NMB0036	efeB	NGO_2051	efeB
+NGFG_01830		gene	phosphonoacetate hydrolase	NMB0037		NGO_2052	
+NGFG_01829		gene	glmU protein	NMB0038	glmU	NGO_2053	glmU
+NGFG_01828		gene	hypothetical protein	NMB0039		NGO_2054	
+NGFG_01827		gene	ABC transporter periplasmic binding protein%2C thiB subfamily	NMB0041		NGO_2056	
+NGFG_01826		gene	small conductance mechanosensitive ion channel protein	NMB0042		NGO_2057	
+NGFG_01825	cinA	gene	competence/damage-inducible protein CinA	NMB0043		NGO_2058	
+NGFG_01824		gene	peptide methionine sulfoxide reductase msrA/msrB	NMB0044	msrAB	NGO_2059	msrAB
+NGFG_01822	ftsY	gene	signal recognition particle-docking protein FtsY	NMB0045	ftsY	NGO_2060	ftsY
+NGFG_02483		gene	opacity protein	NMB1465		NGO_1040a	
+NGFG_01821	pilE	gene	pilin pilE	NMB0018	pilE		
+NGFG_01819		gene	pilin pilEuss2	NMB0023			
+NGFG_01818		gene	pilin pilEuss3	NMB0023		NGO_11165	
+NGFG_01817		gene	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	NMB0017		NGO_2065	
+NGFG_02484		gene	pilin pilS2c1	NMB0023		NGO_11140	
+NGFG_02485		gene	pilin pilS2c2	NMB0023			
+NGFG_00001		gene	pilin invertase/transposase	NMB1552		NGO_1648	
+NGFG_00002		gene	zona occludens toxin	NMB1551		NGO_1647	
+NGFG_00003		gene	integral membrane protein	NMB1550		NGO_1646	
+NGFG_02486		gene	TspB protein	NMB1548	tspB	NGO_1140	tspB
+NGFG_00006		gene	hypothetical protein	NMB1547			
+NGFG_00007		gene	hypothetical protein	NMB1546			
+NGFG_00008		gene	hypothetical protein	NMB1545			
+NGFG_00009		gene	hypothetical protein	NMB1544			
+NGFG_00010		gene	phage replication initiation protein	NMB1543			
+NGFG_02253		gene	pilin pilS1c12				
+NGFG_02487		gene	pilin pilS1c3	NMB0019			
+NGFG_00014		gene	pilin pilS1c456	NMB0025			
+NGFG_00017		gene	1-acylglycerol-3-phosphate O-acyltransferase	NMB2034		NGO_2069	
+NGFG_00018		gene	D%2CD-heptose 1%2C7-bisphosphate phosphatase	NMB2033	gmhB	NGO_2070	gmhB
+NGFG_00021		gene	aromatic amino acid transporter	NMB2031		NGO_2073	
+NGFG_00022		gene	3-demethylubiquinone-9 3-methyltransferase	NMB2030	ubiG	NGO_2074	ubiG
+NGFG_00023		gene	homoserine kinase	NMB2029	thrB	NGO_2075	thrB
+NGFG_00024		gene	thermoresistant glucokinase family carbohydrate kinase	NMB2028		NGO_2076	
+NGFG_00025		gene	gluconate:H+ symporter (GntP) family transporter	NMB2027		NGO_2077	
+NGFG_00027		gene	thiamine ABC transporter permease	NMB2026		NGO_2078	
+NGFG_00028		gene	carbonic anhydrase	NMB2025		NGO_2079	
+NGFG_00029		gene	nicotinate (nicotinamide) nucleotide adenylyltransferase	NMB2024	nadD	NGO_2080	nadD
+NGFG_00030		gene	iojap-like ribosome-associated protein	NMB2023	rsfS	NGO_2081	rsfS
+NGFG_00031		gene	ribosomal RNA large subunit methyltransferase H	NMB2022	rlmH	NGO_2082	rlmH
+NGFG_00032		gene	Fe(2+)-trafficking protein family	NMB2021		NGO_2083	
+NGFG_00033		gene	hypothetical protein	NMB2020		NGO_2084	
+NGFG_00034		gene	phosphopantetheine adenylyltransferase	NMB2019	coaD	NGO_2085	coaD
+NGFG_00035		gene	cell surface protein			NGO_2086	
+NGFG_02488		gene	transposase	NMB1411		NGO_1256	
+NGFG_00036		gene	iron complex ABC transporter ATP-binding protein	NMB1993		NGO_2088	
+NGFG_00037		gene	hypothetical protein	NMB1992		NGO_2089	
+NGFG_00038		gene	iron(III) ABC transporter permease	NMB1991		NGO_2090	
+NGFG_00039		gene	iron complex ABC transporter permease	NMB1990		NGO_2091	
+NGFG_00041		gene	iron complex ABC transporter substrate-binding protein	NMB1989		NGO_2092	
+NGFG_00042		gene	TonB-dependent siderophore receptor	NMB1988		NGO_2093	
+NGFG_00043		gene	chaperonin	NMB1973		NGO_2094	
+NGFG_00044		gene	chaperonin	NMB1972	groL	NGO_2095	groL
+NGFG_00045		gene	NSS family neurotransmitter:Na+ symporter	NMB1975		NGO_2096	
+NGFG_02489		gene	hypothetical protein			NGO_11320	
+NGFG_00046		gene	hypothetical protein			NGO_2097	
+NGFG_00048		gene	diaminopimelate decarboxylase	NMB1976	lysA	NGO_2098	lysA
+NGFG_00049		gene	lipoprotein	NMB1977		NGO_2099	
+NGFG_00050	cyaY	gene	protein CyaY	NMB1978	cyaY	NGO_2100	cyaY
+NGFG_00051		gene	hypothetical protein	NMB1980		NGO_2101	
+NGFG_00052		gene	S-ribosylhomocysteine lyase	NMB1981	luxS	NGO_2102	luxS
+NGFG_00054		gene	DNA polymerase I	NMB1982	polA	NGO_2103	polA
+NGFG_00055		gene	hypothetical protein	NMB1983		NGO_2104	
+NGFG_00056		gene	adhesion and penetration protein	NMB1985	app	NGO_2105	app
+NGFG_00058	mnmE	gene	tRNA modification GTPase mnmE	NMB1987	mnmE	NGO_2107	mnmE
+NGFG_00062		gene	hemoglobin-haptoglobin utilization protein B			NGO_2109	hupB
+NGFG_00063		gene	hemoglobin receptor			NGO_11390	
+NGFG_00064		gene	hypothetical protein	NMB1971		NGO_2111	
+NGFG_00065		gene	para-aminobenzoate synthase component	NMB1970		NGO_2112	
+NGFG_00067		gene	aldehyde dehydrogenase	NMB1968	aldA	NGO_11410	aldA
+NGFG_00068		gene	aldehyde dehydrogenase				
+NGFG_00069		gene	AraC family transcriptional regulator	NMB1967		NGO_11415	
+NGFG_00070		gene	hypothetical protein	NMB1966		NGO_2116	
+NGFG_00071		gene	ABC transporter permease	NMB1965	mlaE	NGO_2117	mlaE
+NGFG_00072	mce	gene	ABC transporter substrate-binding protein virulence factor Mce	NMB1964	mlaD	NGO_2118	mlaD
+NGFG_00073		gene	toluene tolerance protein	NMB1963	mlaC	NGO_2119	mlaC
+NGFG_00074		gene	hypothetical protein	NMB1962		NGO_2120	
+NGFG_00075		gene	lipoprotein	NMB1961		NGO_2121	
+NGFG_00076		gene	hypothetical protein	NMB1960		NGO_2122	
+NGFG_00077		gene	thioesterase	NMB1959		NGO_2123	
+NGFG_00078		gene	thioredoxin	NMB1958		NGO_2124	
+NGFG_02490		gene	galactoside O-acetyltransferase	NMB1957		NGO_2125	
+NGFG_00081		gene	50S ribosomal protein L31	NMB1956	rpmE	NGO_2126	rpmE
+NGFG_00082		gene	cadmium resistance transporter	NMB1955		NGO_2127	
+NGFG_00083		gene	inner membrane protein	NMB1954		NGO_2128	
+NGFG_00084		gene	stringent starvation protein A	NMB1953		NGO_2130	
+NGFG_00085		gene	stringent starvation protein B	NMB1952		NGO_2131	
+NGFG_00087		gene	GatB/Yqey domain protein	NMB1951		NGO_2133	
+NGFG_00088		gene	30S ribosomal protein S21	NMB1950		NGO_2134	rpsU
+NGFG_00089		gene	soluble lytic murein transglycosylase	NMB1949		NGO_2135	
+NGFG_00091		gene	D-methionine ABC transporter ATP-binding protein	NMB1948		NGO_2137	
+NGFG_00092		gene	D-methionine ABC transporter permease	NMB1947		NGO_2138	
+NGFG_00093		gene	D-methionine ABC transporter substrate-binding protein	NMB1946		NGO_2139	
+NGFG_00094		gene	polyprenyl P-hydroxybenzoate and phenylacrylic acid decarboxylase	NMB1945		NGO_2140	
+NGFG_00095		gene	ParB-like chromosome partition protein	NMB1944		NGO_2141	
+NGFG_00097		gene	ATP synthase I	NMB1941		NGO_2143	
+NGFG_00098		gene	ATP synthase F0%2C subunit A	NMB1940	atpB	NGO_2144	atpB
+NGFG_00099		gene	ATP synthase subunit C	NMB1939	atpE	NGO_2145	atpE
+NGFG_00100		gene	ATP synthase F0%2C subunit B	NMB1938		NGO_2146	
+NGFG_00101		gene	ATP synthase F1%2C subunit delta	NMB1937		NGO_2147	
+NGFG_00102		gene	ATP synthase F1%2C subunit alpha	NMB1936		NGO_2148	
+NGFG_00103		gene	ATP synthase F1%2C gamma chain	NMB1935	atpG	NGO_2149	atpG
+NGFG_00104		gene	ATP synthase F1%2C subunit beta	NMB1934	atpD	NGO_2150	atpD
+NGFG_00105		gene	ATP synthase F1%2C epsilon chain	NMB1933		NGO_2151	
+NGFG_00106		gene	glycyl-tRNA synthetase alpha subunit	NMB1932	glyQ	NGO_2153	glyQ
+NGFG_00107		gene	glycyl-tRNA synthetase beta subunit	NMB1930		NGO_2154	
+NGFG_00109	lgtB	gene	lacto-N-neotetraose biosynthesis glycosyltransferase lgtB	NMB1928		NGO_2156	
+NGFG_00110		gene	glycosyltransferase			NGO_11620	
+NGFG_02228	lgtE	gene	lacto-N-neotetraose biosynthesis glycosyltransferase lgtE	NMB1926		NGO_2159	
+NGFG_00113		gene	RsmE family RNA methyltransferase	NMB1925		NGO_2160	
+NGFG_00114		gene	inositol-1-monophosphatase	NMB1924		NGO_2161	
+NGFG_00115		gene	SEC-C domain-containing protein	NMB1923		NGO_2162	
+NGFG_00116		gene	3-oxoacyl-[acyl-carrier-protein] reductase	NMB1921	fabG	NGO_2163	fabG
+NGFG_00117		gene	GMP synthase [glutamine-hydrolyzing]	NMB1920	guaA	NGO_2164	guaA
+NGFG_00118	msbA	gene	lipid A export ATP-binding/permease MsbA	NMB1919	msbA	NGO_2165	msbA
+NGFG_00119		gene	malonyl CoA-acyl carrier protein transacylase	NMB1918	fabD	NGO_2166	fabD
+NGFG_00120		gene	integral membrane protein	NMB1917		NGO_2167	
+NGFG_00121		gene	3-oxoacyl-[acyl-carrier-protein] synthase 3	NMB1916		NGO_2168	
+NGFG_02491		gene	hypothetical protein			NGO_11685	
+NGFG_00124		gene	hypothetical protein	NMB1914		NGO_2170	
+NGFG_00125		gene	phosphate acyltransferase	NMB1913	plsX	NGO_2171	plsX
+NGFG_00126		gene	hypothetical protein	NMB1912		NGO_2172	
+NGFG_00127		gene	50S ribosomal protein L32	NMB1911	rpmF	NGO_2173	rpmF
+NGFG_00128		gene	hypothetical protein	NMB1910		NGO_2174	
+NGFG_00129		gene	maf-like protein	NMB1909	maf	NGO_2175	maf
+NGFG_00130		gene	16S rRNA (-2'-O)-methyltransferase	NMB1908		NGO_2177	
+NGFG_00131	yidC	gene	preprotein translocase subunit YidC	NMB1907	yidC	NGO_2178	yidC
+NGFG_00133		gene	hypothetical protein	NMB1906	yidD	NGO_2180	yidD
+NGFG_00134		gene	ribonuclease P protein component	NMB1905		NGO_2181	
+NGFG_00135		gene	50S ribosomal protein L34	NMB1904	rpmH	NGO_2182	rpmH

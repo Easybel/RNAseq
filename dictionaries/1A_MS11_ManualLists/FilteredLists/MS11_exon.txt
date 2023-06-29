@@ -1,0 +1,67 @@
+CP003909.1	Genbank	exon	13927	14012	.	-	.	ID=exon-NGFG_06000-1;Parent=rna-NGFG_06000;gbkey=tRNA;locus_tag=NGFG_06000;product=tRNA-Leu
+CP003909.1	Genbank	exon	59244	59319	.	+	.	ID=exon-NGFG_06001-1;Parent=rna-NGFG_06001;gbkey=tRNA;locus_tag=NGFG_06001;product=tRNA-Lys
+CP003909.1	Genbank	exon	140466	140542	.	-	.	ID=exon-NGFG_06002-1;Parent=rna-NGFG_06002;gbkey=tRNA;locus_tag=NGFG_06002;product=tRNA-Pro
+CP003909.1	Genbank	exon	224973	225049	.	+	.	ID=exon-NGFG_06003-1;Parent=rna-NGFG_06003;gbkey=tRNA;locus_tag=NGFG_06003;product=tRNA-Pro
+CP003909.1	Genbank	exon	245988	246080	.	+	.	ID=exon-NGFG_06004-1;Parent=rna-NGFG_06004;gbkey=tRNA;locus_tag=NGFG_06004;product=tRNA-Ser
+CP003909.1	Genbank	exon	296735	296811	.	+	.	ID=exon-NGFG_06005-1;Parent=rna-NGFG_06005;gbkey=tRNA;locus_tag=NGFG_06005;product=tRNA-Val
+CP003909.1	Genbank	exon	317438	317514	.	+	.	ID=exon-NGFG_06006-1;Parent=rna-NGFG_06006;gbkey=tRNA;locus_tag=NGFG_06006;product=tRNA-Arg
+CP003909.1	Genbank	exon	317532	317606	.	+	.	ID=exon-NGFG_06007-1;Parent=rna-NGFG_06007;gbkey=tRNA;locus_tag=NGFG_06007;product=tRNA-Glu
+CP003909.1	Genbank	exon	429381	429456	.	+	.	ID=exon-NGFG_06008-1;Parent=rna-NGFG_06008;gbkey=tRNA;locus_tag=NGFG_06008;product=tRNA-Thr
+CP003909.1	Genbank	exon	435097	435172	.	+	.	ID=exon-NGFG_06009-1;Parent=rna-NGFG_06009;gbkey=tRNA;locus_tag=NGFG_06009;product=tRNA-Gln
+CP003909.1	Genbank	exon	435185	435260	.	+	.	ID=exon-NGFG_06010-1;Parent=rna-NGFG_06010;gbkey=tRNA;locus_tag=NGFG_06010;product=tRNA-Gln
+CP003909.1	Genbank	exon	454471	454561	.	+	.	ID=exon-NGFG_06011-1;Parent=rna-NGFG_06011;gbkey=tRNA;locus_tag=NGFG_06011;product=tRNA-Ser
+CP003909.1	Genbank	exon	454639	454728	.	+	.	ID=exon-NGFG_06012-1;Parent=rna-NGFG_06012;gbkey=tRNA;locus_tag=NGFG_06012;product=tRNA-Ser
+CP003909.1	Genbank	exon	854498	854584	.	+	.	ID=exon-NGFG_06013-1;Parent=rna-NGFG_06013;gbkey=tRNA;locus_tag=NGFG_06013;product=tRNA-Leu
+CP003909.1	Genbank	exon	854623	854713	.	+	.	ID=exon-NGFG_06014-1;Parent=rna-NGFG_06014;gbkey=tRNA;locus_tag=NGFG_06014;product=tRNA-Ser
+CP003909.1	Genbank	exon	1020718	1020793	.	-	.	ID=exon-NGFG_06015-1;Parent=rna-NGFG_06015;gbkey=tRNA;locus_tag=NGFG_06015;product=tRNA-Asn
+CP003909.1	Genbank	exon	1049684	1049760	.	+	.	ID=exon-NGFG_06016-1;Parent=rna-NGFG_06016;gbkey=tRNA;locus_tag=NGFG_06016;product=tRNA-Arg
+CP003909.1	Genbank	exon	1049778	1049852	.	+	.	ID=exon-NGFG_06017-1;Parent=rna-NGFG_06017;gbkey=tRNA;locus_tag=NGFG_06017;product=tRNA-Glu
+CP003909.1	Genbank	exon	1147387	1147471	.	-	.	ID=exon-NGFG_06018-1;Parent=rna-NGFG_06018;gbkey=tRNA;locus_tag=NGFG_06018;product=tRNA-Leu
+CP003909.1	Genbank	exon	1168960	1169035	.	+	.	ID=exon-NGFG_06019-1;Parent=rna-NGFG_06019;gbkey=tRNA;locus_tag=NGFG_06019;product=tRNA-Glu
+CP003909.1	Genbank	exon	1185102	1185214	.	-	.	ID=exon-NGFG_06020-1;Parent=rna-NGFG_06020;gbkey=rRNA;locus_tag=NGFG_06020;product=5S ribosomal RNA
+CP003909.1	Genbank	exon	1185313	1188202	.	-	.	ID=exon-NGFG_06021-1;Parent=rna-NGFG_06021;gbkey=rRNA;locus_tag=NGFG_06021;product=23S ribosomal RNA
+CP003909.1	Genbank	exon	1188559	1188634	.	-	.	ID=exon-NGFG_06022-1;Parent=rna-NGFG_06022;gbkey=tRNA;locus_tag=NGFG_06022;product=tRNA-Ala
+CP003909.1	Genbank	exon	1188640	1188716	.	-	.	ID=exon-NGFG_06023-1;Parent=rna-NGFG_06023;gbkey=tRNA;locus_tag=NGFG_06023;product=tRNA-Ile
+CP003909.1	Genbank	exon	1188822	1190351	.	-	.	ID=exon-NGFG_06024-1;Parent=rna-NGFG_06024;gbkey=rRNA;locus_tag=NGFG_06024;product=16S ribosomal RNA
+CP003909.1	Genbank	exon	1257822	1257906	.	-	.	ID=exon-NGFG_06025-1;Parent=rna-NGFG_06025;gbkey=tRNA;locus_tag=NGFG_06025;product=tRNA-Leu
+CP003909.1	Genbank	exon	1267581	1267670	.	-	.	ID=exon-NGFG_06026-1;Parent=rna-NGFG_06026;gbkey=tRNA;locus_tag=NGFG_06026;product=tRNA-Leu
+CP003909.1	Genbank	exon	1267771	1267844	.	-	.	ID=exon-NGFG_06027-1;Parent=rna-NGFG_06027;gbkey=tRNA;locus_tag=NGFG_06027;product=tRNA-Cys
+CP003909.1	Genbank	exon	1267870	1267945	.	-	.	ID=exon-NGFG_06028-1;Parent=rna-NGFG_06028;gbkey=tRNA;locus_tag=NGFG_06028;product=tRNA-Gly
+CP003909.1	Genbank	exon	1267971	1268046	.	-	.	ID=exon-NGFG_06029-1;Parent=rna-NGFG_06029;gbkey=tRNA;locus_tag=NGFG_06029;product=tRNA-Gly
+CP003909.1	Genbank	exon	1268072	1268147	.	-	.	ID=exon-NGFG_06030-1;Parent=rna-NGFG_06030;gbkey=tRNA;locus_tag=NGFG_06030;product=tRNA-Gly
+CP003909.1	Genbank	exon	1328036	1328148	.	-	.	ID=exon-NGFG_06031-1;Parent=rna-NGFG_06031;gbkey=rRNA;locus_tag=NGFG_06031;product=5S ribosomal RNA
+CP003909.1	Genbank	exon	1328247	1331136	.	-	.	ID=exon-NGFG_06032-1;Parent=rna-NGFG_06032;gbkey=rRNA;locus_tag=NGFG_06032;product=23S ribosomal RNA
+CP003909.1	Genbank	exon	1331485	1331560	.	-	.	ID=exon-NGFG_06033-1;Parent=rna-NGFG_06033;gbkey=tRNA;locus_tag=NGFG_06033;product=tRNA-Ala
+CP003909.1	Genbank	exon	1331566	1331642	.	-	.	ID=exon-NGFG_06034-1;Parent=rna-NGFG_06034;gbkey=tRNA;locus_tag=NGFG_06034;product=tRNA-Ile
+CP003909.1	Genbank	exon	1331748	1333277	.	-	.	ID=exon-NGFG_06035-1;Parent=rna-NGFG_06035;gbkey=rRNA;locus_tag=NGFG_06035;product=16S ribosomal RNA
+CP003909.1	Genbank	exon	1357058	1357133	.	+	.	ID=exon-NGFG_06036-1;Parent=rna-NGFG_06036;gbkey=tRNA;locus_tag=NGFG_06036;product=tRNA-Arg
+CP003909.1	Genbank	exon	1382298	1382373	.	+	.	ID=exon-NGFG_06037-1;Parent=rna-NGFG_06037;gbkey=tRNA;locus_tag=NGFG_06037;product=tRNA-Met
+CP003909.1	Genbank	exon	1511947	1512022	.	-	.	ID=exon-NGFG_06038-1;Parent=rna-NGFG_06038;gbkey=tRNA;locus_tag=NGFG_06038;product=tRNA-Asn
+CP003909.1	Genbank	exon	1592555	1592631	.	+	.	ID=exon-NGFG_06039-1;Parent=rna-NGFG_06039;gbkey=tRNA;locus_tag=NGFG_06039;product=tRNA-Met
+CP003909.1	Genbank	exon	1592639	1592714	.	+	.	ID=exon-NGFG_06040-1;Parent=rna-NGFG_06040;gbkey=tRNA;locus_tag=NGFG_06040;product=tRNA-Ala
+CP003909.1	Genbank	exon	1646734	1646809	.	-	.	ID=exon-NGFG_06041-1;Parent=rna-NGFG_06041;gbkey=tRNA;locus_tag=NGFG_06041;product=tRNA-Phe
+CP003909.1	Genbank	exon	1700626	1700697	.	-	.	ID=exon-NGFG_06042-1;Parent=rna-NGFG_06042;gbkey=tRNA;locus_tag=NGFG_06042;product=tRNA-Arg
+CP003909.1	Genbank	exon	1720801	1720913	.	-	.	ID=exon-NGFG_06043-1;Parent=rna-NGFG_06043;gbkey=rRNA;locus_tag=NGFG_06043;product=5S ribosomal RNA
+CP003909.1	Genbank	exon	1721012	1723901	.	-	.	ID=exon-NGFG_06044-1;Parent=rna-NGFG_06044;gbkey=rRNA;locus_tag=NGFG_06044;product=23S ribosomal RNA
+CP003909.1	Genbank	exon	1724250	1724325	.	-	.	ID=exon-NGFG_06045-1;Parent=rna-NGFG_06045;gbkey=tRNA;locus_tag=NGFG_06045;product=tRNA-Ala
+CP003909.1	Genbank	exon	1724331	1724407	.	-	.	ID=exon-NGFG_06046-1;Parent=rna-NGFG_06046;gbkey=tRNA;locus_tag=NGFG_06046;product=tRNA-Ile
+CP003909.1	Genbank	exon	1724513	1726039	.	-	.	ID=exon-NGFG_06047-1;Parent=rna-NGFG_06047;gbkey=rRNA;locus_tag=NGFG_06047;product=16S ribosomal RNA
+CP003909.1	Genbank	exon	1814678	1814754	.	-	.	ID=exon-NGFG_06048-1;Parent=rna-NGFG_06048;gbkey=tRNA;locus_tag=NGFG_06048;product=tRNA-Asp
+CP003909.1	Genbank	exon	1814787	1814862	.	-	.	ID=exon-NGFG_06049-1;Parent=rna-NGFG_06049;gbkey=tRNA;locus_tag=NGFG_06049;product=tRNA-Val
+CP003909.1	Genbank	exon	1814902	1814978	.	-	.	ID=exon-NGFG_06050-1;Parent=rna-NGFG_06050;gbkey=tRNA;locus_tag=NGFG_06050;product=tRNA-Asp
+CP003909.1	Genbank	exon	1815011	1815086	.	-	.	ID=exon-NGFG_06051-1;Parent=rna-NGFG_06051;gbkey=tRNA;locus_tag=NGFG_06051;product=tRNA-Val
+CP003909.1	Genbank	exon	1836911	1836986	.	+	.	ID=exon-NGFG_06052-1;Parent=rna-NGFG_06052;gbkey=tRNA;locus_tag=NGFG_06052;product=tRNA-Thr
+CP003909.1	Genbank	exon	1898617	1898692	.	-	.	ID=exon-NGFG_06053-1;Parent=rna-NGFG_06053;gbkey=tRNA;locus_tag=NGFG_06053;product=tRNA-Trp
+CP003909.1	Genbank	exon	1899932	1900006	.	-	.	ID=exon-NGFG_06054-1;Parent=rna-NGFG_06054;gbkey=tRNA;locus_tag=NGFG_06054;product=tRNA-Thr
+CP003909.1	Genbank	exon	1900016	1900089	.	-	.	ID=exon-NGFG_06055-1;Parent=rna-NGFG_06055;gbkey=tRNA;locus_tag=NGFG_06055;product=tRNA-Gly
+CP003909.1	Genbank	exon	1900120	1900203	.	-	.	ID=exon-NGFG_06056-1;Parent=rna-NGFG_06056;gbkey=tRNA;locus_tag=NGFG_06056;product=tRNA-Tyr
+CP003909.1	Genbank	exon	1943554	1943666	.	-	.	ID=exon-NGFG_06057-1;Parent=rna-NGFG_06057;gbkey=rRNA;locus_tag=NGFG_06057;product=5S ribosomal RNA
+CP003909.1	Genbank	exon	1943765	1946655	.	-	.	ID=exon-NGFG_06058-1;Parent=rna-NGFG_06058;gbkey=rRNA;locus_tag=NGFG_06058;product=23S ribosomal RNA
+CP003909.1	Genbank	exon	1947004	1947079	.	-	.	ID=exon-NGFG_06059-1;Parent=rna-NGFG_06059;gbkey=tRNA;locus_tag=NGFG_06059;product=tRNA-Ala
+CP003909.1	Genbank	exon	1947085	1947161	.	-	.	ID=exon-NGFG_06060-1;Parent=rna-NGFG_06060;gbkey=tRNA;locus_tag=NGFG_06060;product=tRNA-Ile
+CP003909.1	Genbank	exon	1947267	1948795	.	-	.	ID=exon-NGFG_06061-1;Parent=rna-NGFG_06061;gbkey=rRNA;locus_tag=NGFG_06061;product=16S ribosomal RNA
+CP003909.1	Genbank	exon	1967609	1967684	.	+	.	ID=exon-NGFG_06062-1;Parent=rna-NGFG_06062;gbkey=tRNA;locus_tag=NGFG_06062;product=tRNA-Lys
+CP003909.1	Genbank	exon	2046197	2046274	.	+	.	ID=exon-NGFG_06063-1;Parent=rna-NGFG_06063;gbkey=tRNA;locus_tag=NGFG_06063;product=tRNA-Pro
+CP003909.1	Genbank	exon	2046299	2046375	.	+	.	ID=exon-NGFG_06064-1;Parent=rna-NGFG_06064;gbkey=tRNA;locus_tag=NGFG_06064;product=tRNA-Arg
+CP003909.1	Genbank	exon	2046403	2046478	.	+	.	ID=exon-NGFG_06065-1;Parent=rna-NGFG_06065;gbkey=tRNA;locus_tag=NGFG_06065;product=tRNA-His
+CP003909.1	Genbank	exon	2084925	2085001	.	-	.	ID=exon-NGFG_06066-1;Parent=rna-NGFG_06066;gbkey=tRNA;locus_tag=NGFG_06066;product=tRNA-Met

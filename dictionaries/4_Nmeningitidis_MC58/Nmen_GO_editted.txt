@@ -1,0 +1,2324 @@
+Q59623	sodC	GO:0005507	Superoxide dismutase [Cu-Zn]	NCBITaxon:122586
+Q59623	sodC	GO:0004784	Superoxide dismutase [Cu-Zn]	NCBITaxon:122586
+Q59623	sodC	GO:0042597	Superoxide dismutase [Cu-Zn]	NCBITaxon:122586
+Q59623	sodC	GO:0019430	Superoxide dismutase [Cu-Zn]	NCBITaxon:122586
+P0C277	folD	GO:0035999	Bifunctional protein FolD	NCBITaxon:122586
+P0C277	folD	GO:0005829	Bifunctional protein FolD	NCBITaxon:122586
+P0C277	folD	GO:0004488	Bifunctional protein FolD	NCBITaxon:122586
+P0C277	folD	GO:0004477	Bifunctional protein FolD	NCBITaxon:122586
+Q4W582	NMB0078	GO:0033499	UDP-glucose 4-epimerase, truncation	NCBITaxon:122586
+Q4W582	NMB0078	GO:0003978	UDP-glucose 4-epimerase, truncation	NCBITaxon:122586
+Q4W582	NMB0078	GO:0005829	UDP-glucose 4-epimerase, truncation	NCBITaxon:122586
+Q4W580	coaE	GO:0004140	Dephospho-CoA kinase	NCBITaxon:122586
+Q4W580	coaE	GO:0015937	Dephospho-CoA kinase	NCBITaxon:122586
+Q4W565	dnaX	GO:0006261	DNA polymerase III subunit gamma/tau	NCBITaxon:122586
+Q4W563	pilN	GO:0043107	PilN protein	NCBITaxon:122586
+Q4W563	pilN	GO:0043683	PilN protein	NCBITaxon:122586
+Q4W557	thrB	GO:0004413	Homoserine kinase	NCBITaxon:122586
+Q4W557	thrB	GO:0019202	Homoserine kinase	NCBITaxon:122586
+Q4W557	thrB	GO:0009088	Homoserine kinase	NCBITaxon:122586
+P66487	rpsS	GO:0003735	30S ribosomal protein S19	NCBITaxon:122586
+P66487	rpsS	GO:0000028	30S ribosomal protein S19	NCBITaxon:122586
+P66487	rpsS	GO:0022627	30S ribosomal protein S19	NCBITaxon:122586
+Q51161	folP	GO:0046654	Dihydropteroate synthase	NCBITaxon:122586
+Q51161	folP	GO:0004156	Dihydropteroate synthase	NCBITaxon:122586
+Q51161	folP	GO:0005829	Dihydropteroate synthase	NCBITaxon:122586
+Q51152	NMB0075	GO:0006412	Uncharacterized protein NMB0075	NCBITaxon:122586
+Q51152	NMB0075	GO:0005829	Uncharacterized protein NMB0075	NCBITaxon:122586
+Q51152	NMB0075	GO:0003735	Uncharacterized protein NMB0075	NCBITaxon:122586
+Q51152	NMB0075	GO:0003729	Uncharacterized protein NMB0075	NCBITaxon:122586
+Q59622	rpoB	GO:0003899	DNA-directed RNA polymerase subunit beta	NCBITaxon:122586
+Q9K0P0	adhP	GO:0004022	Alcohol dehydrogenase, propanol-preferring	NCBITaxon:122586
+Q9K0P0	adhP	GO:0005737	Alcohol dehydrogenase, propanol-preferring	NCBITaxon:122586
+Q9K037	recB	GO:0043138	RecBCD enzyme subunit RecB	NCBITaxon:122586
+Q9K037	recB	GO:0000725	RecBCD enzyme subunit RecB	NCBITaxon:122586
+Q9K037	recB	GO:0005829	RecBCD enzyme subunit RecB	NCBITaxon:122586
+Q9K037	recB	GO:0009338	RecBCD enzyme subunit RecB	NCBITaxon:122586
+Q9K064	NMB0756	GO:0045226	dTDP-4-dehydrorhamnose reductase	NCBITaxon:122586
+Q9K064	NMB0756	GO:0019305	dTDP-4-dehydrorhamnose reductase	NCBITaxon:122586
+Q9K064	NMB0756	GO:0008831	dTDP-4-dehydrorhamnose reductase	NCBITaxon:122586
+Q9K064	NMB0756	GO:0005829	dTDP-4-dehydrorhamnose reductase	NCBITaxon:122586
+Q9K086	bioA	GO:0009102	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	NCBITaxon:122586
+Q9K086	bioA	GO:0004015	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	NCBITaxon:122586
+Q9K0K5	rplS	GO:0022625	50S ribosomal protein L19	NCBITaxon:122586
+Q9K0K5	rplS	GO:0003735	50S ribosomal protein L19	NCBITaxon:122586
+Q9K148	lapB	GO:0051301	Lipopolysaccharide assembly protein B	NCBITaxon:122586
+Q9K159	farB	GO:0016020	Fatty acid efflux system protein	NCBITaxon:122586
+Q9K0U9	tbp1	GO:0031230	Transferrin-binding protein 1	NCBITaxon:122586
+Q9K0U9	tbp1	GO:0015344	Transferrin-binding protein 1	NCBITaxon:122586
+Q9K0U9	tbp1	GO:0044718	Transferrin-binding protein 1	NCBITaxon:122586
+Q9K179	NMB0290	GO:0043565	Putative transcriptional regulator	NCBITaxon:122586
+Q9K179	NMB0290	GO:0006351	Putative transcriptional regulator	NCBITaxon:122586
+Q9K179	NMB0290	GO:0003700	Putative transcriptional regulator	NCBITaxon:122586
+Q9K0W4	NMB0443	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9K0W4	NMB0443	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9K193	recQ	GO:0030894	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0005737	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0006281	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0032508	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0009378	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0006310	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0043590	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0043138	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K193	recQ	GO:0005694	ATP-dependent DNA helicase RecQ	NCBITaxon:122586
+Q9K1C2	nuoB	GO:0009060	NADH-quinone oxidoreductase subunit B	NCBITaxon:122586
+Q9K1C2	nuoB	GO:0045272	NADH-quinone oxidoreductase subunit B	NCBITaxon:122586
+Q9K1C2	nuoB	GO:0015990	NADH-quinone oxidoreductase subunit B	NCBITaxon:122586
+Q9K1C2	nuoB	GO:0008137	NADH-quinone oxidoreductase subunit B	NCBITaxon:122586
+Q9K1D7	pyrD	GO:0004152	Dihydroorotate dehydrogenase (quinone)	NCBITaxon:122586
+Q9K1D7	pyrD	GO:0009220	Dihydroorotate dehydrogenase (quinone)	NCBITaxon:122586
+Q9K1D7	pyrD	GO:0006207	Dihydroorotate dehydrogenase (quinone)	NCBITaxon:122586
+Q9K1E9	aat	GO:0008914	Leucyl/phenylalanyl-tRNA--protein transferase	NCBITaxon:122586
+Q9K1E9	aat	GO:0005737	Leucyl/phenylalanyl-tRNA--protein transferase	NCBITaxon:122586
+Q9K1F1	dapB	GO:0005829	4-hydroxy-tetrahydrodipicolinate reductase	NCBITaxon:122586
+Q9K1F1	dapB	GO:0019877	4-hydroxy-tetrahydrodipicolinate reductase	NCBITaxon:122586
+Q9K1F1	dapB	GO:0008839	4-hydroxy-tetrahydrodipicolinate reductase	NCBITaxon:122586
+Q9K1G0	mnmG	GO:0002098	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	NCBITaxon:122586
+Q9K1G0	mnmG	GO:0005829	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	NCBITaxon:122586
+Q9K1G0	mnmG	GO:0030488	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	NCBITaxon:122586
+Q9K1G0	mnmG	GO:0050660	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	NCBITaxon:122586
+Q9K1G6	uppS	GO:0005829	Isoprenyl transferase	NCBITaxon:122586
+Q9K1G6	uppS	GO:0016094	Isoprenyl transferase	NCBITaxon:122586
+Q9K1G6	uppS	GO:0000287	Isoprenyl transferase	NCBITaxon:122586
+Q9K1G6	uppS	GO:0030145	Isoprenyl transferase	NCBITaxon:122586
+Q9K1G6	uppS	GO:0008834	Isoprenyl transferase	NCBITaxon:122586
+Q9K1G6	uppS	GO:0002094	Isoprenyl transferase	NCBITaxon:122586
+Q9K1J1	rpoC	GO:0003899	DNA-directed RNA polymerase subunit beta'	NCBITaxon:122586
+Q9K1M1	pykA	GO:0004743	Pyruvate kinase	NCBITaxon:122586
+Q9K1M1	pykA	GO:0005829	Pyruvate kinase	NCBITaxon:122586
+Q9K1M1	pykA	GO:0006096	Pyruvate kinase	NCBITaxon:122586
+Q9K1M1	pykA	GO:0005737	Pyruvate kinase	NCBITaxon:122586
+Q9K1N5	NMB0050	GO:0055085	Uncharacterized protein	NCBITaxon:122586
+Q9K1N5	NMB0050	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K1N5	NMB0050	GO:0022857	Uncharacterized protein	NCBITaxon:122586
+Q9K1N8	msrAB	GO:0008113	Peptide methionine sulfoxide reductase MsrA/MsrB	NCBITaxon:122586
+Q9K1N8	msrAB	GO:0036456	Peptide methionine sulfoxide reductase MsrA/MsrB	NCBITaxon:122586
+Q9K1N8	msrAB	GO:0005737	Peptide methionine sulfoxide reductase MsrA/MsrB	NCBITaxon:122586
+Q9K1N8	msrAB	GO:0034599	Peptide methionine sulfoxide reductase MsrA/MsrB	NCBITaxon:122586
+Q9K1P9	glmS	GO:0006002	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	NCBITaxon:122586
+Q9K1P9	glmS	GO:0006487	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	NCBITaxon:122586
+Q9K1P9	glmS	GO:0005829	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	NCBITaxon:122586
+Q9K1P9	glmS	GO:0004360	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	NCBITaxon:122586
+Q9K1P9	glmS	GO:0006047	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	NCBITaxon:122586
+Q9JXA1	NMB2153	GO:0071264	Uncharacterized protein	NCBITaxon:122586
+Q9JXA1	NMB2153	GO:0004860	Uncharacterized protein	NCBITaxon:122586
+Q9JXA1	NMB2153	GO:1905538	Uncharacterized protein	NCBITaxon:122586
+Q9JXA1	NMB2153	GO:0060733	Uncharacterized protein	NCBITaxon:122586
+Q9JXA1	NMB2153	GO:0005844	Uncharacterized protein	NCBITaxon:122586
+Q9JXA1	NMB2153	GO:0043022	Uncharacterized protein	NCBITaxon:122586
+Q9JXA1	NMB2153	GO:0001933	Uncharacterized protein	NCBITaxon:122586
+Q9JXI1	NMB2038	GO:0016075	PemK-related protein	NCBITaxon:122586
+Q9JXI1	NMB2038	GO:0006402	PemK-related protein	NCBITaxon:122586
+Q9JXI1	NMB2038	GO:0004521	PemK-related protein	NCBITaxon:122586
+Q9JXK1	hslO	GO:0042026	33 kDa chaperonin	NCBITaxon:122586
+Q9JXK1	hslO	GO:0005737	33 kDa chaperonin	NCBITaxon:122586
+Q9JXK1	hslO	GO:0044183	33 kDa chaperonin	NCBITaxon:122586
+Q9JXP4	ubiX	GO:0016831	Flavin prenyltransferase UbiX	NCBITaxon:122586
+Q9JXP5	parB	GO:0045881	Probable chromosome-partitioning protein ParB	NCBITaxon:122586
+Q9JXP5	parB	GO:0007059	Probable chromosome-partitioning protein ParB	NCBITaxon:122586
+Q9JXP5	parB	GO:0005694	Probable chromosome-partitioning protein ParB	NCBITaxon:122586
+Q9JY19	NMB1786	GO:0016706	Uncharacterized protein	NCBITaxon:122586
+Q9JXQ2	atpD	GO:0045261	ATP synthase subunit beta	NCBITaxon:122586
+Q9JXQ2	atpD	GO:0016887	ATP synthase subunit beta	NCBITaxon:122586
+Q9JY63	mtrF	GO:0015558	Efflux pump component MtrF	NCBITaxon:122586
+Q9JY63	mtrF	GO:0015814	Efflux pump component MtrF	NCBITaxon:122586
+Q9JXV2	NMB1872	GO:0016747	[Ribosomal protein S18]-alanine N-acetyltransferase	NCBITaxon:122586
+Q9JXV2	NMB1872	GO:0008999	[Ribosomal protein S18]-alanine N-acetyltransferase	NCBITaxon:122586
+Q9JXV2	NMB1872	GO:0017189	[Ribosomal protein S18]-alanine N-acetyltransferase	NCBITaxon:122586
+Q9JXV7	dxs	GO:0019288	1-deoxy-D-xylulose-5-phosphate synthase	NCBITaxon:122586
+Q9JXV7	dxs	GO:0005829	1-deoxy-D-xylulose-5-phosphate synthase	NCBITaxon:122586
+Q9JXV7	dxs	GO:0016744	1-deoxy-D-xylulose-5-phosphate synthase	NCBITaxon:122586
+Q9JXV7	dxs	GO:0008661	1-deoxy-D-xylulose-5-phosphate synthase	NCBITaxon:122586
+Q9JXV8	miaB	GO:0005829	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	NCBITaxon:122586
+Q9JXV8	miaB	GO:0035600	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	NCBITaxon:122586
+Q9JXV8	miaB	GO:0051539	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	NCBITaxon:122586
+Q9JXV8	miaB	GO:0035596	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	NCBITaxon:122586
+Q9JXV8	miaB	GO:0035597	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	NCBITaxon:122586
+Q9JXW4	queA	GO:0002099	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	NCBITaxon:122586
+Q9JXW4	queA	GO:0008616	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	NCBITaxon:122586
+Q9JXW4	queA	GO:0051075	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	NCBITaxon:122586
+Q9JXW7	NMB1856	GO:0006351	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9JXW7	NMB1856	GO:0003700	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9JXW7	NMB1856	GO:0043565	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9JY92	NMB1687	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9JXX6	NMB1846	GO:0051539	Iron-sulfur cluster carrier protein	NCBITaxon:122586
+Q9JXX6	NMB1846	GO:0016226	Iron-sulfur cluster carrier protein	NCBITaxon:122586
+Q9JY99	aroC	GO:0005829	Chorismate synthase	NCBITaxon:122586
+Q9JY99	aroC	GO:0009073	Chorismate synthase	NCBITaxon:122586
+Q9JY99	aroC	GO:0010181	Chorismate synthase	NCBITaxon:122586
+Q9JY99	aroC	GO:0004107	Chorismate synthase	NCBITaxon:122586
+Q9JY99	aroC	GO:0009423	Chorismate synthase	NCBITaxon:122586
+Q9JYA1	tyrB	GO:0008483	Aminotransferase	NCBITaxon:122586
+Q9JYA1	tyrB	GO:0004838	Aminotransferase	NCBITaxon:122586
+Q9JYA1	tyrB	GO:0030170	Aminotransferase	NCBITaxon:122586
+Q9JYA1	tyrB	GO:0042802	Aminotransferase	NCBITaxon:122586
+Q9JYA1	tyrB	GO:0005829	Aminotransferase	NCBITaxon:122586
+Q9JYA1	tyrB	GO:0033585	Aminotransferase	NCBITaxon:122586
+Q9JYH2	pgsA	GO:0046474	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	NCBITaxon:122586
+Q9JYP4	gabD	GO:0004777	Succinate-semialdehyde dehydrogenase (NADP+)	NCBITaxon:122586
+Q9JZ17	NMB1336	GO:0005829	UPF0301 protein NMB1336	NCBITaxon:122586
+Q9JZ18	creA	GO:0005829	CreA protein	NCBITaxon:122586
+Q9JYP9	NMB1483	GO:0004222	Putative lipoprotein NlpD	NCBITaxon:122586
+Q9JYP9	NMB1483	GO:0000920	Putative lipoprotein NlpD	NCBITaxon:122586
+Q9JZ20	NMB1333	GO:0004222	Uncharacterized protein NMB1333	NCBITaxon:122586
+Q9JZ20	NMB1333	GO:0000920	Uncharacterized protein NMB1333	NCBITaxon:122586
+Q9JYQ5	gluD	GO:0006538	Glutamate dehydrogenase	NCBITaxon:122586
+Q9JYQ5	gluD	GO:0004352	Glutamate dehydrogenase	NCBITaxon:122586
+Q9JYQ9	trpS	GO:0006436	Tryptophan--tRNA ligase	NCBITaxon:122586
+Q9JYQ9	trpS	GO:0005829	Tryptophan--tRNA ligase	NCBITaxon:122586
+Q9JYQ9	trpS	GO:0004830	Tryptophan--tRNA ligase	NCBITaxon:122586
+Q9JYR5	NMB1464	GO:0006310	Uncharacterized protein	NCBITaxon:122586
+Q9JYR5	NMB1464	GO:0043565	Uncharacterized protein	NCBITaxon:122586
+Q9JZ38	clpP	GO:0004176	ATP-dependent Clp protease proteolytic subunit	NCBITaxon:122586
+Q9JZ38	clpP	GO:0004252	ATP-dependent Clp protease proteolytic subunit	NCBITaxon:122586
+Q9JZ38	clpP	GO:0009368	ATP-dependent Clp protease proteolytic subunit	NCBITaxon:122586
+Q9JZ38	clpP	GO:0051117	ATP-dependent Clp protease proteolytic subunit	NCBITaxon:122586
+Q9JZ38	clpP	GO:0006515	ATP-dependent Clp protease proteolytic subunit	NCBITaxon:122586
+Q9JZ40	ispG	GO:0019288	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	NCBITaxon:122586
+Q9JZ40	ispG	GO:0046429	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	NCBITaxon:122586
+Q9JYS3	NMB1454	GO:0005886	Ferredoxin, 4Fe-4S bacterial type	NCBITaxon:122586
+Q9JYS7	fpr-2	GO:0003994	Ferredoxin--NADP reductase	NCBITaxon:122586
+Q9JYS7	fpr-2	GO:0034599	Ferredoxin--NADP reductase	NCBITaxon:122586
+Q9JYS7	fpr-2	GO:0042167	Ferredoxin--NADP reductase	NCBITaxon:122586
+Q9JYS7	fpr-2	GO:0000104	Ferredoxin--NADP reductase	NCBITaxon:122586
+Q9JYT0	aroD	GO:0003855	3-dehydroquinate dehydratase	NCBITaxon:122586
+Q9JYT0	aroD	GO:0046279	3-dehydroquinate dehydratase	NCBITaxon:122586
+Q9JYT9	NMB1435	GO:0016020	Drug resistance translocase family protein	NCBITaxon:122586
+Q9JZ61	NMB1277	GO:0005886	Transporter, BCCT family	NCBITaxon:122586
+Q9JZ61	NMB1277	GO:0022857	Transporter, BCCT family	NCBITaxon:122586
+Q9JZ61	NMB1277	GO:0006810	Transporter, BCCT family	NCBITaxon:122586
+Q9JZ61	NMB1277	GO:0016021	Transporter, BCCT family	NCBITaxon:122586
+Q9JYV0	dusB	GO:0017150	tRNA-dihydrouridine synthase B	NCBITaxon:122586
+Q9JZ89	NMB1240	GO:0005524	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9JZ93	recD	GO:0043139	RecBCD enzyme subunit RecD	NCBITaxon:122586
+Q9JZ93	recD	GO:0009338	RecBCD enzyme subunit RecD	NCBITaxon:122586
+Q9JZ93	recD	GO:0006310	RecBCD enzyme subunit RecD	NCBITaxon:122586
+Q9JZ93	recD	GO:0017116	RecBCD enzyme subunit RecD	NCBITaxon:122586
+Q9JZ98	NMB1226	GO:0005524	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K036	NMB0786	GO:0004601	Uncharacterized protein	NCBITaxon:122586
+Q9K036	NMB0786	GO:0020037	Uncharacterized protein	NCBITaxon:122586
+Q9K036	NMB0786	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9K034	NMB0788	GO:0006865	Amino acid ABC transporter, permease protein	NCBITaxon:122586
+Q9K034	NMB0788	GO:0005886	Amino acid ABC transporter, permease protein	NCBITaxon:122586
+Q9K032	NMB0792	GO:0098656	Transporter, NadC family	NCBITaxon:122586
+Q9K032	NMB0792	GO:0016021	Transporter, NadC family	NCBITaxon:122586
+Q9K029	pth	GO:0004045	Peptidyl-tRNA hydrolase	NCBITaxon:122586
+Q9K027	ftsH	GO:0006508	ATP-dependent zinc metalloprotease FtsH	NCBITaxon:122586
+Q9K027	ftsH	GO:0030163	ATP-dependent zinc metalloprotease FtsH	NCBITaxon:122586
+Q9K027	ftsH	GO:0005886	ATP-dependent zinc metalloprotease FtsH	NCBITaxon:122586
+Q9K027	ftsH	GO:0004176	ATP-dependent zinc metalloprotease FtsH	NCBITaxon:122586
+Q9K025	hemB	GO:0005829	Delta-aminolevulinic acid dehydratase	NCBITaxon:122586
+Q9K025	hemB	GO:0006783	Delta-aminolevulinic acid dehydratase	NCBITaxon:122586
+Q9K025	hemB	GO:0004655	Delta-aminolevulinic acid dehydratase	NCBITaxon:122586
+Q9K025	hemB	GO:0008270	Delta-aminolevulinic acid dehydratase	NCBITaxon:122586
+Q9K024	metB	GO:0016846	Cystathionine gamma-synthase	NCBITaxon:122586
+Q9K024	metB	GO:0019343	Cystathionine gamma-synthase	NCBITaxon:122586
+Q9K024	metB	GO:0005737	Cystathionine gamma-synthase	NCBITaxon:122586
+Q9K024	metB	GO:0003962	Cystathionine gamma-synthase	NCBITaxon:122586
+Q9K024	metB	GO:0019346	Cystathionine gamma-synthase	NCBITaxon:122586
+Q9K024	metB	GO:0030170	Cystathionine gamma-synthase	NCBITaxon:122586
+Q9K024	metB	GO:0004123	Cystathionine gamma-synthase	NCBITaxon:122586
+Q9K023	folE2	GO:0003933	GTP cyclohydrolase FolE2	NCBITaxon:122586
+Q9K022	NMB0804	GO:0018545	Putative NAD(P)H nitroreductase	NCBITaxon:122586
+Q9K022	NMB0804	GO:0016491	Putative NAD(P)H nitroreductase	NCBITaxon:122586
+Q9K022	NMB0804	GO:0046256	Putative NAD(P)H nitroreductase	NCBITaxon:122586
+Q9K022	NMB0804	GO:0005829	Putative NAD(P)H nitroreductase	NCBITaxon:122586
+Q9K021	NMB0805	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9K021	NMB0805	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9K015	norM	GO:0005886	Probable multidrug resistance protein NorM	NCBITaxon:122586
+Q9K013	hisZ	GO:0004821	ATP phosphoribosyltransferase regulatory subunit	NCBITaxon:122586
+Q9K013	hisZ	GO:0006427	ATP phosphoribosyltransferase regulatory subunit	NCBITaxon:122586
+Q9K012	purA	GO:0044208	Adenylosuccinate synthetase	NCBITaxon:122586
+Q9K012	purA	GO:0046040	Adenylosuccinate synthetase	NCBITaxon:122586
+Q9K012	purA	GO:0005737	Adenylosuccinate synthetase	NCBITaxon:122586
+Q9K012	purA	GO:0004019	Adenylosuccinate synthetase	NCBITaxon:122586
+Q9K005	pyrF	GO:0005829	Orotidine 5'-phosphate decarboxylase	NCBITaxon:122586
+Q9K005	pyrF	GO:0004590	Orotidine 5'-phosphate decarboxylase	NCBITaxon:122586
+Q9K005	pyrF	GO:0006207	Orotidine 5'-phosphate decarboxylase	NCBITaxon:122586
+Q9K004	NMB0825	GO:0033786	Putative ADP-heptose synthase	NCBITaxon:122586
+Q9K004	NMB0825	GO:0033785	Putative ADP-heptose synthase	NCBITaxon:122586
+Q9K004	NMB0825	GO:0005829	Putative ADP-heptose synthase	NCBITaxon:122586
+P56995	trpE	GO:0000162	Anthranilate synthase component 1	NCBITaxon:122586
+P56992	aroE	GO:0005829	Shikimate dehydrogenase (NADP(+))	NCBITaxon:122586
+P56992	aroE	GO:0019632	Shikimate dehydrogenase (NADP(+))	NCBITaxon:122586
+P56992	aroE	GO:0009423	Shikimate dehydrogenase (NADP(+))	NCBITaxon:122586
+P56992	aroE	GO:0004764	Shikimate dehydrogenase (NADP(+))	NCBITaxon:122586
+P56992	aroE	GO:0050661	Shikimate dehydrogenase (NADP(+))	NCBITaxon:122586
+P56990	glyA	GO:0008270	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0046653	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0070905	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0004372	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0050897	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0005829	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0019264	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0006730	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0005737	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0006565	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0030170	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56990	glyA	GO:0046655	Serine hydroxymethyltransferase	NCBITaxon:122586
+P56985	galE	GO:0005829	UDP-glucose 4-epimerase	NCBITaxon:122586
+P56985	galE	GO:0003978	UDP-glucose 4-epimerase	NCBITaxon:122586
+P56985	galE	GO:0033499	UDP-glucose 4-epimerase	NCBITaxon:122586
+P56927	glnS	GO:0006425	Glutamine--tRNA ligase	NCBITaxon:122586
+P56927	glnS	GO:0005829	Glutamine--tRNA ligase	NCBITaxon:122586
+P56927	glnS	GO:0004819	Glutamine--tRNA ligase	NCBITaxon:122586
+Q9JYH8	hisD	GO:0000105	Histidinol dehydrogenase	NCBITaxon:122586
+Q9JYH8	hisD	GO:0004399	Histidinol dehydrogenase	NCBITaxon:122586
+Q9JYH8	hisD	GO:0005737	Histidinol dehydrogenase	NCBITaxon:122586
+Q9JYH8	hisD	GO:0005829	Histidinol dehydrogenase	NCBITaxon:122586
+Q9JYH6	NMB1584	GO:0016616	3-hydroxyacid dehydrogenase	NCBITaxon:122586
+Q9JYH5	NMB1585	GO:0000976	Transcriptional regulator, MarR family	NCBITaxon:122586
+Q9JYH5	NMB1585	GO:0006950	Transcriptional regulator, MarR family	NCBITaxon:122586
+Q9JYH5	NMB1585	GO:0006355	Transcriptional regulator, MarR family	NCBITaxon:122586
+Q9JYH0	NMB1590	GO:0016491	Alkyl hydroperoxide reductase AhpD	NCBITaxon:122586
+Q9JYG8	NMB1593	GO:0016021	Uncharacterized protein	NCBITaxon:122586
+Q9JYG6	alaS	GO:0005524	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYG6	alaS	GO:0004813	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYG6	alaS	GO:0005829	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYG6	alaS	GO:0002161	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYG6	alaS	GO:0016597	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYG6	alaS	GO:0006419	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYG6	alaS	GO:0045892	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYG6	alaS	GO:0006400	Alanine--tRNA ligase	NCBITaxon:122586
+Q9JYF8	NMB1603	GO:0005886	Putative tellurite resistance protein	NCBITaxon:122586
+Q9JYF8	NMB1603	GO:0046583	Putative tellurite resistance protein	NCBITaxon:122586
+Q9JYF6	parC	GO:0005524	DNA topoisomerase 4 subunit A	NCBITaxon:122586
+Q9JYF6	parC	GO:0006265	DNA topoisomerase 4 subunit A	NCBITaxon:122586
+Q9JYF6	parC	GO:0003918	DNA topoisomerase 4 subunit A	NCBITaxon:122586
+Q9JYF6	parC	GO:0005737	DNA topoisomerase 4 subunit A	NCBITaxon:122586
+Q9JYF6	parC	GO:0009330	DNA topoisomerase 4 subunit A	NCBITaxon:122586
+Q9JYF6	parC	GO:0003677	DNA topoisomerase 4 subunit A	NCBITaxon:122586
+Q9JYF3	metZ	GO:0030170	O-succinylhomoserine sulfhydrylase	NCBITaxon:122586
+Q9JYF3	metZ	GO:0004123	O-succinylhomoserine sulfhydrylase	NCBITaxon:122586
+Q9JYF3	metZ	GO:0019343	O-succinylhomoserine sulfhydrylase	NCBITaxon:122586
+Q9JYF3	metZ	GO:0016846	O-succinylhomoserine sulfhydrylase	NCBITaxon:122586
+Q9JYF3	metZ	GO:0019346	O-succinylhomoserine sulfhydrylase	NCBITaxon:122586
+Q9JYF3	metZ	GO:0005737	O-succinylhomoserine sulfhydrylase	NCBITaxon:122586
+Q9JYE7	thiD	GO:0008972	Phosphomethylpyrimidine kinase	NCBITaxon:122586
+Q9JYE7	thiD	GO:0009228	Phosphomethylpyrimidine kinase	NCBITaxon:122586
+Q9JYE7	thiD	GO:0008902	Phosphomethylpyrimidine kinase	NCBITaxon:122586
+Q9JYE7	thiD	GO:0005829	Phosphomethylpyrimidine kinase	NCBITaxon:122586
+Q9JYE5	rnhA	GO:0090502	Ribonuclease HI	NCBITaxon:122586
+Q9JYE5	rnhA	GO:0043137	Ribonuclease HI	NCBITaxon:122586
+Q9JYE5	rnhA	GO:0004523	Ribonuclease HI	NCBITaxon:122586
+Q9JYE2	norB	GO:0022904	Nitric oxide reductase	NCBITaxon:122586
+Q9JYE2	norB	GO:0009060	Nitric oxide reductase	NCBITaxon:122586
+Q9JYE2	norB	GO:0015990	Nitric oxide reductase	NCBITaxon:122586
+Q9JYE2	norB	GO:0004129	Nitric oxide reductase	NCBITaxon:122586
+Q9JYD3	nusA	GO:0005829	Transcription termination/antitermination protein NusA	NCBITaxon:122586
+Q9JYD3	nusA	GO:0031564	Transcription termination/antitermination protein NusA	NCBITaxon:122586
+Q9JYD2	infB	GO:0003743	Translation initiation factor IF-2	NCBITaxon:122586
+Q9JYD2	infB	GO:0006413	Translation initiation factor IF-2	NCBITaxon:122586
+Q9JYC8	NMB1647	GO:0005886	Putative amino acid symporter	NCBITaxon:122586
+Q9JYC7	NMB1648	GO:0005829	Probable transcriptional regulatory protein NMB1648	NCBITaxon:122586
+Q9JYC5	lrp	GO:0043200	Leucine-responsive regulatory protein	NCBITaxon:122586
+Q9JYC5	lrp	GO:0005829	Leucine-responsive regulatory protein	NCBITaxon:122586
+Q9JYC5	lrp	GO:0043565	Leucine-responsive regulatory protein	NCBITaxon:122586
+Q9JYC4	alr	GO:0008784	Alanine racemase	NCBITaxon:122586
+Q9JYC4	alr	GO:0005829	Alanine racemase	NCBITaxon:122586
+Q9JYC4	alr	GO:0030170	Alanine racemase	NCBITaxon:122586
+Q9JYC4	alr	GO:0030632	Alanine racemase	NCBITaxon:122586
+Q9JYC2	NMB1653	GO:0006351	UPF0237 protein NMB1653	NCBITaxon:122586
+Q9JYC2	NMB1653	GO:0005829	UPF0237 protein NMB1653	NCBITaxon:122586
+Q9JYC0	prmB	GO:0036009	50S ribosomal protein L3 glutamine methyltransferase	NCBITaxon:122586
+Q9JYC0	prmB	GO:0005829	50S ribosomal protein L3 glutamine methyltransferase	NCBITaxon:122586
+Q9JYC0	prmB	GO:0018364	50S ribosomal protein L3 glutamine methyltransferase	NCBITaxon:122586
+Q9JYB7	coaBC	GO:0004633	Coenzyme A biosynthesis bifunctional protein CoaBC	NCBITaxon:122586
+Q9JYB7	coaBC	GO:0071513	Coenzyme A biosynthesis bifunctional protein CoaBC	NCBITaxon:122586
+Q9JYB7	coaBC	GO:0010181	Coenzyme A biosynthesis bifunctional protein CoaBC	NCBITaxon:122586
+Q9JYB7	coaBC	GO:0015937	Coenzyme A biosynthesis bifunctional protein CoaBC	NCBITaxon:122586
+Q9JYB6	spoT	GO:0042594	Guanosine-3`,5`-bis(Diphosphate) 3`-pyrophosphohydrolase	NCBITaxon:122586
+Q9JYB6	spoT	GO:0015969	Guanosine-3`,5`-bis(Diphosphate) 3`-pyrophosphohydrolase	NCBITaxon:122586
+Q9JYB6	spoT	GO:0008728	Guanosine-3`,5`-bis(Diphosphate) 3`-pyrophosphohydrolase	NCBITaxon:122586
+Q9JYB6	spoT	GO:0008893	Guanosine-3`,5`-bis(Diphosphate) 3`-pyrophosphohydrolase	NCBITaxon:122586
+Q9JYB5	gmk	GO:0005829	Guanylate kinase	NCBITaxon:122586
+Q9JYB5	gmk	GO:0004385	Guanylate kinase	NCBITaxon:122586
+Q9JYB4	apt	GO:0005737	Adenine phosphoribosyltransferase	NCBITaxon:122586
+Q9JYB4	apt	GO:0006168	Adenine phosphoribosyltransferase	NCBITaxon:122586
+Q9JYB4	apt	GO:0044209	Adenine phosphoribosyltransferase	NCBITaxon:122586
+Q9JYB4	apt	GO:0003999	Adenine phosphoribosyltransferase	NCBITaxon:122586
+Q9JYB4	apt	GO:0002055	Adenine phosphoribosyltransferase	NCBITaxon:122586
+Q9JYB4	apt	GO:0016208	Adenine phosphoribosyltransferase	NCBITaxon:122586
+Q9JYB3	NMB1663	GO:0016791	Uncharacterized protein	NCBITaxon:122586
+Q9JYB3	NMB1663	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9JYB3	NMB1663	GO:0000287	Uncharacterized protein	NCBITaxon:122586
+Q9JYA8	hmbR	GO:0044718	Hemoglobin receptor	NCBITaxon:122586
+Q9JYA8	hmbR	GO:0015344	Hemoglobin receptor	NCBITaxon:122586
+Q9JYA8	hmbR	GO:0031230	Hemoglobin receptor	NCBITaxon:122586
+Q9JYA4	tag	GO:0006307	DNA-3-methyladenine glycosylase I	NCBITaxon:122586
+Q9JYA4	tag	GO:0008725	DNA-3-methyladenine glycosylase I	NCBITaxon:122586
+Q9JYA0	trmA	GO:0005829	tRNA/tmRNA (uracil-C(5))-methyltransferase	NCBITaxon:122586
+Q9JYA0	trmA	GO:0000049	tRNA/tmRNA (uracil-C(5))-methyltransferase	NCBITaxon:122586
+Q9JYA0	trmA	GO:0030697	tRNA/tmRNA (uracil-C(5))-methyltransferase	NCBITaxon:122586
+Q9JYA0	trmA	GO:0019843	tRNA/tmRNA (uracil-C(5))-methyltransferase	NCBITaxon:122586
+Q9JXZ7	NMB1818	GO:0005886	Putative lipopolysaccharide biosynthesis protein	NCBITaxon:122586
+Q9JXZ5	NMB1824	GO:0004534	Uncharacterized protein	NCBITaxon:122586
+Q9JXZ5	NMB1824	GO:0035312	Uncharacterized protein	NCBITaxon:122586
+Q9JXZ1	NMB1828	GO:0016788	Uncharacterized protein	NCBITaxon:122586
+Q9JXZ0	NMB1829	GO:0015344	TonB-dependent receptor	NCBITaxon:122586
+Q9JXZ0	NMB1829	GO:0009279	TonB-dependent receptor	NCBITaxon:122586
+Q9JXY9	NMB1830	GO:0016311	Putative phosphoglycolate phosphatase	NCBITaxon:122586
+Q9JXY9	NMB1830	GO:0006281	Putative phosphoglycolate phosphatase	NCBITaxon:122586
+Q9JXY9	NMB1830	GO:0005829	Putative phosphoglycolate phosphatase	NCBITaxon:122586
+Q9JXY9	NMB1830	GO:0008967	Putative phosphoglycolate phosphatase	NCBITaxon:122586
+Q9JXY7	ileS	GO:0006428	Isoleucine--tRNA ligase	NCBITaxon:122586
+Q9JXY7	ileS	GO:0005829	Isoleucine--tRNA ligase	NCBITaxon:122586
+Q9JXY7	ileS	GO:0004822	Isoleucine--tRNA ligase	NCBITaxon:122586
+Q9JXY6	ribF	GO:0009398	Riboflavin biosynthesis protein	NCBITaxon:122586
+Q9JXY6	ribF	GO:0006771	Riboflavin biosynthesis protein	NCBITaxon:122586
+Q9JXY6	ribF	GO:0008531	Riboflavin biosynthesis protein	NCBITaxon:122586
+Q9JXY5	tyrS	GO:0004831	Tyrosine--tRNA ligase	NCBITaxon:122586
+Q9JXY5	tyrS	GO:0005829	Tyrosine--tRNA ligase	NCBITaxon:122586
+Q9JXY5	tyrS	GO:0043039	Tyrosine--tRNA ligase	NCBITaxon:122586
+Q9JXY1	NMB1840	GO:0016021	Uncharacterized protein	NCBITaxon:122586
+Q9JXX9	NMB1842	GO:0042602	Putative 4-hydroxyphenylacetate 3-hydroxylase, small subunit	NCBITaxon:122586
+Q9JXX9	NMB1842	GO:0006208	Putative 4-hydroxyphenylacetate 3-hydroxylase, small subunit	NCBITaxon:122586
+Q9JY97	parE	GO:0003918	DNA topoisomerase 4 subunit B	NCBITaxon:122586
+Q9JY97	parE	GO:0006265	DNA topoisomerase 4 subunit B	NCBITaxon:122586
+Q9JY96	rppH	GO:0034353	RNA pyrophosphohydrolase	NCBITaxon:122586
+Q9JY96	rppH	GO:0005737	RNA pyrophosphohydrolase	NCBITaxon:122586
+Q9JY96	rppH	GO:0006402	RNA pyrophosphohydrolase	NCBITaxon:122586
+Q9JY94	ldhA	GO:0008720	D-lactate dehydrogenase	NCBITaxon:122586
+Q9JY89	glmM	GO:0004615	Phosphoglucosamine mutase	NCBITaxon:122586
+Q9JY89	glmM	GO:0008966	Phosphoglucosamine mutase	NCBITaxon:122586
+Q9JY89	glmM	GO:0005829	Phosphoglucosamine mutase	NCBITaxon:122586
+Q9JY89	glmM	GO:0006048	Phosphoglucosamine mutase	NCBITaxon:122586
+Q9JY89	glmM	GO:0009252	Phosphoglucosamine mutase	NCBITaxon:122586
+Q9JXW8	carB	GO:0006541	Carbamoyl-phosphate synthase large chain	NCBITaxon:122586
+Q9JXW8	carB	GO:0005737	Carbamoyl-phosphate synthase large chain	NCBITaxon:122586
+Q9JXW8	carB	GO:0006807	Carbamoyl-phosphate synthase large chain	NCBITaxon:122586
+Q9JY87	NMB1693	GO:0090313	Uncharacterized protein	NCBITaxon:122586
+Q9JY87	NMB1693	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9JY86	ubiD	GO:0006744	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	NCBITaxon:122586
+Q9JY86	ubiD	GO:0005737	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	NCBITaxon:122586
+Q9JY86	ubiD	GO:0016831	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	NCBITaxon:122586
+Q9JY86	ubiD	GO:0008694	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	NCBITaxon:122586
+Q9JY86	ubiD	GO:0005829	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	NCBITaxon:122586
+Q9JY82	NMB1698	GO:0003841	Putative acyltransferase	NCBITaxon:122586
+Q9JY82	NMB1698	GO:0006654	Putative acyltransferase	NCBITaxon:122586
+Q9JXW1	orn	GO:0000175	Oligoribonuclease	NCBITaxon:122586
+Q9JXW0	hemL	GO:0006779	Glutamate-1-semialdehyde 2,1-aminomutase	NCBITaxon:122586
+Q9JY77	fabF-2	GO:0005829	3-oxoacyl-(Acyl-carrier-protein) synthase II	NCBITaxon:122586
+Q9JY77	fabF-2	GO:0004315	3-oxoacyl-(Acyl-carrier-protein) synthase II	NCBITaxon:122586
+Q9JY77	fabF-2	GO:0006633	3-oxoacyl-(Acyl-carrier-protein) synthase II	NCBITaxon:122586
+Q9JY75	rfaK	GO:0016757	Alpha-1,2-N-acetylglucosamine transferase	NCBITaxon:122586
+Q9JY72	thyA	GO:0004799	Thymidylate synthase	NCBITaxon:122586
+Q9JY72	thyA	GO:0005829	Thymidylate synthase	NCBITaxon:122586
+Q9JY72	thyA	GO:0006231	Thymidylate synthase	NCBITaxon:122586
+Q9JY71	gdhA	GO:0005829	Glutamate dehydrogenase	NCBITaxon:122586
+Q9JY71	gdhA	GO:0006537	Glutamate dehydrogenase	NCBITaxon:122586
+Q9JY71	gdhA	GO:0004354	Glutamate dehydrogenase	NCBITaxon:122586
+Q9JY69	NMB1712	GO:0015295	L-lactate permease	NCBITaxon:122586
+Q9JY69	NMB1712	GO:0005886	L-lactate permease	NCBITaxon:122586
+Q9JY69	NMB1712	GO:0015129	L-lactate permease	NCBITaxon:122586
+Q9JY67	mtrD	GO:0042910	Efflux pump membrane transporter	NCBITaxon:122586
+Q9JY67	mtrD	GO:0005886	Efflux pump membrane transporter	NCBITaxon:122586
+Q9JY66	mtrC	GO:0031226	Membrane fusion protein	NCBITaxon:122586
+Q9JY66	mtrC	GO:0046677	Membrane fusion protein	NCBITaxon:122586
+Q9JY66	mtrC	GO:0042910	Membrane fusion protein	NCBITaxon:122586
+Q9JXU5	NMB1880	GO:0030288	Putative ABC transporter, periplasmic solute-binding protein	NCBITaxon:122586
+Q9JXU3	NMB1882	GO:0009279	TonB-dependent receptor	NCBITaxon:122586
+Q9JXU3	NMB1882	GO:0015344	TonB-dependent receptor	NCBITaxon:122586
+Q9JY62	recC	GO:0006310	RecBCD enzyme subunit RecC	NCBITaxon:122586
+Q9JXU0	pcm	GO:0005737	Protein-L-isoaspartate O-methyltransferase	NCBITaxon:122586
+Q9JXU0	pcm	GO:0004719	Protein-L-isoaspartate O-methyltransferase	NCBITaxon:122586
+Q9JXT9	NMB1886	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9JXT9	NMB1886	GO:0070191	Uncharacterized protein	NCBITaxon:122586
+Q9JXT8	tpiA	GO:0006094	Triosephosphate isomerase	NCBITaxon:122586
+Q9JXT8	tpiA	GO:0004807	Triosephosphate isomerase	NCBITaxon:122586
+Q9JXT8	tpiA	GO:0046166	Triosephosphate isomerase	NCBITaxon:122586
+Q9JXT8	tpiA	GO:0006096	Triosephosphate isomerase	NCBITaxon:122586
+Q9JXT8	tpiA	GO:0019563	Triosephosphate isomerase	NCBITaxon:122586
+Q9JXT8	tpiA	GO:0005829	Triosephosphate isomerase	NCBITaxon:122586
+Q9JY54	relA	GO:0008893	GTP pyrophosphokinase	NCBITaxon:122586
+Q9JY54	relA	GO:0042594	GTP pyrophosphokinase	NCBITaxon:122586
+Q9JY54	relA	GO:0008728	GTP pyrophosphokinase	NCBITaxon:122586
+Q9JY54	relA	GO:0015969	GTP pyrophosphokinase	NCBITaxon:122586
+Q9JXT2	leuS	GO:0004823	Leucine--tRNA ligase	NCBITaxon:122586
+Q9JXT2	leuS	GO:0005829	Leucine--tRNA ligase	NCBITaxon:122586
+Q9JXT2	leuS	GO:0006429	Leucine--tRNA ligase	NCBITaxon:122586
+Q9JXS8	dnaN	GO:0006271	Beta sliding clamp	NCBITaxon:122586
+Q9JXS7	dnaA	GO:0005886	Chromosomal replication initiator protein DnaA	NCBITaxon:122586
+Q9JXS7	dnaA	GO:0006270	Chromosomal replication initiator protein DnaA	NCBITaxon:122586
+Q9JXS7	dnaA	GO:0006260	Chromosomal replication initiator protein DnaA	NCBITaxon:122586
+Q9JXS7	dnaA	GO:0003688	Chromosomal replication initiator protein DnaA	NCBITaxon:122586
+Q9JXS6	rnpA	GO:0042781	Ribonuclease P protein component	NCBITaxon:122586
+Q9JXS6	rnpA	GO:0004526	Ribonuclease P protein component	NCBITaxon:122586
+Q9JXS6	rnpA	GO:0034414	Ribonuclease P protein component	NCBITaxon:122586
+Q9JXS6	rnpA	GO:0030677	Ribonuclease P protein component	NCBITaxon:122586
+Q9JXS4	yidC	GO:0005887	Membrane protein insertase YidC	NCBITaxon:122586
+Q9JXS4	yidC	GO:0032977	Membrane protein insertase YidC	NCBITaxon:122586
+Q9JXS4	yidC	GO:0051205	Membrane protein insertase YidC	NCBITaxon:122586
+Q9JXS2	NMB1909	GO:0047429	7-methyl-GTP pyrophosphatase	NCBITaxon:122586
+Q9JXR8	plsX	GO:0008654	Phosphate acyltransferase	NCBITaxon:122586
+Q9JY36	NMB1762	GO:0098046	Putative hemolysin activation protein HecB	NCBITaxon:122586
+Q9JY36	NMB1762	GO:0046819	Putative hemolysin activation protein HecB	NCBITaxon:122586
+Q9JY36	NMB1762	GO:0008320	Putative hemolysin activation protein HecB	NCBITaxon:122586
+Q9JXR5	NMB1917	GO:0003730	Uncharacterized protein	NCBITaxon:122586
+Q9JXR5	NMB1917	GO:0043488	Uncharacterized protein	NCBITaxon:122586
+Q9JXR5	NMB1917	GO:0005737	Uncharacterized protein	NCBITaxon:122586
+Q9JXR4	fabD	GO:0004314	Malonyl CoA-acyl carrier protein transacylase	NCBITaxon:122586
+Q9JXR4	fabD	GO:0005829	Malonyl CoA-acyl carrier protein transacylase	NCBITaxon:122586
+Q9JXR4	fabD	GO:0006633	Malonyl CoA-acyl carrier protein transacylase	NCBITaxon:122586
+Q9JXR3	msbA	GO:0042626	Lipid A export ATP-binding/permease protein MsbA	NCBITaxon:122586
+Q9JXR3	msbA	GO:0005887	Lipid A export ATP-binding/permease protein MsbA	NCBITaxon:122586
+Q9JXR2	guaA	GO:0005829	GMP synthase [glutamine-hydrolyzing]	NCBITaxon:122586
+Q9JXR2	guaA	GO:0003921	GMP synthase [glutamine-hydrolyzing]	NCBITaxon:122586
+Q9JXR2	guaA	GO:0006177	GMP synthase [glutamine-hydrolyzing]	NCBITaxon:122586
+Q9JXQ9	NMB1924	GO:0006020	Inositol monophosphatase family protein	NCBITaxon:122586
+Q9JXQ9	NMB1924	GO:0008934	Inositol monophosphatase family protein	NCBITaxon:122586
+Q9JXQ9	NMB1924	GO:0007165	Inositol monophosphatase family protein	NCBITaxon:122586
+Q9JXQ9	NMB1924	GO:0046855	Inositol monophosphatase family protein	NCBITaxon:122586
+Q9JXQ8	NMB1925	GO:0070042	Ribosomal RNA small subunit methyltransferase E	NCBITaxon:122586
+Q9JXQ8	NMB1925	GO:0070475	Ribosomal RNA small subunit methyltransferase E	NCBITaxon:122586
+Q9JXQ5	glyS	GO:0005829	Glycine--tRNA ligase beta subunit	NCBITaxon:122586
+Q9JXQ3	atpC	GO:0045261	ATP synthase epsilon chain	NCBITaxon:122586
+Q9JXQ3	atpC	GO:0015986	ATP synthase epsilon chain	NCBITaxon:122586
+Q9JY22	NMB1780	GO:0046819	Putative hemolysin activation protein HecB	NCBITaxon:122586
+Q9JY22	NMB1780	GO:0008320	Putative hemolysin activation protein HecB	NCBITaxon:122586
+Q9JY22	NMB1780	GO:0098046	Putative hemolysin activation protein HecB	NCBITaxon:122586
+Q9JXQ1	atpG	GO:0015986	ATP synthase gamma chain	NCBITaxon:122586
+Q9JXQ1	atpG	GO:0045261	ATP synthase gamma chain	NCBITaxon:122586
+Q9JXQ0	atpA	GO:0043531	ATP synthase subunit alpha	NCBITaxon:122586
+Q9JXQ0	atpA	GO:0045261	ATP synthase subunit alpha	NCBITaxon:122586
+Q9JXQ0	atpA	GO:0016887	ATP synthase subunit alpha	NCBITaxon:122586
+Q9JXQ0	atpA	GO:0005524	ATP synthase subunit alpha	NCBITaxon:122586
+Q9JXQ0	atpA	GO:0015986	ATP synthase subunit alpha	NCBITaxon:122586
+Q9JXQ0	atpA	GO:0005886	ATP synthase subunit alpha	NCBITaxon:122586
+Q9JXP9	atpH	GO:0045261	ATP synthase subunit delta	NCBITaxon:122586
+Q9JXP9	atpH	GO:0046933	ATP synthase subunit delta	NCBITaxon:122586
+Q9JXP9	atpH	GO:0015986	ATP synthase subunit delta	NCBITaxon:122586
+Q9JY17	recG	GO:0003678	ATP-dependent DNA helicase RecG	NCBITaxon:122586
+Q9JY17	recG	GO:0006281	ATP-dependent DNA helicase RecG	NCBITaxon:122586
+Q9JY15	grx	GO:0045454	Glutaredoxin	NCBITaxon:122586
+Q9JY15	grx	GO:0009055	Glutaredoxin	NCBITaxon:122586
+Q9JY14	cafA	GO:0006364	Cytoplasmic axial filament protein	NCBITaxon:122586
+Q9JY14	cafA	GO:0004540	Cytoplasmic axial filament protein	NCBITaxon:122586
+Q9JY14	cafA	GO:0005737	Cytoplasmic axial filament protein	NCBITaxon:122586
+Q9JXP3	NMB1947	GO:0048473	ABC transporter, permease protein	NCBITaxon:122586
+Q9JXP3	NMB1947	GO:0005886	ABC transporter, permease protein	NCBITaxon:122586
+Q9JXP3	NMB1947	GO:0006865	ABC transporter, permease protein	NCBITaxon:122586
+Q9JY11	NMB1796	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9JY11	NMB1796	GO:0010181	Uncharacterized protein	NCBITaxon:122586
+Q9JY10	NMB1797	GO:0000270	Penicillin-binding protein 3	NCBITaxon:122586
+Q9JY10	NMB1797	GO:0004185	Penicillin-binding protein 3	NCBITaxon:122586
+Q9JY10	NMB1797	GO:0006508	Penicillin-binding protein 3	NCBITaxon:122586
+Q9JY09	metK	GO:0004478	S-adenosylmethionine synthase	NCBITaxon:122586
+Q9JY09	metK	GO:0005829	S-adenosylmethionine synthase	NCBITaxon:122586
+Q9JY09	metK	GO:0006556	S-adenosylmethionine synthase	NCBITaxon:122586
+Q9JY06	tsaD	GO:0000408	tRNA N6-adenosine threonylcarbamoyltransferase	NCBITaxon:122586
+Q9JY05	NMB1803	GO:0015886	Putative cytochrome c-type biogenesis protein	NCBITaxon:122586
+Q9JY05	NMB1803	GO:0005886	Putative cytochrome c-type biogenesis protein	NCBITaxon:122586
+Q9JY03	engB	GO:0005829	Probable GTP-binding protein EngB	NCBITaxon:122586
+Q9JY01	aroB	GO:0003856	3-dehydroquinate synthase	NCBITaxon:122586
+Q9JY01	aroB	GO:0009073	3-dehydroquinate synthase	NCBITaxon:122586
+Q9JXN3	NMB1961	GO:0120010	VacJ-related protein	NCBITaxon:122586
+Q9JXM7	NMB1969	GO:0004252	Putative serotype-1-specific antigen	NCBITaxon:122586
+Q9JXM7	NMB1969	GO:0016020	Putative serotype-1-specific antigen	NCBITaxon:122586
+Q9JXM7	NMB1969	GO:0016485	Putative serotype-1-specific antigen	NCBITaxon:122586
+Q9JXM6	NMB1970	GO:0005737	Putative para-aminobenzoate synthetase component I/4-amino-4-deoxychorismate lyase	NCBITaxon:122586
+Q9JXM6	NMB1970	GO:0046820	Putative para-aminobenzoate synthetase component I/4-amino-4-deoxychorismate lyase	NCBITaxon:122586
+Q9JXM6	NMB1970	GO:0008153	Putative para-aminobenzoate synthetase component I/4-amino-4-deoxychorismate lyase	NCBITaxon:122586
+Q9JXM4	groS	GO:0051082	10 kDa chaperonin	NCBITaxon:122586
+Q9JXM4	groS	GO:0051087	10 kDa chaperonin	NCBITaxon:122586
+Q9JXM4	groS	GO:0051085	10 kDa chaperonin	NCBITaxon:122586
+Q9JXM4	groS	GO:0046872	10 kDa chaperonin	NCBITaxon:122586
+Q9JXM2	lysA	GO:0008836	Diaminopimelate decarboxylase	NCBITaxon:122586
+Q9JXM2	lysA	GO:0009089	Diaminopimelate decarboxylase	NCBITaxon:122586
+Q9JXM0	NMB1979	GO:0005886	UPF0324 membrane protein NMB1979	NCBITaxon:122586
+Q9JXL7	polA	GO:0005737	DNA polymerase I	NCBITaxon:122586
+Q9JXL7	polA	GO:0008409	DNA polymerase I	NCBITaxon:122586
+Q9JXL7	polA	GO:0003887	DNA polymerase I	NCBITaxon:122586
+Q9JXL7	polA	GO:0006281	DNA polymerase I	NCBITaxon:122586
+Q9JXL7	polA	GO:0006261	DNA polymerase I	NCBITaxon:122586
+Q9JXL4	mnmE	GO:0002098	tRNA modification GTPase MnmE	NCBITaxon:122586
+Q9JXL4	mnmE	GO:0005737	tRNA modification GTPase MnmE	NCBITaxon:122586
+Q9JXL4	mnmE	GO:0005829	tRNA modification GTPase MnmE	NCBITaxon:122586
+Q9JXL4	mnmE	GO:0030488	tRNA modification GTPase MnmE	NCBITaxon:122586
+Q9JXL3	frpB	GO:0015344	Iron-regulated outer membrane protein FrpB	NCBITaxon:122586
+Q9JXL3	frpB	GO:0044718	Iron-regulated outer membrane protein FrpB	NCBITaxon:122586
+Q9JXL3	frpB	GO:0031230	Iron-regulated outer membrane protein FrpB	NCBITaxon:122586
+Q9JXL2	NMB1989	GO:0030288	Iron(III) ABC transporter, periplasmic binding protein	NCBITaxon:122586
+Q9JXL1	NMB1990	GO:0005887	Iron(III) ABC transporter, permease protein	NCBITaxon:122586
+Q9JXL1	NMB1990	GO:0022857	Iron(III) ABC transporter, permease protein	NCBITaxon:122586
+Q9JXL1	NMB1990	GO:0033214	Iron(III) ABC transporter, permease protein	NCBITaxon:122586
+Q9JXL0	NMB1991	GO:0005887	Iron(III) ABC transporter, permease protein	NCBITaxon:122586
+Q9JXL0	NMB1991	GO:0033214	Iron(III) ABC transporter, permease protein	NCBITaxon:122586
+Q9JXL0	NMB1991	GO:0022857	Iron(III) ABC transporter, permease protein	NCBITaxon:122586
+Q9JXK6	glnB	GO:0005524	Nitrogen regulatory protein P-II	NCBITaxon:122586
+Q9JXK6	glnB	GO:0005829	Nitrogen regulatory protein P-II	NCBITaxon:122586
+Q9JXK6	glnB	GO:0030234	Nitrogen regulatory protein P-II	NCBITaxon:122586
+Q9JXK6	glnB	GO:0006808	Nitrogen regulatory protein P-II	NCBITaxon:122586
+Q9JXK0	NMB2003	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9JXJ7	NMB2010	GO:0016776	YhbX/YhjW/YijP/YjdB family protein	NCBITaxon:122586
+Q9JXJ7	NMB2010	GO:0009244	YhbX/YhjW/YijP/YjdB family protein	NCBITaxon:122586
+Q9JXJ7	NMB2010	GO:0005886	YhbX/YhjW/YijP/YjdB family protein	NCBITaxon:122586
+Q9JXJ2	NMB2016	GO:0015627	Type IV pilin-related protein	NCBITaxon:122586
+Q9JXJ2	NMB2016	GO:0015628	Type IV pilin-related protein	NCBITaxon:122586
+Q9JXJ0	NMB2018	GO:0000455	Uncharacterized protein	NCBITaxon:122586
+Q9JXJ0	NMB2018	GO:0009982	Uncharacterized protein	NCBITaxon:122586
+Q9JXI8	gntP	GO:0005887	Gluconate permease	NCBITaxon:122586
+Q9JXI4	NMB2034	GO:0003841	Putative 1-acyl-sn-glycerol-3-phosphate acyltransferase	NCBITaxon:122586
+Q9JXI4	NMB2034	GO:0006654	Putative 1-acyl-sn-glycerol-3-phosphate acyltransferase	NCBITaxon:122586
+Q9JXI2	truA	GO:0031119	tRNA pseudouridine synthase A	NCBITaxon:122586
+Q9JXI2	truA	GO:0009982	tRNA pseudouridine synthase A	NCBITaxon:122586
+Q9JXI0	thiC	GO:0005829	Phosphomethylpyrimidine synthase	NCBITaxon:122586
+Q9JXI0	thiC	GO:0009228	Phosphomethylpyrimidine synthase	NCBITaxon:122586
+Q9JXH5	NMB2047	GO:0004422	Putative hypoxanthine-guanine phosphoribosyltransferase	NCBITaxon:122586
+Q9JXH5	NMB2047	GO:0000287	Putative hypoxanthine-guanine phosphoribosyltransferase	NCBITaxon:122586
+Q9JXH5	NMB2047	GO:0006168	Putative hypoxanthine-guanine phosphoribosyltransferase	NCBITaxon:122586
+Q9JXH5	NMB2047	GO:0006178	Putative hypoxanthine-guanine phosphoribosyltransferase	NCBITaxon:122586
+Q9JXH5	NMB2047	GO:0046100	Putative hypoxanthine-guanine phosphoribosyltransferase	NCBITaxon:122586
+Q9JXH5	NMB2047	GO:0032264	Putative hypoxanthine-guanine phosphoribosyltransferase	NCBITaxon:122586
+Q9JXH5	NMB2047	GO:0032263	Putative hypoxanthine-guanine phosphoribosyltransferase	NCBITaxon:122586
+Q9JXH0	petB	GO:0031224	Cytochrome b	NCBITaxon:122586
+Q9JXG9	NMB2054	GO:0005737	GTP cyclohydrolase 1 type 2 homolog	NCBITaxon:122586
+Q9JXG8	NMB2055	GO:0006355	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9JXG8	NMB2055	GO:0000976	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9JXG6	gpsA	GO:0006072	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	NCBITaxon:122586
+Q9JXG6	gpsA	GO:0005829	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	NCBITaxon:122586
+Q9JXG6	gpsA	GO:0047952	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	NCBITaxon:122586
+Q9JXG5	ppc	GO:0005829	Phosphoenolpyruvate carboxylase	NCBITaxon:122586
+Q9JXG5	ppc	GO:0008964	Phosphoenolpyruvate carboxylase	NCBITaxon:122586
+Q9JXG4	thiF	GO:0005737	ThiF protein	NCBITaxon:122586
+Q9JXG4	thiF	GO:0016779	ThiF protein	NCBITaxon:122586
+Q9JXG4	thiF	GO:0005829	ThiF protein	NCBITaxon:122586
+Q9JXG1	hemK	GO:0018364	Release factor glutamine methyltransferase	NCBITaxon:122586
+Q9JXG1	hemK	GO:0036009	Release factor glutamine methyltransferase	NCBITaxon:122586
+Q9JXG0	tldD	GO:0005829	TldD protein	NCBITaxon:122586
+Q9JXF9	cytX	GO:0015856	Probable hydroxymethylpyrimidine transporter CytX	NCBITaxon:122586
+Q9JXF9	cytX	GO:0015209	Probable hydroxymethylpyrimidine transporter CytX	NCBITaxon:122586
+Q9JXF9	cytX	GO:0005886	Probable hydroxymethylpyrimidine transporter CytX	NCBITaxon:122586
+Q9JXF8	thiO	GO:0005737	Glycine oxidase ThiO	NCBITaxon:122586
+Q9JXF8	thiO	GO:0003884	Glycine oxidase ThiO	NCBITaxon:122586
+Q9JXF8	thiO	GO:0019478	Glycine oxidase ThiO	NCBITaxon:122586
+Q9JXF7	thiE	GO:0004789	Thiamine-phosphate synthase	NCBITaxon:122586
+Q9JXF7	thiE	GO:0005737	Thiamine-phosphate synthase	NCBITaxon:122586
+Q9JXF7	thiE	GO:0009228	Thiamine-phosphate synthase	NCBITaxon:122586
+Q9JXF1	birA/coaX	GO:0009305	Bifunctional enzyme BirA/CoaX	NCBITaxon:122586
+Q9JXF1	birA/coaX	GO:0005737	Bifunctional enzyme BirA/CoaX	NCBITaxon:122586
+Q9JXF1	birA/coaX	GO:0004077	Bifunctional enzyme BirA/CoaX	NCBITaxon:122586
+Q9JXE6	cysS	GO:0006423	Cysteine--tRNA ligase	NCBITaxon:122586
+Q9JXE6	cysS	GO:0004817	Cysteine--tRNA ligase	NCBITaxon:122586
+Q9JXE6	cysS	GO:0005829	Cysteine--tRNA ligase	NCBITaxon:122586
+Q9JXE6	cysS	GO:0005737	Cysteine--tRNA ligase	NCBITaxon:122586
+Q9JXE6	cysS	GO:0005524	Cysteine--tRNA ligase	NCBITaxon:122586
+Q9JXE3	rsmI	GO:0000453	Ribosomal RNA small subunit methyltransferase I	NCBITaxon:122586
+Q9JXD7	mqo	GO:0005737	Probable malate:quinone oxidoreductase	NCBITaxon:122586
+Q9JXD7	mqo	GO:0016491	Probable malate:quinone oxidoreductase	NCBITaxon:122586
+Q9JXD4	NMB2099	GO:0035999	5-formyltetrahydrofolate cyclo-ligase	NCBITaxon:122586
+Q9JXD4	NMB2099	GO:0009396	5-formyltetrahydrofolate cyclo-ligase	NCBITaxon:122586
+Q9JXD4	NMB2099	GO:0030272	5-formyltetrahydrofolate cyclo-ligase	NCBITaxon:122586
+Q9JXC1	argG	GO:0006526	Argininosuccinate synthase	NCBITaxon:122586
+Q9JXC1	argG	GO:0005737	Argininosuccinate synthase	NCBITaxon:122586
+Q9JXC1	argG	GO:0004055	Argininosuccinate synthase	NCBITaxon:122586
+Q9JXC1	argG	GO:0000053	Argininosuccinate synthase	NCBITaxon:122586
+Q9JXC1	argG	GO:0000050	Argininosuccinate synthase	NCBITaxon:122586
+Q9JXB8	sstT	GO:0016020	Serine/threonine transporter SstT	NCBITaxon:122586
+Q9JXB8	sstT	GO:0022857	Serine/threonine transporter SstT	NCBITaxon:122586
+Q9JXB8	sstT	GO:0005886	Serine/threonine transporter SstT	NCBITaxon:122586
+Q9JXB8	sstT	GO:0005295	Serine/threonine transporter SstT	NCBITaxon:122586
+Q9JXB8	sstT	GO:0032329	Serine/threonine transporter SstT	NCBITaxon:122586
+Q9JXB1	NMB2140	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9JXA4	tsaC	GO:0006450	Threonylcarbamoyl-AMP synthase	NCBITaxon:122586
+Q9JXA4	tsaC	GO:0000049	Threonylcarbamoyl-AMP synthase	NCBITaxon:122586
+Q9JXA4	tsaC	GO:0005737	Threonylcarbamoyl-AMP synthase	NCBITaxon:122586
+Q9JXA4	tsaC	GO:0016779	Threonylcarbamoyl-AMP synthase	NCBITaxon:122586
+Q9JXA0	etfA	GO:0009055	Electron transfer flavoprotein, alpha subunit	NCBITaxon:122586
+Q9JXA0	etfA	GO:0050660	Electron transfer flavoprotein, alpha subunit	NCBITaxon:122586
+Q9JXA0	etfA	GO:0033539	Electron transfer flavoprotein, alpha subunit	NCBITaxon:122586
+Q9JX99	etfB	GO:0009055	Electron transfer flavoprotein, beta subunit	NCBITaxon:122586
+Q9JX98	rfaC	GO:0005829	Heptosyltransferase I	NCBITaxon:122586
+Q9JX98	rfaC	GO:0009244	Heptosyltransferase I	NCBITaxon:122586
+Q9JX98	rfaC	GO:0008713	Heptosyltransferase I	NCBITaxon:122586
+Q9JX97	NMB2157	GO:0016811	Putative pyrazinamidase/nicotinamidase PncA	NCBITaxon:122586
+Q9JX95	gapA-2	GO:0006006	Glyceraldehyde-3-phosphate dehydrogenase	NCBITaxon:122586
+Q9JX95	gapA-2	GO:0004365	Glyceraldehyde-3-phosphate dehydrogenase	NCBITaxon:122586
+Q9JX95	gapA-2	GO:0051287	Glyceraldehyde-3-phosphate dehydrogenase	NCBITaxon:122586
+Q9JX94	mutS	GO:0032300	DNA mismatch repair protein MutS	NCBITaxon:122586
+Q9JX94	mutS	GO:0032136	DNA mismatch repair protein MutS	NCBITaxon:122586
+Q9JX94	mutS	GO:0008094	DNA mismatch repair protein MutS	NCBITaxon:122586
+Q9JX94	mutS	GO:0006298	DNA mismatch repair protein MutS	NCBITaxon:122586
+Q9JX94	mutS	GO:0030983	DNA mismatch repair protein MutS	NCBITaxon:122586
+Q9JX94	mutS	GO:0005829	DNA mismatch repair protein MutS	NCBITaxon:122586
+P57090	nadD	GO:0004515	Probable nicotinate-nucleotide adenylyltransferase	NCBITaxon:122586
+P57090	nadD	GO:0005737	Probable nicotinate-nucleotide adenylyltransferase	NCBITaxon:122586
+P57068	lolA	GO:0044874	Outer-membrane lipoprotein carrier protein	NCBITaxon:122586
+P57068	lolA	GO:0030288	Outer-membrane lipoprotein carrier protein	NCBITaxon:122586
+P57065	cmk	GO:0004127	Cytidylate kinase	NCBITaxon:122586
+P57065	cmk	GO:0015949	Cytidylate kinase	NCBITaxon:122586
+P57065	cmk	GO:0005829	Cytidylate kinase	NCBITaxon:122586
+P57062	lolC	GO:0044874	Lipoprotein-releasing system transmembrane protein LolC	NCBITaxon:122586
+P57062	lolC	GO:0098797	Lipoprotein-releasing system transmembrane protein LolC	NCBITaxon:122586
+P57036	panC	GO:0015940	Pantothenate synthetase	NCBITaxon:122586
+P57036	panC	GO:0005829	Pantothenate synthetase	NCBITaxon:122586
+P57036	panC	GO:0004592	Pantothenate synthetase	NCBITaxon:122586
+P57029	dnaG	GO:0005737	DNA primase	NCBITaxon:122586
+P57029	dnaG	GO:0006269	DNA primase	NCBITaxon:122586
+P57029	dnaG	GO:0003896	DNA primase	NCBITaxon:122586
+P57026	NMB1533	GO:0005507	Outer membrane protein H.8	NCBITaxon:122586
+P57026	NMB1533	GO:0055114	Outer membrane protein H.8	NCBITaxon:122586
+P57011	ftsY	GO:0005047	Signal recognition particle receptor FtsY	NCBITaxon:122586
+P57011	ftsY	GO:0005886	Signal recognition particle receptor FtsY	NCBITaxon:122586
+P57011	ftsY	GO:0016020	Signal recognition particle receptor FtsY	NCBITaxon:122586
+P57011	ftsY	GO:0006605	Signal recognition particle receptor FtsY	NCBITaxon:122586
+P57011	ftsY	GO:0003924	Signal recognition particle receptor FtsY	NCBITaxon:122586
+P57007	serC	GO:0030170	Phosphoserine aminotransferase	NCBITaxon:122586
+P57007	serC	GO:0004648	Phosphoserine aminotransferase	NCBITaxon:122586
+P57007	serC	GO:0006564	Phosphoserine aminotransferase	NCBITaxon:122586
+P57007	serC	GO:0005737	Phosphoserine aminotransferase	NCBITaxon:122586
+P57004	tonB	GO:0098797	Protein TonB	NCBITaxon:122586
+P57004	tonB	GO:0031992	Protein TonB	NCBITaxon:122586
+P55294	rfbB2	GO:0008460	dTDP-glucose 4,6-dehydratase	NCBITaxon:122586
+P56994	hemA	GO:0019353	Glutamyl-tRNA reductase	NCBITaxon:122586
+P56994	hemA	GO:0008883	Glutamyl-tRNA reductase	NCBITaxon:122586
+Q9JZZ8	NMB0834	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9JZZ8	NMB0834	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9JZZ6	clpA	GO:0034605	ATP-dependent Clp protease, ATP-binding subunit ClpA	NCBITaxon:122586
+Q9JZZ6	clpA	GO:0005737	ATP-dependent Clp protease, ATP-binding subunit ClpA	NCBITaxon:122586
+Q9JZZ6	clpA	GO:0016887	ATP-dependent Clp protease, ATP-binding subunit ClpA	NCBITaxon:122586
+Q9JZZ5	clpS	GO:0051087	ATP-dependent Clp protease adapter protein ClpS	NCBITaxon:122586
+Q9JZZ4	NMB0838	GO:0003676	Cold-shock domain family protein	NCBITaxon:122586
+Q9JZZ4	NMB0838	GO:0010468	Cold-shock domain family protein	NCBITaxon:122586
+Q9JZZ3	pmbA	GO:0005829	PmbA protein	NCBITaxon:122586
+Q9JZY7	NMB0845	GO:0005524	PhoH-related protein	NCBITaxon:122586
+Q9JZY7	NMB0845	GO:0005829	PhoH-related protein	NCBITaxon:122586
+Q9JZY6	NMB0846	GO:0016757	LPS biosynthesis protein-related protein	NCBITaxon:122586
+Q9JZY4	NMB0848	GO:0071575	Uncharacterized protein	NCBITaxon:122586
+Q9JZY4	NMB0848	GO:0006974	Uncharacterized protein	NCBITaxon:122586
+Q9JZY1	der	GO:0000027	GTPase Der	NCBITaxon:122586
+Q9JZY1	der	GO:0043022	GTPase Der	NCBITaxon:122586
+Q9JZX9	hisS	GO:0006427	Histidine--tRNA ligase	NCBITaxon:122586
+Q9JZX9	hisS	GO:0004821	Histidine--tRNA ligase	NCBITaxon:122586
+Q9JZW6	panB	GO:0005737	3-methyl-2-oxobutanoate hydroxymethyltransferase	NCBITaxon:122586
+Q9JZW6	panB	GO:0000287	3-methyl-2-oxobutanoate hydroxymethyltransferase	NCBITaxon:122586
+Q9JZW6	panB	GO:0015940	3-methyl-2-oxobutanoate hydroxymethyltransferase	NCBITaxon:122586
+Q9JZW6	panB	GO:0003864	3-methyl-2-oxobutanoate hydroxymethyltransferase	NCBITaxon:122586
+Q9JZW4	ispE	GO:0050515	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	NCBITaxon:122586
+Q9JZW3	rplY	GO:0006412	50S ribosomal protein L25	NCBITaxon:122586
+Q9JZW3	rplY	GO:0022625	50S ribosomal protein L25	NCBITaxon:122586
+Q9JZW3	rplY	GO:0008097	50S ribosomal protein L25	NCBITaxon:122586
+Q9JZW2	NMB0877	GO:0004175	Penicillin-binding protein	NCBITaxon:122586
+Q9JZW1	ilvA	GO:0006567	L-threonine dehydratase	NCBITaxon:122586
+Q9JZW1	ilvA	GO:0004794	L-threonine dehydratase	NCBITaxon:122586
+Q9JZW1	ilvA	GO:0009097	L-threonine dehydratase	NCBITaxon:122586
+Q9JZV9	cysW	GO:0005886	Sulfate ABC transporter, permease protein	NCBITaxon:122586
+Q9JZV8	cysT	GO:0005886	Sulfate transport system permease protein CysT	NCBITaxon:122586
+Q9JZV5	dnaB	GO:0003678	Replicative DNA helicase	NCBITaxon:122586
+Q9JZV5	dnaB	GO:0005829	Replicative DNA helicase	NCBITaxon:122586
+Q9JZV5	dnaB	GO:0006268	Replicative DNA helicase	NCBITaxon:122586
+Q9JZU7	dut	GO:0006226	Deoxyuridine 5'-triphosphate nucleotidohydrolase	NCBITaxon:122586
+Q9JZU7	dut	GO:0046081	Deoxyuridine 5'-triphosphate nucleotidohydrolase	NCBITaxon:122586
+Q9JZU7	dut	GO:0000287	Deoxyuridine 5'-triphosphate nucleotidohydrolase	NCBITaxon:122586
+Q9JZU7	dut	GO:0004170	Deoxyuridine 5'-triphosphate nucleotidohydrolase	NCBITaxon:122586
+Q9JZU5	NMB0895	GO:0033194	UPF0246 protein NMB0895	NCBITaxon:122586
+Q9JZU5	NMB0895	GO:0005829	UPF0246 protein NMB0895	NCBITaxon:122586
+Q9JZT0	NMB0911	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9JZT0	NMB0911	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9JZS8	pemK	GO:0004521	PemK protein	NCBITaxon:122586
+Q9JZS8	pemK	GO:0006402	PemK protein	NCBITaxon:122586
+Q9JZS8	pemK	GO:0016075	PemK protein	NCBITaxon:122586
+Q9JZR8	NMB0924	GO:0055114	Oxidoreductase, short-chain dehydrogenase/reductase family	NCBITaxon:122586
+Q9JZR8	NMB0924	GO:0016491	Oxidoreductase, short-chain dehydrogenase/reductase family	NCBITaxon:122586
+Q9JZR8	NMB0924	GO:0005829	Oxidoreductase, short-chain dehydrogenase/reductase family	NCBITaxon:122586
+Q9JZR7	NMB0925	GO:0047617	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JZR7	NMB0925	GO:0006637	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JZR7	NMB0925	GO:0005829	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JZR7	NMB0925	GO:0006631	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JZR7	NMB0925	GO:0036042	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JZR3	rlmB	GO:0001510	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	NCBITaxon:122586
+Q9JZR3	rlmB	GO:0005829	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	NCBITaxon:122586
+Q9JZR3	rlmB	GO:0008173	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	NCBITaxon:122586
+Q9JZR1	tadA	GO:0002100	tRNA-specific adenosine deaminase	NCBITaxon:122586
+Q9JZR1	tadA	GO:0052717	tRNA-specific adenosine deaminase	NCBITaxon:122586
+Q9JZR1	tadA	GO:0052718	tRNA-specific adenosine deaminase	NCBITaxon:122586
+Q9JZR0	miaA	GO:0006400	tRNA dimethylallyltransferase	NCBITaxon:122586
+Q9JZR0	miaA	GO:0052381	tRNA dimethylallyltransferase	NCBITaxon:122586
+Q9JZQ8	efp	GO:0005737	Elongation factor P	NCBITaxon:122586
+Q9JZQ8	efp	GO:0003746	Elongation factor P	NCBITaxon:122586
+Q9JZQ6	NMB0939	GO:0008168	Uncharacterized protein	NCBITaxon:122586
+Q9JZQ5	metXS	GO:0009092	Homoserine O-succinyltransferase	NCBITaxon:122586
+Q9JZQ5	metXS	GO:0004414	Homoserine O-succinyltransferase	NCBITaxon:122586
+Q9JZQ5	metXS	GO:0009086	Homoserine O-succinyltransferase	NCBITaxon:122586
+Q9JZQ3	metF	GO:0071949	5,10-methylenetetrahydrofolate reductase	NCBITaxon:122586
+Q9JZQ3	metF	GO:0009086	5,10-methylenetetrahydrofolate reductase	NCBITaxon:122586
+Q9JZQ3	metF	GO:0004489	5,10-methylenetetrahydrofolate reductase	NCBITaxon:122586
+Q9JZQ3	metF	GO:0005829	5,10-methylenetetrahydrofolate reductase	NCBITaxon:122586
+Q9JZQ3	metF	GO:0035999	5,10-methylenetetrahydrofolate reductase	NCBITaxon:122586
+Q9JZQ0	NMB0947	GO:0003955	Putative 2-oxoglutarate dehydrogenase, E3 component, lipoamide dehydrogenase	NCBITaxon:122586
+Q9JZQ0	NMB0947	GO:0055114	Putative 2-oxoglutarate dehydrogenase, E3 component, lipoamide dehydrogenase	NCBITaxon:122586
+Q9JZQ0	NMB0947	GO:0050660	Putative 2-oxoglutarate dehydrogenase, E3 component, lipoamide dehydrogenase	NCBITaxon:122586
+Q9JZP9	sdhD	GO:0017004	Succinate dehydrogenase, hydrophobic membrane anchor protein	NCBITaxon:122586
+Q9JZP9	sdhD	GO:0009055	Succinate dehydrogenase, hydrophobic membrane anchor protein	NCBITaxon:122586
+Q9JZP9	sdhD	GO:0009060	Succinate dehydrogenase, hydrophobic membrane anchor protein	NCBITaxon:122586
+Q9JZP9	sdhD	GO:0020037	Succinate dehydrogenase, hydrophobic membrane anchor protein	NCBITaxon:122586
+Q9JZP9	sdhD	GO:0005886	Succinate dehydrogenase, hydrophobic membrane anchor protein	NCBITaxon:122586
+Q9JZP8	sdhA	GO:0005886	Succinate dehydrogenase flavoprotein subunit	NCBITaxon:122586
+Q9JZP8	sdhA	GO:0050660	Succinate dehydrogenase flavoprotein subunit	NCBITaxon:122586
+Q9JZP8	sdhA	GO:0009061	Succinate dehydrogenase flavoprotein subunit	NCBITaxon:122586
+Q9JZP8	sdhA	GO:0009055	Succinate dehydrogenase flavoprotein subunit	NCBITaxon:122586
+Q9JZP8	sdhA	GO:0000104	Succinate dehydrogenase flavoprotein subunit	NCBITaxon:122586
+Q9JZP5	lpdA1	GO:0055114	Dihydrolipoyl dehydrogenase	NCBITaxon:122586
+Q9JZP5	lpdA1	GO:0050660	Dihydrolipoyl dehydrogenase	NCBITaxon:122586
+Q9JZP5	lpdA1	GO:0004148	Dihydrolipoyl dehydrogenase	NCBITaxon:122586
+Q9JZP4	sucC	GO:0004775	Succinate--CoA ligase [ADP-forming] subunit beta	NCBITaxon:122586
+Q9JZP4	sucC	GO:0006104	Succinate--CoA ligase [ADP-forming] subunit beta	NCBITaxon:122586
+Q9JZP4	sucC	GO:0042709	Succinate--CoA ligase [ADP-forming] subunit beta	NCBITaxon:122586
+Q9JZP4	sucC	GO:0006099	Succinate--CoA ligase [ADP-forming] subunit beta	NCBITaxon:122586
+Q9JZP4	sucC	GO:0005829	Succinate--CoA ligase [ADP-forming] subunit beta	NCBITaxon:122586
+Q9JZP3	sucD	GO:0004776	Succinate--CoA ligase [ADP-forming] subunit alpha	NCBITaxon:122586
+Q9JZP3	sucD	GO:0004775	Succinate--CoA ligase [ADP-forming] subunit alpha	NCBITaxon:122586
+Q9JZP3	sucD	GO:0006099	Succinate--CoA ligase [ADP-forming] subunit alpha	NCBITaxon:122586
+Q9JZP3	sucD	GO:0009361	Succinate--CoA ligase [ADP-forming] subunit alpha	NCBITaxon:122586
+Q9JZN9	NMB0964	GO:0031230	Probable TonB-dependent receptor NMB0964	NCBITaxon:122586
+Q9JZN9	NMB0964	GO:0044718	Probable TonB-dependent receptor NMB0964	NCBITaxon:122586
+Q9JZN9	NMB0964	GO:0015344	Probable TonB-dependent receptor NMB0964	NCBITaxon:122586
+Q9JZN7	pabA	GO:0000162	Para-aminobenzoate synthase glutamine amidotransferase component II	NCBITaxon:122586
+Q9JZN0	pntA	GO:0008746	NAD(P) transhydrogenase subunit alpha	NCBITaxon:122586
+Q9JZN0	pntA	GO:0050661	NAD(P) transhydrogenase subunit alpha	NCBITaxon:122586
+Q9JZN0	pntA	GO:0006740	NAD(P) transhydrogenase subunit alpha	NCBITaxon:122586
+Q9JZN0	pntA	GO:0051287	NAD(P) transhydrogenase subunit alpha	NCBITaxon:122586
+Q9JZN0	pntA	GO:0005886	NAD(P) transhydrogenase subunit alpha	NCBITaxon:122586
+Q9JZM9	serB	GO:0016311	Phosphoserine phosphatase	NCBITaxon:122586
+Q9JZM9	serB	GO:0004647	Phosphoserine phosphatase	NCBITaxon:122586
+Q9JZM9	serB	GO:0000287	Phosphoserine phosphatase	NCBITaxon:122586
+Q9JZM9	serB	GO:0005737	Phosphoserine phosphatase	NCBITaxon:122586
+Q9JZM9	serB	GO:0006564	Phosphoserine phosphatase	NCBITaxon:122586
+Q9JZM7	purH	GO:0004643	Bifunctional purine biosynthesis protein PurH	NCBITaxon:122586
+Q9JZM7	purH	GO:0006189	Bifunctional purine biosynthesis protein PurH	NCBITaxon:122586
+Q9JZM7	purH	GO:0003937	Bifunctional purine biosynthesis protein PurH	NCBITaxon:122586
+Q9JZM7	purH	GO:0005829	Bifunctional purine biosynthesis protein PurH	NCBITaxon:122586
+Q9JZM4	NMB0987	GO:0008745	Putative N-acetylmuramoyl-L-alanine amidase	NCBITaxon:122586
+Q9JZM4	NMB0987	GO:0000910	Putative N-acetylmuramoyl-L-alanine amidase	NCBITaxon:122586
+Q9JZM4	NMB0987	GO:0030288	Putative N-acetylmuramoyl-L-alanine amidase	NCBITaxon:122586
+Q9JZL7	dld	GO:0019516	Quinone-dependent D-lactate dehydrogenase	NCBITaxon:122586
+Q9JZL7	dld	GO:0031234	Quinone-dependent D-lactate dehydrogenase	NCBITaxon:122586
+Q9JZL7	dld	GO:0022904	Quinone-dependent D-lactate dehydrogenase	NCBITaxon:122586
+Q9JZJ9	purK	GO:0005829	N5-carboxyaminoimidazole ribonucleotide synthase	NCBITaxon:122586
+Q9JZJ7	NMB1022	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9JZJ7	NMB1022	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9JZJ5	NMB1024	GO:0016226	Uncharacterized protein	NCBITaxon:122586
+Q9JZJ1	aspA	GO:0005829	Aspartate ammonia-lyase	NCBITaxon:122586
+Q9JZJ1	aspA	GO:0006531	Aspartate ammonia-lyase	NCBITaxon:122586
+Q9JZJ1	aspA	GO:0008797	Aspartate ammonia-lyase	NCBITaxon:122586
+Q9JZI9	leuB	GO:0003862	3-isopropylmalate dehydrogenase	NCBITaxon:122586
+Q9JZI9	leuB	GO:0009098	3-isopropylmalate dehydrogenase	NCBITaxon:122586
+Q9JZI9	leuB	GO:0005829	3-isopropylmalate dehydrogenase	NCBITaxon:122586
+Q9JZI0	NMB1042	GO:0043682	Cation transport ATPase, E1-E2 family	NCBITaxon:122586
+Q9JZH1	fbp	GO:0005737	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH1	fbp	GO:0030388	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH1	fbp	GO:0006002	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH1	fbp	GO:0042132	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH1	fbp	GO:0005829	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH1	fbp	GO:0006000	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH1	fbp	GO:0006094	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH1	fbp	GO:0005986	Fructose-1,6-bisphosphatase class 1	NCBITaxon:122586
+Q9JZH0	rlmJ	GO:0070475	Ribosomal RNA large subunit methyltransferase J	NCBITaxon:122586
+Q9JZH0	rlmJ	GO:0005829	Ribosomal RNA large subunit methyltransferase J	NCBITaxon:122586
+Q9JZH0	rlmJ	GO:0036307	Ribosomal RNA large subunit methyltransferase J	NCBITaxon:122586
+Q9JZG9	plsY	GO:0005886	Glycerol-3-phosphate acyltransferase	NCBITaxon:122586
+Q9JZG8	folB	GO:0005737	7,8-dihydroneopterin aldolase	NCBITaxon:122586
+Q9JZG8	folB	GO:0006760	7,8-dihydroneopterin aldolase	NCBITaxon:122586
+Q9JZG8	folB	GO:0004150	7,8-dihydroneopterin aldolase	NCBITaxon:122586
+Q9JZG7	NMB1064	GO:0006753	Uncharacterized protein	NCBITaxon:122586
+Q9JZG7	NMB1064	GO:0019144	Uncharacterized protein	NCBITaxon:122586
+Q9JZG7	NMB1064	GO:0019693	Uncharacterized protein	NCBITaxon:122586
+Q9JZG7	NMB1064	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9JZG6	crcB	GO:0005887	Putative fluoride ion transporter CrcB	NCBITaxon:122586
+Q9JZG6	crcB	GO:1903425	Putative fluoride ion transporter CrcB	NCBITaxon:122586
+Q9JZG6	crcB	GO:1903424	Putative fluoride ion transporter CrcB	NCBITaxon:122586
+Q9JZG3	proA	GO:0004350	Gamma-glutamyl phosphate reductase	NCBITaxon:122586
+Q9JZG2	proB	GO:0006561	Glutamate 5-kinase	NCBITaxon:122586
+Q9JZG2	proB	GO:0005829	Glutamate 5-kinase	NCBITaxon:122586
+Q9JZG2	proB	GO:0004349	Glutamate 5-kinase	NCBITaxon:122586
+Q9JZG1	leuA	GO:0005829	2-isopropylmalate synthase	NCBITaxon:122586
+Q9JZG1	leuA	GO:0009098	2-isopropylmalate synthase	NCBITaxon:122586
+Q9JZG1	leuA	GO:0003852	2-isopropylmalate synthase	NCBITaxon:122586
+Q9JZF8	NMB1073	GO:0035610	Uncharacterized protein	NCBITaxon:122586
+Q9JZF7	argB	GO:0034618	Acetylglutamate kinase	NCBITaxon:122586
+Q9JZF7	argB	GO:0003991	Acetylglutamate kinase	NCBITaxon:122586
+Q9JZF7	argB	GO:0006526	Acetylglutamate kinase	NCBITaxon:122586
+Q9JZF5	NMB1076	GO:0003688	DnaA-related protein	NCBITaxon:122586
+Q9JZF5	NMB1076	GO:0006260	DnaA-related protein	NCBITaxon:122586
+Q9JZF5	NMB1076	GO:0005886	DnaA-related protein	NCBITaxon:122586
+Q9JZF5	NMB1076	GO:0006270	DnaA-related protein	NCBITaxon:122586
+Q9JZE9	NMB1085	GO:0030288	Putative N-acetylmuramoyl-L-alanine amidase	NCBITaxon:122586
+Q9JZE9	NMB1085	GO:0008745	Putative N-acetylmuramoyl-L-alanine amidase	NCBITaxon:122586
+Q9JZE9	NMB1085	GO:0000910	Putative N-acetylmuramoyl-L-alanine amidase	NCBITaxon:122586
+Q9JZD9	NMB1099	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9JZD9	NMB1099	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9JZB7	typA	GO:1990904	GTP-binding protein TypA	NCBITaxon:122586
+Q9JZB7	typA	GO:0003924	GTP-binding protein TypA	NCBITaxon:122586
+Q9JZB7	typA	GO:0006412	GTP-binding protein TypA	NCBITaxon:122586
+Q9JZB7	typA	GO:0005829	GTP-binding protein TypA	NCBITaxon:122586
+Q9JZB6	rnr	GO:0005829	Ribonuclease R	NCBITaxon:122586
+Q9JZB5	guaB	GO:0003938	Inosine-5'-monophosphate dehydrogenase	NCBITaxon:122586
+Q9JZB5	guaB	GO:0006183	Inosine-5'-monophosphate dehydrogenase	NCBITaxon:122586
+Q9JZA4	lipB	GO:0009249	Octanoyltransferase	NCBITaxon:122586
+Q9JZA4	lipB	GO:0033819	Octanoyltransferase	NCBITaxon:122586
+Q9JZA3	NMB1219	GO:0055085	Putative transporter	NCBITaxon:122586
+Q9JZA1	ung	GO:0097510	Uracil-DNA glycosylase	NCBITaxon:122586
+Q9JZA1	ung	GO:0004844	Uracil-DNA glycosylase	NCBITaxon:122586
+Q9JYZ7	gatB	GO:0050567	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	NCBITaxon:122586
+Q9JYZ7	gatB	GO:0070681	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	NCBITaxon:122586
+Q9JYZ5	pdxH	GO:0042823	Pyridoxine/pyridoxamine 5'-phosphate oxidase	NCBITaxon:122586
+Q9JYZ5	pdxH	GO:0004733	Pyridoxine/pyridoxamine 5'-phosphate oxidase	NCBITaxon:122586
+Q9JYZ1	NMB1364	GO:0008795	NH(3)-dependent NAD(+) synthetase	NCBITaxon:122586
+Q9JYZ1	NMB1364	GO:0005737	NH(3)-dependent NAD(+) synthetase	NCBITaxon:122586
+Q9JYZ1	NMB1364	GO:0009435	NH(3)-dependent NAD(+) synthetase	NCBITaxon:122586
+Q9JYY4	argD	GO:0042802	Acetylornithine aminotransferase	NCBITaxon:122586
+Q9JYY4	argD	GO:0030170	Acetylornithine aminotransferase	NCBITaxon:122586
+Q9JYY3	clpX	GO:0005524	ATP-dependent Clp protease ATP-binding subunit ClpX	NCBITaxon:122586
+Q9JYY3	clpX	GO:0016887	ATP-dependent Clp protease ATP-binding subunit ClpX	NCBITaxon:122586
+Q9JYY3	clpX	GO:0051301	ATP-dependent Clp protease ATP-binding subunit ClpX	NCBITaxon:122586
+Q9JYY3	clpX	GO:0030163	ATP-dependent Clp protease ATP-binding subunit ClpX	NCBITaxon:122586
+Q9JYY3	clpX	GO:0006508	ATP-dependent Clp protease ATP-binding subunit ClpX	NCBITaxon:122586
+Q9JYY2	rbfA	GO:0005829	Ribosome-binding factor A	NCBITaxon:122586
+Q9JYY2	rbfA	GO:0043024	Ribosome-binding factor A	NCBITaxon:122586
+Q9JYY2	rbfA	GO:0042254	Ribosome-binding factor A	NCBITaxon:122586
+Q9JYY1	truB	GO:1990481	tRNA pseudouridine synthase B	NCBITaxon:122586
+Q9JYY1	truB	GO:0009982	tRNA pseudouridine synthase B	NCBITaxon:122586
+Q9JYY1	truB	GO:0006400	tRNA pseudouridine synthase B	NCBITaxon:122586
+Q9JYX9	NMB1380	GO:0051537	Iron-sulfur cluster assembly scaffold protein IscU	NCBITaxon:122586
+Q9JYX9	NMB1380	GO:0008198	Iron-sulfur cluster assembly scaffold protein IscU	NCBITaxon:122586
+Q9JYX9	NMB1380	GO:0006879	Iron-sulfur cluster assembly scaffold protein IscU	NCBITaxon:122586
+Q9JYX9	NMB1380	GO:0005737	Iron-sulfur cluster assembly scaffold protein IscU	NCBITaxon:122586
+Q9JYX9	NMB1380	GO:0051539	Iron-sulfur cluster assembly scaffold protein IscU	NCBITaxon:122586
+Q9JYX8	NMB1381	GO:0051537	HesB/YadR/YfhF family protein	NCBITaxon:122586
+Q9JYX8	NMB1381	GO:0005737	HesB/YadR/YfhF family protein	NCBITaxon:122586
+Q9JYX8	NMB1381	GO:0097428	HesB/YadR/YfhF family protein	NCBITaxon:122586
+Q9JYX8	NMB1381	GO:0005829	HesB/YadR/YfhF family protein	NCBITaxon:122586
+Q9JYX8	NMB1381	GO:0016226	HesB/YadR/YfhF family protein	NCBITaxon:122586
+Q9JYX6	hscB	GO:0097428	Co-chaperone protein HscB homolog	NCBITaxon:122586
+Q9JYX6	hscB	GO:1990230	Co-chaperone protein HscB homolog	NCBITaxon:122586
+Q9JYX6	hscB	GO:0044571	Co-chaperone protein HscB homolog	NCBITaxon:122586
+Q9JYX5	gyrA	GO:0005737	DNA gyrase subunit A	NCBITaxon:122586
+Q9JYX5	gyrA	GO:0003677	DNA gyrase subunit A	NCBITaxon:122586
+Q9JYX5	gyrA	GO:0006265	DNA gyrase subunit A	NCBITaxon:122586
+Q9JYX5	gyrA	GO:0003918	DNA gyrase subunit A	NCBITaxon:122586
+Q9JYX5	gyrA	GO:0009330	DNA gyrase subunit A	NCBITaxon:122586
+Q9JYX5	gyrA	GO:0005524	DNA gyrase subunit A	NCBITaxon:122586
+Q9JZ94	NMB1232	GO:0018364	Uncharacterized protein	NCBITaxon:122586
+Q9JZ94	NMB1232	GO:0036009	Uncharacterized protein	NCBITaxon:122586
+Q9JYX3	pgi1	GO:0006094	Glucose-6-phosphate isomerase 1	NCBITaxon:122586
+Q9JYX3	pgi1	GO:0004347	Glucose-6-phosphate isomerase 1	NCBITaxon:122586
+Q9JYX3	pgi1	GO:0048029	Glucose-6-phosphate isomerase 1	NCBITaxon:122586
+Q9JYX3	pgi1	GO:0005829	Glucose-6-phosphate isomerase 1	NCBITaxon:122586
+Q9JYX3	pgi1	GO:0051156	Glucose-6-phosphate isomerase 1	NCBITaxon:122586
+Q9JYX3	pgi1	GO:0006096	Glucose-6-phosphate isomerase 1	NCBITaxon:122586
+Q9JYX1	edd	GO:0005829	Phosphogluconate dehydratase	NCBITaxon:122586
+Q9JYX1	edd	GO:0016836	Phosphogluconate dehydratase	NCBITaxon:122586
+Q9JYW9	mutY	GO:0034039	Adenine DNA glycosylase	NCBITaxon:122586
+Q9JYW9	mutY	GO:0035485	Adenine DNA glycosylase	NCBITaxon:122586
+Q9JYW9	mutY	GO:0006298	Adenine DNA glycosylase	NCBITaxon:122586
+Q9JYW9	mutY	GO:0000701	Adenine DNA glycosylase	NCBITaxon:122586
+Q9JYW9	mutY	GO:0032357	Adenine DNA glycosylase	NCBITaxon:122586
+Q9JYW9	mutY	GO:0006284	Adenine DNA glycosylase	NCBITaxon:122586
+Q9JYW7	NMB1400	GO:0042626	ABC transporter family protein	NCBITaxon:122586
+Q9JYW7	NMB1400	GO:0055085	ABC transporter family protein	NCBITaxon:122586
+Q9JZ85	rpe	GO:0004750	Ribulose-phosphate 3-epimerase	NCBITaxon:122586
+Q9JZ85	rpe	GO:0005829	Ribulose-phosphate 3-epimerase	NCBITaxon:122586
+Q9JZ85	rpe	GO:0009052	Ribulose-phosphate 3-epimerase	NCBITaxon:122586
+Q9JZ85	rpe	GO:0046872	Ribulose-phosphate 3-epimerase	NCBITaxon:122586
+Q9JZ85	rpe	GO:0044262	Ribulose-phosphate 3-epimerase	NCBITaxon:122586
+Q9JZ85	rpe	GO:0019323	Ribulose-phosphate 3-epimerase	NCBITaxon:122586
+Q9JZ82	ribE	GO:0009231	Riboflavin synthase, alpha subunit	NCBITaxon:122586
+Q9JZ82	ribE	GO:0005829	Riboflavin synthase, alpha subunit	NCBITaxon:122586
+Q9JZ82	ribE	GO:0004746	Riboflavin synthase, alpha subunit	NCBITaxon:122586
+Q9JZ80	purM	GO:0005829	Phosphoribosylformylglycinamidine cyclo-ligase	NCBITaxon:122586
+Q9JZ80	purM	GO:0004641	Phosphoribosylformylglycinamidine cyclo-ligase	NCBITaxon:122586
+Q9JZ80	purM	GO:0006164	Phosphoribosylformylglycinamidine cyclo-ligase	NCBITaxon:122586
+Q9JZ80	purM	GO:0046084	Phosphoribosylformylglycinamidine cyclo-ligase	NCBITaxon:122586
+Q9JZ80	purM	GO:0004637	Phosphoribosylformylglycinamidine cyclo-ligase	NCBITaxon:122586
+Q9JZ78	ribA	GO:0005829	GTP cyclohydrolase-2	NCBITaxon:122586
+Q9JZ78	ribA	GO:0009231	GTP cyclohydrolase-2	NCBITaxon:122586
+Q9JZ78	ribA	GO:0003935	GTP cyclohydrolase-2	NCBITaxon:122586
+Q9JZ77	ribB	GO:0003935	3,4-dihydroxy-2-butanone 4-phosphate synthase	NCBITaxon:122586
+Q9JZ77	ribB	GO:0005829	3,4-dihydroxy-2-butanone 4-phosphate synthase	NCBITaxon:122586
+Q9JZ77	ribB	GO:0009231	3,4-dihydroxy-2-butanone 4-phosphate synthase	NCBITaxon:122586
+Q9JZ76	NMB1258	GO:0008047	Uncharacterized protein	NCBITaxon:122586
+Q9JZ76	NMB1258	GO:0006282	Uncharacterized protein	NCBITaxon:122586
+Q9JZ76	NMB1258	GO:0006261	Uncharacterized protein	NCBITaxon:122586
+Q9JZ76	NMB1258	GO:0017116	Uncharacterized protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:1900376	Putative zinc uptake regulation protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:0003700	Putative zinc uptake regulation protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:0000976	Putative zinc uptake regulation protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:0005829	Putative zinc uptake regulation protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:0008270	Putative zinc uptake regulation protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:0045892	Putative zinc uptake regulation protein	NCBITaxon:122586
+Q9JZ69	NMB1267	GO:0004725	Low molecular weight protein tyrosine-phosphatase	NCBITaxon:122586
+Q9JYU6	lysS	GO:0005829	Lysine--tRNA ligase	NCBITaxon:122586
+Q9JYU6	lysS	GO:0004824	Lysine--tRNA ligase	NCBITaxon:122586
+Q9JYU6	lysS	GO:0000049	Lysine--tRNA ligase	NCBITaxon:122586
+Q9JYU6	lysS	GO:0006430	Lysine--tRNA ligase	NCBITaxon:122586
+Q9JZ64	NMB1273	GO:0016746	Putative alginate O-acetylation protein AlgI	NCBITaxon:122586
+Q9JYU3	greA	GO:0006354	Transcription elongation factor GreA	NCBITaxon:122586
+Q9JYU1	aroA	GO:0009423	3-phosphoshikimate 1-carboxyvinyltransferase	NCBITaxon:122586
+Q9JYU1	aroA	GO:0003866	3-phosphoshikimate 1-carboxyvinyltransferase	NCBITaxon:122586
+Q9JYU0	NMB1434	GO:0032049	Cardiolipin synthetase family protein	NCBITaxon:122586
+Q9JZ59	NMB1279	GO:0009253	Putative membrane-bound lytic murein transglycosylase B	NCBITaxon:122586
+Q9JZ59	NMB1279	GO:0008933	Putative membrane-bound lytic murein transglycosylase B	NCBITaxon:122586
+Q9JYT8	NMB1436	GO:0004459	Uncharacterized protein	NCBITaxon:122586
+Q9JYT8	NMB1436	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9JYT3	NMB1441	GO:0008757	Putative O-methyltransferase	NCBITaxon:122586
+Q9JYT2	mutL	GO:0006298	DNA mismatch repair protein MutL	NCBITaxon:122586
+Q9JYT2	mutL	GO:0016887	DNA mismatch repair protein MutL	NCBITaxon:122586
+Q9JYT2	mutL	GO:0032300	DNA mismatch repair protein MutL	NCBITaxon:122586
+Q9JYT1	NMB1444	GO:0005829	Nucleoid-associated protein NMB1444	NCBITaxon:122586
+Q9JYT1	NMB1444	GO:0003677	Nucleoid-associated protein NMB1444	NCBITaxon:122586
+Q9JZ50	nrdA	GO:0005524	Ribonucleoside-diphosphate reductase	NCBITaxon:122586
+Q9JZ50	nrdA	GO:0005971	Ribonucleoside-diphosphate reductase	NCBITaxon:122586
+Q9JZ50	nrdA	GO:0009263	Ribonucleoside-diphosphate reductase	NCBITaxon:122586
+Q9JZ50	nrdA	GO:0004748	Ribonucleoside-diphosphate reductase	NCBITaxon:122586
+Q9JYS9	rep	GO:0000725	ATP-dependent DNA helicase Rep	NCBITaxon:122586
+Q9JYS9	rep	GO:0043138	ATP-dependent DNA helicase Rep	NCBITaxon:122586
+Q9JYS9	rep	GO:0005829	ATP-dependent DNA helicase Rep	NCBITaxon:122586
+Q9JYS8	dinB	GO:0042276	DNA polymerase IV	NCBITaxon:122586
+Q9JYS8	dinB	GO:0003887	DNA polymerase IV	NCBITaxon:122586
+Q9JYS8	dinB	GO:0009432	DNA polymerase IV	NCBITaxon:122586
+Q9JZ47	plsC	GO:0003841	1-acyl-sn-glycerol-3-phosphate acyltransferase	NCBITaxon:122586
+Q9JZ47	plsC	GO:0006654	1-acyl-sn-glycerol-3-phosphate acyltransferase	NCBITaxon:122586
+Q9JYS6	dnaQ-1	GO:0044776	DNA polymerase III, epsilon subunit	NCBITaxon:122586
+Q9JYS6	dnaQ-1	GO:0005829	DNA polymerase III, epsilon subunit	NCBITaxon:122586
+Q9JYS6	dnaQ-1	GO:0008408	DNA polymerase III, epsilon subunit	NCBITaxon:122586
+Q9JYS6	dnaQ-1	GO:0045004	DNA polymerase III, epsilon subunit	NCBITaxon:122586
+Q9JZ45	NMB1297	GO:0008932	Membrane-bound lytic murein transglycosylase D	NCBITaxon:122586
+Q9JZ44	rpsA	GO:0022627	30S ribosomal protein S1	NCBITaxon:122586
+Q9JZ44	rpsA	GO:0003729	30S ribosomal protein S1	NCBITaxon:122586
+Q9JZ44	rpsA	GO:0003735	30S ribosomal protein S1	NCBITaxon:122586
+Q9JZ44	rpsA	GO:0006412	30S ribosomal protein S1	NCBITaxon:122586
+Q9JZ43	NMB1305	GO:0018738	S-formylglutathione hydrolase	NCBITaxon:122586
+Q9JZ43	NMB1305	GO:0005829	S-formylglutathione hydrolase	NCBITaxon:122586
+Q9JZ42	rlmN	GO:0070475	Dual-specificity RNA methyltransferase RlmN	NCBITaxon:122586
+Q9JZ42	rlmN	GO:0030488	Dual-specificity RNA methyltransferase RlmN	NCBITaxon:122586
+Q9JZ41	NMB1309	GO:0051301	Putative fimbrial biogenesis and twitching motility protein	NCBITaxon:122586
+Q9JYS0	tktA	GO:0005829	Transketolase	NCBITaxon:122586
+Q9JYS0	tktA	GO:0004802	Transketolase	NCBITaxon:122586
+Q9JYS0	tktA	GO:0006098	Transketolase	NCBITaxon:122586
+Q9JYR9	fumC	GO:0006099	Fumarate hydratase class II	NCBITaxon:122586
+Q9JYR9	fumC	GO:0006106	Fumarate hydratase class II	NCBITaxon:122586
+Q9JYR9	fumC	GO:0006108	Fumarate hydratase class II	NCBITaxon:122586
+Q9JYR9	fumC	GO:0004333	Fumarate hydratase class II	NCBITaxon:122586
+Q9JYR8	NMB1459	GO:0016021	Uncharacterized protein	NCBITaxon:122586
+Q9JZ37	tig	GO:0003755	Trigger factor	NCBITaxon:122586
+Q9JZ37	tig	GO:0043335	Trigger factor	NCBITaxon:122586
+Q9JZ37	tig	GO:0044183	Trigger factor	NCBITaxon:122586
+Q9JZ37	tig	GO:0043022	Trigger factor	NCBITaxon:122586
+Q9JZ37	tig	GO:0051083	Trigger factor	NCBITaxon:122586
+Q9JZ37	tig	GO:0061077	Trigger factor	NCBITaxon:122586
+Q9JZ35	uraA	GO:0005215	Uracil permease	NCBITaxon:122586
+Q9JYR3	ppx	GO:0016462	Exopolyphosphatase	NCBITaxon:122586
+Q9JYR3	ppx	GO:0006793	Exopolyphosphatase	NCBITaxon:122586
+Q9JZ31	rplI	GO:0022625	50S ribosomal protein L9	NCBITaxon:122586
+Q9JZ29	rpsF	GO:0070181	30S ribosomal protein S6	NCBITaxon:122586
+Q9JZ29	rpsF	GO:0022627	30S ribosomal protein S6	NCBITaxon:122586
+Q9JZ29	rpsF	GO:0003735	30S ribosomal protein S6	NCBITaxon:122586
+Q9JYQ8	clpB	GO:0034605	Chaperone protein ClpB	NCBITaxon:122586
+Q9JYQ8	clpB	GO:0016887	Chaperone protein ClpB	NCBITaxon:122586
+Q9JYQ8	clpB	GO:0005737	Chaperone protein ClpB	NCBITaxon:122586
+Q9JZ27	NMB1325	GO:0043682	Cation transport ATPase, E1-E2 family	NCBITaxon:122586
+Q9JZ26	uvrC	GO:0006974	UvrABC system protein C	NCBITaxon:122586
+Q9JZ26	uvrC	GO:0009380	UvrABC system protein C	NCBITaxon:122586
+Q9JZ25	NMB1327	GO:0030433	Uncharacterized protein NMB1327	NCBITaxon:122586
+Q9JZ25	NMB1327	GO:0004842	Uncharacterized protein NMB1327	NCBITaxon:122586
+Q9JZ24	trmB	GO:0008176	tRNA (guanine-N(7)-)-methyltransferase	NCBITaxon:122586
+Q9JZ24	trmB	GO:0043527	tRNA (guanine-N(7)-)-methyltransferase	NCBITaxon:122586
+Q9JZ24	trmB	GO:0030488	tRNA (guanine-N(7)-)-methyltransferase	NCBITaxon:122586
+Q9JZ24	trmB	GO:0036265	tRNA (guanine-N(7)-)-methyltransferase	NCBITaxon:122586
+Q9JZ21	prc	GO:0004175	Carboxy-terminal peptidase	NCBITaxon:122586
+Q9JZ21	prc	GO:0007165	Carboxy-terminal peptidase	NCBITaxon:122586
+Q9JZ21	prc	GO:0030288	Carboxy-terminal peptidase	NCBITaxon:122586
+Q9JYQ0	NMB1482	GO:0005829	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JYQ0	NMB1482	GO:0006637	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JYQ0	NMB1482	GO:0047617	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JYQ0	NMB1482	GO:0006631	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JYQ0	NMB1482	GO:0036042	Acyl CoA thioester hydrolase family protein	NCBITaxon:122586
+Q9JYP8	surE	GO:0008254	5'-nucleotidase SurE	NCBITaxon:122586
+Q9JYP8	surE	GO:0008253	5'-nucleotidase SurE	NCBITaxon:122586
+Q9JYP8	surE	GO:0004309	5'-nucleotidase SurE	NCBITaxon:122586
+Q9JYP8	surE	GO:0046050	5'-nucleotidase SurE	NCBITaxon:122586
+Q9JYP7	NMB1485	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9JZ16	NMB1337	GO:0000967	Putative pre-16S rRNA nuclease	NCBITaxon:122586
+Q9JZ15	NMB1338	GO:0018773	Putative isomerase	NCBITaxon:122586
+Q9JZ14	proS	GO:0004827	Proline--tRNA ligase	NCBITaxon:122586
+Q9JZ14	proS	GO:0006433	Proline--tRNA ligase	NCBITaxon:122586
+Q9JZ14	proS	GO:0005829	Proline--tRNA ligase	NCBITaxon:122586
+Q9JZ11	aceF	GO:0005737	Acetyltransferase component of pyruvate dehydrogenase complex	NCBITaxon:122586
+Q9JZ11	aceF	GO:0031405	Acetyltransferase component of pyruvate dehydrogenase complex	NCBITaxon:122586
+Q9JZ11	aceF	GO:0016407	Acetyltransferase component of pyruvate dehydrogenase complex	NCBITaxon:122586
+Q9JZ11	aceF	GO:0006086	Acetyltransferase component of pyruvate dehydrogenase complex	NCBITaxon:122586
+Q9JZ09	lpdA2	GO:0004148	Dihydrolipoyl dehydrogenase	NCBITaxon:122586
+Q9JZ09	lpdA2	GO:0050660	Dihydrolipoyl dehydrogenase	NCBITaxon:122586
+Q9JZ09	lpdA2	GO:0055114	Dihydrolipoyl dehydrogenase	NCBITaxon:122586
+Q9JZ07	suhB	GO:0046855	Inositol-1-monophosphatase	NCBITaxon:122586
+Q9JZ07	suhB	GO:0007165	Inositol-1-monophosphatase	NCBITaxon:122586
+Q9JZ07	suhB	GO:0008934	Inositol-1-monophosphatase	NCBITaxon:122586
+Q9JZ07	suhB	GO:0006020	Inositol-1-monophosphatase	NCBITaxon:122586
+Q9JZ06	NMB1348	GO:0005829	Putative RNA methylase	NCBITaxon:122586
+Q9JZ06	NMB1348	GO:0052666	Putative RNA methylase	NCBITaxon:122586
+Q9JZ06	NMB1348	GO:0002128	Putative RNA methylase	NCBITaxon:122586
+Q9JZ06	NMB1348	GO:0052665	Putative RNA methylase	NCBITaxon:122586
+Q9JZ03	NMB1351	GO:0009383	Putative fmu and fmv protein	NCBITaxon:122586
+Q9JZ03	NMB1351	GO:0001510	Putative fmu and fmv protein	NCBITaxon:122586
+Q9JZ03	NMB1351	GO:0005829	Putative fmu and fmv protein	NCBITaxon:122586
+Q9JZ03	NMB1351	GO:0070475	Putative fmu and fmv protein	NCBITaxon:122586
+Q9JZ02	NMB1353	GO:0004777	Aldehyde dehydrogenase family protein	NCBITaxon:122586
+Q9JZ00	gatC	GO:0070681	Glutamyl-tRNA(Gln) amidotransferase subunit C	NCBITaxon:122586
+Q9JZ00	gatC	GO:0050567	Glutamyl-tRNA(Gln) amidotransferase subunit C	NCBITaxon:122586
+Q9JYN9	cstA	GO:0031669	Carbon starvation protein A	NCBITaxon:122586
+Q9JYN9	cstA	GO:0005887	Carbon starvation protein A	NCBITaxon:122586
+Q9JYN6	lysC	GO:0009090	Aspartokinase	NCBITaxon:122586
+Q9JYN6	lysC	GO:0004072	Aspartokinase	NCBITaxon:122586
+Q9JYN6	lysC	GO:0009089	Aspartokinase	NCBITaxon:122586
+Q9JYN6	lysC	GO:0005829	Aspartokinase	NCBITaxon:122586
+Q9JYN5	rph	GO:0016075	Ribonuclease PH	NCBITaxon:122586
+Q9JYN3	NMB1501	GO:0061504	HesA/MoeB/ThiF family protein	NCBITaxon:122586
+Q9JYN3	NMB1501	GO:0061503	HesA/MoeB/ThiF family protein	NCBITaxon:122586
+Q9JYM9	pncB	GO:0004516	Nicotinate phosphoribosyltransferase	NCBITaxon:122586
+Q9JYM9	pncB	GO:0034355	Nicotinate phosphoribosyltransferase	NCBITaxon:122586
+Q9JYM9	pncB	GO:0005829	Nicotinate phosphoribosyltransferase	NCBITaxon:122586
+Q9JYM8	argS	GO:0004814	Arginine--tRNA ligase	NCBITaxon:122586
+Q9JYM8	argS	GO:0006420	Arginine--tRNA ligase	NCBITaxon:122586
+Q9JYM6	rpiA	GO:0005829	Ribose-5-phosphate isomerase A	NCBITaxon:122586
+Q9JYM6	rpiA	GO:0004751	Ribose-5-phosphate isomerase A	NCBITaxon:122586
+Q9JYM6	rpiA	GO:0009052	Ribose-5-phosphate isomerase A	NCBITaxon:122586
+Q9JYM6	rpiA	GO:0006014	Ribose-5-phosphate isomerase A	NCBITaxon:122586
+Q9JYM5	ispF	GO:0008685	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	NCBITaxon:122586
+Q9JYM4	ispD	GO:0050518	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	NCBITaxon:122586
+Q9JYM3	dnaQ-2	GO:0044776	DNA polymerase III subunit epsilon	NCBITaxon:122586
+Q9JYM3	dnaQ-2	GO:0005829	DNA polymerase III subunit epsilon	NCBITaxon:122586
+Q9JYM3	dnaQ-2	GO:0008408	DNA polymerase III subunit epsilon	NCBITaxon:122586
+Q9JYM3	dnaQ-2	GO:0045004	DNA polymerase III subunit epsilon	NCBITaxon:122586
+Q9JYM0	dsbD	GO:0055114	Thiol:disulfide interchange protein DsbD	NCBITaxon:122586
+Q9JYM0	dsbD	GO:0015035	Thiol:disulfide interchange protein DsbD	NCBITaxon:122586
+Q9JYM0	dsbD	GO:0045454	Thiol:disulfide interchange protein DsbD	NCBITaxon:122586
+Q9JYL8	NMB1521	GO:0016117	Phytoene synthase-related protein	NCBITaxon:122586
+Q9JYL8	NMB1521	GO:0016767	Phytoene synthase-related protein	NCBITaxon:122586
+Q9JYL5	rfaF	GO:0005829	ADP-heptose--LPS heptosyltransferase II	NCBITaxon:122586
+Q9JYL5	rfaF	GO:0008713	ADP-heptose--LPS heptosyltransferase II	NCBITaxon:122586
+Q9JYL5	rfaF	GO:0009244	ADP-heptose--LPS heptosyltransferase II	NCBITaxon:122586
+Q9JYL2	dapE	GO:0008777	Succinyl-diaminopimelate desuccinylase	NCBITaxon:122586
+Q9JYL2	dapE	GO:0006526	Succinyl-diaminopimelate desuccinylase	NCBITaxon:122586
+Q9JYK8	secA	GO:0005524	Protein translocase subunit SecA	NCBITaxon:122586
+Q9JYK8	secA	GO:0015462	Protein translocase subunit SecA	NCBITaxon:122586
+Q9JYK8	secA	GO:0005887	Protein translocase subunit SecA	NCBITaxon:122586
+Q9JYK8	secA	GO:0031522	Protein translocase subunit SecA	NCBITaxon:122586
+Q9JYK8	secA	GO:0005829	Protein translocase subunit SecA	NCBITaxon:122586
+Q9JYK8	secA	GO:0043952	Protein translocase subunit SecA	NCBITaxon:122586
+Q9JYJ8	pyrG	GO:0019856	CTP synthase	NCBITaxon:122586
+Q9JYJ8	pyrG	GO:0003883	CTP synthase	NCBITaxon:122586
+Q9JYJ8	pyrG	GO:0042802	CTP synthase	NCBITaxon:122586
+Q9JYJ8	pyrG	GO:0005829	CTP synthase	NCBITaxon:122586
+Q9JYJ8	pyrG	GO:0006241	CTP synthase	NCBITaxon:122586
+Q9JYJ6	mnmA	GO:0002143	tRNA-specific 2-thiouridylase MnmA	NCBITaxon:122586
+Q9JYJ3	gshB	GO:0004363	Glutathione synthetase	NCBITaxon:122586
+Q9JYJ3	gshB	GO:0016879	Glutathione synthetase	NCBITaxon:122586
+Q9JYJ3	gshB	GO:0005737	Glutathione synthetase	NCBITaxon:122586
+Q9JYJ1	NMB1562	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9JYJ1	NMB1562	GO:0015661	Uncharacterized protein	NCBITaxon:122586
+Q9JYI9	purN	GO:0005737	Phosphoribosylglycinamide formyltransferase	NCBITaxon:122586
+Q9JYI9	purN	GO:0006189	Phosphoribosylglycinamide formyltransferase	NCBITaxon:122586
+Q9JYI9	purN	GO:0004644	Phosphoribosylglycinamide formyltransferase	NCBITaxon:122586
+Q9JYI9	purN	GO:0005829	Phosphoribosylglycinamide formyltransferase	NCBITaxon:122586
+Q9JYI7	NMB1568	GO:0032298	Putative DNA polymerase holoenzyme chi subunit	NCBITaxon:122586
+Q9JYI7	NMB1568	GO:0043847	Putative DNA polymerase holoenzyme chi subunit	NCBITaxon:122586
+Q9JYI6	NMB1570	GO:0043190	Uncharacterized protein	NCBITaxon:122586
+Q9JYI6	NMB1570	GO:0015920	Uncharacterized protein	NCBITaxon:122586
+Q9JYI5	NMB1571	GO:0015920	Uncharacterized protein	NCBITaxon:122586
+Q9JYI5	NMB1571	GO:0043190	Uncharacterized protein	NCBITaxon:122586
+Q9JYI4	acnB	GO:0019629	Aconitate hydratase B	NCBITaxon:122586
+Q9JYI4	acnB	GO:0051539	Aconitate hydratase B	NCBITaxon:122586
+Q9JYI4	acnB	GO:0003994	Aconitate hydratase B	NCBITaxon:122586
+Q9JYI4	acnB	GO:0047456	Aconitate hydratase B	NCBITaxon:122586
+Q9JYI4	acnB	GO:0006099	Aconitate hydratase B	NCBITaxon:122586
+Q9JYI4	acnB	GO:0005829	Aconitate hydratase B	NCBITaxon:122586
+Q9JYI2	ilvC	GO:0009099	Ketol-acid reductoisomerase (NADP(+))	NCBITaxon:122586
+Q9JYI2	ilvC	GO:0004455	Ketol-acid reductoisomerase (NADP(+))	NCBITaxon:122586
+Q9JYI2	ilvC	GO:0009097	Ketol-acid reductoisomerase (NADP(+))	NCBITaxon:122586
+Q9JYI2	ilvC	GO:0005829	Ketol-acid reductoisomerase (NADP(+))	NCBITaxon:122586
+Q9JYI1	NMB1575	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9JYI1	NMB1575	GO:0016491	Uncharacterized protein	NCBITaxon:122586
+Q9JYI1	NMB1575	GO:0003824	Uncharacterized protein	NCBITaxon:122586
+Q9JYI0	ilvI	GO:0005948	Acetolactate synthase	NCBITaxon:122586
+Q9JYI0	ilvI	GO:0009099	Acetolactate synthase	NCBITaxon:122586
+Q9JYI0	ilvI	GO:0003984	Acetolactate synthase	NCBITaxon:122586
+Q9JYI0	ilvI	GO:0009097	Acetolactate synthase	NCBITaxon:122586
+Q9JYI0	ilvI	GO:0050660	Acetolactate synthase	NCBITaxon:122586
+Q70M91	pilQ	GO:0006810	Type IV pilus biogenesis and competence protein PilQ	NCBITaxon:122586
+P60444	rplC	GO:0022625	50S ribosomal protein L3	NCBITaxon:122586
+P60444	rplC	GO:0003735	50S ribosomal protein L3	NCBITaxon:122586
+P60733	rplX	GO:0022625	50S ribosomal protein L24	NCBITaxon:122586
+P60733	rplX	GO:0006412	50S ribosomal protein L24	NCBITaxon:122586
+P60654	speB	GO:0033389	Agmatinase	NCBITaxon:122586
+P60654	speB	GO:0008783	Agmatinase	NCBITaxon:122586
+P60594	speE	GO:0006596	Polyamine aminopropyltransferase	NCBITaxon:122586
+P63622	arsC	GO:0005829	Putative arsenate reductase	NCBITaxon:122586
+P63600	aroK	GO:0000287	Putative shikimate kinase	NCBITaxon:122586
+P63600	aroK	GO:0019632	Putative shikimate kinase	NCBITaxon:122586
+P63600	aroK	GO:0004765	Putative shikimate kinase	NCBITaxon:122586
+P63600	aroK	GO:0009073	Putative shikimate kinase	NCBITaxon:122586
+P63600	aroK	GO:0005829	Putative shikimate kinase	NCBITaxon:122586
+P63574	argJ	GO:0006592	Arginine biosynthesis bifunctional protein ArgJ	NCBITaxon:122586
+P63574	argJ	GO:0004042	Arginine biosynthesis bifunctional protein ArgJ	NCBITaxon:122586
+P63442	acpP	GO:0005829	Acyl carrier protein	NCBITaxon:122586
+P63442	acpP	GO:0000035	Acyl carrier protein	NCBITaxon:122586
+P63442	acpP	GO:0009245	Acyl carrier protein	NCBITaxon:122586
+P63442	acpP	GO:0000036	Acyl carrier protein	NCBITaxon:122586
+P64393	ihfA	GO:0005829	Integration host factor subunit alpha	NCBITaxon:122586
+P64393	ihfA	GO:0003677	Integration host factor subunit alpha	NCBITaxon:122586
+P64389	hupB	GO:0003677	DNA-binding protein HU-beta	NCBITaxon:122586
+P64389	hupB	GO:0005829	DNA-binding protein HU-beta	NCBITaxon:122586
+P64371	hisB	GO:0000105	Imidazoleglycerol-phosphate dehydratase	NCBITaxon:122586
+P64371	hisB	GO:0004424	Imidazoleglycerol-phosphate dehydratase	NCBITaxon:122586
+P64347	hisG	GO:0000105	ATP phosphoribosyltransferase	NCBITaxon:122586
+P64347	hisG	GO:0003879	ATP phosphoribosyltransferase	NCBITaxon:122586
+P64345	hfq	GO:0045974	RNA-binding protein Hfq	NCBITaxon:122586
+P64345	hfq	GO:0043487	RNA-binding protein Hfq	NCBITaxon:122586
+P64345	hfq	GO:0005829	RNA-binding protein Hfq	NCBITaxon:122586
+P64345	hfq	GO:0003723	RNA-binding protein Hfq	NCBITaxon:122586
+P0A0X1	rplL	GO:0022625	50S ribosomal protein L7/L12	NCBITaxon:122586
+P0A0X7	rpsR	GO:0070181	30S ribosomal protein S18	NCBITaxon:122586
+P0A0X7	rpsR	GO:0022627	30S ribosomal protein S18	NCBITaxon:122586
+P0A0X7	rpsR	GO:0003735	30S ribosomal protein S18	NCBITaxon:122586
+P64254	glk	GO:0005829	Glucokinase	NCBITaxon:122586
+P64254	glk	GO:0006096	Glucokinase	NCBITaxon:122586
+P64254	glk	GO:0004340	Glucokinase	NCBITaxon:122586
+P64161	ftsB	GO:0030428	Cell division protein FtsB	NCBITaxon:122586
+P64161	ftsB	GO:0043093	Cell division protein FtsB	NCBITaxon:122586
+P64131	NMB1420	GO:0034401	Putative Fis-like DNA-binding protein	NCBITaxon:122586
+P64131	NMB1420	GO:0043565	Putative Fis-like DNA-binding protein	NCBITaxon:122586
+P64131	NMB1420	GO:0000787	Putative Fis-like DNA-binding protein	NCBITaxon:122586
+P64100	exbB	GO:0005887	Biopolymer transport protein ExbB	NCBITaxon:122586
+P64100	exbB	GO:0017038	Biopolymer transport protein ExbB	NCBITaxon:122586
+P64051	tsf	GO:0006414	Elongation factor Ts	NCBITaxon:122586
+P64051	tsf	GO:0003746	Elongation factor Ts	NCBITaxon:122586
+P65932	pyrH	GO:0005829	Uridylate kinase	NCBITaxon:122586
+P65932	pyrH	GO:0033862	Uridylate kinase	NCBITaxon:122586
+P65932	pyrH	GO:0006225	Uridylate kinase	NCBITaxon:122586
+P65915	pyrE	GO:0004588	Orotate phosphoribosyltransferase	NCBITaxon:122586
+P65915	pyrE	GO:0006207	Orotate phosphoribosyltransferase	NCBITaxon:122586
+P65915	pyrE	GO:0046132	Orotate phosphoribosyltransferase	NCBITaxon:122586
+P65915	pyrE	GO:0006221	Orotate phosphoribosyltransferase	NCBITaxon:122586
+P65915	pyrE	GO:0005737	Orotate phosphoribosyltransferase	NCBITaxon:122586
+P65773	nadK	GO:0006741	NAD kinase	NCBITaxon:122586
+P65773	nadK	GO:0003951	NAD kinase	NCBITaxon:122586
+P65616	pyrB	GO:0004070	Aspartate carbamoyltransferase	NCBITaxon:122586
+P65616	pyrB	GO:0006807	Aspartate carbamoyltransferase	NCBITaxon:122586
+P65616	pyrB	GO:0005829	Aspartate carbamoyltransferase	NCBITaxon:122586
+P65616	pyrB	GO:0005737	Aspartate carbamoyltransferase	NCBITaxon:122586
+P65592	nusG	GO:0005829	Transcription termination/antitermination protein NusG	NCBITaxon:122586
+P65533	ndk	GO:0006163	Nucleoside diphosphate kinase	NCBITaxon:122586
+P65533	ndk	GO:0004550	Nucleoside diphosphate kinase	NCBITaxon:122586
+P65533	ndk	GO:0006220	Nucleoside diphosphate kinase	NCBITaxon:122586
+P61057	rplD	GO:0003735	50S ribosomal protein L4	NCBITaxon:122586
+P66169	rpmC	GO:0022625	50S ribosomal protein L29	NCBITaxon:122586
+P66151	rpmB	GO:0003735	50S ribosomal protein L28	NCBITaxon:122586
+P66151	rpmB	GO:0022625	50S ribosomal protein L28	NCBITaxon:122586
+P66130	rpmA	GO:0022625	50S ribosomal protein L27	NCBITaxon:122586
+P66130	rpmA	GO:0003735	50S ribosomal protein L27	NCBITaxon:122586
+P66047	rplJ	GO:0006412	50S ribosomal protein L10	NCBITaxon:122586
+P66047	rplJ	GO:0022625	50S ribosomal protein L10	NCBITaxon:122586
+P66047	rplJ	GO:0015934	50S ribosomal protein L10	NCBITaxon:122586
+P66047	rplJ	GO:0003735	50S ribosomal protein L10	NCBITaxon:122586
+P66037	ribH	GO:0000906	6,7-dimethyl-8-ribityllumazine synthase	NCBITaxon:122586
+P66037	ribH	GO:0005829	6,7-dimethyl-8-ribityllumazine synthase	NCBITaxon:122586
+P66037	ribH	GO:0005622	6,7-dimethyl-8-ribityllumazine synthase	NCBITaxon:122586
+P66037	ribH	GO:0009231	6,7-dimethyl-8-ribityllumazine synthase	NCBITaxon:122586
+P66849	ssb	GO:0009295	Single-stranded DNA-binding protein	NCBITaxon:122586
+P66849	ssb	GO:0051096	Single-stranded DNA-binding protein	NCBITaxon:122586
+P66849	ssb	GO:0003697	Single-stranded DNA-binding protein	NCBITaxon:122586
+P66737	frr	GO:0002184	Ribosome-recycling factor	NCBITaxon:122586
+P66737	frr	GO:0043023	Ribosome-recycling factor	NCBITaxon:122586
+P66737	frr	GO:0006412	Ribosome-recycling factor	NCBITaxon:122586
+P66737	frr	GO:0005737	Ribosome-recycling factor	NCBITaxon:122586
+P66704	rpoA	GO:0005737	DNA-directed RNA polymerase subunit alpha	NCBITaxon:122586
+P66642	rpsI	GO:0015935	30S ribosomal protein S9	NCBITaxon:122586
+P66642	rpsI	GO:0003723	30S ribosomal protein S9	NCBITaxon:122586
+P66642	rpsI	GO:0003735	30S ribosomal protein S9	NCBITaxon:122586
+P66642	rpsI	GO:0022627	30S ribosomal protein S9	NCBITaxon:122586
+P66628	rpsH	GO:0022627	30S ribosomal protein S8	NCBITaxon:122586
+P66628	rpsH	GO:0003735	30S ribosomal protein S8	NCBITaxon:122586
+P66614	rpsG	GO:0000028	30S ribosomal protein S7	NCBITaxon:122586
+P66614	rpsG	GO:0019843	30S ribosomal protein S7	NCBITaxon:122586
+P66614	rpsG	GO:0006412	30S ribosomal protein S7	NCBITaxon:122586
+P66614	rpsG	GO:0003729	30S ribosomal protein S7	NCBITaxon:122586
+P66614	rpsG	GO:0022627	30S ribosomal protein S7	NCBITaxon:122586
+P66614	rpsG	GO:0005840	30S ribosomal protein S7	NCBITaxon:122586
+P66614	rpsG	GO:0003735	30S ribosomal protein S7	NCBITaxon:122586
+P66577	rpsE	GO:0006412	30S ribosomal protein S5	NCBITaxon:122586
+P66577	rpsE	GO:0003735	30S ribosomal protein S5	NCBITaxon:122586
+P66577	rpsE	GO:0022627	30S ribosomal protein S5	NCBITaxon:122586
+P66561	rpsD	GO:0003735	30S ribosomal protein S4	NCBITaxon:122586
+P66561	rpsD	GO:0019843	30S ribosomal protein S4	NCBITaxon:122586
+P66561	rpsD	GO:0045903	30S ribosomal protein S4	NCBITaxon:122586
+P66561	rpsD	GO:0015935	30S ribosomal protein S4	NCBITaxon:122586
+P66551	rpsC	GO:0022627	30S ribosomal protein S3	NCBITaxon:122586
+P66551	rpsC	GO:0003735	30S ribosomal protein S3	NCBITaxon:122586
+P66540	rpsB	GO:0022627	30S ribosomal protein S2	NCBITaxon:122586
+P66540	rpsB	GO:0003735	30S ribosomal protein S2	NCBITaxon:122586
+P66508	rpsT	GO:0015935	30S ribosomal protein S20	NCBITaxon:122586
+P66508	rpsT	GO:0070181	30S ribosomal protein S20	NCBITaxon:122586
+P66508	rpsT	GO:0005829	30S ribosomal protein S20	NCBITaxon:122586
+P66438	rpsP	GO:0003735	30S ribosomal protein S16	NCBITaxon:122586
+P66438	rpsP	GO:0015935	30S ribosomal protein S16	NCBITaxon:122586
+P66386	rpsM	GO:0005829	30S ribosomal protein S13	NCBITaxon:122586
+P66386	rpsM	GO:0015935	30S ribosomal protein S13	NCBITaxon:122586
+P66375	rpsL	GO:0006412	30S ribosomal protein S12	NCBITaxon:122586
+P66375	rpsL	GO:0003735	30S ribosomal protein S12	NCBITaxon:122586
+P66375	rpsL	GO:0005840	30S ribosomal protein S12	NCBITaxon:122586
+P66355	rpsK	GO:0003735	30S ribosomal protein S11	NCBITaxon:122586
+P66355	rpsK	GO:0000028	30S ribosomal protein S11	NCBITaxon:122586
+P66355	rpsK	GO:0070181	30S ribosomal protein S11	NCBITaxon:122586
+P66355	rpsK	GO:0006412	30S ribosomal protein S11	NCBITaxon:122586
+P66355	rpsK	GO:0000462	30S ribosomal protein S11	NCBITaxon:122586
+P66355	rpsK	GO:0048027	30S ribosomal protein S11	NCBITaxon:122586
+P66355	rpsK	GO:0022627	30S ribosomal protein S11	NCBITaxon:122586
+P66333	rpsJ	GO:0003735	30S ribosomal protein S10	NCBITaxon:122586
+P66333	rpsJ	GO:0015935	30S ribosomal protein S10	NCBITaxon:122586
+P66274	rpmI	GO:0003735	50S ribosomal protein L35	NCBITaxon:122586
+P66274	rpmI	GO:0022625	50S ribosomal protein L35	NCBITaxon:122586
+P66274	rpmI	GO:0015934	50S ribosomal protein L35	NCBITaxon:122586
+P66226	rpmG	GO:0015934	50S ribosomal protein L33	NCBITaxon:122586
+P66226	rpmG	GO:0003735	50S ribosomal protein L33	NCBITaxon:122586
+P66226	rpmG	GO:0022625	50S ribosomal protein L33	NCBITaxon:122586
+P66226	rpmG	GO:0000027	50S ribosomal protein L33	NCBITaxon:122586
+Q4W559	NMB2007	GO:0003723	ATP-dependent RNA helicase HrpA, truncation	NCBITaxon:122586
+Q4W559	NMB2007	GO:0005622	ATP-dependent RNA helicase HrpA, truncation	NCBITaxon:122586
+Q4W559	NMB2007	GO:0006397	ATP-dependent RNA helicase HrpA, truncation	NCBITaxon:122586
+Q4W559	NMB2007	GO:0000462	ATP-dependent RNA helicase HrpA, truncation	NCBITaxon:122586
+Q4W571	hflX	GO:0043022	GTPase HflX	NCBITaxon:122586
+Q4W571	hflX	GO:0005737	GTPase HflX	NCBITaxon:122586
+Q4W578	NMB0494	GO:0005829	DNA helicase, truncation	NCBITaxon:122586
+Q4W578	NMB0494	GO:0006268	DNA helicase, truncation	NCBITaxon:122586
+Q4W578	NMB0494	GO:0003678	DNA helicase, truncation	NCBITaxon:122586
+P63337	pgl	GO:0017057	6-phosphogluconolactonase	NCBITaxon:122586
+P63337	pgl	GO:0009051	6-phosphogluconolactonase	NCBITaxon:122586
+P63337	pgl	GO:0005737	6-phosphogluconolactonase	NCBITaxon:122586
+P63904	dcd	GO:0008829	dCTP deaminase	NCBITaxon:122586
+P63904	dcd	GO:0015949	dCTP deaminase	NCBITaxon:122586
+P0DH57	argF	GO:0019240	Ornithine carbamoyltransferase	NCBITaxon:122586
+P0DH57	argF	GO:0042450	Ornithine carbamoyltransferase	NCBITaxon:122586
+P0DH57	argF	GO:0004585	Ornithine carbamoyltransferase	NCBITaxon:122586
+P66408	rpsN	GO:0006412	30S ribosomal protein S14	NCBITaxon:122586
+P66408	rpsN	GO:0003735	30S ribosomal protein S14	NCBITaxon:122586
+P66408	rpsN	GO:0015935	30S ribosomal protein S14	NCBITaxon:122586
+Q9K1R8	NMB0001	GO:0017189	Putative acetyltransferase	NCBITaxon:122586
+Q9K1R8	NMB0001	GO:0016747	Putative acetyltransferase	NCBITaxon:122586
+Q9K1R8	NMB0001	GO:0008999	Putative acetyltransferase	NCBITaxon:122586
+Q9K1R6	gltX	GO:0006424	Glutamate--tRNA ligase	NCBITaxon:122586
+Q9K1R6	gltX	GO:0005829	Glutamate--tRNA ligase	NCBITaxon:122586
+Q9K1R6	gltX	GO:0004818	Glutamate--tRNA ligase	NCBITaxon:122586
+Q9K1R5	NMB0004	GO:0005886	EpiH/GdmH-related protein	NCBITaxon:122586
+Q9K1R3	ftsE	GO:0042626	Cell division ATP-binding protein FtsE	NCBITaxon:122586
+Q9K1R3	ftsE	GO:0043190	Cell division ATP-binding protein FtsE	NCBITaxon:122586
+Q9K1R3	ftsE	GO:0005524	Cell division ATP-binding protein FtsE	NCBITaxon:122586
+Q9K1R2	NMB0008	GO:0051301	Cell division protein FtsX	NCBITaxon:122586
+Q9K1R2	NMB0008	GO:0016021	Cell division protein FtsX	NCBITaxon:122586
+Q9K1R2	NMB0008	GO:0032153	Cell division protein FtsX	NCBITaxon:122586
+Q9K1R0	pgk	GO:0005524	Phosphoglycerate kinase	NCBITaxon:122586
+Q9K1R0	pgk	GO:0006094	Phosphoglycerate kinase	NCBITaxon:122586
+Q9K1R0	pgk	GO:1903862	Phosphoglycerate kinase	NCBITaxon:122586
+Q9K1R0	pgk	GO:0043531	Phosphoglycerate kinase	NCBITaxon:122586
+Q9K1R0	pgk	GO:0004618	Phosphoglycerate kinase	NCBITaxon:122586
+Q9K1R0	pgk	GO:0005829	Phosphoglycerate kinase	NCBITaxon:122586
+Q9K1R0	pgk	GO:0006096	Phosphoglycerate kinase	NCBITaxon:122586
+Q9K1Q9	murA	GO:0008760	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	NCBITaxon:122586
+Q9K1Q9	murA	GO:0009252	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	NCBITaxon:122586
+Q9K1Q6	kdtA	GO:0009245	3-deoxy-D-manno-octulosonic acid transferase	NCBITaxon:122586
+Q9K1Q6	kdtA	GO:0016740	3-deoxy-D-manno-octulosonic acid transferase	NCBITaxon:122586
+Q9K1Q6	kdtA	GO:0005886	3-deoxy-D-manno-octulosonic acid transferase	NCBITaxon:122586
+Q9K1Q5	gnd	GO:0004616	6-phosphogluconate dehydrogenase, decarboxylating	NCBITaxon:122586
+Q9K1Q5	gnd	GO:0009051	6-phosphogluconate dehydrogenase, decarboxylating	NCBITaxon:122586
+Q9K1Q5	gnd	GO:0050661	6-phosphogluconate dehydrogenase, decarboxylating	NCBITaxon:122586
+Q9K1Q5	gnd	GO:0046177	6-phosphogluconate dehydrogenase, decarboxylating	NCBITaxon:122586
+Q9K1Q5	gnd	GO:0005829	6-phosphogluconate dehydrogenase, decarboxylating	NCBITaxon:122586
+Q9K1Q0	metG	GO:0004825	Methionine--tRNA ligase	NCBITaxon:122586
+Q9K1Q0	metG	GO:0006431	Methionine--tRNA ligase	NCBITaxon:122586
+Q9K1P7	NMB0034	GO:0034755	Uncharacterized protein	NCBITaxon:122586
+Q9K1P7	NMB0034	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K1P7	NMB0034	GO:0015093	Uncharacterized protein	NCBITaxon:122586
+Q9K1P5	NMB0036	GO:0004601	Deferrochelatase/peroxidase	NCBITaxon:122586
+Q9K1P5	NMB0036	GO:0005829	Deferrochelatase/peroxidase	NCBITaxon:122586
+Q9K1P5	NMB0036	GO:0020037	Deferrochelatase/peroxidase	NCBITaxon:122586
+Q9K1P4	phnA	GO:0005829	PhnA protein	NCBITaxon:122586
+Q9K1P0	NMB0041	GO:0030288	ABC transporter, periplasmic solute-binding protein	NCBITaxon:122586
+Q9K1P0	NMB0041	GO:0006810	ABC transporter, periplasmic solute-binding protein	NCBITaxon:122586
+Q9K1P0	NMB0041	GO:0030976	ABC transporter, periplasmic solute-binding protein	NCBITaxon:122586
+Q9K1P0	NMB0041	GO:0015888	ABC transporter, periplasmic solute-binding protein	NCBITaxon:122586
+Q9K1P0	NMB0041	GO:0030975	ABC transporter, periplasmic solute-binding protein	NCBITaxon:122586
+Q9K1N3	NMB0053	GO:0005622	Pyridoxal phosphate homeostasis protein	NCBITaxon:122586
+Q9K1N3	NMB0053	GO:0030170	Pyridoxal phosphate homeostasis protein	NCBITaxon:122586
+Q9K1N1	proC	GO:0004735	Pyrroline-5-carboxylate reductase	NCBITaxon:122586
+Q9K1N1	proC	GO:0055129	Pyrroline-5-carboxylate reductase	NCBITaxon:122586
+Q9K1M7	NMB0060	GO:0016020	Uncharacterized protein	NCBITaxon:122586
+Q9K1M2	NMB0088	GO:0015483	Putative outer membrane protein NMB0088	NCBITaxon:122586
+Q9K1K6	fmt	GO:0071951	Methionyl-tRNA formyltransferase	NCBITaxon:122586
+Q9K1K6	fmt	GO:0004479	Methionyl-tRNA formyltransferase	NCBITaxon:122586
+Q9K1K6	fmt	GO:0005829	Methionyl-tRNA formyltransferase	NCBITaxon:122586
+Q9K1K5	rsmB	GO:0070475	16S RNA methyltransferase	NCBITaxon:122586
+Q9K1K5	rsmB	GO:0001510	16S RNA methyltransferase	NCBITaxon:122586
+Q9K1K5	rsmB	GO:0005829	16S RNA methyltransferase	NCBITaxon:122586
+Q9K1K5	rsmB	GO:0009383	16S RNA methyltransferase	NCBITaxon:122586
+Q9K1J4	secE	GO:0008320	Protein translocase subunit SecE	NCBITaxon:122586
+Q9K1J4	secE	GO:0005887	Protein translocase subunit SecE	NCBITaxon:122586
+Q9K1J4	secE	GO:0043952	Protein translocase subunit SecE	NCBITaxon:122586
+Q9K1J3	rplK	GO:0070180	50S ribosomal protein L11	NCBITaxon:122586
+Q9K1J3	rplK	GO:0000027	50S ribosomal protein L11	NCBITaxon:122586
+Q9K1J3	rplK	GO:0022625	50S ribosomal protein L11	NCBITaxon:122586
+Q9K1J3	rplK	GO:0015934	50S ribosomal protein L11	NCBITaxon:122586
+Q9K1J3	rplK	GO:0006412	50S ribosomal protein L11	NCBITaxon:122586
+Q9K1J3	rplK	GO:0003735	50S ribosomal protein L11	NCBITaxon:122586
+Q9K1I8	fusA	GO:0032790	Elongation factor G	NCBITaxon:122586
+Q9K1I8	fusA	GO:0005829	Elongation factor G	NCBITaxon:122586
+Q9K1I6	rplW	GO:0000027	50S ribosomal protein L23	NCBITaxon:122586
+Q9K1I6	rplW	GO:0003735	50S ribosomal protein L23	NCBITaxon:122586
+Q9K1I6	rplW	GO:0022625	50S ribosomal protein L23	NCBITaxon:122586
+Q9K1I5	rplB	GO:0022625	50S ribosomal protein L2	NCBITaxon:122586
+Q9K1I5	rplB	GO:0003735	50S ribosomal protein L2	NCBITaxon:122586
+Q9K1I5	rplB	GO:0003723	50S ribosomal protein L2	NCBITaxon:122586
+Q9K1I5	rplB	GO:0002181	50S ribosomal protein L2	NCBITaxon:122586
+Q9K1I4	rplE	GO:0000027	50S ribosomal protein L5	NCBITaxon:122586
+Q9K1I4	rplE	GO:0003735	50S ribosomal protein L5	NCBITaxon:122586
+Q9K1I4	rplE	GO:0022625	50S ribosomal protein L5	NCBITaxon:122586
+Q9K1I4	rplE	GO:0003723	50S ribosomal protein L5	NCBITaxon:122586
+Q9K1I3	rplF	GO:0022625	50S ribosomal protein L6	NCBITaxon:122586
+Q9K1I3	rplF	GO:0003735	50S ribosomal protein L6	NCBITaxon:122586
+Q9K1I3	rplF	GO:0002181	50S ribosomal protein L6	NCBITaxon:122586
+Q9K1I2	rplO	GO:0003735	50S ribosomal protein L15	NCBITaxon:122586
+Q9K1I2	rplO	GO:0022625	50S ribosomal protein L15	NCBITaxon:122586
+Q9K1I1	rplQ	GO:0022625	50S ribosomal protein L17	NCBITaxon:122586
+Q9K1I1	rplQ	GO:0003735	50S ribosomal protein L17	NCBITaxon:122586
+Q9K1I1	rplQ	GO:0015934	50S ribosomal protein L17	NCBITaxon:122586
+Q9K1H9	minE	GO:0000918	Cell division topological specificity factor	NCBITaxon:122586
+Q9K1H9	minE	GO:0005886	Cell division topological specificity factor	NCBITaxon:122586
+Q9K1H9	minE	GO:0032955	Cell division topological specificity factor	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0003700	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0006355	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0000986	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0032993	Transcriptional regulator, LysR family	NCBITaxon:122586
+Q9K1H7	valS	GO:0004832	Valine--tRNA ligase	NCBITaxon:122586
+Q9K1H7	valS	GO:0005829	Valine--tRNA ligase	NCBITaxon:122586
+Q9K1H7	valS	GO:0006438	Valine--tRNA ligase	NCBITaxon:122586
+Q9K1H6	zupT	GO:0016020	Zinc transporter ZupT	NCBITaxon:122586
+Q9K1H6	zupT	GO:0005385	Zinc transporter ZupT	NCBITaxon:122586
+Q9K1H6	zupT	GO:0071577	Zinc transporter ZupT	NCBITaxon:122586
+Q9K1H5	dadA	GO:0055130	D-amino acid dehydrogenase	NCBITaxon:122586
+Q9K1H5	dadA	GO:0005886	D-amino acid dehydrogenase	NCBITaxon:122586
+Q9K1H5	dadA	GO:0008718	D-amino acid dehydrogenase	NCBITaxon:122586
+Q9K1H5	dadA	GO:0016491	D-amino acid dehydrogenase	NCBITaxon:122586
+Q9K1H5	dadA	GO:0005737	D-amino acid dehydrogenase	NCBITaxon:122586
+Q9K1H4	NMB0177	GO:0005886	Putative sodium/alanine symporter	NCBITaxon:122586
+Q9K1H1	NMB0181	GO:0061077	Putative outer membrane protein OmpH	NCBITaxon:122586
+Q9K1H1	NMB0181	GO:0032978	Putative outer membrane protein OmpH	NCBITaxon:122586
+Q9K1H1	NMB0181	GO:0050821	Putative outer membrane protein OmpH	NCBITaxon:122586
+Q9K1H1	NMB0181	GO:0030288	Putative outer membrane protein OmpH	NCBITaxon:122586
+Q9K1H1	NMB0181	GO:0051082	Putative outer membrane protein OmpH	NCBITaxon:122586
+Q9K1H1	NMB0181	GO:0022417	Putative outer membrane protein OmpH	NCBITaxon:122586
+Q9K1G8	dxr	GO:0051484	1-deoxy-D-xylulose 5-phosphate reductoisomerase	NCBITaxon:122586
+Q9K1G8	dxr	GO:0070402	1-deoxy-D-xylulose 5-phosphate reductoisomerase	NCBITaxon:122586
+Q9K1G8	dxr	GO:0030604	1-deoxy-D-xylulose 5-phosphate reductoisomerase	NCBITaxon:122586
+Q9K1G8	dxr	GO:0030145	1-deoxy-D-xylulose 5-phosphate reductoisomerase	NCBITaxon:122586
+Q9K1G7	cdsA	GO:0005886	Phosphatidate cytidylyltransferase	NCBITaxon:122586
+Q9K1G7	cdsA	GO:0004605	Phosphatidate cytidylyltransferase	NCBITaxon:122586
+Q9K1G7	cdsA	GO:0016024	Phosphatidate cytidylyltransferase	NCBITaxon:122586
+Q9K1G5	NMB0188	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K1G5	NMB0188	GO:0055085	Uncharacterized protein	NCBITaxon:122586
+Q9K1G5	NMB0188	GO:0022857	Uncharacterized protein	NCBITaxon:122586
+Q9K1G3	rsmG	GO:0070043	Ribosomal RNA small subunit methyltransferase G	NCBITaxon:122586
+Q9K1G3	rsmG	GO:0005829	Ribosomal RNA small subunit methyltransferase G	NCBITaxon:122586
+Q9K1G1	rnhB	GO:0004523	Ribonuclease HII	NCBITaxon:122586
+Q9K1G1	rnhB	GO:0006298	Ribonuclease HII	NCBITaxon:122586
+Q9K1G1	rnhB	GO:0032299	Ribonuclease HII	NCBITaxon:122586
+Q9K1G1	rnhB	GO:0043137	Ribonuclease HII	NCBITaxon:122586
+Q9K1F9	pdxA	GO:0008615	4-hydroxythreonine-4-phosphate dehydrogenase	NCBITaxon:122586
+Q9K1F9	pdxA	GO:0050570	4-hydroxythreonine-4-phosphate dehydrogenase	NCBITaxon:122586
+Q9K1F9	pdxA	GO:0042823	4-hydroxythreonine-4-phosphate dehydrogenase	NCBITaxon:122586
+Q9K1F8	rne	GO:0004540	Ribonuclease E	NCBITaxon:122586
+Q9K1F8	rne	GO:0006364	Ribonuclease E	NCBITaxon:122586
+Q9K1F8	rne	GO:0005737	Ribonuclease E	NCBITaxon:122586
+Q9K1F6	rluC	GO:0009982	Pseudouridine synthase	NCBITaxon:122586
+Q9K1F6	rluC	GO:0000455	Pseudouridine synthase	NCBITaxon:122586
+Q9K1F5	lpxB	GO:0009245	Lipid-A-disaccharide synthase	NCBITaxon:122586
+Q9K1F5	lpxB	GO:0005543	Lipid-A-disaccharide synthase	NCBITaxon:122586
+Q9K1F0	bamE	GO:0030674	Outer membrane protein assembly factor BamE	NCBITaxon:122586
+Q9K1F0	bamE	GO:0051205	Outer membrane protein assembly factor BamE	NCBITaxon:122586
+Q9K1F0	bamE	GO:0043165	Outer membrane protein assembly factor BamE	NCBITaxon:122586
+Q9K1F0	bamE	GO:1990063	Outer membrane protein assembly factor BamE	NCBITaxon:122586
+Q9K1E8	gapA-1	GO:0051287	Glyceraldehyde-3-phosphate dehydrogenase	NCBITaxon:122586
+Q9K1E8	gapA-1	GO:0005829	Glyceraldehyde-3-phosphate dehydrogenase	NCBITaxon:122586
+Q9K1E8	gapA-1	GO:0004365	Glyceraldehyde-3-phosphate dehydrogenase	NCBITaxon:122586
+Q9K1E8	gapA-1	GO:0006006	Glyceraldehyde-3-phosphate dehydrogenase	NCBITaxon:122586
+Q9K1E6	kefB	GO:0005887	Glutathione-regulated potassium-efflux system protein	NCBITaxon:122586
+Q9K1E6	kefB	GO:0016020	Glutathione-regulated potassium-efflux system protein	NCBITaxon:122586
+Q9K1E5	sdaA	GO:0003941	L-serine dehydratase	NCBITaxon:122586
+Q9K1E4	gyrB	GO:0006265	DNA gyrase subunit B	NCBITaxon:122586
+Q9K1E4	gyrB	GO:0003918	DNA gyrase subunit B	NCBITaxon:122586
+Q9K1E2	prlC	GO:0004222	Oligopeptidase A	NCBITaxon:122586
+Q9K1E2	prlC	GO:0006508	Oligopeptidase A	NCBITaxon:122586
+Q9K1E2	prlC	GO:0006518	Oligopeptidase A	NCBITaxon:122586
+Q9K1D9	pglA	GO:0016757	Glycosyltransferase	NCBITaxon:122586
+Q9K1D8	fabF-1	GO:0006633	3-oxoacyl-[acyl-carrier-protein] synthase 2	NCBITaxon:122586
+Q9K1D8	fabF-1	GO:0005829	3-oxoacyl-[acyl-carrier-protein] synthase 2	NCBITaxon:122586
+Q9K1D8	fabF-1	GO:0004315	3-oxoacyl-[acyl-carrier-protein] synthase 2	NCBITaxon:122586
+Q9K1D3	NMB0227	GO:0005384	Uncharacterized protein	NCBITaxon:122586
+Q9K1D3	NMB0227	GO:0015086	Uncharacterized protein	NCBITaxon:122586
+Q9K1D0	uvrD	GO:0005829	DNA helicase	NCBITaxon:122586
+Q9K1D0	uvrD	GO:0043138	DNA helicase	NCBITaxon:122586
+Q9K1D0	uvrD	GO:0000725	DNA helicase	NCBITaxon:122586
+Q9K1D0	uvrD	GO:0033202	DNA helicase	NCBITaxon:122586
+Q9K1C4	NMB0240	GO:0006596	Uncharacterized protein	NCBITaxon:122586
+Q9K1C3	nuoA	GO:0008137	NADH-quinone oxidoreductase subunit A	NCBITaxon:122586
+Q9K1C3	nuoA	GO:0030964	NADH-quinone oxidoreductase subunit A	NCBITaxon:122586
+Q9K1C0	nuoD	GO:0008137	NADH-quinone oxidoreductase subunit D	NCBITaxon:122586
+Q9K1B9	nuoE	GO:0045272	NADH dehydrogenase I, E subunit	NCBITaxon:122586
+Q9K1B9	nuoE	GO:0003954	NADH dehydrogenase I, E subunit	NCBITaxon:122586
+Q9K1B5	nuoG	GO:0051539	NADH-quinone oxidoreductase	NCBITaxon:122586
+Q9K1B5	nuoG	GO:0045333	NADH-quinone oxidoreductase	NCBITaxon:122586
+Q9K1B5	nuoG	GO:0003954	NADH-quinone oxidoreductase	NCBITaxon:122586
+Q9K1B5	nuoG	GO:0045272	NADH-quinone oxidoreductase	NCBITaxon:122586
+Q9K1B4	nuoH	GO:0005887	NADH-quinone oxidoreductase subunit H	NCBITaxon:122586
+Q9K1B4	nuoH	GO:0003954	NADH-quinone oxidoreductase subunit H	NCBITaxon:122586
+Q9K1B4	nuoH	GO:0045272	NADH-quinone oxidoreductase subunit H	NCBITaxon:122586
+Q9K1B4	nuoH	GO:0009060	NADH-quinone oxidoreductase subunit H	NCBITaxon:122586
+Q9K1B2	nuoJ	GO:0008137	NADH-quinone oxidoreductase subunit J	NCBITaxon:122586
+Q9K1B0	nuoL	GO:0015990	NADH-quinone oxidoreductase subunit L	NCBITaxon:122586
+Q9K1B0	nuoL	GO:0003954	NADH-quinone oxidoreductase subunit L	NCBITaxon:122586
+Q9K1A9	nuoM	GO:0003954	NADH dehydrogenase I, M subunit	NCBITaxon:122586
+Q9K1A9	nuoM	GO:0015990	NADH dehydrogenase I, M subunit	NCBITaxon:122586
+Q9K1A9	nuoM	GO:0048039	NADH dehydrogenase I, M subunit	NCBITaxon:122586
+Q9K1A9	nuoM	GO:0045271	NADH dehydrogenase I, M subunit	NCBITaxon:122586
+Q9K1A9	nuoM	GO:0009060	NADH dehydrogenase I, M subunit	NCBITaxon:122586
+Q9K1A9	nuoM	GO:0045272	NADH dehydrogenase I, M subunit	NCBITaxon:122586
+Q9K1A6	ispA	GO:0004659	Geranyltranstransferase	NCBITaxon:122586
+Q9K1A5	xseB	GO:0005829	Exodeoxyribonuclease 7 small subunit	NCBITaxon:122586
+Q9K1A5	xseB	GO:0008855	Exodeoxyribonuclease 7 small subunit	NCBITaxon:122586
+Q9K1A3	NMB0264	GO:0034040	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K1A3	NMB0264	GO:0042626	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K1A3	NMB0264	GO:0055085	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K0Z9	putA	GO:0003842	Bifunctional protein PutA	NCBITaxon:122586
+Q9K0Z9	putA	GO:0010133	Bifunctional protein PutA	NCBITaxon:122586
+Q9K0Z9	putA	GO:0009898	Bifunctional protein PutA	NCBITaxon:122586
+Q9K0Z2	NMB0409	GO:0035243	Uncharacterized protein	NCBITaxon:122586
+Q9K0Z1	mraZ	GO:0003700	Transcriptional regulator MraZ	NCBITaxon:122586
+Q9K0Z1	mraZ	GO:2000143	Transcriptional regulator MraZ	NCBITaxon:122586
+Q9K0Z1	mraZ	GO:0000976	Transcriptional regulator MraZ	NCBITaxon:122586
+Q9K0Z0	rsmH	GO:0005737	Ribosomal RNA small subunit methyltransferase H	NCBITaxon:122586
+Q9K0Z0	rsmH	GO:0071424	Ribosomal RNA small subunit methyltransferase H	NCBITaxon:122586
+Q9K0Z0	rsmH	GO:0070475	Ribosomal RNA small subunit methyltransferase H	NCBITaxon:122586
+Q9K0Y6	mraY	GO:0005887	Phospho-N-acetylmuramoyl-pentapeptide-transferase	NCBITaxon:122586
+Q9K0Y6	mraY	GO:0016780	Phospho-N-acetylmuramoyl-pentapeptide-transferase	NCBITaxon:122586
+Q9K0Y6	mraY	GO:0071555	Phospho-N-acetylmuramoyl-pentapeptide-transferase	NCBITaxon:122586
+Q9K0Y6	mraY	GO:0044038	Phospho-N-acetylmuramoyl-pentapeptide-transferase	NCBITaxon:122586
+Q9K0Y6	mraY	GO:0008963	Phospho-N-acetylmuramoyl-pentapeptide-transferase	NCBITaxon:122586
+Q9K0Y5	NMB0419	GO:0030433	Uncharacterized protein	NCBITaxon:122586
+Q9K0Y5	NMB0419	GO:0004842	Uncharacterized protein	NCBITaxon:122586
+Q9K0Y3	ftsW	GO:0032153	Probable peptidoglycan glycosyltransferase FtsW	NCBITaxon:122586
+Q9K0Y3	ftsW	GO:0005887	Probable peptidoglycan glycosyltransferase FtsW	NCBITaxon:122586
+Q9K0Y3	ftsW	GO:0008360	Probable peptidoglycan glycosyltransferase FtsW	NCBITaxon:122586
+Q9K0Y3	ftsW	GO:0015648	Probable peptidoglycan glycosyltransferase FtsW	NCBITaxon:122586
+Q9K0Y3	ftsW	GO:0051301	Probable peptidoglycan glycosyltransferase FtsW	NCBITaxon:122586
+Q9K0Y0	ddl	GO:0009252	D-alanine--D-alanine ligase	NCBITaxon:122586
+Q9K0Y0	ddl	GO:0008716	D-alanine--D-alanine ligase	NCBITaxon:122586
+Q9K199	trmL	GO:0002132	tRNA (cytidine(34)-2'-O)-methyltransferase	NCBITaxon:122586
+Q9K199	trmL	GO:0002131	tRNA (cytidine(34)-2'-O)-methyltransferase	NCBITaxon:122586
+Q9K0X8	ftsA	GO:0009898	Cell division protein FtsA	NCBITaxon:122586
+Q9K0X8	ftsA	GO:0032153	Cell division protein FtsA	NCBITaxon:122586
+Q9K0X8	ftsA	GO:0051301	Cell division protein FtsA	NCBITaxon:122586
+Q9K0X7	NMB0428	GO:0005345	Uncharacterized protein	NCBITaxon:122586
+Q9K0X7	NMB0428	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K0X5	prpB	GO:0046421	2-methylisocitrate lyase	NCBITaxon:122586
+Q9K0X5	prpB	GO:0019629	2-methylisocitrate lyase	NCBITaxon:122586
+Q9K0X3	acnA	GO:0006099	Aconitate hydratase 1	NCBITaxon:122586
+Q9K0X3	acnA	GO:0005829	Aconitate hydratase 1	NCBITaxon:122586
+Q9K0X3	acnA	GO:0006101	Aconitate hydratase 1	NCBITaxon:122586
+Q9K0X3	acnA	GO:0051539	Aconitate hydratase 1	NCBITaxon:122586
+Q9K0X3	acnA	GO:0003994	Aconitate hydratase 1	NCBITaxon:122586
+Q9K192	trpC	GO:0000162	Indole-3-glycerol phosphate synthase	NCBITaxon:122586
+Q9K192	trpC	GO:0004425	Indole-3-glycerol phosphate synthase	NCBITaxon:122586
+Q9K192	trpC	GO:0004640	Indole-3-glycerol phosphate synthase	NCBITaxon:122586
+Q9K191	NMB0276	GO:0034338	Uncharacterized protein	NCBITaxon:122586
+Q9K191	NMB0276	GO:0044255	Uncharacterized protein	NCBITaxon:122586
+Q9K191	NMB0276	GO:0047372	Uncharacterized protein	NCBITaxon:122586
+Q9K0W9	NMB0437	GO:0006355	Uncharacterized protein	NCBITaxon:122586
+Q9K0W9	NMB0437	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9K0W9	NMB0437	GO:0003700	Uncharacterized protein	NCBITaxon:122586
+Q9K187	lptD	GO:0009279	LPS-assembly protein LptD	NCBITaxon:122586
+Q9K187	lptD	GO:0015921	LPS-assembly protein LptD	NCBITaxon:122586
+Q9K0W6	NMB0440	GO:0008977	Putative prephenate dehydrogenase	NCBITaxon:122586
+Q9K0W6	NMB0440	GO:0006571	Putative prephenate dehydrogenase	NCBITaxon:122586
+Q9K0W6	NMB0440	GO:0055114	Putative prephenate dehydrogenase	NCBITaxon:122586
+Q9K0W6	NMB0440	GO:0070403	Putative prephenate dehydrogenase	NCBITaxon:122586
+Q9K185	NMB0282	GO:0005829	Ribonuclease II-related protein	NCBITaxon:122586
+Q9K184	NMB0283	GO:0005829	Cytokinin riboside 5'-monophosphate phosphoribohydrolase	NCBITaxon:122586
+Q9K0W2	NMB0445	GO:1990961	Bcr/CflA family efflux transporter	NCBITaxon:122586
+Q9K0W2	NMB0445	GO:0005887	Bcr/CflA family efflux transporter	NCBITaxon:122586
+Q9K0W2	NMB0445	GO:0042910	Bcr/CflA family efflux transporter	NCBITaxon:122586
+Q9K0W1	pheA	GO:0009094	Chorismate mutase/prephenate dehydratase	NCBITaxon:122586
+Q9K0W1	pheA	GO:0005737	Chorismate mutase/prephenate dehydratase	NCBITaxon:122586
+Q9K0W1	pheA	GO:0004664	Chorismate mutase/prephenate dehydratase	NCBITaxon:122586
+Q9K0W0	recO	GO:0043590	DNA repair protein RecO	NCBITaxon:122586
+Q9K0W0	recO	GO:0006302	DNA repair protein RecO	NCBITaxon:122586
+Q9K0V9	pdxJ	GO:0005829	Pyridoxine 5'-phosphate synthase	NCBITaxon:122586
+Q9K0V9	pdxJ	GO:0033856	Pyridoxine 5'-phosphate synthase	NCBITaxon:122586
+Q9K0V9	pdxJ	GO:0008615	Pyridoxine 5'-phosphate synthase	NCBITaxon:122586
+Q9K178	NMB0292	GO:0016657	Uncharacterized protein	NCBITaxon:122586
+Q9K0V5	mutT	GO:0044715	MutT protein	NCBITaxon:122586
+Q9K0V5	mutT	GO:0006281	MutT protein	NCBITaxon:122586
+Q9K0V5	mutT	GO:0008413	MutT protein	NCBITaxon:122586
+Q9K0V5	mutT	GO:0035539	MutT protein	NCBITaxon:122586
+Q9K0V5	mutT	GO:0044716	MutT protein	NCBITaxon:122586
+Q9K0V4	rlmL	GO:0016423	Ribosomal RNA large subunit methyltransferase L	NCBITaxon:122586
+Q9K0V4	rlmL	GO:0030488	Ribosomal RNA large subunit methyltransferase L	NCBITaxon:122586
+Q9K0V3	amiC	GO:0030288	N-acetylmuramoyl-L-alanine amidase AmiC	NCBITaxon:122586
+Q9K0V3	amiC	GO:0000910	N-acetylmuramoyl-L-alanine amidase AmiC	NCBITaxon:122586
+Q9K0V3	amiC	GO:0008745	N-acetylmuramoyl-L-alanine amidase AmiC	NCBITaxon:122586
+Q9K0V2	NMB0457	GO:0002949	Uncharacterized protein	NCBITaxon:122586
+Q9K169	aroG	GO:0005737	Phospho-2-dehydro-3-deoxyheptonate aldolase	NCBITaxon:122586
+Q9K169	aroG	GO:0009073	Phospho-2-dehydro-3-deoxyheptonate aldolase	NCBITaxon:122586
+Q9K169	aroG	GO:0003849	Phospho-2-dehydro-3-deoxyheptonate aldolase	NCBITaxon:122586
+Q9K168	folA	GO:0046654	Dihydrofolate reductase	NCBITaxon:122586
+Q9K168	folA	GO:0050661	Dihydrofolate reductase	NCBITaxon:122586
+Q9K168	folA	GO:0046452	Dihydrofolate reductase	NCBITaxon:122586
+Q9K168	folA	GO:0004146	Dihydrofolate reductase	NCBITaxon:122586
+Q9K168	folA	GO:0046655	Dihydrofolate reductase	NCBITaxon:122586
+Q9K168	folA	GO:0005829	Dihydrofolate reductase	NCBITaxon:122586
+Q9K163	NMB0315	GO:0004222	Uncharacterized protein	NCBITaxon:122586
+Q9K163	NMB0315	GO:0000920	Uncharacterized protein	NCBITaxon:122586
+Q9K0U2	NMB0470	GO:0005886	C4-dicarboxylate transporter	NCBITaxon:122586
+Q9K0U2	NMB0470	GO:0005215	C4-dicarboxylate transporter	NCBITaxon:122586
+Q9K0U1	NMB0471	GO:0018104	Uncharacterized protein	NCBITaxon:122586
+Q9K0U1	NMB0471	GO:0071972	Uncharacterized protein	NCBITaxon:122586
+Q9K0U0	bioF	GO:0008710	Putative 8-amino-7-oxononanoate synthase	NCBITaxon:122586
+Q9K0U0	bioF	GO:0009102	Putative 8-amino-7-oxononanoate synthase	NCBITaxon:122586
+Q9K157	NMB0323	GO:0016491	UbiH family protein	NCBITaxon:122586
+Q9K157	NMB0323	GO:0006744	UbiH family protein	NCBITaxon:122586
+Q9K154	pilD	GO:0005886	Type 4 prepilin-like proteins leader peptide-processing enzyme	NCBITaxon:122586
+Q9K154	pilD	GO:0004190	Type 4 prepilin-like proteins leader peptide-processing enzyme	NCBITaxon:122586
+Q9K154	pilD	GO:0006465	Type 4 prepilin-like proteins leader peptide-processing enzyme	NCBITaxon:122586
+Q9K153	pgi2	GO:0006096	Glucose-6-phosphate isomerase 2	NCBITaxon:122586
+Q9K153	pgi2	GO:0004347	Glucose-6-phosphate isomerase 2	NCBITaxon:122586
+Q9K153	pgi2	GO:0006094	Glucose-6-phosphate isomerase 2	NCBITaxon:122586
+Q9K153	pgi2	GO:0048029	Glucose-6-phosphate isomerase 2	NCBITaxon:122586
+Q9K153	pgi2	GO:0051156	Glucose-6-phosphate isomerase 2	NCBITaxon:122586
+Q9K153	pgi2	GO:0005829	Glucose-6-phosphate isomerase 2	NCBITaxon:122586
+Q9K150	NMB0337	GO:0004084	Putative branched-chain amino acid aminotransferase	NCBITaxon:122586
+Q9K0S8	NMB0496	GO:0008320	Hemolysin activator-related protein	NCBITaxon:122586
+Q9K0S8	NMB0496	GO:0098046	Hemolysin activator-related protein	NCBITaxon:122586
+Q9K0S8	NMB0496	GO:0046819	Hemolysin activator-related protein	NCBITaxon:122586
+Q9K143	dtd	GO:0005737	D-aminoacyl-tRNA deacylase	NCBITaxon:122586
+Q9K143	dtd	GO:0051500	D-aminoacyl-tRNA deacylase	NCBITaxon:122586
+Q9K143	dtd	GO:0006399	D-aminoacyl-tRNA deacylase	NCBITaxon:122586
+Q9K141	gluQ	GO:0004818	Glutamyl-Q tRNA(Asp) synthetase	NCBITaxon:122586
+Q9K141	gluQ	GO:0006424	Glutamyl-Q tRNA(Asp) synthetase	NCBITaxon:122586
+Q9K141	gluQ	GO:0005829	Glutamyl-Q tRNA(Asp) synthetase	NCBITaxon:122586
+Q9K139	tal	GO:0005622	Transaldolase	NCBITaxon:122586
+Q9K136	NMB0354	GO:0030288	Uncharacterized protein	NCBITaxon:122586
+Q9K136	NMB0354	GO:0015920	Uncharacterized protein	NCBITaxon:122586
+Q9K136	NMB0354	GO:0017089	Uncharacterized protein	NCBITaxon:122586
+Q9K136	NMB0354	GO:0005887	Uncharacterized protein	NCBITaxon:122586
+Q9K135	NMB0356	GO:0015658	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K135	NMB0356	GO:0015807	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K134	glnA	GO:0005737	Glutamine synthetase	NCBITaxon:122586
+Q9K134	glnA	GO:0019740	Glutamine synthetase	NCBITaxon:122586
+Q9K134	glnA	GO:0006542	Glutamine synthetase	NCBITaxon:122586
+Q9K134	glnA	GO:0004356	Glutamine synthetase	NCBITaxon:122586
+Q9K134	glnA	GO:0016020	Glutamine synthetase	NCBITaxon:122586
+Q9K133	NMB0360	GO:0015295	AmpG-related protein	NCBITaxon:122586
+Q9K133	NMB0360	GO:0015835	AmpG-related protein	NCBITaxon:122586
+Q9K0Q9	queC	GO:0008616	7-cyano-7-deazaguanine synthase	NCBITaxon:122586
+Q9K0Q7	NMB0527	GO:0070497	6-carboxy-5,6,7,8-tetrahydropterin synthase	NCBITaxon:122586
+Q9K0Q4	nagZ	GO:0009254	Beta-hexosaminidase	NCBITaxon:122586
+Q9K0Q2	nth	GO:0006296	Endonuclease III	NCBITaxon:122586
+Q9K0Q2	nth	GO:0000703	Endonuclease III	NCBITaxon:122586
+Q9K0Q2	nth	GO:0006285	Endonuclease III	NCBITaxon:122586
+Q9K0Q2	nth	GO:0003906	Endonuclease III	NCBITaxon:122586
+Q9K0Q1	NMB0534	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K0P8	NMB0537	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K117	hemN	GO:0005737	Coproporphyrinogen-III oxidase	NCBITaxon:122586
+Q9K117	hemN	GO:0006782	Coproporphyrinogen-III oxidase	NCBITaxon:122586
+Q9K117	hemN	GO:0051989	Coproporphyrinogen-III oxidase	NCBITaxon:122586
+Q9K117	hemN	GO:0006779	Coproporphyrinogen-III oxidase	NCBITaxon:122586
+Q9K117	hemN	GO:0051539	Coproporphyrinogen-III oxidase	NCBITaxon:122586
+Q9K116	cysB	GO:0019344	Cys regulon transcriptional activator	NCBITaxon:122586
+Q9K116	cysB	GO:0000976	Cys regulon transcriptional activator	NCBITaxon:122586
+Q9K116	cysB	GO:0006355	Cys regulon transcriptional activator	NCBITaxon:122586
+Q9K0P5	aspC	GO:0008483	Aminotransferase	NCBITaxon:122586
+Q9K0P5	aspC	GO:0005829	Aminotransferase	NCBITaxon:122586
+Q9K0P5	aspC	GO:0033585	Aminotransferase	NCBITaxon:122586
+Q9K0P5	aspC	GO:0030170	Aminotransferase	NCBITaxon:122586
+Q9K0P5	aspC	GO:0004838	Aminotransferase	NCBITaxon:122586
+Q9K0P5	aspC	GO:0042802	Aminotransferase	NCBITaxon:122586
+Q9K0P2	lpxH	GO:0009245	UDP-2,3-diacylglucosamine hydrolase	NCBITaxon:122586
+Q9K0P2	lpxH	GO:0019897	UDP-2,3-diacylglucosamine hydrolase	NCBITaxon:122586
+Q9K0P2	lpxH	GO:0008758	UDP-2,3-diacylglucosamine hydrolase	NCBITaxon:122586
+Q9K110	galM	GO:0005737	Aldose 1-epimerase	NCBITaxon:122586
+Q9K110	galM	GO:0006006	Aldose 1-epimerase	NCBITaxon:122586
+Q9K110	galM	GO:0004034	Aldose 1-epimerase	NCBITaxon:122586
+Q9K110	galM	GO:0033499	Aldose 1-epimerase	NCBITaxon:122586
+Q9K109	mapA	GO:0005975	Maltose phosphorylase	NCBITaxon:122586
+Q9K109	mapA	GO:0004553	Maltose phosphorylase	NCBITaxon:122586
+Q9K107	nadB	GO:0008734	L-aspartate oxidase	NCBITaxon:122586
+Q9K107	nadB	GO:0034628	L-aspartate oxidase	NCBITaxon:122586
+Q9K106	NMB0393	GO:0015199	Multidrug resistance protein	NCBITaxon:122586
+Q9K106	NMB0393	GO:0015297	Multidrug resistance protein	NCBITaxon:122586
+Q9K106	NMB0393	GO:0015871	Multidrug resistance protein	NCBITaxon:122586
+Q9K106	NMB0393	GO:0055085	Multidrug resistance protein	NCBITaxon:122586
+Q9K106	NMB0393	GO:0005887	Multidrug resistance protein	NCBITaxon:122586
+Q9K106	NMB0393	GO:0015220	Multidrug resistance protein	NCBITaxon:122586
+Q9K106	NMB0393	GO:0022857	Multidrug resistance protein	NCBITaxon:122586
+Q9K106	NMB0393	GO:0031460	Multidrug resistance protein	NCBITaxon:122586
+Q9K105	nadA	GO:0034628	Quinolinate synthase A	NCBITaxon:122586
+Q9K105	nadA	GO:0005829	Quinolinate synthase A	NCBITaxon:122586
+Q9K105	nadA	GO:0008987	Quinolinate synthase A	NCBITaxon:122586
+Q9K105	nadA	GO:0051539	Quinolinate synthase A	NCBITaxon:122586
+Q9K103	nadC	GO:0009435	Nicotinate-nucleotide pyrophosphorylase	NCBITaxon:122586
+Q9K103	nadC	GO:0004514	Nicotinate-nucleotide pyrophosphorylase	NCBITaxon:122586
+Q9K103	nadC	GO:0005737	Nicotinate-nucleotide pyrophosphorylase	NCBITaxon:122586
+Q9K103	nadC	GO:0034213	Nicotinate-nucleotide pyrophosphorylase	NCBITaxon:122586
+Q9K101	NMB0398	GO:0006355	Transcriptional regulator, ArsR family	NCBITaxon:122586
+Q9K101	NMB0398	GO:0000976	Transcriptional regulator, ArsR family	NCBITaxon:122586
+Q9K0N8	NMB0548	GO:1990281	AcrA/AcrE family protein	NCBITaxon:122586
+Q9K0N8	NMB0548	GO:0015562	AcrA/AcrE family protein	NCBITaxon:122586
+Q9K0N7	macB	GO:0005886	Macrolide export ATP-binding/permease protein MacB	NCBITaxon:122586
+Q9K0N7	macB	GO:0022857	Macrolide export ATP-binding/permease protein MacB	NCBITaxon:122586
+Q9K0N6	priA	GO:0006302	Primosomal protein N'	NCBITaxon:122586
+Q9K0N6	priA	GO:0006270	Primosomal protein N'	NCBITaxon:122586
+Q9K0N6	priA	GO:0006310	Primosomal protein N'	NCBITaxon:122586
+Q9K0N6	priA	GO:0006268	Primosomal protein N'	NCBITaxon:122586
+Q9K0N6	priA	GO:0043138	Primosomal protein N'	NCBITaxon:122586
+Q9K0N4	dnaK	GO:0005829	Chaperone protein DnaK	NCBITaxon:122586
+Q9K0N0	ubiB	GO:0004672	Probable protein kinase UbiB	NCBITaxon:122586
+Q9K0M9	apbE	GO:0017013	FAD:protein FMN transferase	NCBITaxon:122586
+Q9K0M9	apbE	GO:0016740	FAD:protein FMN transferase	NCBITaxon:122586
+Q9K0M9	apbE	GO:0071949	FAD:protein FMN transferase	NCBITaxon:122586
+Q9K0M7	nqrE	GO:0005886	Na(+)-translocating NADH-quinone reductase subunit E	NCBITaxon:122586
+Q9K0M6	nqrD	GO:0005886	Na(+)-translocating NADH-quinone reductase subunit D	NCBITaxon:122586
+Q9K0M4	nqrB	GO:0005886	Na(+)-translocating NADH-quinone reductase subunit B	NCBITaxon:122586
+Q9K0M1	NMB0571	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K0L9	NMB0573	GO:0043200	Transcriptional regulator, AsnC family	NCBITaxon:122586
+Q9K0L9	NMB0573	GO:0005829	Transcriptional regulator, AsnC family	NCBITaxon:122586
+Q9K0L9	NMB0573	GO:0043565	Transcriptional regulator, AsnC family	NCBITaxon:122586
+Q9K0L8	gcvT	GO:0005829	Aminomethyltransferase	NCBITaxon:122586
+Q9K0L7	gcvH	GO:0019464	Glycine cleavage system H protein	NCBITaxon:122586
+Q9K0L7	gcvH	GO:0005737	Glycine cleavage system H protein	NCBITaxon:122586
+Q9K0L7	gcvH	GO:0005829	Glycine cleavage system H protein	NCBITaxon:122586
+Q9K0L7	gcvH	GO:0009249	Glycine cleavage system H protein	NCBITaxon:122586
+Q9K0L3	NMB0581	GO:0022904	Electron transfer flavoprotein-ubiquinone oxidoreductase	NCBITaxon:122586
+Q9K0L3	NMB0581	GO:0004174	Electron transfer flavoprotein-ubiquinone oxidoreductase	NCBITaxon:122586
+Q9K0L3	NMB0581	GO:0043783	Electron transfer flavoprotein-ubiquinone oxidoreductase	NCBITaxon:122586
+Q9K0L3	NMB0581	GO:0048039	Electron transfer flavoprotein-ubiquinone oxidoreductase	NCBITaxon:122586
+Q9K0L3	NMB0581	GO:0051539	Electron transfer flavoprotein-ubiquinone oxidoreductase	NCBITaxon:122586
+Q9K0K7	NMB0587	GO:0005886	Membrane protein	NCBITaxon:122586
+Q9K0K7	NMB0587	GO:0010043	Membrane protein	NCBITaxon:122586
+Q9K0K6	NMB0588	GO:0043190	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K0K6	NMB0588	GO:0042626	ABC transporter, ATP-binding protein	NCBITaxon:122586
+Q9K0K1	NMB0594	GO:0005886	Sensor histidine kinase	NCBITaxon:122586
+Q9K0K1	NMB0594	GO:0000155	Sensor histidine kinase	NCBITaxon:122586
+Q9K0K1	NMB0594	GO:0016021	Sensor histidine kinase	NCBITaxon:122586
+Q9K0J8	NMB0598	GO:0047429	dTTP/UTP pyrophosphatase	NCBITaxon:122586
+Q9K0J7	tatC	GO:0009977	Sec-independent protein translocase protein TatC	NCBITaxon:122586
+Q9K0J7	tatC	GO:0065002	Sec-independent protein translocase protein TatC	NCBITaxon:122586
+Q9K0J7	tatC	GO:0033281	Sec-independent protein translocase protein TatC	NCBITaxon:122586
+Q9K0J7	tatC	GO:0043953	Sec-independent protein translocase protein TatC	NCBITaxon:122586
+Q9K0J5	hitA	GO:0055130	HitA protein	NCBITaxon:122586
+Q9K0J5	hitA	GO:0043530	HitA protein	NCBITaxon:122586
+Q9K0J5	hitA	GO:0005829	HitA protein	NCBITaxon:122586
+Q9K0J5	hitA	GO:0016787	HitA protein	NCBITaxon:122586
+Q9K0J5	hitA	GO:0005737	HitA protein	NCBITaxon:122586
+Q9K0J3	NMB0604	GO:0008868	Alcohol dehydrogenase, zinc-containing	NCBITaxon:122586
+Q9K0J1	NMB0606	GO:0005887	Uncharacterized protein	NCBITaxon:122586
+Q9K0J0	secD	GO:0015031	Protein translocase subunit SecD	NCBITaxon:122586
+Q9K0I5	NMB0614	GO:0005737	Putative oxidoreductase	NCBITaxon:122586
+Q9K0I5	NMB0614	GO:0016491	Putative oxidoreductase	NCBITaxon:122586
+Q9K0I4	NMB0615	GO:0008519	Ammonium transporter	NCBITaxon:122586
+Q9K0I4	NMB0615	GO:0019740	Ammonium transporter	NCBITaxon:122586
+Q9K0I4	NMB0615	GO:0005887	Ammonium transporter	NCBITaxon:122586
+Q9K0I0	pgp	GO:0005829	Phosphoglycolate phosphatase	NCBITaxon:122586
+Q9K0I0	pgp	GO:0008967	Phosphoglycolate phosphatase	NCBITaxon:122586
+Q9K0I0	pgp	GO:0006281	Phosphoglycolate phosphatase	NCBITaxon:122586
+Q9K0I0	pgp	GO:0016311	Phosphoglycolate phosphatase	NCBITaxon:122586
+Q9K0H6	prfC	GO:0016150	Peptide chain release factor 3	NCBITaxon:122586
+Q9K0H6	prfC	GO:0005829	Peptide chain release factor 3	NCBITaxon:122586
+Q9K0H6	prfC	GO:0006415	Peptide chain release factor 3	NCBITaxon:122586
+Q9K0H4	hisF	GO:0000107	Imidazole glycerol phosphate synthase subunit HisF	NCBITaxon:122586
+Q9K0H3	hisA	GO:0000162	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	NCBITaxon:122586
+Q9K0H3	hisA	GO:0000105	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	NCBITaxon:122586
+Q9K0H3	hisA	GO:0003949	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	NCBITaxon:122586
+Q9K0H3	hisA	GO:0005737	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	NCBITaxon:122586
+Q9K0H2	hisH	GO:0000107	Imidazole glycerol phosphate synthase subunit HisH	NCBITaxon:122586
+Q9K0H0	NMB0635	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9K0H0	NMB0635	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9K0G8	argH	GO:0042450	Argininosuccinate lyase	NCBITaxon:122586
+Q9K0G8	argH	GO:0005737	Argininosuccinate lyase	NCBITaxon:122586
+Q9K0G8	argH	GO:0004056	Argininosuccinate lyase	NCBITaxon:122586
+Q9K0G6	NMB0639	GO:0005829	dITP/XTP pyrophosphatase	NCBITaxon:122586
+Q9K0G6	NMB0639	GO:0009143	dITP/XTP pyrophosphatase	NCBITaxon:122586
+Q9K0G6	NMB0639	GO:0005737	dITP/XTP pyrophosphatase	NCBITaxon:122586
+Q9K0G6	NMB0639	GO:0047429	dITP/XTP pyrophosphatase	NCBITaxon:122586
+Q9K0G4	ppa	GO:0004427	Inorganic pyrophosphatase	NCBITaxon:122586
+Q9K0G4	ppa	GO:0005829	Inorganic pyrophosphatase	NCBITaxon:122586
+Q9K0G4	ppa	GO:0006796	Inorganic pyrophosphatase	NCBITaxon:122586
+Q9K0G4	ppa	GO:0000287	Inorganic pyrophosphatase	NCBITaxon:122586
+Q9K0E6	NMB0662	GO:0019239	Putative ribonuclease	NCBITaxon:122586
+Q9K0E6	NMB0662	GO:1901565	Putative ribonuclease	NCBITaxon:122586
+Q9K0E6	NMB0662	GO:0005829	Putative ribonuclease	NCBITaxon:122586
+Q9K0E4	NMB0665	GO:0051539	Oxygen-independent coproporphyrinogen-III oxidase-like protein	NCBITaxon:122586
+Q9K0E4	NMB0665	GO:0006779	Oxygen-independent coproporphyrinogen-III oxidase-like protein	NCBITaxon:122586
+Q9K0E4	NMB0665	GO:0005737	Oxygen-independent coproporphyrinogen-III oxidase-like protein	NCBITaxon:122586
+Q9K0E3	ligA	GO:0005829	DNA ligase	NCBITaxon:122586
+Q9K0E3	ligA	GO:0006288	DNA ligase	NCBITaxon:122586
+Q9K0E3	ligA	GO:0003911	DNA ligase	NCBITaxon:122586
+Q9K0E1	ampD	GO:0009253	AmpD protein	NCBITaxon:122586
+Q9K0E1	ampD	GO:0009254	AmpD protein	NCBITaxon:122586
+Q9K0E1	ampD	GO:0008745	AmpD protein	NCBITaxon:122586
+Q9K0D9	tmk	GO:0005737	Thymidylate kinase	NCBITaxon:122586
+Q9K0D9	tmk	GO:0005829	Thymidylate kinase	NCBITaxon:122586
+Q9K0D9	tmk	GO:0009041	Thymidylate kinase	NCBITaxon:122586
+Q9K0D9	tmk	GO:0006227	Thymidylate kinase	NCBITaxon:122586
+Q9K0D9	tmk	GO:0004798	Thymidylate kinase	NCBITaxon:122586
+Q9K0D9	tmk	GO:0006233	Thymidylate kinase	NCBITaxon:122586
+Q9K0D9	tmk	GO:0006235	Thymidylate kinase	NCBITaxon:122586
+Q9K0D7	lpxK	GO:0005886	Tetraacyldisaccharide 4'-kinase	NCBITaxon:122586
+Q9K0D7	lpxK	GO:0009244	Tetraacyldisaccharide 4'-kinase	NCBITaxon:122586
+Q9K0D7	lpxK	GO:0009029	Tetraacyldisaccharide 4'-kinase	NCBITaxon:122586
+Q9K0D7	lpxK	GO:0009245	Tetraacyldisaccharide 4'-kinase	NCBITaxon:122586
+Q9K0D4	trpA	GO:0000162	Tryptophan synthase alpha chain	NCBITaxon:122586
+Q9K0D4	trpA	GO:0005829	Tryptophan synthase alpha chain	NCBITaxon:122586
+Q9K0D4	trpA	GO:0004834	Tryptophan synthase alpha chain	NCBITaxon:122586
+Q9K0D1	pyrC	GO:0006221	Dihydroorotase	NCBITaxon:122586
+Q9K0D1	pyrC	GO:0005737	Dihydroorotase	NCBITaxon:122586
+Q9K0D1	pyrC	GO:0004151	Dihydroorotase	NCBITaxon:122586
+Q9K0D1	pyrC	GO:0006207	Dihydroorotase	NCBITaxon:122586
+Q9K0D0	nusB	GO:0005829	Transcription antitermination protein NusB	NCBITaxon:122586
+Q9K0C8	rnc	GO:0004525	Ribonuclease 3	NCBITaxon:122586
+Q9K0C8	rnc	GO:0006396	Ribonuclease 3	NCBITaxon:122586
+Q9K0C8	rnc	GO:0003725	Ribonuclease 3	NCBITaxon:122586
+Q9K0C7	era	GO:0043024	GTPase Era	NCBITaxon:122586
+Q9K0C7	era	GO:0005829	GTPase Era	NCBITaxon:122586
+Q9K0C7	era	GO:0019843	GTPase Era	NCBITaxon:122586
+Q9K0C7	era	GO:0000028	GTPase Era	NCBITaxon:122586
+Q9K0C6	trpF	GO:0004640	N-(5'-phosphoribosyl)anthranilate isomerase	NCBITaxon:122586
+Q9K0C6	trpF	GO:0000162	N-(5'-phosphoribosyl)anthranilate isomerase	NCBITaxon:122586
+Q9K0C5	greB	GO:0006354	Transcription elongation factor GreB	NCBITaxon:122586
+Q9K0C4	purF	GO:0006164	Amidophosphoribosyltransferase	NCBITaxon:122586
+Q9K0C4	purF	GO:0005737	Amidophosphoribosyltransferase	NCBITaxon:122586
+Q9K0C4	purF	GO:0004044	Amidophosphoribosyltransferase	NCBITaxon:122586
+Q9K0C1	folC	GO:0005737	Folylpolyglutamate synthase/dihydrofolate synthase	NCBITaxon:122586
+Q9K0C1	folC	GO:0008841	Folylpolyglutamate synthase/dihydrofolate synthase	NCBITaxon:122586
+Q9K0C1	folC	GO:0004326	Folylpolyglutamate synthase/dihydrofolate synthase	NCBITaxon:122586
+Q9K0C1	folC	GO:0009396	Folylpolyglutamate synthase/dihydrofolate synthase	NCBITaxon:122586
+Q9K0B7	rsmA	GO:0000179	Ribosomal RNA small subunit methyltransferase A	NCBITaxon:122586
+Q9K0B7	rsmA	GO:0005829	Ribosomal RNA small subunit methyltransferase A	NCBITaxon:122586
+Q9K0B7	rsmA	GO:0031167	Ribosomal RNA small subunit methyltransferase A	NCBITaxon:122586
+Q9K0B0	rluD	GO:0009982	Ribosomal large subunit pseudouridine synthase D	NCBITaxon:122586
+Q9K0B0	rluD	GO:0000455	Ribosomal large subunit pseudouridine synthase D	NCBITaxon:122586
+Q9K0A8	NMB0706	GO:0005507	Polyphenol oxidase	NCBITaxon:122586
+Q9K0A6	holA	GO:0009360	DNA polymerase III, delta subunit	NCBITaxon:122586
+Q9K0A6	holA	GO:0006261	DNA polymerase III, delta subunit	NCBITaxon:122586
+Q9K0A1	NMB0714	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K097	hemH	GO:0006783	Ferrochelatase	NCBITaxon:122586
+Q9K097	hemH	GO:0004325	Ferrochelatase	NCBITaxon:122586
+Q9K096	tgt	GO:0006400	Queuine tRNA-ribosyltransferase	NCBITaxon:122586
+Q9K095	thrS	GO:0006435	Threonine--tRNA ligase	NCBITaxon:122586
+Q9K095	thrS	GO:0004829	Threonine--tRNA ligase	NCBITaxon:122586
+Q9K095	thrS	GO:0005829	Threonine--tRNA ligase	NCBITaxon:122586
+Q9K093	rplT	GO:0000027	50S ribosomal protein L20	NCBITaxon:122586
+Q9K093	rplT	GO:0022625	50S ribosomal protein L20	NCBITaxon:122586
+Q9K093	rplT	GO:0003735	50S ribosomal protein L20	NCBITaxon:122586
+Q9K092	pheS	GO:0006432	Phenylalanine--tRNA ligase alpha subunit	NCBITaxon:122586
+Q9K092	pheS	GO:0005737	Phenylalanine--tRNA ligase alpha subunit	NCBITaxon:122586
+Q9K092	pheS	GO:0004826	Phenylalanine--tRNA ligase alpha subunit	NCBITaxon:122586
+Q9K090	NMB0727	GO:0005737	Methyltransferase	NCBITaxon:122586
+Q9K090	NMB0727	GO:0008168	Methyltransferase	NCBITaxon:122586
+Q9K090	NMB0727	GO:0009007	Methyltransferase	NCBITaxon:122586
+Q9K089	pheT	GO:0009328	Phenylalanine--tRNA ligase beta subunit	NCBITaxon:122586
+Q9K089	pheT	GO:0006432	Phenylalanine--tRNA ligase beta subunit	NCBITaxon:122586
+Q9K085	bioD	GO:0009102	ATP-dependent dethiobiotin synthetase BioD	NCBITaxon:122586
+Q9K085	bioD	GO:0005829	ATP-dependent dethiobiotin synthetase BioD	NCBITaxon:122586
+Q9K085	bioD	GO:0004141	ATP-dependent dethiobiotin synthetase BioD	NCBITaxon:122586
+Q9K083	ubiA	GO:0016765	4-hydroxybenzoate octaprenyltransferase	NCBITaxon:122586
+Q9K083	ubiA	GO:0006744	4-hydroxybenzoate octaprenyltransferase	NCBITaxon:122586
+Q9K082	ptsN	GO:0030295	PTS system, nitrogen regulatory IIA protein	NCBITaxon:122586
+Q9K082	ptsN	GO:0032412	PTS system, nitrogen regulatory IIA protein	NCBITaxon:122586
+Q9K081	hprK	GO:0005829	HPr kinase/phosphorylase	NCBITaxon:122586
+Q9K079	NMB0739	GO:0003924	Uncharacterized protein	NCBITaxon:122586
+Q9K078	recN	GO:0009314	DNA repair protein RecN	NCBITaxon:122586
+Q9K078	recN	GO:0000724	DNA repair protein RecN	NCBITaxon:122586
+Q9K078	recN	GO:0009432	DNA repair protein RecN	NCBITaxon:122586
+Q9K077	NMB0741	GO:0005737	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC	NCBITaxon:122586
+Q9K077	NMB0741	GO:0016491	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC	NCBITaxon:122586
+Q9K075	ubiE	GO:0008168	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	NCBITaxon:122586
+Q9K075	ubiE	GO:0006744	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	NCBITaxon:122586
+Q9K072	NMB0746	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q9K070	NMB0749	GO:0004175	Penicillin-binding protein 4	NCBITaxon:122586
+Q9K069	bcp	GO:0045454	Bacterioferritin comigratory protein	NCBITaxon:122586
+Q9K069	bcp	GO:0005737	Bacterioferritin comigratory protein	NCBITaxon:122586
+Q9K069	bcp	GO:0034599	Bacterioferritin comigratory protein	NCBITaxon:122586
+Q9K069	bcp	GO:0008379	Bacterioferritin comigratory protein	NCBITaxon:122586
+Q9K063	purC	GO:0006189	Phosphoribosylaminoimidazole-succinocarboxamide synthase	NCBITaxon:122586
+Q9K063	purC	GO:0004639	Phosphoribosylaminoimidazole-succinocarboxamide synthase	NCBITaxon:122586
+Q9K063	purC	GO:0005737	Phosphoribosylaminoimidazole-succinocarboxamide synthase	NCBITaxon:122586
+Q9K062	pnp	GO:0004654	Polyribonucleotide nucleotidyltransferase	NCBITaxon:122586
+Q9K062	pnp	GO:0000175	Polyribonucleotide nucleotidyltransferase	NCBITaxon:122586
+Q9K062	pnp	GO:0006401	Polyribonucleotide nucleotidyltransferase	NCBITaxon:122586
+Q9K062	pnp	GO:0005829	Polyribonucleotide nucleotidyltransferase	NCBITaxon:122586
+Q9K060	dapF	GO:0008837	Diaminopimelate epimerase	NCBITaxon:122586
+Q9K060	dapF	GO:0005829	Diaminopimelate epimerase	NCBITaxon:122586
+Q9K060	dapF	GO:0009089	Diaminopimelate epimerase	NCBITaxon:122586
+Q9K057	NMB0764	GO:0016021	Uncharacterized protein	NCBITaxon:122586
+Q9K056	lepB	GO:0005887	Signal peptidase I	NCBITaxon:122586
+Q9K056	lepB	GO:0006465	Signal peptidase I	NCBITaxon:122586
+Q9K056	lepB	GO:0004252	Signal peptidase I	NCBITaxon:122586
+Q9K054	pfs	GO:0008930	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	NCBITaxon:122586
+Q9K054	pfs	GO:0005829	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	NCBITaxon:122586
+Q9K054	pfs	GO:0008782	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	NCBITaxon:122586
+Q9K054	pfs	GO:0019284	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	NCBITaxon:122586
+Q9K052	NMB0769	GO:0009360	Putative DNA polymerase III, delta prime subunit	NCBITaxon:122586
+Q9K052	NMB0769	GO:0006261	Putative DNA polymerase III, delta prime subunit	NCBITaxon:122586
+Q9K050	NMB0771	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q9K048	upp	GO:0005829	Uracil phosphoribosyltransferase	NCBITaxon:122586
+Q9K048	upp	GO:0004845	Uracil phosphoribosyltransferase	NCBITaxon:122586
+Q9K048	upp	GO:0016301	Uracil phosphoribosyltransferase	NCBITaxon:122586
+Q9K041	hemE	GO:0006783	Uroporphyrinogen decarboxylase	NCBITaxon:122586
+Q9K041	hemE	GO:0004853	Uroporphyrinogen decarboxylase	NCBITaxon:122586
+Q9K041	hemE	GO:0019353	Uroporphyrinogen decarboxylase	NCBITaxon:122586
+Q9K041	hemE	GO:0005829	Uroporphyrinogen decarboxylase	NCBITaxon:122586
+Q9K040	radA	GO:0000725	DNA repair protein RadA	NCBITaxon:122586
+Q9JRZ9	nnrD2	GO:0110051	ADP-dependent (S)-NAD(P)H-hydrate dehydratase	NCBITaxon:122586
+Q9JRZ9	nnrD2	GO:0052855	ADP-dependent (S)-NAD(P)H-hydrate dehydratase	NCBITaxon:122586
+Q9JRZ9	nnrD2	GO:0052856	ADP-dependent (S)-NAD(P)H-hydrate dehydratase	NCBITaxon:122586
+Q9JRZ9	nnrD2	GO:0052857	ADP-dependent (S)-NAD(P)H-hydrate dehydratase	NCBITaxon:122586
+Q9JRY8	NMB1158	GO:0020037	Nickel-dependent hydrogenase, b-type cytochrome subunit	NCBITaxon:122586
+Q9JRY8	NMB1158	GO:0055114	Nickel-dependent hydrogenase, b-type cytochrome subunit	NCBITaxon:122586
+Q9JRY8	NMB1158	GO:0005887	Nickel-dependent hydrogenase, b-type cytochrome subunit	NCBITaxon:122586
+Q9JRW7	bioB2	GO:0004076	Biotin synthase	NCBITaxon:122586
+Q9JRW7	bioB2	GO:0051537	Biotin synthase	NCBITaxon:122586
+Q9JRW7	bioB2	GO:0009102	Biotin synthase	NCBITaxon:122586
+Q9JRW6	NMB1251	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9JRW6	NMB1251	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9JRV5	NMB1128	GO:0016491	Uncharacterized protein	NCBITaxon:122586
+Q9JRU9	NMB1130	GO:0016117	Putative phytoene synthase	NCBITaxon:122586
+Q9JRU9	NMB1130	GO:0016767	Putative phytoene synthase	NCBITaxon:122586
+Q9JRU7	cysN-2	GO:0006790	Sulfate adenylyltransferase subunit 1	NCBITaxon:122586
+Q9JS61	ilvD2	GO:0005829	Dihydroxy-acid dehydratase	NCBITaxon:122586
+Q9JS61	ilvD2	GO:0016836	Dihydroxy-acid dehydratase	NCBITaxon:122586
+Q9JS45	cysJ2	GO:0050660	Sulfite reductase [NADPH] flavoprotein alpha-component	NCBITaxon:122586
+Q9JS45	cysJ2	GO:0010181	Sulfite reductase [NADPH] flavoprotein alpha-component	NCBITaxon:122586
+Q9JS45	cysJ2	GO:0005829	Sulfite reductase [NADPH] flavoprotein alpha-component	NCBITaxon:122586
+Q9JS45	cysJ2	GO:0016491	Sulfite reductase [NADPH] flavoprotein alpha-component	NCBITaxon:122586
+Q9JS33	cysI2	GO:0000103	Sulfite reductase [NADPH] hemoprotein beta-component	NCBITaxon:122586
+Q9JS33	cysI2	GO:0050311	Sulfite reductase [NADPH] hemoprotein beta-component	NCBITaxon:122586
+Q9JS33	cysI2	GO:0016002	Sulfite reductase [NADPH] hemoprotein beta-component	NCBITaxon:122586
+Q9JS33	cysI2	GO:0009337	Sulfite reductase [NADPH] hemoprotein beta-component	NCBITaxon:122586
+Q9JS28	NMB0225	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q9JS28	NMB0225	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q9JS04	hscA	GO:0005829	Chaperone protein HscA homolog	NCBITaxon:122586
+P64027	tufB	GO:0003746	Elongation factor Tu	NCBITaxon:122586
+P64027	tufB	GO:0006414	Elongation factor Tu	NCBITaxon:122586
+Q7DDM9	grpE	GO:0051082	Protein GrpE	NCBITaxon:122586
+Q7DDM9	grpE	GO:0005829	Protein GrpE	NCBITaxon:122586
+Q7DDM9	grpE	GO:0000774	Protein GrpE	NCBITaxon:122586
+Q7DDN1	erpA	GO:0051537	Putative iron-sulfur cluster insertion protein ErpA	NCBITaxon:122586
+Q7DDN1	erpA	GO:0051539	Putative iron-sulfur cluster insertion protein ErpA	NCBITaxon:122586
+Q7DDN1	erpA	GO:0005506	Putative iron-sulfur cluster insertion protein ErpA	NCBITaxon:122586
+Q7DDN1	erpA	GO:0106035	Putative iron-sulfur cluster insertion protein ErpA	NCBITaxon:122586
+Q7DDN1	erpA	GO:0016226	Putative iron-sulfur cluster insertion protein ErpA	NCBITaxon:122586
+Q7DDT5	rplV	GO:0022625	50S ribosomal protein L22	NCBITaxon:122586
+Q7DDT5	rplV	GO:0003735	50S ribosomal protein L22	NCBITaxon:122586
+Q7DDT5	rplV	GO:0015934	50S ribosomal protein L22	NCBITaxon:122586
+Q7DDT5	rplV	GO:0042255	50S ribosomal protein L22	NCBITaxon:122586
+Q7DD62	NMB1959	GO:0047617	Uncharacterized protein	NCBITaxon:122586
+Q7DD73	avtA	GO:0005829	Valine--pyruvate aminotransferase	NCBITaxon:122586
+Q7DD73	avtA	GO:0009042	Valine--pyruvate aminotransferase	NCBITaxon:122586
+Q7DD73	avtA	GO:0009099	Valine--pyruvate aminotransferase	NCBITaxon:122586
+Q7DD73	avtA	GO:1901605	Valine--pyruvate aminotransferase	NCBITaxon:122586
+Q7DD73	avtA	GO:0008483	Valine--pyruvate aminotransferase	NCBITaxon:122586
+Q7DD78	pilO	GO:0043107	PilO protein	NCBITaxon:122586
+Q7DD78	pilO	GO:0043683	PilO protein	NCBITaxon:122586
+Q7DDB6	NMB1497	GO:0015344	Probable TonB-dependent receptor NMB1497	NCBITaxon:122586
+Q7DDB6	NMB1497	GO:0044718	Probable TonB-dependent receptor NMB1497	NCBITaxon:122586
+Q7DDB6	NMB1497	GO:0031230	Probable TonB-dependent receptor NMB1497	NCBITaxon:122586
+P0A0T3	gloA	GO:0005737	Lactoylglutathione lyase	NCBITaxon:122586
+P0A0T3	gloA	GO:0004462	Lactoylglutathione lyase	NCBITaxon:122586
+P0A0T3	gloA	GO:0019243	Lactoylglutathione lyase	NCBITaxon:122586
+P0A0S8	fur	GO:1900376	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0000976	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0003700	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:1900705	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0008270	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0005829	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0045892	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S6	ftsZ	GO:0005737	Cell division protein FtsZ	NCBITaxon:122586
+P0A0S6	ftsZ	GO:0051301	Cell division protein FtsZ	NCBITaxon:122586
+P0A0S6	ftsZ	GO:0032153	Cell division protein FtsZ	NCBITaxon:122586
+P0A0S6	ftsZ	GO:0005525	Cell division protein FtsZ	NCBITaxon:122586
+P0A0S6	ftsZ	GO:0003924	Cell division protein FtsZ	NCBITaxon:122586
+P0A0R9	exbD	GO:0005887	Biopolymer transport protein ExbD	NCBITaxon:122586
+P0A0R1	bfrA	GO:0020037	Bacterioferritin A	NCBITaxon:122586
+P0A0R1	bfrA	GO:0005829	Bacterioferritin A	NCBITaxon:122586
+P0A0R1	bfrA	GO:0004322	Bacterioferritin A	NCBITaxon:122586
+P0A0R1	bfrA	GO:0005506	Bacterioferritin A	NCBITaxon:122586
+P0A0R1	bfrA	GO:0006880	Bacterioferritin A	NCBITaxon:122586
+P0A0R0	murI	GO:0008881	Glutamate racemase	NCBITaxon:122586
+P0A0R0	murI	GO:0009252	Glutamate racemase	NCBITaxon:122586
+P0A0R0	murI	GO:0047661	Glutamate racemase	NCBITaxon:122586
+P66995	trpD	GO:0000162	Anthranilate phosphoribosyltransferase	NCBITaxon:122586
+P66995	trpD	GO:0005829	Anthranilate phosphoribosyltransferase	NCBITaxon:122586
+P0A0Z7	neuA	GO:0008781	N-acylneuraminate cytidylyltransferase	NCBITaxon:122586
+P0A0Z6	mrcA	GO:0009252	Penicillin-binding protein 1A	NCBITaxon:122586
+P0A0Z6	mrcA	GO:0008658	Penicillin-binding protein 1A	NCBITaxon:122586
+P0A0Z6	mrcA	GO:0008955	Penicillin-binding protein 1A	NCBITaxon:122586
+P0A0Z6	mrcA	GO:0046677	Penicillin-binding protein 1A	NCBITaxon:122586
+P0A0Z2	pxpA	GO:0006807	5-oxoprolinase subunit A	NCBITaxon:122586
+P0A0Z0	NMB1378	GO:0006355	Putative HTH-type transcriptional regulator NMB1378	NCBITaxon:122586
+P0A0Z0	NMB1378	GO:0003700	Putative HTH-type transcriptional regulator NMB1378	NCBITaxon:122586
+P0A0Z0	NMB1378	GO:0005829	Putative HTH-type transcriptional regulator NMB1378	NCBITaxon:122586
+P0A0Y8	smpB	GO:0003723	SsrA-binding protein	NCBITaxon:122586
+P0A0Y8	smpB	GO:0005829	SsrA-binding protein	NCBITaxon:122586
+P0A0Y8	smpB	GO:0070930	SsrA-binding protein	NCBITaxon:122586
+P0A0Y4	fbpA	GO:0006810	Major ferric iron-binding protein	NCBITaxon:122586
+P0A0U9	penA	GO:0005887	Probable peptidoglycan D,D-transpeptidase PenA	NCBITaxon:122586
+P0A0U9	penA	GO:0071555	Probable peptidoglycan D,D-transpeptidase PenA	NCBITaxon:122586
+P0A0U9	penA	GO:0008658	Probable peptidoglycan D,D-transpeptidase PenA	NCBITaxon:122586
+P0A0U7	adk	GO:0004550	Adenylate kinase	NCBITaxon:122586
+P0A0U7	adk	GO:0005737	Adenylate kinase	NCBITaxon:122586
+P0A0U7	adk	GO:0009123	Adenylate kinase	NCBITaxon:122586
+P0A0U7	adk	GO:0006163	Adenylate kinase	NCBITaxon:122586
+P0A0U7	adk	GO:0009132	Adenylate kinase	NCBITaxon:122586
+P0A0U7	adk	GO:0004017	Adenylate kinase	NCBITaxon:122586
+P0A0U7	adk	GO:0005829	Adenylate kinase	NCBITaxon:122586
+P0A0U2	ihfB	GO:0003677	Integration host factor subunit beta	NCBITaxon:122586
+P0A0U2	ihfB	GO:0005829	Integration host factor subunit beta	NCBITaxon:122586
+Q9JXI5	gmhB	GO:0000287	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	NCBITaxon:122586
+Q9JXI5	gmhB	GO:0008270	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	NCBITaxon:122586
+Q9JXI5	gmhB	GO:0009103	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	NCBITaxon:122586
+Q9JXI5	gmhB	GO:0034200	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0000976	HTH lysR-type domain-containing protein	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0001217	HTH lysR-type domain-containing protein	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0032993	HTH lysR-type domain-containing protein	NCBITaxon:122586
+Q9K1H8	NMB0173	GO:0045892	HTH lysR-type domain-containing protein	NCBITaxon:122586
+Q9K1C3	nuoA	GO:0071281	NADH-quinone oxidoreductase subunit A	NCBITaxon:122586
+Q9K197	bioH	GO:0009102	Pimeloyl-[acyl-carrier protein] methyl ester esterase	NCBITaxon:122586
+Q9K197	bioH	GO:0052689	Pimeloyl-[acyl-carrier protein] methyl ester esterase	NCBITaxon:122586
+Q9K0U9	tbp1	GO:0005515	Transferrin-binding protein 1	NCBITaxon:122586
+Q9K151	fabI	GO:0004318	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	NCBITaxon:122586
+Q9K151	fabI	GO:0030497	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	NCBITaxon:122586
+Q9K151	fabI	GO:0042802	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	NCBITaxon:122586
+Q9K0N4	dnaK	GO:0002020	Chaperone protein DnaK	NCBITaxon:122586
+Q9K0N4	dnaK	GO:0031240	Chaperone protein DnaK	NCBITaxon:122586
+P0A0S8	fur	GO:0000976	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0000976	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0001216	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0001217	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0001217	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0006355	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0006355	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0032993	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0032993	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0045892	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0045892	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0045892	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0045893	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0071281	Ferric uptake regulation protein	NCBITaxon:122586
+P0A0S8	fur	GO:0071281	Ferric uptake regulation protein	NCBITaxon:122586
+Q9JXV5	cbbA	GO:0004332	Fructose-1,6-bisphosphate aldolase	NCBITaxon:122586
+Q9JXV5	cbbA	GO:0005737	Fructose-1,6-bisphosphate aldolase	NCBITaxon:122586
+Q9JXV5	cbbA	GO:0005975	Fructose-1,6-bisphosphate aldolase	NCBITaxon:122586
+Q9JXV5	cbbA	GO:0006116	Fructose-1,6-bisphosphate aldolase	NCBITaxon:122586
+Q9JXV5	cbbA	GO:0009986	Fructose-1,6-bisphosphate aldolase	NCBITaxon:122586
+Q9JXV5	cbbA	GO:0019867	Fructose-1,6-bisphosphate aldolase	NCBITaxon:122586
+Q9JXV5	cbbA	GO:0044651	Fructose-1,6-bisphosphate aldolase	NCBITaxon:122586
+Q9JZ53	eno	GO:0002020	Enolase	NCBITaxon:122586
+Q9JZ53	eno	GO:0031240	Enolase	NCBITaxon:122586
+Q9JYE2	norB	GO:0071281	Nitric oxide reductase	NCBITaxon:122586
+Q9JYE1	aniA	GO:0071281	Copper-containing nitrite reductase	NCBITaxon:122586
+Q9JXV4	NMB1870	GO:0005515	Lipoprot_C domain-containing protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:0045892	Ferric uptake regulation protein	NCBITaxon:122586
+Q9JZ70	NMB1266	GO:0045893	Ferric uptake regulation protein	NCBITaxon:122586
+Q7DDK4	NMB0946	GO:0002020	Glutaredoxin domain-containing protein	NCBITaxon:122586
+Q7DDK4	NMB0946	GO:0031240	Glutaredoxin domain-containing protein	NCBITaxon:122586
+Q7DDR9	NMB0255	GO:0005524	Protein adenylyltransferase NmFic	NCBITaxon:122586
+Q7DDR9	NMB0255	GO:0018117	Protein adenylyltransferase NmFic	NCBITaxon:122586
+Q7DDR9	NMB0255	GO:0018117	Protein adenylyltransferase NmFic	NCBITaxon:122586
+Q7DDR9	NMB0255	GO:0042803	Protein adenylyltransferase NmFic	NCBITaxon:122586
+Q7DDR9	NMB0255	GO:0070733	Protein adenylyltransferase NmFic	NCBITaxon:122586
+Q7DDR9	NMB0255	GO:0070733	Protein adenylyltransferase NmFic	NCBITaxon:122586
+Q9K0V0	tbpB	GO:0005515	Transferrin-binding protein 2	NCBITaxon:122586
+Q9K0V0	tbpB	GO:0071281	Transferrin-binding protein 2	NCBITaxon:122586
+P55294	rfbB1	GO:0008460	dTDP-glucose 4,6-dehydratase	NCBITaxon:122586
+P55294	rfbB1	GO:0009103	dTDP-glucose 4,6-dehydratase	NCBITaxon:122586
+P55294	rfbB1	GO:0045226	dTDP-glucose 4,6-dehydratase	NCBITaxon:122586
+Q9K0K4	trmD	GO:0005829	tRNA (guanine-N(1)-)-methyltransferase	NCBITaxon:122586
+Q9K0K4	trmD	GO:0002939	tRNA (guanine-N(1)-)-methyltransferase	NCBITaxon:122586
+Q9K0K4	trmD	GO:0052906	tRNA (guanine-N(1)-)-methyltransferase	NCBITaxon:122586
+Q9K0P6	hemC	GO:0004418	Porphobilinogen deaminase	NCBITaxon:122586
+Q9K0P6	hemC	GO:0005737	Porphobilinogen deaminase	NCBITaxon:122586
+Q9K0P6	hemC	GO:0006783	Porphobilinogen deaminase	NCBITaxon:122586
+Q9K0U3	speA	GO:0008792	Biosynthetic arginine decarboxylase	NCBITaxon:122586
+Q9K0U3	speA	GO:0033388	Biosynthetic arginine decarboxylase	NCBITaxon:122586
+Q9K1D5	glnE	GO:0005829	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme	NCBITaxon:122586
+Q9K1D5	glnE	GO:0008882	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme	NCBITaxon:122586
+Q9K1D5	glnE	GO:0000820	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme	NCBITaxon:122586
+Q9K1J5	NMB0123	GO:0005737	Ferredoxin, 4Fe-4S bacterial type	NCBITaxon:122586
+Q9K0B1	bamD	GO:0051205	Outer membrane protein assembly factor BamD	NCBITaxon:122586
+Q9K0B1	bamD	GO:1990063	Outer membrane protein assembly factor BamD	NCBITaxon:122586
+Q9K0B5	trpB	GO:0005737	Tryptophan synthase beta chain	NCBITaxon:122586
+Q9K0B5	trpB	GO:0000162	Tryptophan synthase beta chain	NCBITaxon:122586
+Q9K0D6	kdsB	GO:0008690	3-deoxy-manno-octulosonate cytidylyltransferase	NCBITaxon:122586
+Q9K0D6	kdsB	GO:0005829	3-deoxy-manno-octulosonate cytidylyltransferase	NCBITaxon:122586
+Q9JXZ8	ribD	GO:0008835	Riboflavin biosynthesis protein RibD	NCBITaxon:122586
+Q9JZ53	eno	GO:0004634	Enolase	NCBITaxon:122586
+Q9JZ53	eno	GO:0006096	Enolase	NCBITaxon:122586
+Q9JZ53	eno	GO:0032889	Enolase	NCBITaxon:122586
+Q9JZ53	eno	GO:0000015	Enolase	NCBITaxon:122586
+Q9JY13	NMB1792	GO:0000160	Sensor histidine kinase	NCBITaxon:122586
+Q9JY13	NMB1792	GO:0005886	Sensor histidine kinase	NCBITaxon:122586
+P55044	mutM	GO:0019104	Formamidopyrimidine-DNA glycosylase	NCBITaxon:122586
+P55044	mutM	GO:0003906	Formamidopyrimidine-DNA glycosylase	NCBITaxon:122586
+P55044	mutM	GO:0034039	Formamidopyrimidine-DNA glycosylase	NCBITaxon:122586
+P55044	mutM	GO:0006285	Formamidopyrimidine-DNA glycosylase	NCBITaxon:122586
+P55044	mutM	GO:0006284	Formamidopyrimidine-DNA glycosylase	NCBITaxon:122586
+Q9K181	dinG	GO:0006281	ATP-dependent DNA helicase DinG	NCBITaxon:122586
+Q9K181	dinG	GO:0009432	ATP-dependent DNA helicase DinG	NCBITaxon:122586
+Q9K181	dinG	GO:0032508	ATP-dependent DNA helicase DinG	NCBITaxon:122586
+Q9K181	dinG	GO:0003678	ATP-dependent DNA helicase DinG	NCBITaxon:122586
+Q9K181	dinG	GO:0051539	ATP-dependent DNA helicase DinG	NCBITaxon:122586
+Q9K181	dinG	GO:0033677	ATP-dependent DNA helicase DinG	NCBITaxon:122586
+Q7DDU3	NMB0033	GO:0005887	Putative membrane-bound lytic murein transglycosylase A	NCBITaxon:122586
+Q7DDU3	NMB0033	GO:0009253	Putative membrane-bound lytic murein transglycosylase A	NCBITaxon:122586
+Q7DDU3	NMB0033	GO:0008933	Putative membrane-bound lytic murein transglycosylase A	NCBITaxon:122586
+Q7DDU0	siaC	GO:0047444	Polysialic acid capsule biosynthesis protein SiaC	NCBITaxon:122586
+Q7DDU0	siaC	GO:0070085	Polysialic acid capsule biosynthesis protein SiaC	NCBITaxon:122586
+Q7DDT4	rplP	GO:0022625	50S ribosomal protein L16	NCBITaxon:122586
+Q7DDT4	rplP	GO:0019843	50S ribosomal protein L16	NCBITaxon:122586
+Q7DDT4	rplP	GO:0003735	50S ribosomal protein L16	NCBITaxon:122586
+Q7DDT3	rpsQ	GO:0003735	30S ribosomal protein S17	NCBITaxon:122586
+Q7DDT3	rpsQ	GO:0022627	30S ribosomal protein S17	NCBITaxon:122586
+Q7DDT2	rplN	GO:0003735	50S ribosomal protein L14	NCBITaxon:122586
+Q7DDT2	rplN	GO:0070180	50S ribosomal protein L14	NCBITaxon:122586
+Q7DDT2	rplN	GO:0022625	50S ribosomal protein L14	NCBITaxon:122586
+Q7DDT0	rplR	GO:0022625	50S ribosomal protein L18	NCBITaxon:122586
+Q7DDT0	rplR	GO:0008097	50S ribosomal protein L18	NCBITaxon:122586
+Q7DDS9	rpmD	GO:0022625	50S ribosomal protein L30	NCBITaxon:122586
+Q7DDS8	secY	GO:0005048	Protein translocase subunit SecY	NCBITaxon:122586
+Q7DDS8	secY	GO:0008320	Protein translocase subunit SecY	NCBITaxon:122586
+Q7DDS8	secY	GO:0006616	Protein translocase subunit SecY	NCBITaxon:122586
+Q7DDS8	secY	GO:0005887	Protein translocase subunit SecY	NCBITaxon:122586
+Q7DDS8	secY	GO:0031522	Protein translocase subunit SecY	NCBITaxon:122586
+Q7DDS7	minD	GO:0005524	Septum site-determining protein MinD	NCBITaxon:122586
+Q7DDS7	minD	GO:0009898	Septum site-determining protein MinD	NCBITaxon:122586
+Q7DDS7	minD	GO:0005829	Septum site-determining protein MinD	NCBITaxon:122586
+Q7DDS7	minD	GO:0016887	Septum site-determining protein MinD	NCBITaxon:122586
+Q7DDS7	minD	GO:0051782	Septum site-determining protein MinD	NCBITaxon:122586
+Q7DDS6	NMB0194	GO:0005886	Putative amino acid symporter	NCBITaxon:122586
+Q7DDS5	kat	GO:0004096	Catalase	NCBITaxon:122586
+Q7DDS5	kat	GO:0042744	Catalase	NCBITaxon:122586
+Q7DDS5	kat	GO:0042542	Catalase	NCBITaxon:122586
+Q7DDS5	kat	GO:0005737	Catalase	NCBITaxon:122586
+Q7DDS5	kat	GO:0020037	Catalase	NCBITaxon:122586
+Q7DDS1	nuoI	GO:0003954	NADH-quinone oxidoreductase subunit I	NCBITaxon:122586
+Q7DDS1	nuoI	GO:0009060	NADH-quinone oxidoreductase subunit I	NCBITaxon:122586
+Q7DDS1	nuoI	GO:0045272	NADH-quinone oxidoreductase subunit I	NCBITaxon:122586
+Q7DDS0	nuoK	GO:0030964	NADH-quinone oxidoreductase subunit K	NCBITaxon:122586
+Q7DDS0	nuoK	GO:0008137	NADH-quinone oxidoreductase subunit K	NCBITaxon:122586
+Q7DDS0	nuoK	GO:0045272	NADH-quinone oxidoreductase subunit K	NCBITaxon:122586
+Q7DDR8	NMB0291	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q7DDR7	NMB0293	GO:0009279	Putative TonB-dependent receptor	NCBITaxon:122586
+Q7DDR7	NMB0293	GO:0015344	Putative TonB-dependent receptor	NCBITaxon:122586
+Q7DDR4	rplU	GO:0003735	50S ribosomal protein L21	NCBITaxon:122586
+Q7DDR3	ispB	GO:0004659	Octaprenyl-diphosphate synthase	NCBITaxon:122586
+Q7DDR3	ispB	GO:0008299	Octaprenyl-diphosphate synthase	NCBITaxon:122586
+Q7DDR1	pilG	GO:0015628	Pilus assembly protein PilG	NCBITaxon:122586
+Q7DDR1	pilG	GO:0005886	Pilus assembly protein PilG	NCBITaxon:122586
+Q7DDQ9	lptA	GO:0017089	Lipopolysaccharide export system protein LptA	NCBITaxon:122586
+Q7DDQ9	lptA	GO:0030288	Lipopolysaccharide export system protein LptA	NCBITaxon:122586
+Q7DDQ9	lptA	GO:0015920	Lipopolysaccharide export system protein LptA	NCBITaxon:122586
+Q7DDQ9	lptA	GO:0009279	Lipopolysaccharide export system protein LptA	NCBITaxon:122586
+Q7DDQ8	NMB0378	GO:0035435	Phosphate transporter	NCBITaxon:122586
+Q7DDQ8	NMB0378	GO:0005315	Phosphate transporter	NCBITaxon:122586
+Q7DDQ8	NMB0378	GO:0005887	Phosphate transporter	NCBITaxon:122586
+Q7DDQ7	NMB0380	GO:0005829	Transcriptional regulator, Crp/Fnr family	NCBITaxon:122586
+Q7DDQ7	NMB0380	GO:0003700	Transcriptional regulator, Crp/Fnr family	NCBITaxon:122586
+Q7DDQ5	putP	GO:0005298	Sodium/proline symporter	NCBITaxon:122586
+Q7DDQ5	putP	GO:0035524	Sodium/proline symporter	NCBITaxon:122586
+Q7DDQ3	pprC	GO:0004108	Citrate synthase	NCBITaxon:122586
+Q7DDQ3	pprC	GO:0019679	Citrate synthase	NCBITaxon:122586
+Q7DDQ3	pprC	GO:0006099	Citrate synthase	NCBITaxon:122586
+Q7DDQ3	pprC	GO:0050440	Citrate synthase	NCBITaxon:122586
+Q7DDQ3	pprC	GO:0005975	Citrate synthase	NCBITaxon:122586
+Q7DDP7	NMB0479	GO:0032008	Uncharacterized protein	NCBITaxon:122586
+Q7DDP7	NMB0479	GO:0071230	Uncharacterized protein	NCBITaxon:122586
+Q7DDN3	NMB0543	GO:0015129	L-lactate permease	NCBITaxon:122586
+Q7DDN3	NMB0543	GO:0005886	L-lactate permease	NCBITaxon:122586
+Q7DDN3	NMB0543	GO:0015295	L-lactate permease	NCBITaxon:122586
+Q7DDN0	cysE	GO:0005829	Serine acetyltransferase	NCBITaxon:122586
+Q7DDN0	cysE	GO:0009001	Serine acetyltransferase	NCBITaxon:122586
+Q7DDM6	NMB0595	GO:0000976	DNA-binding response regulator	NCBITaxon:122586
+Q7DDM6	NMB0595	GO:0000156	DNA-binding response regulator	NCBITaxon:122586
+Q7DDM6	NMB0595	GO:0001216	DNA-binding response regulator	NCBITaxon:122586
+Q7DDM6	NMB0595	GO:0005829	DNA-binding response regulator	NCBITaxon:122586
+Q7DDM6	NMB0595	GO:0032993	DNA-binding response regulator	NCBITaxon:122586
+Q7DDM5	secF	GO:0015031	Protein-export membrane protein SecF	NCBITaxon:122586
+Q7DDM4	rpsO	GO:0022627	30S ribosomal protein S15	NCBITaxon:122586
+Q7DDM0	NMB0674	GO:0005829	UPF0434 protein NMB0674	NCBITaxon:122586
+Q7DDL6	NMB0752	GO:0051537	Putative bacterioferritin-associated ferredoxin	NCBITaxon:122586
+Q7DDL5	cysK	GO:0005737	Cysteine synthase	NCBITaxon:122586
+Q7DDL5	cysK	GO:0030170	Cysteine synthase	NCBITaxon:122586
+Q7DDL5	cysK	GO:0080146	Cysteine synthase	NCBITaxon:122586
+Q7DDL2	rlmE	GO:0008173	Ribosomal RNA large subunit methyltransferase E	NCBITaxon:122586
+Q7DDL2	rlmE	GO:0008650	Ribosomal RNA large subunit methyltransferase E	NCBITaxon:122586
+Q7DDL2	rlmE	GO:0001510	Ribosomal RNA large subunit methyltransferase E	NCBITaxon:122586
+Q7DDK5	NMB0930	GO:0042906	Xanthine/uracil permease family protein	NCBITaxon:122586
+Q7DDK5	NMB0930	GO:0042907	Xanthine/uracil permease family protein	NCBITaxon:122586
+Q7DDK5	NMB0930	GO:0005887	Xanthine/uracil permease family protein	NCBITaxon:122586
+Q7DDK4	NMB0946	GO:0008379	Peroxiredoxin 2 family protein/glutaredoxin	NCBITaxon:122586
+Q7DDK4	NMB0946	GO:0045454	Peroxiredoxin 2 family protein/glutaredoxin	NCBITaxon:122586
+Q7DDK4	NMB0946	GO:0005737	Peroxiredoxin 2 family protein/glutaredoxin	NCBITaxon:122586
+Q7DDK4	NMB0946	GO:0042744	Peroxiredoxin 2 family protein/glutaredoxin	NCBITaxon:122586
+Q7DDK4	NMB0946	GO:0034599	Peroxiredoxin 2 family protein/glutaredoxin	NCBITaxon:122586
+Q7DDK3	sdhC	GO:0005886	Succinate dehydrogenase, cytochrome b556 subunit	NCBITaxon:122586
+Q7DDK2	sdhB	GO:0022904	Succinate dehydrogenase iron-sulfur subunit	NCBITaxon:122586
+Q7DDK2	sdhB	GO:0009060	Succinate dehydrogenase iron-sulfur subunit	NCBITaxon:122586
+Q7DDJ9	sucA	GO:0045252	2-oxoglutarate dehydrogenase, E1 component	NCBITaxon:122586
+Q7DDJ9	sucA	GO:0004591	2-oxoglutarate dehydrogenase, E1 component	NCBITaxon:122586
+Q7DDJ9	sucA	GO:0005829	2-oxoglutarate dehydrogenase, E1 component	NCBITaxon:122586
+Q7DDJ9	sucA	GO:0006099	2-oxoglutarate dehydrogenase, E1 component	NCBITaxon:122586
+Q7DDJ1	NMB0993	GO:0043448	Rubredoxin	NCBITaxon:122586
+Q7DDJ1	NMB0993	GO:0009055	Rubredoxin	NCBITaxon:122586
+Q7DDI7	fpr-1	GO:0034599	Ferredoxin--NADP reductase	NCBITaxon:122586
+Q7DDI7	fpr-1	GO:0042167	Ferredoxin--NADP reductase	NCBITaxon:122586
+Q7DDI6	NMB1049	GO:0000976	Putative transcriptional regulator	NCBITaxon:122586
+Q7DDI6	NMB1049	GO:0006355	Putative transcriptional regulator	NCBITaxon:122586
+Q7DDG6	NMB1137	GO:0005829	Uncharacterized protein	NCBITaxon:122586
+Q7DDG6	NMB1137	GO:0016226	Uncharacterized protein	NCBITaxon:122586
+Q7DDG6	NMB1137	GO:0008198	Uncharacterized protein	NCBITaxon:122586
+Q7DDD9	NMB1204	GO:0006355	Transcriptional regulator	NCBITaxon:122586
+Q7DDD9	NMB1204	GO:0003700	Transcriptional regulator	NCBITaxon:122586
+Q7DDD6	metM	GO:0004412	Homoserine dehydrogenase	NCBITaxon:122586
+Q7DDD6	metM	GO:0009088	Homoserine dehydrogenase	NCBITaxon:122586
+Q7DDC8	NMB1304	GO:0046294	S-(hydroxymethyl)glutathione dehydrogenase	NCBITaxon:122586
+Q7DDC8	NMB1304	GO:0004024	S-(hydroxymethyl)glutathione dehydrogenase	NCBITaxon:122586
+Q7DDC8	NMB1304	GO:0051903	S-(hydroxymethyl)glutathione dehydrogenase	NCBITaxon:122586
+Q7DDC8	NMB1304	GO:0008270	S-(hydroxymethyl)glutathione dehydrogenase	NCBITaxon:122586
+Q7DDC8	NMB1304	GO:0005829	S-(hydroxymethyl)glutathione dehydrogenase	NCBITaxon:122586
+Q7DDC7	NMB1306	GO:0016887	Uncharacterized protein	NCBITaxon:122586
+Q7DDC7	NMB1306	GO:0005737	Uncharacterized protein	NCBITaxon:122586
+Q7DDC4	lldD	GO:0005886	L-lactate dehydrogenase	NCBITaxon:122586
+Q7DDC4	lldD	GO:0004459	L-lactate dehydrogenase	NCBITaxon:122586
+Q7DDC4	lldD	GO:0019516	L-lactate dehydrogenase	NCBITaxon:122586
+Q7DDC3	NMB1389	GO:0006355	RpiR/YebK/YfhH family protein	NCBITaxon:122586
+Q7DDC3	NMB1389	GO:0003700	RpiR/YebK/YfhH family protein	NCBITaxon:122586
+Q7DDB4	NMB1509	GO:0005886	Amino acid ABC transporter, permease protein	NCBITaxon:122586
+Q7DDB4	NMB1509	GO:0006865	Amino acid ABC transporter, permease protein	NCBITaxon:122586
+Q7DDB3	NMB1510	GO:0005737	Thermonuclease family protein	NCBITaxon:122586
+Q7DDB3	NMB1510	GO:0004518	Thermonuclease family protein	NCBITaxon:122586
+Q7DDA0	ilvH	GO:0009097	Acetolactate synthase III, small subunit	NCBITaxon:122586
+Q7DDA0	ilvH	GO:0003984	Acetolactate synthase III, small subunit	NCBITaxon:122586
+Q7DDA0	ilvH	GO:0005829	Acetolactate synthase III, small subunit	NCBITaxon:122586
+Q7DDA0	ilvH	GO:0009099	Acetolactate synthase III, small subunit	NCBITaxon:122586
+Q7DD94	NMB1638	GO:0005886	YhbX/YhjW/YijP/YjdB family protein	NCBITaxon:122586
+Q7DD94	NMB1638	GO:0009244	YhbX/YhjW/YijP/YjdB family protein	NCBITaxon:122586
+Q7DD94	NMB1638	GO:0016776	YhbX/YhjW/YijP/YjdB family protein	NCBITaxon:122586
+Q7DD92	NMB1674	GO:0004622	GDSL lipase family protein	NCBITaxon:122586
+Q7DD91	NMB1713	GO:0004803	Transposase, IS30 family	NCBITaxon:122586
+Q7DD91	NMB1713	GO:0032196	Transposase, IS30 family	NCBITaxon:122586
+Q7DD90	fixN	GO:0004129	Cytochrome c oxidase, subunit I	NCBITaxon:122586
+Q7DD90	fixN	GO:0009060	Cytochrome c oxidase, subunit I	NCBITaxon:122586
+Q7DD90	fixN	GO:0015990	Cytochrome c oxidase, subunit I	NCBITaxon:122586
+Q7DD90	fixN	GO:0022904	Cytochrome c oxidase, subunit I	NCBITaxon:122586
+Q7DD89	NMB1732	GO:0005385	Putative transporter	NCBITaxon:122586
+Q7DD89	NMB1732	GO:0071577	Putative transporter	NCBITaxon:122586
+Q7DD89	NMB1732	GO:0005886	Putative transporter	NCBITaxon:122586
+Q7DD87	NMB1737	GO:1990281	Putative secretion protein	NCBITaxon:122586
+Q7DD87	NMB1737	GO:0015288	Putative secretion protein	NCBITaxon:122586
+Q7DD87	NMB1737	GO:0015562	Putative secretion protein	NCBITaxon:122586
+Q7DD80	NMB1794	GO:0098656	Citrate transporter	NCBITaxon:122586
+Q7DD80	NMB1794	GO:0016021	Citrate transporter	NCBITaxon:122586
+Q7DD76	pglB	GO:0016780	Pilin glycosylation protein PglB	NCBITaxon:122586
+Q7DD75	pglC	GO:0008483	Pilin glycosylation protein PglC	NCBITaxon:122586
+Q7DD75	pglC	GO:0030170	Pilin glycosylation protein PglC	NCBITaxon:122586
+Q7DD75	pglC	GO:0000271	Pilin glycosylation protein PglC	NCBITaxon:122586
+Q7DD72	NMB1836	GO:0016020	Putative lipopolysaccharide biosynthesis protein WbpC	NCBITaxon:122586
+Q7DD72	NMB1836	GO:0009103	Putative lipopolysaccharide biosynthesis protein WbpC	NCBITaxon:122586
+Q7DD72	NMB1836	GO:0033692	Putative lipopolysaccharide biosynthesis protein WbpC	NCBITaxon:122586
+Q7DD71	ychF	GO:0005737	Ribosome-binding ATPase YchF	NCBITaxon:122586
+Q7DD71	ychF	GO:0016887	Ribosome-binding ATPase YchF	NCBITaxon:122586
+Q7DD70	NMB1843	GO:0006355	Transcriptional regulator, MarR family	NCBITaxon:122586
+Q7DD70	NMB1843	GO:0006950	Transcriptional regulator, MarR family	NCBITaxon:122586
+Q7DD70	NMB1843	GO:0000976	Transcriptional regulator, MarR family	NCBITaxon:122586
+Q7DD68	secG	GO:0005886	Protein-export membrane protein SecG	NCBITaxon:122586
+Q7DD68	secG	GO:0065002	Protein-export membrane protein SecG	NCBITaxon:122586
+Q7DD68	secG	GO:0043952	Protein-export membrane protein SecG	NCBITaxon:122586
+Q7DD66	atpF	GO:0045263	ATP synthase subunit b	NCBITaxon:122586
+Q7DD65	atpE	GO:0046933	ATP synthase subunit c	NCBITaxon:122586
+Q7DD65	atpE	GO:0015986	ATP synthase subunit c	NCBITaxon:122586
+Q7DD65	atpE	GO:0045263	ATP synthase subunit c	NCBITaxon:122586
+Q7DD64	atpB	GO:0045263	ATP synthase subunit a	NCBITaxon:122586
+Q7DD64	atpB	GO:0005887	ATP synthase subunit a	NCBITaxon:122586
+Q7DD64	atpB	GO:0046933	ATP synthase subunit a	NCBITaxon:122586
+Q7DD64	atpB	GO:0042777	ATP synthase subunit a	NCBITaxon:122586
+Q7DD60	NMB1964	GO:0005548	Uncharacterized protein	NCBITaxon:122586
+Q7DD60	NMB1964	GO:0005543	Uncharacterized protein	NCBITaxon:122586
+Q7DD54	rsfS	GO:0043023	Ribosomal silencing factor RsfS	NCBITaxon:122586
+Q7DD54	rsfS	GO:0090071	Ribosomal silencing factor RsfS	NCBITaxon:122586
+Q7DD54	rsfS	GO:0017148	Ribosomal silencing factor RsfS	NCBITaxon:122586
+Q7DD52	gntK	GO:0046316	Gluconokinase	NCBITaxon:122586
+Q7DD52	gntK	GO:0046177	Gluconokinase	NCBITaxon:122586
+Q7DD50	petA	GO:0008121	Ubiquinol-cytochrome c reductase iron-sulfur subunit	NCBITaxon:122586
+Q7DD50	petA	GO:0016491	Ubiquinol-cytochrome c reductase iron-sulfur subunit	NCBITaxon:122586
+Q7DD49	rplM	GO:0017148	50S ribosomal protein L13	NCBITaxon:122586
+Q7DD49	rplM	GO:0003729	50S ribosomal protein L13	NCBITaxon:122586
+Q7DD49	rplM	GO:0022625	50S ribosomal protein L13	NCBITaxon:122586
+Q7DD49	rplM	GO:0005840	50S ribosomal protein L13	NCBITaxon:122586
+Q7DD49	rplM	GO:0003735	50S ribosomal protein L13	NCBITaxon:122586
+Q7DD47	exoA	GO:0003906	Exodeoxyribonuclease	NCBITaxon:122586
+Q7DD47	exoA	GO:0006284	Exodeoxyribonuclease	NCBITaxon:122586
+Q7DD47	exoA	GO:0004528	Exodeoxyribonuclease	NCBITaxon:122586
+Q7DD47	exoA	GO:0008311	Exodeoxyribonuclease	NCBITaxon:122586
+P67616	NMB2021	GO:0034599	Probable Fe(2+)-trafficking protein	NCBITaxon:122586
+P67616	NMB2021	GO:0005829	Probable Fe(2+)-trafficking protein	NCBITaxon:122586
+P67217	rimP	GO:0000028	Ribosome maturation factor RimP	NCBITaxon:122586
+P67217	rimP	GO:0005829	Ribosome maturation factor RimP	NCBITaxon:122586
+P67217	rimP	GO:0006412	Ribosome maturation factor RimP	NCBITaxon:122586
+Q06379	lbpA	GO:0031230	Lactoferrin-binding protein A	NCBITaxon:122586
+Q06379	lbpA	GO:0044718	Lactoferrin-binding protein A	NCBITaxon:122586
+Q06379	lbpA	GO:0015344	Lactoferrin-binding protein A	NCBITaxon:122586
+P32015	ctrC	GO:0015920	Capsule polysaccharide export inner-membrane protein CtrC	NCBITaxon:122586
+P32014	ctrB	GO:0005886	Capsule polysaccharide export inner-membrane protein CtrB	NCBITaxon:122586
+P32014	ctrB	GO:0004713	Capsule polysaccharide export inner-membrane protein CtrB	NCBITaxon:122586
+P63969	dnaJ	GO:0005737	Chaperone protein DnaJ	NCBITaxon:122586
+P63969	dnaJ	GO:0042026	Chaperone protein DnaJ	NCBITaxon:122586
+P63969	dnaJ	GO:0051082	Chaperone protein DnaJ	NCBITaxon:122586
+P63969	dnaJ	GO:0051085	Chaperone protein DnaJ	NCBITaxon:122586
+P63916	def	GO:0031365	Peptide deformylase	NCBITaxon:122586
+P63916	def	GO:0043686	Peptide deformylase	NCBITaxon:122586
+P63916	def	GO:0018206	Peptide deformylase	NCBITaxon:122586
+P63916	def	GO:0042586	Peptide deformylase	NCBITaxon:122586
+P63700	bfrB	GO:0006880	Putative bacterioferritin B	NCBITaxon:122586
+P63700	bfrB	GO:0020037	Putative bacterioferritin B	NCBITaxon:122586
+P63700	bfrB	GO:0005506	Putative bacterioferritin B	NCBITaxon:122586
+P63700	bfrB	GO:0005829	Putative bacterioferritin B	NCBITaxon:122586
+P63700	bfrB	GO:0004322	Putative bacterioferritin B	NCBITaxon:122586
+P65235	prs	GO:0006164	Ribose-phosphate pyrophosphokinase	NCBITaxon:122586
+P65235	prs	GO:0004749	Ribose-phosphate pyrophosphokinase	NCBITaxon:122586
+P65235	prs	GO:0006015	Ribose-phosphate pyrophosphokinase	NCBITaxon:122586
+P65235	prs	GO:0002189	Ribose-phosphate pyrophosphokinase	NCBITaxon:122586
+P65235	prs	GO:0005737	Ribose-phosphate pyrophosphokinase	NCBITaxon:122586
+P65196	NMB0342	GO:0005887	Probable intracellular septation protein A	NCBITaxon:122586
+P65138	infC	GO:0043022	Translation initiation factor IF-3	NCBITaxon:122586
+P65138	infC	GO:0003743	Translation initiation factor IF-3	NCBITaxon:122586
+P65138	infC	GO:0005829	Translation initiation factor IF-3	NCBITaxon:122586
+P65138	infC	GO:0032790	Translation initiation factor IF-3	NCBITaxon:122586
+P65113	infA	GO:0005829	Translation initiation factor IF-1	NCBITaxon:122586
+P65113	infA	GO:0043022	Translation initiation factor IF-1	NCBITaxon:122586
+P42385	groL	GO:0051082	60 kDa chaperonin	NCBITaxon:122586
+P42385	groL	GO:0042026	60 kDa chaperonin	NCBITaxon:122586
+P42385	groL	GO:0006457	60 kDa chaperonin	NCBITaxon:122586
+P42385	groL	GO:0005524	60 kDa chaperonin	NCBITaxon:122586
+P42385	groL	GO:0051085	60 kDa chaperonin	NCBITaxon:122586
+P42385	groL	GO:1990220	60 kDa chaperonin	NCBITaxon:122586
+P42385	groL	GO:0009408	60 kDa chaperonin	NCBITaxon:122586
+Q7DD59	NMB1965	GO:0005548	Uncharacterized protein	NCBITaxon:122586
+Q7DD59	NMB1965	GO:0015914	Uncharacterized protein	NCBITaxon:122586
+Q7DD59	NMB1965	GO:0005886	Uncharacterized protein	NCBITaxon:122586
+Q7DDR9	NMB0255	GO:0051302	Protein adenylyltransferase NmFic	NCBITaxon:122586

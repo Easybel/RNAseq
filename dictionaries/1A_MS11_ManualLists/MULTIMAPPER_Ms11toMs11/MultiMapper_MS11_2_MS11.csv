@@ -1,0 +1,119 @@
+locustag_in_Query	startQuery	endeQuery	LfracQuery	otherHits	otherHitsNum	type_in_Query	GN_in_Query	product_in_Query	maxHitLfracQuery
+NGFG_02260	1	450	1		3	gene	NGFG_02260	transposase	1
+NGFG_02264	1	297	1		3	gene	NGFG_02264	hypothetical protein	1
+NGFG_02265	1	456	1		5	gene	NGFG_02265	hypothetical protein	1
+NGFG_02267	1	450	1		3	gene	NGFG_02267	transposase	1
+NGFG_02268	1	144	1		2	gene	NGFG_02268	hypothetical protein	0.514
+NGFG_02269	1	654	1		2	gene	NGFG_02269	transposase	1
+NGFG_02276	1	681	1		4	gene	NGFG_02276	hypothetical protein	1
+NGFG_02277	1	297	1		6	gene	NGFG_02277	hypothetical protein	1
+NGFG_02285	1	216	1		1	gene	NGFG_02285	phage protein	1
+NGFG_02286	1	492	1		1	gene	NGFG_02286	phage protein	1
+NGFG_02287	1	183	1		2	gene	NGFG_02287	phage protein	1
+NGFG_02288	1	687	1		2	gene	NGFG_02288	phage protein	1
+NGFG_02289	1	162	1		1	gene	NGFG_02289	phage protein	1
+NGFG_00622	1	276	1		1	gene	NGFG_00622	phage protein	1
+NGFG_00623	1	333	1		1	gene	NGFG_00623	phage protein	1
+NGFG_02292	1	228	1		2	gene	NGFG_02292	phage protein	1
+NGFG_02294	1	1065	1		1	gene	NGFG_02294	phage protein	1
+NGFG_02296	1	456	1		2	gene	NGFG_02296	phage protein	0.95
+NGFG_02297	1	150	1		2	gene	NGFG_02297	hypothetical protein	1
+NGFG_02298	1	282	1		2	gene	NGFG_02298	hypothetical protein	1
+NGFG_02299	1	381	1		1	gene	NGFG_02299	phage protein	1
+NGFG_02303	1	654	1		3	gene	NGFG_02303	transposase	1
+NGFG_02305	1	450	1		5	gene	NGFG_02305	transposase	1
+NGFG_02309	1	654	1		2	gene	NGFG_02309	transposase	1
+NGFG_02313	1	654	1		5	gene	NGFG_02313	transposase	1
+NGFG_02314	1	456	1		5	gene	NGFG_02314	hypothetical protein	1
+NGFG_02315	1	297	1		4	gene	NGFG_02315	hypothetical protein	1
+NGFG_01015	1	786	1		6	gene	NGFG_01015	hypothetical protein	0.426
+NGFG_02320	1	408	1		1	gene	NGFG_02320	hypothetical protein	0.64
+NGFG_02321	1	342	1		1	gene	NGFG_02321	hypothetical protein	0.763
+NGFG_00780	1	171	1		2	gene	NGFG_00780	hypothetical protein	1
+NGFG_02334	1	351	1		4	gene	NGFG_02334	transposase	0.672
+NGFG_02335	1	297	1		2	gene	NGFG_02335	hypothetical protein	1
+NGFG_02341	1	186	1		2	gene	NGFG_02341	hypothetical protein	1
+NGFG_02217	1	963	1		1	gene	NGFG_02217	adhesin mafA	1
+NGFG_00672	1	1530	1		1	gene	NGFG_00672	MafB family adhesin protein	0.718
+NGFG_02350	1	186	1		1	gene	NGFG_02350	hypothetical protein	1
+NGFG_02355	1	282	1		2	gene	NGFG_02355	hypothetical protein	1
+NGFG_02245	1	150	1		2	gene	NGFG_02245	hypothetical protein	1
+NGFG_02356	1	498	1		1	gene	NGFG_02356	phage protein	1
+NGFG_02357	1	495	1		2	gene	NGFG_02357	phage protein	1
+NGFG_02359	1	468	1		1	gene	NGFG_02359	hypothetical protein	1
+NGFG_02189	1	228	1		1	gene	NGFG_02189	phage protein	1
+NGFG_02364	1	333	1		1	gene	NGFG_02364	phage protein	1
+NGFG_02367	1	687	1		2	gene	NGFG_02367	phage protein	1
+NGFG_02368	1	183	1		2	gene	NGFG_02368	phage protein	1
+NGFG_02232	1	297	1		2	gene	NGFG_02232	phage protein	1
+NGFG_02231	1	216	1		1	gene	NGFG_02231	phage protein	1
+NGFG_02373	1	861	1		2	gene	NGFG_02373	hypothetical protein	1
+NGFG_02374	1	360	1		3	gene	NGFG_02374	phage protein	1
+NGFG_02375	1	438	1		3	gene	NGFG_02375	hypothetical protein	1
+NGFG_02376	1	609	1		3	gene	NGFG_02376	phage protein	1
+NGFG_02073	1	1866	1		1	gene	NGFG_02073	TspB-like protein	1
+NGFG_02074	1	318	1		2	gene	NGFG_02074	hypothetical protein	1
+NGFG_02075	1	279	1		2	gene	NGFG_02075	hypothetical protein	1
+NGFG_02378	1	654	1		2	gene	NGFG_02378	transposase	1
+NGFG_02379	1	963	1		2	gene	NGFG_02379	hypothetical protein	1
+NGFG_02380	1	360	1		3	gene	NGFG_02380	phage protein	1
+NGFG_02381	1	1029	1		3	gene	NGFG_02381	phage protein	1
+NGFG_02382	1	291	1		3	gene	NGFG_02382	phage protein	1
+NGFG_02383	1	795	1		4	gene	NGFG_02383	TspB3 protein	1
+NGFG_02384	1	567	1		2	gene	NGFG_02384	cell-surface protein	1
+NGFG_02385	1	318	1		2	gene	NGFG_02385	hypothetical protein	1
+NGFG_02386	1	279	1		2	gene	NGFG_02386	hypothetical protein	1
+NGFG_02389	1	1347	1		1	gene	NGFG_02389	replication initiation factor	1
+NGFG_02391	1	300	1		3	gene	NGFG_02391	comEA protein	1
+NGFG_02392	1	654	1		3	gene	NGFG_02392	transposase	1
+NGFG_02393	1	963	1		1	gene	NGFG_02393	hypothetical protein	1
+NGFG_02394	1	450	1		4	gene	NGFG_02394	transposase	1
+NGFG_02395	1	654	1		5	gene	NGFG_02395	transposase	1
+NGFG_02397	1	654	1		1	gene	NGFG_02397	transposase	1
+NGFG_02398	1	963	1		2	gene	NGFG_02398	hypothetical protein	1
+NGFG_02399	1	360	1		3	gene	NGFG_02399	phage protein	1
+NGFG_02400	1	1086	1		3	gene	NGFG_02400	phage protein	1
+NGFG_02401	1	291	1		3	gene	NGFG_02401	phage protein	1
+NGFG_02402	1	1569	1		1	gene	NGFG_02402	TspB-like protein	1
+NGFG_02403	1	318	1		2	gene	NGFG_02403	hypothetical protein	1
+NGFG_02404	1	279	1		2	gene	NGFG_02404	hypothetical protein	1
+NGFG_02409	1	300	1		3	gene	NGFG_02409	comEA protein	1
+NGFG_02410	1	666	1		1	gene	NGFG_02410	transposase	1
+NGFG_02411	1	456	1		5	gene	NGFG_02411	hypothetical protein	1
+NGFG_02412	1	297	1		2	gene	NGFG_02412	hypothetical protein	1
+NGFG_02419	1	1818	1		1	gene	NGFG_02419	MafB family adhesin protein	0.562
+NGFG_02424	1	456	1		5	gene	NGFG_02424	hypothetical protein	1
+NGFG_02425	1	297	1		4	gene	NGFG_02425	hypothetical protein	1
+NGFG_02237	1	297	1		1	gene	NGFG_02237	opacity protein	1
+NGFG_02436	1	336	1		1	gene	NGFG_02436	hypothetical protein	1
+NGFG_02437	1	450	1		4	gene	NGFG_02437	transposase	1
+NGFG_01350	1	1455	1		1	gene	NGFG_01350	MafB family adhesin protein	0.702
+NGFG_02445	1	813	1		1	gene	NGFG_02445	phage protein	1
+NGFG_02446	1	492	1		1	gene	NGFG_02446	phage protein	1
+NGFG_02206	1	183	1		2	gene	NGFG_02206	phage protein	1
+NGFG_02207	1	687	1		2	gene	NGFG_02207	phage protein	1
+NGFG_02208	1	162	1		1	gene	NGFG_02208	phage protein	1
+NGFG_01320	1	276	1		1	gene	NGFG_01320	phage protein	1
+NGFG_00632	1	264	1		1	gene	NGFG_00632	phage protein	0.591
+NGFG_02243	1	495	1		2	gene	NGFG_02243	phage protein	1
+NGFG_02447	1	498	1		1	gene	NGFG_02447	phage protein	1
+NGFG_02448	1	150	1		2	gene	NGFG_02448	phage protein	1
+NGFG_02449	1	588	1		1	gene	NGFG_02449	phage protein	1
+NGFG_02450	1	963	1		2	gene	NGFG_02450	hypothetical protein	1
+NGFG_02239	1	360	1		3	gene	NGFG_02239	phage protein	1
+NGFG_02070	1	1086	1		3	gene	NGFG_02070	phage protein	1
+NGFG_02452	1	228	1		4	gene	NGFG_02452	hypothetical protein	1
+NGFG_02455	1	945	1		1	gene	NGFG_02455	transposase	1
+NGFG_02458	1	300	1		3	gene	NGFG_02458	comEA protein	1
+NGFG_02459	1	207	1		1	gene	NGFG_02459	hypothetical protein	1
+NGFG_02069	1	963	1		1	gene	NGFG_02069	hypothetical protein	1
+NGFG_02462	1	186	1		1	gene	NGFG_02462	hypothetical protein	1
+NGFG_01816	1	450	1		1	gene	NGFG_01816	transposase	1
+NGFG_02471	1	300	1		3	gene	NGFG_02471	comEA protein	1
+NGFG_02472	1	282	1		1	gene	NGFG_02472	hypothetical protein	1
+NGFG_01915	1	1497	1		1	gene	NGFG_01915	MafB family adhesin protein	0.742
+NGFG_02478	1	1566	1		2	gene	NGFG_02478	MafB family adhesin protein	0.68
+NGFG_02219	1	963	1		1	gene	NGFG_02219	adhesin mafA	1
+NGFG_00001	1	945	1		1	gene	NGFG_00001	pilin invertase/transposase	1
+NGFG_02486	1	1314	1		2	gene	NGFG_02486	TspB protein	0.772
+NGFG_02488	1	654	1		1	gene	NGFG_02488	transposase	1

@@ -1,0 +1,2244 @@
+seqName	start	ende	direction	type1	type2	Name	locus_tag	product
+CP003909.1	101	1657	+	CDS	gene	NGFG_00137	NGFG_00137	chromosomal replication initiator protein dnaA
+CP003909.1	1737	2840	+	CDS	gene	NGFG_00138	NGFG_00138	DNA polymerase III%2C beta subunit
+CP003909.1	2989	5046	-	CDS	gene	NGFG_00139	NGFG_00139	polyphosphate kinase
+CP003909.1	5215	5658	-	CDS	gene	NGFG_00140	NGFG_00140	hypothetical protein
+CP003909.1	5665	6181	-	NA	pseudogene	NGFG_00141	NGFG_00141	
+CP003909.1	6442	9078	+	CDS	gene	NGFG_00143	NGFG_00143	leucyl-tRNA synthetase
+CP003909.1	9307	10099	+	NA	pseudogene	NGFG_00144	NGFG_00144	
+CP003909.1	10229	11028	+	NA	pseudogene	NGFG_00146	NGFG_00146	
+CP003909.1	11033	11488	+	CDS	gene	NGFG_00147	NGFG_00147	hypothetical protein
+CP003909.1	12362	12673	-	CDS	gene	NGFG_00149	NGFG_00149	transcriptional regulator
+CP003909.1	12670	13037	-	NA	pseudogene	NGFG_00150	NGFG_00150	
+CP003909.1	13927	14012	-	exon	tRNA	NGFG_06000	NGFG_06000	tRNA-Leu
+CP003909.1	14026	14376	-	CDS	gene	NGFG_00152	NGFG_00152	preprotein translocase%2C SecG subunit
+CP003909.1	14383	15156	-	CDS	gene	NGFG_00153	NGFG_00153	triosephosphate isomerase
+CP003909.1	15339	15842	+	CDS	gene	NGFG_00154	NGFG_00154	GAF protein
+CP003909.1	15945	16601	+	CDS	gene	NGFG_00155	NGFG_00155	protein-L-isoaspartate O-methyltransferase
+CP003909.1	16724	17005	+	CDS	gene	NGFG_00156	NGFG_00156	thiosulfate sulfurtransferase
+CP003909.1	17268	19445	-	CDS	gene	NGFG_00157	NGFG_00157	TonB-dependent siderophore receptor
+CP003909.1	19708	20031	-	CDS	gene	NGFG_00158	NGFG_00158	hypothetical protein
+CP003909.1	20064	21035	-	CDS	gene	NGFG_00159	NGFG_00159	iron chelate ABC transporter%2C periplasmic iron chelate-binding protein
+CP003909.1	21271	22227	+	CDS	gene	NGFG_00160	NGFG_00160	AraC family transcriptional regulator
+CP003909.1	22340	24355	-	CDS	gene	NGFG_00161	NGFG_00161	prolyl oligopeptidase
+CP003909.1	24451	25761	-	CDS	gene	NGFG_00162	NGFG_00162	amino-acid acetyltransferase
+CP003909.1	25758	26186	-	CDS	gene	NGFG_00163	NGFG_00163	hypothetical protein
+CP003909.1	26260	26901	-	CDS	gene	NGFG_00164	NGFG_00164	orotate phosphoribosyltransferase
+CP003909.1	26963	27700	-	CDS	gene	NGFG_00165	NGFG_00165	uracil-DNA glycosylase%2C family 4
+CP003909.1	27694	28134	-	CDS	gene	NGFG_00166	NGFG_00166	ribosomal-protein-alanine acetyltransferase
+CP003909.1	28131	28808	-	CDS	gene	NGFG_00167	NGFG_00167	glycoprotease
+CP003909.1	28947	29787	-	NA	pseudogene	NGFG_00168	NGFG_00168	
+CP003909.1	29944	31008	-	CDS	gene	NGFG_00169	NGFG_00169	fructose-bisphosphate aldolase
+CP003909.1	31202	32119	+	CDS	gene	NGFG_00170	NGFG_00170	tyrosine recombinase xerC
+CP003909.1	32204	34117	+	CDS	gene	NGFG_00171	NGFG_00171	1-deoxy-D-xylulose-5-phosphate synthase
+CP003909.1	34364	35692	-	CDS	gene	NGFG_00172	NGFG_00172	(Dimethylallyl)adenosine tRNA methylthiotransferase miaB
+CP003909.1	35895	36062	+	CDS	gene	NGFG_02254	NGFG_02254	hypothetical protein
+CP003909.1	36017	36412	+	CDS	gene	NGFG_02255	NGFG_02255	hypothetical protein
+CP003909.1	36476	37756	+	CDS	gene	NGFG_00174	NGFG_00174	glutamate-1-semialdehyde 2%2C1-aminomutase
+CP003909.1	37890	38971	-	NA	pseudogene	NGFG_02256	NGFG_02256	
+CP003909.1	39054	39617	-	CDS	gene	NGFG_00175	NGFG_00175	oligoribonuclease
+CP003909.1	39635	40522	-	CDS	gene	NGFG_00176	NGFG_00176	ribosomal protein L11 methyltransferase
+CP003909.1	40626	41987	-	CDS	gene	NGFG_00177	NGFG_00177	biotin carboxylase
+CP003909.1	42099	42473	-	CDS	gene	NGFG_00178	NGFG_00178	acetyl-CoA carboxylase%2C biotin carboxyl carrier protein
+CP003909.1	42861	43901	+	CDS	gene	NGFG_00180	NGFG_00180	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+CP003909.1	44102	47317	-	CDS	gene	NGFG_00181	NGFG_00181	carbamoyl-phosphate synthase large chain
+CP003909.1	47324	47872	-	CDS	gene	NGFG_00182	NGFG_00182	hypothetical protein
+CP003909.1	47875	48438	-	CDS	gene	NGFG_00183	NGFG_00183	hypothetical protein
+CP003909.1	49619	50008	-	CDS	gene	NGFG_00184	NGFG_00184	DNA (Cytosine-5-)-methyltransferase
+CP003909.1	50266	50550	-	CDS	gene	NGFG_00186	NGFG_00186	glyoxalase
+CP003909.1	50604	51737	-	CDS	gene	NGFG_00187	NGFG_00187	carbamoyl-phosphate synthase small chain
+CP003909.1	53354	56507	-	NA	pseudogene	NGFG_00188	NGFG_00188	
+CP003909.1	56642	56827	-	CDS	gene	NGFG_02257	NGFG_02257	hypothetical protein
+CP003909.1	57946	59025	-	CDS	gene	NGFG_00189	NGFG_00189	chromosome partitioning ATPase
+CP003909.1	59244	59319	+	exon	tRNA	NGFG_06001	NGFG_06001	tRNA-Lys
+CP003909.1	59399	59908	+	CDS	gene	NGFG_00190	NGFG_00190	thioredoxin
+CP003909.1	60249	60689	+	CDS	gene	NGFG_00192	NGFG_00192	homoprotocatechuate degradation operon regulator%2C HpaR
+CP003909.1	60804	61304	+	CDS	gene	NGFG_00193	NGFG_00193	4-hydroxyphenylacetate 3-monooxygenase%2C reductase component
+CP003909.1	61320	62015	+	CDS	gene	NGFG_00194	NGFG_00194	sugar-phosphate transferase
+CP003909.1	62069	62479	-	CDS	gene	NGFG_00195	NGFG_00195	membrane protein
+CP003909.1	62654	64330	+	CDS	gene	NGFG_00196	NGFG_00196	formate-tetrahydrofolate ligase
+CP003909.1	64444	65535	+	CDS	gene	NGFG_00197	NGFG_00197	GTP-binding protein YchF
+CP003909.1	65809	67683	+	CDS	gene	NGFG_00199	NGFG_00199	lipopolysaccharide biosynthesis protein WbpC
+CP003909.1	67745	69040	+	CDS	gene	NGFG_00200	NGFG_00200	tyrosyl-tRNA synthetase
+CP003909.1	69386	70072	-	CDS	gene	NGFG_02258	NGFG_02258	opacity protein
+CP003909.1	70588	71508	+	CDS	gene	NGFG_00203	NGFG_00203	riboflavin biosynthesis protein RibF
+CP003909.1	71650	74439	+	CDS	gene	NGFG_00204	NGFG_00204	isoleucyl-tRNA synthetase
+CP003909.1	74859	75542	-	CDS	gene	NGFG_02259	NGFG_02259	opacity protein
+CP003909.1	76633	77127	+	CDS	gene	NGFG_00207	NGFG_00207	lipoprotein signal peptidase
+CP003909.1	77157	78125	+	CDS	gene	NGFG_00208	NGFG_00208	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+CP003909.1	78226	78675	+	CDS	gene	NGFG_02260	NGFG_02260	transposase
+CP003909.1	78881	79540	-	CDS	gene	NGFG_00209	NGFG_00209	phosphoglycolate phosphatase
+CP003909.1	79700	80404	+	NA	pseudogene	NGFG_02261	NGFG_02261	
+CP003909.1	80474	81405	+	NA	pseudogene	NGFG_00213	NGFG_00213	
+CP003909.1	82057	85491	-	CDS	gene	NGFG_00214	NGFG_00214	DNA polymerase III subunit alpha
+CP003909.1	86024	86257	+	CDS	gene	NGFG_00217	NGFG_00217	ribosome-associated protein
+CP003909.1	86235	86438	+	CDS	gene	NGFG_00218	NGFG_00218	hypothetical protein
+CP003909.1	86733	87569	+	CDS	gene	NGFG_00219	NGFG_00219	PHP domain protein
+CP003909.1	87621	88913	-	CDS	gene	NGFG_00220	NGFG_00220	valine-pyruvate aminotransferase
+CP003909.1	88969	90879	-	CDS	gene	NGFG_00221	NGFG_00221	pilin glycosylation protein PglD
+CP003909.1	90927	92132	-	CDS	gene	NGFG_00222	NGFG_00222	pilin glycosylation protein PglC
+CP003909.1	92233	93474	-	CDS	gene	NGFG_00223	NGFG_00223	pilin glycosylation protein PglB
+CP003909.1	93642	95063	-	CDS	gene	NGFG_00224	NGFG_00224	lipopolysaccharide biosynthesis translocase
+CP003909.1	95258	96367	-	CDS	gene	NGFG_00225	NGFG_00225	riboflavin biosynthesis protein RibD
+CP003909.1	96399	96863	-	CDS	gene	NGFG_00226	NGFG_00226	transcriptional repressor NrdR
+CP003909.1	96892	97734	-	CDS	gene	NGFG_00227	NGFG_00227	glutamine amidotransferase
+CP003909.1	98473	99552	-	CDS	gene	NGFG_00230	NGFG_00230	3-dehydroquinate synthase
+CP003909.1	99632	100144	-	CDS	gene	NGFG_00231	NGFG_00231	shikimate kinase
+CP003909.1	101092	103233	-	CDS	gene	NGFG_00232	NGFG_00232	type IV pilus biogenesis and competence protein pilQ
+CP003909.1	103252	103797	-	CDS	gene	NGFG_00233	NGFG_00233	type IV pilus assembly protein PilP
+CP003909.1	103815	104462	-	CDS	gene	NGFG_00234	NGFG_00234	type IV pilus assembly protein PilO
+CP003909.1	104463	105062	-	CDS	gene	NGFG_00235	NGFG_00235	type IV pilus assembly protein PilN
+CP003909.1	105065	106180	-	CDS	gene	NGFG_00236	NGFG_00236	type IV pilus assembly protein PilM
+CP003909.1	106332	108728	+	CDS	gene	NGFG_00237	NGFG_00237	penicillin-binding protein 1A
+CP003909.1	108848	109477	-	CDS	gene	NGFG_00238	NGFG_00238	ribosome biogenesis GTP-binding protein YsxC
+CP003909.1	109684	110307	+	CDS	gene	NGFG_00239	NGFG_00239	cytochrome c
+CP003909.1	110522	112537	+	CDS	gene	NGFG_00240	NGFG_00240	cytochrome c biogenesis protein
+CP003909.1	112530	113717	+	CDS	gene	NGFG_00241	NGFG_00241	cytochrome c-type biogenesis protein CcsB
+CP003909.1	113833	114897	+	CDS	gene	NGFG_00242	NGFG_00242	glycoprotease/Kae1 family metallohydrolase
+CP003909.1	114942	115790	-	CDS	gene	NGFG_00243	NGFG_00243	lipid A biosynthesis lauroyl acyltransferase
+CP003909.1	116181	117350	+	CDS	gene	NGFG_00245	NGFG_00245	S-adenosylmethionine synthase
+CP003909.1	117415	118941	-	CDS	gene	NGFG_00246	NGFG_00246	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+CP003909.1	118989	119555	+	CDS	gene	NGFG_00247	NGFG_00247	oxidoreductase
+CP003909.1	119933	121246	+	CDS	gene	NGFG_00249	NGFG_00249	citrate transporter
+CP003909.1	121514	122143	+	CDS	gene	NGFG_00250	NGFG_00250	two-component system%2C OmpR family%2C response regulator
+CP003909.1	122156	123475	+	CDS	gene	NGFG_00251	NGFG_00251	two-component system%2C OmpR family%2C sensor kinase QseC
+CP003909.1	123510	125003	-	CDS	gene	NGFG_00252	NGFG_00252	cytoplasmic axial filament protein
+CP003909.1	125222	125479	+	CDS	gene	NGFG_00253	NGFG_00253	glutaredoxin
+CP003909.1	125500	125943	+	CDS	gene	NGFG_00254	NGFG_00254	protein-export protein secB
+CP003909.1	126029	128071	+	CDS	gene	NGFG_00255	NGFG_00255	ATP-dependent DNA helicase RecG
+CP003909.1	128665	129708	-	CDS	gene	NGFG_00256	NGFG_00256	N-acetyl-gamma-glutamyl-phosphate reductase
+CP003909.1	129705	129986	-	CDS	gene	NGFG_00257	NGFG_00257	hypothetical protein
+CP003909.1	130238	131392	+	CDS	gene	NGFG_00259	NGFG_00259	Cupin family protein
+CP003909.1	131401	131628	+	CDS	gene	NGFG_00260	NGFG_00260	hypothetical protein
+CP003909.1	132036	133310	+	CDS	gene	NGFG_00262	NGFG_00262	Colicin V secretion protein
+CP003909.1	133495	133842	+	CDS	gene	NGFG_00263	NGFG_00263	hypothetical protein
+CP003909.1	133856	134071	+	CDS	gene	NGFG_00264	NGFG_00264	hypothetical protein
+CP003909.1	134173	135414	+	NA	pseudogene	NGFG_00265	NGFG_00265	
+CP003909.1	135435	136661	-	CDS	gene	NGFG_00266	NGFG_00266	virulence factor BrkB
+CP003909.1	136760	137140	+	CDS	gene	NGFG_02262	NGFG_02262	Trp repressor binding protein
+CP003909.1	137149	137808	+	CDS	gene	NGFG_00267	NGFG_00267	queuosine biosynthesis protein QueC
+CP003909.1	137836	138351	+	CDS	gene	NGFG_00268	NGFG_00268	hypothetical protein
+CP003909.1	138439	138861	+	CDS	gene	NGFG_00269	NGFG_00269	queuosine biosynthesis protein QueD
+CP003909.1	139127	139495	+	CDS	gene	NGFG_00270	NGFG_00270	membrane protein
+CP003909.1	139492	140130	+	CDS	gene	NGFG_00271	NGFG_00271	hypothetical protein
+CP003909.1	140466	140542	-	exon	tRNA	NGFG_06002	NGFG_06002	tRNA-Pro
+CP003909.1	140767	141852	-	CDS	gene	NGFG_00272	NGFG_00272	beta-N-acetylhexosaminidase
+CP003909.1	141909	143429	-	CDS	gene	NGFG_00273	NGFG_00273	Na+:H+ antiporter
+CP003909.1	143632	145131	-	CDS	gene	NGFG_00275	NGFG_00275	peptidase Do
+CP003909.1	145269	145931	-	CDS	gene	NGFG_00276	NGFG_00276	endonuclease III
+CP003909.1	145945	146559	-	CDS	gene	NGFG_00277	NGFG_00277	membrane protein
+CP003909.1	146794	148017	+	CDS	gene	NGFG_02263	NGFG_02263	glucose/galactose transporter warning
+CP003909.1	148307	149686	+	CDS	gene	NGFG_00281	NGFG_00281	Na+/H+ antiporter NhaC
+CP003909.1	149829	150653	-	CDS	gene	NGFG_00282	NGFG_00282	magnesium and cobalt transporter
+CP003909.1	150655	151170	-	CDS	gene	NGFG_00283	NGFG_00283	rRNA maturation factor
+CP003909.1	151289	152224	+	CDS	gene	NGFG_00284	NGFG_00284	porphobilinogen deaminase
+CP003909.1	153058	153354	+	CDS	gene	NGFG_02264	NGFG_02264	hypothetical protein
+CP003909.1	153372	153827	-	CDS	gene	NGFG_02265	NGFG_02265	hypothetical protein
+CP003909.1	154135	155361	-	CDS	gene	NGFG_00286	NGFG_00286	FAD-binding protein
+CP003909.1	155552	156925	-	CDS	gene	NGFG_00287	NGFG_00287	ATP-dependent RNA helicase
+CP003909.1	157139	158143	+	CDS	gene	NGFG_00289	NGFG_00289	tRNA-dihydrouridine synthase B
+CP003909.1	158332	158571	+	CDS	gene	NGFG_00291	NGFG_00291	fis family transcriptional regulator%2C factor for inversion stimulation protein
+CP003909.1	158574	159110	+	CDS	gene	NGFG_00292	NGFG_00292	crossover junction endodeoxyribonuclease ruvC
+CP003909.1	159149	160030	+	CDS	gene	NGFG_00293	NGFG_00293	lipid A biosynthesis lauroyl acyltransferase
+CP003909.1	160935	161729	+	CDS	gene	NGFG_00295	NGFG_00295	hypothetical protein
+CP003909.1	161954	164557	+	CDS	gene	NGFG_00297	NGFG_00297	aminopeptidase N
+CP003909.1	164619	165272	+	CDS	gene	NGFG_02266	NGFG_02266	transposase
+CP003909.1	166155	166493	-	CDS	gene	NGFG_00300	NGFG_00300	hypothetical protein
+CP003909.1	166538	166915	-	CDS	gene	NGFG_00301	NGFG_00301	hypothetical protein
+CP003909.1	166973	167338	-	CDS	gene	NGFG_00302	NGFG_00302	hypothetical protein
+CP003909.1	167320	167859	-	CDS	gene	NGFG_00303	NGFG_00303	hypothetical protein
+CP003909.1	167902	168768	-	CDS	gene	NGFG_00304	NGFG_00304	hypothetical protein
+CP003909.1	168988	169902	-	CDS	gene	NGFG_00305	NGFG_00305	zinc/manganese ABC transporter substrate-binding protein
+CP003909.1	169979	170854	-	CDS	gene	NGFG_00306	NGFG_00306	zinc/manganese ABC transporter permease
+CP003909.1	170889	171644	-	CDS	gene	NGFG_00307	NGFG_00307	zinc/manganese ABC transporter ATP-binding protein
+CP003909.1	171935	172300	-	CDS	gene	NGFG_00308	NGFG_00308	50S ribosomal protein L19
+CP003909.1	172315	173064	-	CDS	gene	NGFG_00309	NGFG_00309	tRNA (guanine-N(1)-)-methyltransferase
+CP003909.1	173064	173573	-	CDS	gene	NGFG_00310	NGFG_00310	ribosome maturation factor rimM
+CP003909.1	173589	173834	-	CDS	gene	NGFG_00311	NGFG_00311	30S ribosomal protein S16
+CP003909.1	173879	176302	-	NA	pseudogene	NGFG_00312	NGFG_00312	
+CP003909.1	176420	177826	-	CDS	gene	NGFG_00313	NGFG_00313	two-component system%2C OmpR family%2C sensor kinase
+CP003909.1	177839	178516	-	CDS	gene	NGFG_00314	NGFG_00314	two-component system%2C OmpR family%2C response regulator
+CP003909.1	178592	180520	-	CDS	gene	NGFG_00316	NGFG_00316	O-antigen polymerase
+CP003909.1	180510	180863	-	CDS	gene	NGFG_00317	NGFG_00317	hypothetical protein
+CP003909.1	180872	181480	-	CDS	gene	NGFG_00318	NGFG_00318	septum formation protein Maf
+CP003909.1	181524	182294	-	CDS	gene	NGFG_00319	NGFG_00319	twin arginine-targeting protein translocase TatC
+CP003909.1	182307	182993	-	CDS	gene	NGFG_00320	NGFG_00320	twin arginine-targeting protein translocase TatB
+CP003909.1	182997	183200	-	CDS	gene	NGFG_00321	NGFG_00321	TatA/E family twin arginine-targeting protein translocase
+CP003909.1	183247	183570	-	CDS	gene	NGFG_00322	NGFG_00322	purine nucleoside phosphoramidase
+CP003909.1	183644	183967	-	CDS	gene	NGFG_00323	NGFG_00323	phosphoribosyl-ATP pyrophosphatase
+CP003909.1	184108	185172	-	CDS	gene	NGFG_00324	NGFG_00324	zinc-binding alcohol dehydrogenase
+CP003909.1	185445	185894	-	CDS	gene	NGFG_02267	NGFG_02267	transposase
+CP003909.1	186038	187156	-	CDS	gene	NGFG_00325	NGFG_00325	Histone deacetylase family protein
+CP003909.1	187287	187553	+	CDS	gene	NGFG_00326	NGFG_00326	preprotein translocase%2C YajC subunit
+CP003909.1	187764	189617	+	CDS	gene	NGFG_00327	NGFG_00327	protein-export membrane protein SecD
+CP003909.1	189621	190556	+	CDS	gene	NGFG_00328	NGFG_00328	protein-export membrane protein SecF
+CP003909.1	190761	191030	+	CDS	gene	NGFG_00329	NGFG_00329	30S ribosomal protein S15
+CP003909.1	191140	192432	+	CDS	gene	NGFG_00330	NGFG_00330	polyamine ABC transporter%2C ATP-binding protein
+CP003909.1	192448	192591	+	CDS	gene	NGFG_02268	NGFG_02268	hypothetical protein
+CP003909.1	192607	193572	+	CDS	gene	NGFG_00331	NGFG_00331	putrescine ABC transporter permease
+CP003909.1	193572	194459	+	CDS	gene	NGFG_00332	NGFG_00332	putrescine ABC transporter permease
+CP003909.1	194585	195880	+	CDS	gene	NGFG_00333	NGFG_00333	oxidoreductase
+CP003909.1	195974	197278	-	CDS	gene	NGFG_00334	NGFG_00334	ammonium transporter
+CP003909.1	197899	199158	-	CDS	gene	NGFG_00335	NGFG_00335	transcription termination factor Rho
+CP003909.1	199379	201763	-	CDS	gene	NGFG_00336	NGFG_00336	phosphoenolpyruvate synthase
+CP003909.1	202118	202771	+	CDS	gene	NGFG_02269	NGFG_02269	transposase
+CP003909.1	202897	203718	+	CDS	gene	NGFG_00337	NGFG_00337	hypothetical protein
+CP003909.1	203804	204466	-	CDS	gene	NGFG_00338	NGFG_00338	phosphoglycolate phosphatase%2C bacterial
+CP003909.1	204504	205331	-	CDS	gene	NGFG_00339	NGFG_00339	hypothetical protein
+CP003909.1	205713	206336	+	CDS	gene	NGFG_00340	NGFG_00340	outer-membrane lipoprotein carrier protein
+CP003909.1	206609	207748	+	CDS	gene	NGFG_00341	NGFG_00341	putrescine ABC transporter substrate-binding protein
+CP003909.1	207837	208917	+	NA	pseudogene	NGFG_00342	NGFG_00342	
+CP003909.1	208958	209488	+	CDS	gene	NGFG_00343	NGFG_00343	hypothetical protein
+CP003909.1	209862	211457	-	CDS	gene	NGFG_00345	NGFG_00345	peptide chain release factor 3
+CP003909.1	211564	211959	-	CDS	gene	NGFG_00346	NGFG_00346	phosphoribosyl-AMP cyclohydrolase
+CP003909.1	211990	212757	-	CDS	gene	NGFG_00347	NGFG_00347	imidazole glycerol phosphate synthase subunit hisF
+CP003909.1	212770	213507	-	CDS	gene	NGFG_00348	NGFG_00348	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+CP003909.1	213540	214178	-	CDS	gene	NGFG_00349	NGFG_00349	imidazole glycerol phosphate synthase subunit hisH
+CP003909.1	214308	215942	-	CDS	gene	NGFG_00350	NGFG_00350	phosphate acetyltransferase
+CP003909.1	215995	217053	-	CDS	gene	NGFG_00351	NGFG_00351	Fe(3+) ions import ATP-binding protein FbpC
+CP003909.1	217074	218603	-	CDS	gene	NGFG_00352	NGFG_00352	Fe(3+)-transport system permease fbpB 2
+CP003909.1	218659	219654	-	CDS	gene	NGFG_00353	NGFG_00353	major ferric iron-binding protein
+CP003909.1	220045	220386	-	CDS	gene	NGFG_00355	NGFG_00355	hypothetical protein
+CP003909.1	220444	221820	-	CDS	gene	NGFG_00356	NGFG_00356	argininosuccinate lyase
+CP003909.1	221839	222708	-	CDS	gene	NGFG_00357	NGFG_00357	UTP-glucose-1-phosphate uridylyltransferase
+CP003909.1	222736	223335	-	CDS	gene	NGFG_00358	NGFG_00358	nucleoside-triphosphatase
+CP003909.1	223328	223561	-	CDS	gene	NGFG_00359	NGFG_00359	hypothetical protein
+CP003909.1	223669	224202	-	CDS	gene	NGFG_00360	NGFG_00360	inorganic pyrophosphatase
+CP003909.1	224304	224762	-	CDS	gene	NGFG_00361	NGFG_00361	dATP pyrophosphohydrolase
+CP003909.1	224973	225049	+	exon	tRNA	NGFG_06003	NGFG_06003	tRNA-Pro
+CP003909.1	225312	227198	+	CDS	gene	NGFG_00362	NGFG_00362	MafB family adhesin protein
+CP003909.1	227229	227648	+	CDS	gene	NGFG_00363	NGFG_00363	hypothetical protein
+CP003909.1	227755	227895	+	CDS	gene	NGFG_02270	NGFG_02270	hypothetical protein
+CP003909.1	227927	228169	+	CDS	gene	NGFG_00364	NGFG_00364	hypothetical protein
+CP003909.1	228495	228830	+	CDS	gene	NGFG_00366	NGFG_00366	hypothetical protein
+CP003909.1	228925	230382	-	CDS	gene	NGFG_02271	NGFG_02271	TrkH family potassium uptake protein
+CP003909.1	230397	231227	-	CDS	gene	NGFG_02272	NGFG_02272	Bis(5'-nucleosyl)-tetraphosphatase
+CP003909.1	231304	231693	-	CDS	gene	NGFG_00368	NGFG_00368	endoribonuclease L-PSP
+CP003909.1	231840	232367	-	CDS	gene	NGFG_00369	NGFG_00369	opacity protein
+CP003909.1	232810	233985	-	CDS	gene	NGFG_00371	NGFG_00371	oxygen-independent coproporphyrinogen III oxidase
+CP003909.1	234042	236513	-	CDS	gene	NGFG_00372	NGFG_00372	DNA ligase
+CP003909.1	236647	237933	-	CDS	gene	NGFG_00373	NGFG_00373	hypothetical protein
+CP003909.1	238127	238699	-	CDS	gene	NGFG_00374	NGFG_00374	N-acetyl-anhydromuranmyl-L-alanine amidase AmpD
+CP003909.1	238783	239778	+	CDS	gene	NGFG_00375	NGFG_00375	aminodeoxychorismate lyase
+CP003909.1	239838	240458	+	CDS	gene	NGFG_00376	NGFG_00376	thymidylate kinase
+CP003909.1	240680	241960	+	CDS	gene	NGFG_00377	NGFG_00377	malate dehydrogenase
+CP003909.1	242115	242276	+	CDS	gene	NGFG_00378	NGFG_00378	hypothetical protein
+CP003909.1	242362	243393	+	CDS	gene	NGFG_00379	NGFG_00379	tetraacyldisaccharide 4'-kinase
+CP003909.1	243599	244132	+	CDS	gene	NGFG_02273	NGFG_02273	hypothetical protein
+CP003909.1	244532	245293	+	CDS	gene	NGFG_00381	NGFG_00381	3-deoxy-manno-octulosonate cytidylyltransferase
+CP003909.1	245316	245612	+	CDS	gene	NGFG_02274	NGFG_02274	hypothetical protein
+CP003909.1	245634	245831	+	CDS	gene	NGFG_00383	NGFG_00383	hypothetical protein
+CP003909.1	245988	246080	+	exon	tRNA	NGFG_06004	NGFG_06004	tRNA-Ser
+CP003909.1	246354	247139	+	CDS	gene	NGFG_00384	NGFG_00384	tryptophan synthase alpha chain
+CP003909.1	247176	248048	+	CDS	gene	NGFG_00385	NGFG_00385	acetyl-CoA carboxylase%2C carboxyl transferase%2C beta subunit
+CP003909.1	248108	248719	-	CDS	gene	NGFG_00386	NGFG_00386	hypothetical protein
+CP003909.1	248827	249051	+	CDS	gene	NGFG_00387	NGFG_00387	UPF0033 protein
+CP003909.1	249082	249468	+	CDS	gene	NGFG_02275	NGFG_02275	lipoprotein
+CP003909.1	249469	250149	-	CDS	gene	NGFG_02276	NGFG_02276	hypothetical protein
+CP003909.1	250171	250467	-	CDS	gene	NGFG_02277	NGFG_02277	hypothetical protein
+CP003909.1	250772	251806	+	CDS	gene	NGFG_00390	NGFG_00390	dihydroorotase
+CP003909.1	251885	252310	-	CDS	gene	NGFG_00391	NGFG_00391	transcription antitermination factor NusB
+CP003909.1	252388	252864	-	CDS	gene	NGFG_00392	NGFG_00392	6%2C7-dimethyl-8-ribityllumazine synthase
+CP003909.1	252911	253234	-	CDS	gene	NGFG_00393	NGFG_00393	hypothetical protein
+CP003909.1	253401	254120	+	CDS	gene	NGFG_02278	NGFG_02278	ribonuclease 3
+CP003909.1	254155	255090	+	CDS	gene	NGFG_00396	NGFG_00396	GTPase Era
+CP003909.1	255243	255485	+	CDS	gene	NGFG_02279	NGFG_02279	hypothetical protein
+CP003909.1	255448	257229	+	CDS	gene	NGFG_00398	NGFG_00398	lactoferrin binding protein B
+CP003909.1	257381	260212	+	CDS	gene	NGFG_00400	NGFG_00400	lactoferrin-binding protein A
+CP003909.1	260687	261313	-	CDS	gene	NGFG_00401	NGFG_00401	N-(5'-phosphoribosyl)anthranilate isomerase
+CP003909.1	261372	261863	-	CDS	gene	NGFG_00402	NGFG_00402	transcription elongation factor greB
+CP003909.1	261963	263507	-	CDS	gene	NGFG_00403	NGFG_00403	amidophosphoribosyltransferase
+CP003909.1	263701	264198	-	CDS	gene	NGFG_00405	NGFG_00405	colicin V production membrane protein
+CP003909.1	264191	265231	-	CDS	gene	NGFG_00406	NGFG_00406	cell division protein FtsN
+CP003909.1	265245	266519	-	CDS	gene	NGFG_00407	NGFG_00407	FolC protein
+CP003909.1	266550	266990	-	CDS	gene	NGFG_00408	NGFG_00408	transcriptional regulator FolI
+CP003909.1	266995	267354	-	CDS	gene	NGFG_00409	NGFG_00409	hypothetical protein
+CP003909.1	267427	268164	-	CDS	gene	NGFG_00410	NGFG_00410	polar amino acid ABC transporter ATP-binding protein
+CP003909.1	268197	268766	-	CDS	gene	NGFG_00411	NGFG_00411	hypothetical protein
+CP003909.1	268763	269332	-	CDS	gene	NGFG_00412	NGFG_00412	hypothetical protein
+CP003909.1	269347	270126	-	CDS	gene	NGFG_00413	NGFG_00413	ribosomal RNA small subunit methyltransferase A
+CP003909.1	270402	271031	+	CDS	gene	NGFG_00414	NGFG_00414	hypothetical protein
+CP003909.1	271114	272316	+	CDS	gene	NGFG_00415	NGFG_00415	tryptophan synthase beta chain
+CP003909.1	272392	276990	-	CDS	gene	NGFG_00416	NGFG_00416	IgA-specific serine endopeptidase autotransporter
+CP003909.1	277376	279595	+	CDS	gene	NGFG_00417	NGFG_00417	competence protein ComA
+CP003909.1	279665	280435	-	CDS	gene	NGFG_00418	NGFG_00418	competence lipoprotein ComL
+CP003909.1	280467	281591	+	CDS	gene	NGFG_00419	NGFG_00419	ribosomal large subunit pseudouridine synthase D
+CP003909.1	281718	282692	-	NA	pseudogene	NGFG_00420	NGFG_00420	
+CP003909.1	283145	283924	+	CDS	gene	NGFG_00422	NGFG_00422	hypothetical protein
+CP003909.1	283976	284455	+	CDS	gene	NGFG_00423	NGFG_00423	rare lipoprotein B
+CP003909.1	284457	285455	+	CDS	gene	NGFG_00424	NGFG_00424	DNA polymerase III%2C delta subunit
+CP003909.1	285576	285995	+	CDS	gene	NGFG_00425	NGFG_00425	hypothetical protein
+CP003909.1	286020	286586	+	CDS	gene	NGFG_00426	NGFG_00426	RDD family protein
+CP003909.1	286677	287561	-	CDS	gene	NGFG_00427	NGFG_00427	hypothetical protein
+CP003909.1	287751	288137	+	CDS	gene	NGFG_00428	NGFG_00428	UPF0114 protein
+CP003909.1	288137	288235	+	CDS	gene	NGFG_00429	NGFG_00429	hypothetical protein
+CP003909.1	288294	289157	-	CDS	gene	NGFG_00430	NGFG_00430	alternative sigma factor RpoH
+CP003909.1	289421	290959	-	CDS	gene	NGFG_00432	NGFG_00432	apolipoprotein N-acyltransferase
+CP003909.1	291029	291769	-	CDS	gene	NGFG_00433	NGFG_00433	hypothetical protein
+CP003909.1	291964	293694	+	CDS	gene	NGFG_00435	NGFG_00435	cell volume regulation potassium/proton antiporter
+CP003909.1	293691	294158	-	CDS	gene	NGFG_02280	NGFG_02280	cytochrome c
+CP003909.1	294349	295359	-	CDS	gene	NGFG_02281	NGFG_02281	ferrochelatase
+CP003909.1	295441	296556	-	CDS	gene	NGFG_00439	NGFG_00439	queuine tRNA-ribosyltransferase
+CP003909.1	296735	296811	+	exon	tRNA	NGFG_06005	NGFG_06005	tRNA-Val
+CP003909.1	296864	298777	+	CDS	gene	NGFG_00440	NGFG_00440	threonyl-tRNA synthetase
+CP003909.1	298912	299316	+	CDS	gene	NGFG_00441	NGFG_00441	translation initiation factor IF-3
+CP003909.1	299463	299660	+	CDS	gene	NGFG_00442	NGFG_00442	50S ribosomal protein L35
+CP003909.1	299673	300032	+	CDS	gene	NGFG_00443	NGFG_00443	50S ribosomal protein L20
+CP003909.1	300273	301262	+	CDS	gene	NGFG_00444	NGFG_00444	phenylalanyl-tRNA synthetase alpha chain
+CP003909.1	301279	301692	+	CDS	gene	NGFG_00445	NGFG_00445	DNA mismatch endonuclease Vsr
+CP003909.1	301631	302032	+	CDS	gene	NGFG_00446	NGFG_00446	DNA (cytosine-5-)-methyltransferase
+CP003909.1	302046	302291	+	CDS	gene	NGFG_00447	NGFG_00447	hypothetical protein
+CP003909.1	302297	303046	+	CDS	gene	NGFG_00448	NGFG_00448	restriction endonuclease
+CP003909.1	303137	305500	+	CDS	gene	NGFG_00449	NGFG_00449	phenylalanyl-tRNA synthetase beta chain
+CP003909.1	305574	305876	+	CDS	gene	NGFG_00450	NGFG_00450	integration host factor subunit alpha
+CP003909.1	305860	306168	+	CDS	gene	NGFG_00451	NGFG_00451	hypothetical protein
+CP003909.1	306344	306829	+	CDS	gene	NGFG_00452	NGFG_00452	FxsA-like membrane protein
+CP003909.1	307021	307245	+	CDS	gene	NGFG_00453	NGFG_00453	hypothetical protein
+CP003909.1	307463	308764	+	CDS	gene	NGFG_00454	NGFG_00454	adenosylmethionine-8-amino-7-oxononanoate transaminase
+CP003909.1	308761	309408	+	CDS	gene	NGFG_00455	NGFG_00455	dethiobiotin synthetase
+CP003909.1	309423	309899	+	CDS	gene	NGFG_00456	NGFG_00456	chorismate-pyruvate lyase
+CP003909.1	310420	311310	+	CDS	gene	NGFG_00458	NGFG_00458	4-hydroxybenzoate octaprenyltransferase
+CP003909.1	311495	311944	+	CDS	gene	NGFG_00459	NGFG_00459	PTS IIA-like nitrogen-regulatory protein PtsN
+CP003909.1	311948	312910	+	CDS	gene	NGFG_00460	NGFG_00460	HPr kinase/phosphorylase
+CP003909.1	312891	313745	+	CDS	gene	NGFG_00461	NGFG_00461	UPF0042 nucleotide-binding protein
+CP003909.1	313826	314767	+	CDS	gene	NGFG_00462	NGFG_00462	ribosome biogenesis GTP-binding protein YlqF
+CP003909.1	314868	315470	+	CDS	gene	NGFG_00463	NGFG_00463	segregation and condensation protein B
+CP003909.1	315654	317327	+	CDS	gene	NGFG_00464	NGFG_00464	DNA repair protein RecN
+CP003909.1	317438	317514	+	exon	tRNA	NGFG_06006	NGFG_06006	tRNA-Arg
+CP003909.1	317532	317606	+	exon	tRNA	NGFG_06007	NGFG_06007	tRNA-Glu
+CP003909.1	318191	319810	-	CDS	gene	NGFG_00466	NGFG_00466	tRNA U-34 5-methylaminomethyl-2-thiouridine biosynthesis protein MnmC domain protein
+CP003909.1	319930	320298	+	CDS	gene	NGFG_00467	NGFG_00467	hypothetical protein
+CP003909.1	320341	321078	+	CDS	gene	NGFG_00468	NGFG_00468	ubiquinone/menaquinone biosynthesis methyltransferase ubiE
+CP003909.1	321298	321777	+	CDS	gene	NGFG_00469	NGFG_00469	hypothetical protein
+CP003909.1	321904	322398	-	CDS	gene	NGFG_00470	NGFG_00470	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+CP003909.1	322408	322782	-	CDS	gene	NGFG_00471	NGFG_00471	SirB family regulatory protein
+CP003909.1	322836	323012	-	CDS	gene	NGFG_00472	NGFG_00472	hypothetical protein
+CP003909.1	323043	323363	-	CDS	gene	NGFG_00473	NGFG_00473	hypothetical protein
+CP003909.1	323487	323780	-	CDS	gene	NGFG_00474	NGFG_00474	RNA chaperone Hfq
+CP003909.1	323909	324847	-	CDS	gene	NGFG_00475	NGFG_00475	D-alanyl-D-alanine endopeptidase (penicillin-binding protein 7)
+CP003909.1	325174	325608	+	CDS	gene	NGFG_00477	NGFG_00477	bacterioferritin comigratory protein
+CP003909.1	325660	326535	+	CDS	gene	NGFG_00478	NGFG_00478	tyrosine recombinase xerD
+CP003909.1	326707	326907	+	CDS	gene	NGFG_00479	NGFG_00479	bacterioferritin-associated ferredoxin
+CP003909.1	327073	327306	+	CDS	gene	NGFG_00480	NGFG_00480	thioredoxin
+CP003909.1	327678	328541	-	CDS	gene	NGFG_00482	NGFG_00482	dTDP-4-dehydrorhamnose reductase
+CP003909.1	328734	329597	+	CDS	gene	NGFG_00483	NGFG_00483	phosphoribosylaminoimidazole-succinocarboxamide synthase
+CP003909.1	329834	331954	+	CDS	gene	NGFG_02282	NGFG_02282	polyribonucleotide nucleotidyltransferase
+CP003909.1	332027	332695	-	CDS	gene	NGFG_00486	NGFG_00486	hypothetical protein
+CP003909.1	332692	333006	-	CDS	gene	NGFG_00487	NGFG_00487	lipoprotein
+CP003909.1	333143	333994	+	CDS	gene	NGFG_00488	NGFG_00488	diaminopimelate epimerase
+CP003909.1	333991	334596	+	CDS	gene	NGFG_00489	NGFG_00489	hypothetical protein
+CP003909.1	334792	335724	+	CDS	gene	NGFG_00490	NGFG_00490	cysteine synthase
+CP003909.1	335824	336729	+	CDS	gene	NGFG_00491	NGFG_00491	amino acid metabolite efflux pump
+CP003909.1	336729	336941	+	CDS	gene	NGFG_00492	NGFG_00492	hypothetical protein
+CP003909.1	337572	338591	-	CDS	gene	NGFG_00495	NGFG_00495	signal peptidase I
+CP003909.1	338737	340530	-	CDS	gene	NGFG_00496	NGFG_00496	GTP-binding protein LepA
+CP003909.1	340672	341373	-	CDS	gene	NGFG_00497	NGFG_00497	MTA/SAH nucleosidase
+CP003909.1	341541	342671	+	CDS	gene	NGFG_00498	NGFG_00498	twitching motility protein
+CP003909.1	342705	343682	+	CDS	gene	NGFG_00499	NGFG_00499	DNA polymerase III%2C delta' subunit
+CP003909.1	343686	344036	+	CDS	gene	NGFG_00500	NGFG_00500	type IV pilus assembly protein PilZ
+CP003909.1	344041	344820	+	CDS	gene	NGFG_00501	NGFG_00501	TatD family hydrolase
+CP003909.1	344846	345061	+	CDS	gene	NGFG_00502	NGFG_00502	hypothetical protein
+CP003909.1	345162	345473	+	CDS	gene	NGFG_00503	NGFG_00503	Grx4 family monothiol glutaredoxin
+CP003909.1	345473	345589	+	CDS	gene	NGFG_02283	NGFG_02283	hypothetical protein
+CP003909.1	345579	346205	+	CDS	gene	NGFG_00504	NGFG_00504	uracil phosphoribosyltransferase
+CP003909.1	346228	346548	+	CDS	gene	NGFG_00505	NGFG_00505	hypothetical protein
+CP003909.1	346717	347364	+	CDS	gene	NGFG_00506	NGFG_00506	hypothetical protein
+CP003909.1	347388	348212	+	CDS	gene	NGFG_00507	NGFG_00507	hypothetical protein
+CP003909.1	348212	349180	+	CDS	gene	NGFG_00508	NGFG_00508	hypothetical protein
+CP003909.1	349462	349884	+	CDS	gene	NGFG_00509	NGFG_00509	hypothetical protein
+CP003909.1	349902	350666	+	CDS	gene	NGFG_00510	NGFG_00510	uroporphyrinogen-III synthase
+CP003909.1	350678	352012	+	CDS	gene	NGFG_00511	NGFG_00511	hypothetical protein
+CP003909.1	352009	353226	+	CDS	gene	NGFG_00512	NGFG_00512	heme biosynthesis-associated protein HemY
+CP003909.1	353301	354365	+	CDS	gene	NGFG_00513	NGFG_00513	uroporphyrinogen decarboxylase
+CP003909.1	354428	356317	-	CDS	gene	NGFG_00514	NGFG_00514	stress-sensitive restriction system protein
+CP003909.1	356318	357355	-	CDS	gene	NGFG_00515	NGFG_00515	restriction endonuclease
+CP003909.1	357352	358476	-	CDS	gene	NGFG_00516	NGFG_00516	DNA-cytosine methyltransferase
+CP003909.1	358491	358610	+	CDS	gene	NGFG_00517	NGFG_00517	hypothetical protein
+CP003909.1	358803	360182	+	CDS	gene	NGFG_00518	NGFG_00518	DNA repair protein RadA
+CP003909.1	360457	360936	-	CDS	gene	NGFG_00519	NGFG_00519	hypothetical protein
+CP003909.1	361061	361420	-	CDS	gene	NGFG_00520	NGFG_00520	phage shock protein E
+CP003909.1	361459	365061	-	CDS	gene	NGFG_00521	NGFG_00521	exodeoxyribonuclease V%2C beta subunit
+CP003909.1	365138	366226	-	CDS	gene	NGFG_00522	NGFG_00522	dyp-type peroxidase
+CP003909.1	366333	367157	+	CDS	gene	NGFG_00523	NGFG_00523	amino acid ABC transporter substrate-binding protein
+CP003909.1	367147	367863	+	CDS	gene	NGFG_00524	NGFG_00524	His/Glu/Gln/Arg/opine family amino ABC transporter%2C permease%2C 3-TM region
+CP003909.1	367873	368628	+	CDS	gene	NGFG_00525	NGFG_00525	amino acid ABC transporter ATP-binding protein
+CP003909.1	368684	370066	-	CDS	gene	NGFG_00526	NGFG_00526	phosphoglucomutase
+CP003909.1	370234	370743	-	CDS	gene	NGFG_00527	NGFG_00527	peptidyl-prolyl cis-trans isomerase B
+CP003909.1	370863	372482	-	CDS	gene	NGFG_00528	NGFG_00528	divalent anion:Na+ symporter (DASS) family transporter
+CP003909.1	372507	372869	-	CDS	gene	NGFG_00529	NGFG_00529	hypothetical protein
+CP003909.1	372866	373072	-	CDS	gene	NGFG_00530	NGFG_00530	hypothetical protein
+CP003909.1	373133	373711	-	CDS	gene	NGFG_00531	NGFG_00531	peptidyl-tRNA hydrolase
+CP003909.1	373764	374042	-	CDS	gene	NGFG_00532	NGFG_00532	protein rnfH
+CP003909.1	374035	374472	-	CDS	gene	NGFG_00533	NGFG_00533	hypothetical protein
+CP003909.1	374688	376655	-	CDS	gene	NGFG_00534	NGFG_00534	cell division protease FtsH
+CP003909.1	376719	377339	-	CDS	gene	NGFG_00535	NGFG_00535	ribosomal RNA large subunit methyltransferase E
+CP003909.1	377522	377731	+	CDS	gene	NGFG_00536	NGFG_00536	RNA-binding protein
+CP003909.1	377915	378916	+	CDS	gene	NGFG_00537	NGFG_00537	delta-aminolevulinic acid dehydratase
+CP003909.1	378980	380137	-	CDS	gene	NGFG_00538	NGFG_00538	cystathionine beta-lyase
+CP003909.1	380340	381113	+	CDS	gene	NGFG_00539	NGFG_00539	GTP cyclohydrolase folE2
+CP003909.1	381310	381975	+	CDS	gene	NGFG_00541	NGFG_00541	NAD(P)H-flavin oxidoreductase
+CP003909.1	382030	382788	-	CDS	gene	NGFG_00542	NGFG_00542	pseudouridine synthase
+CP003909.1	382813	383703	-	CDS	gene	NGFG_00543	NGFG_00543	inorganic polyphosphate/ATP-NAD kinase PpnK
+CP003909.1	383723	384289	-	CDS	gene	NGFG_00544	NGFG_00544	hypothetical protein
+CP003909.1	384339	385115	-	CDS	gene	NGFG_00545	NGFG_00545	hypothetical protein
+CP003909.1	385170	385814	-	CDS	gene	NGFG_00546	NGFG_00546	TetR family transcriptional regulator
+CP003909.1	385832	386872	-	CDS	gene	NGFG_00547	NGFG_00547	UDP-N-acetylenolpyruvoylglucosamine reductase
+CP003909.1	386916	388295	-	CDS	gene	NGFG_00548	NGFG_00548	MATE efflux family protein
+CP003909.1	388632	389783	+	CDS	gene	NGFG_00550	NGFG_00550	ATP phosphoribosyltransferase regulatory subunit
+CP003909.1	389888	391186	+	CDS	gene	NGFG_00551	NGFG_00551	adenylosuccinate synthetase
+CP003909.1	391422	392261	-	CDS	gene	NGFG_02284	NGFG_02284	heat shock protein HtpX
+CP003909.1	392476	393123	+	CDS	gene	NGFG_00554	NGFG_00554	adenylate kinase
+CP003909.1	393647	394387	+	CDS	gene	NGFG_00555	NGFG_00555	orotidine 5'-phosphate decarboxylase
+CP003909.1	394443	395405	+	CDS	gene	NGFG_00556	NGFG_00556	RfaE%2C domain I
+CP003909.1	395469	396473	+	CDS	gene	NGFG_00557	NGFG_00557	ADP-L-glycero-D-manno-heptose-6-epimerase
+CP003909.1	396548	398092	+	CDS	gene	NGFG_00558	NGFG_00558	type I restriction enzyme EcoprrI M protein
+CP003909.1	398208	399059	+	CDS	gene	NGFG_00559	NGFG_00559	DNA-damage-inducible protein D
+CP003909.1	399226	400423	+	NA	pseudogene	NGFG_00560	NGFG_00560	
+CP003909.1	400655	403754	+	NA	pseudogene	NGFG_00561	NGFG_00561	
+CP003909.1	403794	406085	-	CDS	gene	NGFG_00562	NGFG_00562	ATP-dependent Clp protease ATP-binding subunit ClpA
+CP003909.1	406087	406389	-	CDS	gene	NGFG_00563	NGFG_00563	ATP-dependent Clp protease adapter protein ClpS
+CP003909.1	406634	406837	+	CDS	gene	NGFG_00564	NGFG_00564	cold shock-like protein CspA
+CP003909.1	407136	408467	-	CDS	gene	NGFG_00565	NGFG_00565	PmbA protein
+CP003909.1	408621	409127	+	CDS	gene	NGFG_00566	NGFG_00566	ribosome-associated protein
+CP003909.1	409174	409905	+	CDS	gene	NGFG_00567	NGFG_00567	hypothetical protein
+CP003909.1	409957	411657	+	CDS	gene	NGFG_00568	NGFG_00568	single-stranded-DNA-specific exonuclease RecJ
+CP003909.1	412015	413373	+	CDS	gene	NGFG_00569	NGFG_00569	poly(A) polymerase
+CP003909.1	413546	413869	+	CDS	gene	NGFG_00570	NGFG_00570	hypothetical protein
+CP003909.1	413974	414927	-	CDS	gene	NGFG_00571	NGFG_00571	phosphate starvation-inducible protein PhoH
+CP003909.1	414953	415970	-	NA	pseudogene	NGFG_00572	NGFG_00572	
+CP003909.1	416292	416996	+	CDS	gene	NGFG_00574	NGFG_00574	hypothetical protein
+CP003909.1	417062	417628	-	CDS	gene	NGFG_00575	NGFG_00575	deoxycytidine triphosphate deaminase
+CP003909.1	417723	418112	-	CDS	gene	NGFG_00576	NGFG_00576	hypothetical protein
+CP003909.1	418164	419063	-	CDS	gene	NGFG_00577	NGFG_00577	recombination-associated protein rdgC
+CP003909.1	419094	420596	-	CDS	gene	NGFG_00578	NGFG_00578	GTP-binding protein EngA
+CP003909.1	420701	421328	-	NA	pseudogene	NGFG_00579	NGFG_00579	
+CP003909.1	421329	422624	-	CDS	gene	NGFG_00580	NGFG_00580	histidyl-tRNA synthetase
+CP003909.1	422752	423408	-	CDS	gene	NGFG_02233	NGFG_02233	peptidase
+CP003909.1	423464	423688	-	CDS	gene	NGFG_02234	NGFG_02234	hypothetical protein
+CP003909.1	425171	425461	-	CDS	gene	NGFG_00582	NGFG_00582	hypothetical protein
+CP003909.1	425782	426030	-	CDS	gene	NGFG_00583	NGFG_00583	hypothetical protein
+CP003909.1	426020	426562	-	CDS	gene	NGFG_00584	NGFG_00584	hypothetical protein
+CP003909.1	426726	427649	+	CDS	gene	NGFG_00585	NGFG_00585	tRNA pseudouridine32 synthase/23S rRNA pseudouridine746 synthase
+CP003909.1	427728	428369	-	CDS	gene	NGFG_00586	NGFG_00586	hypothetical protein
+CP003909.1	428424	429215	-	CDS	gene	NGFG_00587	NGFG_00587	spermidine synthase
+CP003909.1	429381	429456	+	exon	tRNA	NGFG_06008	NGFG_06008	tRNA-Thr
+CP003909.1	429598	430389	+	CDS	gene	NGFG_00588	NGFG_00588	3-methyl-2-oxobutanoate hydroxymethyltransferase
+CP003909.1	430512	431348	+	CDS	gene	NGFG_00590	NGFG_00590	pantoate-beta-alanine ligase
+CP003909.1	431675	433513	+	CDS	gene	NGFG_00591	NGFG_00591	hypothetical protein
+CP003909.1	433653	434234	+	CDS	gene	NGFG_00592	NGFG_00592	outer-membrane lipoprotein lolB
+CP003909.1	434244	435089	+	CDS	gene	NGFG_00593	NGFG_00593	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+CP003909.1	435097	435172	+	exon	tRNA	NGFG_06009	NGFG_06009	tRNA-Gln
+CP003909.1	435185	435260	+	exon	tRNA	NGFG_06010	NGFG_06010	tRNA-Gln
+CP003909.1	435428	436411	+	CDS	gene	NGFG_00594	NGFG_00594	ribose-phosphate pyrophosphokinase
+CP003909.1	436478	437050	+	CDS	gene	NGFG_00595	NGFG_00595	50S ribosomal protein L25
+CP003909.1	437176	438345	-	CDS	gene	NGFG_00596	NGFG_00596	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5/6)
+CP003909.1	438494	440020	+	CDS	gene	NGFG_00597	NGFG_00597	threonine ammonia-lyase%2C biosynthetic
+CP003909.1	440076	441152	-	CDS	gene	NGFG_00598	NGFG_00598	sulfate/thiosulfate import ATP-binding protein CysA
+CP003909.1	441293	442114	-	CDS	gene	NGFG_00599	NGFG_00599	sulfate ABC transporter%2C permease CysW
+CP003909.1	442303	443139	-	CDS	gene	NGFG_00600	NGFG_00600	sulfate ABC transporter%2C permease CysT
+CP003909.1	443320	443652	+	CDS	gene	NGFG_00601	NGFG_00601	hypothetical protein
+CP003909.1	443983	444492	+	CDS	gene	NGFG_00602	NGFG_00602	isoprenylcysteine carboxyl methyltransferase
+CP003909.1	444722	445303	-	CDS	gene	NGFG_00603	NGFG_00603	superoxide dismutase [Fe]
+CP003909.1	445467	446873	+	CDS	gene	NGFG_00605	NGFG_00605	replicative DNA helicase
+CP003909.1	447028	447690	+	CDS	gene	NGFG_00606	NGFG_00606	prepilin-type N-terminal cleavage/methylation domain-containing protein
+CP003909.1	447722	448330	+	CDS	gene	NGFG_00607	NGFG_00607	type IV pilus modification protein PilV
+CP003909.1	448327	449268	+	CDS	gene	NGFG_00608	NGFG_00608	type IV pilus assembly protein PilW
+CP003909.1	449247	449858	+	CDS	gene	NGFG_00609	NGFG_00609	type IV pilus assembly protein PilX
+CP003909.1	449845	450333	+	CDS	gene	NGFG_00610	NGFG_00610	prepilin-type N-terminal cleavage/methylation domain-containing protein
+CP003909.1	450403	450711	-	CDS	gene	NGFG_00611	NGFG_00611	branched-chain amino acid transporter
+CP003909.1	450963	451415	-	CDS	gene	NGFG_00614	NGFG_00614	AzlC-like protein
+CP003909.1	451581	452033	+	CDS	gene	NGFG_00615	NGFG_00615	dUTP pyrophosphatase
+CP003909.1	452111	453298	+	CDS	gene	NGFG_00616	NGFG_00616	succinyldiaminopimelate transaminase
+CP003909.1	453609	454388	+	CDS	gene	NGFG_00617	NGFG_00617	UPF0246 protein
+CP003909.1	454471	454561	+	exon	tRNA	NGFG_06011	NGFG_06011	tRNA-Ser
+CP003909.1	454639	454728	+	exon	tRNA	NGFG_06012	NGFG_06012	tRNA-Ser
+CP003909.1	454919	456115	+	CDS	gene	NGFG_00618	NGFG_00618	phage integrase
+CP003909.1	456471	456740	-	CDS	gene	NGFG_00619	NGFG_00619	phage protein
+CP003909.1	456935	457618	-	CDS	gene	NGFG_00620	NGFG_00620	phage protein
+CP003909.1	457629	458165	-	CDS	gene	NGFG_00621	NGFG_00621	phage protein
+CP003909.1	458276	458491	-	CDS	gene	NGFG_02285	NGFG_02285	phage protein
+CP003909.1	458543	459034	-	CDS	gene	NGFG_02286	NGFG_02286	phage protein
+CP003909.1	459031	459213	-	CDS	gene	NGFG_02287	NGFG_02287	phage protein
+CP003909.1	459353	460039	-	CDS	gene	NGFG_02288	NGFG_02288	phage protein
+CP003909.1	460108	460269	-	CDS	gene	NGFG_02289	NGFG_02289	phage protein
+CP003909.1	460266	460541	-	CDS	gene	NGFG_00622	NGFG_00622	phage protein
+CP003909.1	460694	461026	-	CDS	gene	NGFG_00623	NGFG_00623	phage protein
+CP003909.1	461441	461918	-	NA	pseudogene	NGFG_00625	NGFG_00625	
+CP003909.1	461951	462151	-	CDS	gene	NGFG_00626	NGFG_00626	phage protein
+CP003909.1	462349	462762	-	CDS	gene	NGFG_00627	NGFG_00627	phage protein
+CP003909.1	462759	463259	-	CDS	gene	NGFG_00628	NGFG_00628	phage protein
+CP003909.1	463237	463674	-	CDS	gene	NGFG_00629	NGFG_00629	phage protein
+CP003909.1	463787	464449	-	CDS	gene	NGFG_00630	NGFG_00630	phage repressor protein
+CP003909.1	464578	464808	+	CDS	gene	NGFG_00631	NGFG_00631	hypothetical protein
+CP003909.1	464888	465043	+	CDS	gene	NGFG_02290	NGFG_02290	phage protein
+CP003909.1	465020	465208	-	CDS	gene	NGFG_02291	NGFG_02291	phage protein
+CP003909.1	465382	465609	+	CDS	gene	NGFG_02292	NGFG_02292	phage protein
+CP003909.1	465606	465743	+	CDS	gene	NGFG_02293	NGFG_02293	hypothetical protein
+CP003909.1	465727	466791	+	CDS	gene	NGFG_02294	NGFG_02294	phage protein
+CP003909.1	466788	468149	+	CDS	gene	NGFG_02295	NGFG_02295	DnaB family phage replicative helicase
+CP003909.1	468487	468942	+	CDS	gene	NGFG_02296	NGFG_02296	phage protein
+CP003909.1	468966	469115	+	CDS	gene	NGFG_02297	NGFG_02297	hypothetical protein
+CP003909.1	469144	469425	+	CDS	gene	NGFG_02298	NGFG_02298	hypothetical protein
+CP003909.1	469416	469796	+	CDS	gene	NGFG_02299	NGFG_02299	phage protein
+CP003909.1	470063	470470	+	CDS	gene	NGFG_01305	NGFG_01305	phage protein
+CP003909.1	470561	471721	+	CDS	gene	NGFG_01304	NGFG_01304	hypothetical protein
+CP003909.1	472003	472872	+	CDS	gene	NGFG_01303	NGFG_01303	phage protein
+CP003909.1	473165	473614	+	CDS	gene	NGFG_01302	NGFG_01302	phage protein
+CP003909.1	473676	475097	+	CDS	gene	NGFG_01301	NGFG_01301	phage protein
+CP003909.1	475094	477241	+	CDS	gene	NGFG_01300	NGFG_01300	SPP1 gp7 family phage head morphogenesis protein
+CP003909.1	477309	478466	+	CDS	gene	NGFG_01299	NGFG_01299	phage protein
+CP003909.1	478507	480006	+	CDS	gene	NGFG_01298	NGFG_01298	phage protein
+CP003909.1	480058	480375	+	CDS	gene	NGFG_01297	NGFG_01297	phage protein
+CP003909.1	480378	480908	+	CDS	gene	NGFG_01296	NGFG_01296	phage protein
+CP003909.1	480908	481390	+	CDS	gene	NGFG_01295	NGFG_01295	phage protein
+CP003909.1	481387	481815	+	CDS	gene	NGFG_01294	NGFG_01294	phage protein
+CP003909.1	481841	482614	+	CDS	gene	NGFG_01293	NGFG_01293	phage protein
+CP003909.1	482675	483004	+	CDS	gene	NGFG_01292	NGFG_01292	phage protein
+CP003909.1	483016	483282	+	CDS	gene	NGFG_01291	NGFG_01291	phage protein
+CP003909.1	483282	483881	+	CDS	gene	NGFG_01290	NGFG_01290	phage protein
+CP003909.1	483878	484732	+	CDS	gene	NGFG_01289	NGFG_01289	phage protein
+CP003909.1	484734	485165	+	CDS	gene	NGFG_01288	NGFG_01288	hypothetical protein
+CP003909.1	485193	485639	-	CDS	gene	NGFG_01287	NGFG_01287	phage protein
+CP003909.1	485711	489855	+	NA	pseudogene	NGFG_01286	NGFG_01286	
+CP003909.1	489967	490272	+	CDS	gene	NGFG_01285	NGFG_01285	phage protein
+CP003909.1	490343	490813	+	CDS	gene	NGFG_01284	NGFG_01284	phage protein
+CP003909.1	490814	491146	+	CDS	gene	NGFG_01283	NGFG_01283	phage protein
+CP003909.1	491340	491447	+	CDS	gene	NGFG_02300	NGFG_02300	hypothetical protein
+CP003909.1	491502	491849	-	CDS	gene	NGFG_01281	NGFG_01281	plasmid toxin protein
+CP003909.1	491849	492085	-	CDS	gene	NGFG_01280	NGFG_01280	antitoxin
+CP003909.1	492292	492831	+	CDS	gene	NGFG_01279	NGFG_01279	phage protein
+CP003909.1	492832	493176	+	CDS	gene	NGFG_01278	NGFG_01278	phage protein
+CP003909.1	493115	493333	+	CDS	gene	NGFG_01277	NGFG_01277	hypothetical protein
+CP003909.1	493645	493794	+	CDS	gene	NGFG_01275	NGFG_01275	hypothetical protein
+CP003909.1	493824	496871	+	CDS	gene	NGFG_01274	NGFG_01274	phage tape measure protein
+CP003909.1	496931	497410	-	CDS	gene	NGFG_01273	NGFG_01273	phage protein
+CP003909.1	497752	498741	-	CDS	gene	NGFG_01272	NGFG_01272	phage integrase
+CP003909.1	499430	500464	+	CDS	gene	NGFG_01270	NGFG_01270	phosphoribosylformylglycinamidine cyclo-ligase
+CP003909.1	501468	502121	+	CDS	gene	NGFG_02301	NGFG_02301	transposase
+CP003909.1	502255	504282	+	CDS	gene	NGFG_01269	NGFG_01269	betaine/carnitine/choline transporter (BCCT) family transporter
+CP003909.1	504371	505924	-	CDS	gene	NGFG_01268	NGFG_01268	long-chain acyl-CoA synthetase
+CP003909.1	506175	507368	-	CDS	gene	NGFG_01266	NGFG_01266	hypothetical protein
+CP003909.1	507365	508348	-	CDS	gene	NGFG_01265	NGFG_01265	hypothetical protein
+CP003909.1	508359	509795	-	CDS	gene	NGFG_01264	NGFG_01264	polysaccharide modification protein
+CP003909.1	509924	511069	-	NA	pseudogene	NGFG_01263	NGFG_01263	
+CP003909.1	511530	511742	+	CDS	gene	NGFG_01262	NGFG_01262	mercury transport periplasmic protein
+CP003909.1	511942	513468	+	CDS	gene	NGFG_01260	NGFG_01260	hypothetical protein
+CP003909.1	513550	514647	+	CDS	gene	NGFG_01259	NGFG_01259	hypothetical protein
+CP003909.1	514689	514922	-	CDS	gene	NGFG_02302	NGFG_02302	hypothetical protein
+CP003909.1	514761	515875	+	NA	pseudogene	NGFG_01258	NGFG_01258	
+CP003909.1	515898	516455	+	CDS	gene	NGFG_01257	NGFG_01257	protein-tyrosine phosphatase
+CP003909.1	516415	517008	+	CDS	gene	NGFG_01256	NGFG_01256	fur family transcriptional regulator%2C zinc uptake regulator
+CP003909.1	516996	517922	+	CDS	gene	NGFG_01255	NGFG_01255	cobalamin biosynthesis protein CobW
+CP003909.1	517987	518544	+	CDS	gene	NGFG_01254	NGFG_01254	peptidyl-prolyl cis-trans isomerase A (cyclophilin A)
+CP003909.1	518902	520677	+	CDS	gene	NGFG_01253	NGFG_01253	adenine-specific DNA-methyltransferase
+CP003909.1	520787	523726	+	CDS	gene	NGFG_01252	NGFG_01252	type III restriction system endonuclease
+CP003909.1	523820	524779	-	CDS	gene	NGFG_01251	NGFG_01251	tRNA 2-thiocytidine biosynthesis protein TtcA
+CP003909.1	524871	525737	-	CDS	gene	NGFG_01250	NGFG_01250	tRNA-modifying protein YgfZ
+CP003909.1	525769	526131	-	CDS	gene	NGFG_01249	NGFG_01249	hypothetical protein
+CP003909.1	526206	526685	+	CDS	gene	NGFG_01248	NGFG_01248	YbaK/EbsC protein
+CP003909.1	526707	527399	+	CDS	gene	NGFG_01247	NGFG_01247	molecular chaperone DnaJ
+CP003909.1	527403	528278	+	CDS	gene	NGFG_01246	NGFG_01246	hypothetical protein
+CP003909.1	528489	531914	+	CDS	gene	NGFG_01245	NGFG_01245	hemoglobin/transferrin/lactoferrin receptor protein
+CP003909.1	532129	533112	+	CDS	gene	NGFG_01244	NGFG_01244	hypothetical protein
+CP003909.1	533383	534873	+	CDS	gene	NGFG_01243	NGFG_01243	hypothetical protein
+CP003909.1	534941	536338	-	CDS	gene	NGFG_01242	NGFG_01242	aspartate ammonia-lyase
+CP003909.1	536615	537175	-	CDS	gene	NGFG_01240	NGFG_01240	hypothetical protein
+CP003909.1	537376	538029	+	CDS	gene	NGFG_02303	NGFG_02303	transposase
+CP003909.1	538366	540448	+	NA	pseudogene	NGFG_01237	NGFG_01237	
+CP003909.1	540573	542123	+	CDS	gene	NGFG_01236	NGFG_01236	hypothetical protein
+CP003909.1	542547	544331	-	CDS	gene	NGFG_01234	NGFG_01234	dihydrolipoyl dehydrogenase
+CP003909.1	544884	546446	-	CDS	gene	NGFG_01233	NGFG_01233	dihydrolipoyllysine-residue acetyltransferase
+CP003909.1	546596	549259	-	CDS	gene	NGFG_01232	NGFG_01232	pyruvate dehydrogenase (acetyl-transferring)%2C homodimeric type
+CP003909.1	549956	551668	+	CDS	gene	NGFG_01231	NGFG_01231	prolyl-tRNA synthetase
+CP003909.1	551731	552387	+	CDS	gene	NGFG_01230	NGFG_01230	fumarylacetoacetate hydrolase
+CP003909.1	552397	552852	-	CDS	gene	NGFG_01229	NGFG_01229	YqgF family RNAse H domain-containing protein
+CP003909.1	552845	553393	-	CDS	gene	NGFG_01228	NGFG_01228	transcriptional regulator
+CP003909.1	553395	553955	-	CDS	gene	NGFG_01227	NGFG_01227	CreA protein
+CP003909.1	554281	556077	+	CDS	gene	NGFG_01225	NGFG_01225	metallopeptidase
+CP003909.1	556204	557679	+	CDS	gene	NGFG_01224	NGFG_01224	C-terminal processing peptidase
+CP003909.1	558009	560036	+	CDS	gene	NGFG_01223	NGFG_01223	UvrABC system protein B
+CP003909.1	560214	560972	-	CDS	gene	NGFG_01222	NGFG_01222	carbonic anhydrase
+CP003909.1	561381	561728	-	CDS	gene	NGFG_02304	NGFG_02304	hypothetical protein
+CP003909.1	562052	562768	-	CDS	gene	NGFG_01220	NGFG_01220	tRNA (guanine-N(7)-)-methyltransferase
+CP003909.1	562890	564325	-	NA	pseudogene	NGFG_01219	NGFG_01219	
+CP003909.1	564412	566297	-	NA	pseudogene	NGFG_01218	NGFG_01218	
+CP003909.1	566352	568529	-	CDS	gene	NGFG_01217	NGFG_01217	heavy metal translocating P-type ATPase
+CP003909.1	568668	569618	+	CDS	gene	NGFG_01216	NGFG_01216	thioredoxin-disulfide reductase
+CP003909.1	569774	570142	+	CDS	gene	NGFG_01215	NGFG_01215	30S ribosomal protein S6
+CP003909.1	570452	570682	+	CDS	gene	NGFG_01213	NGFG_01213	30S ribosomal protein S18
+CP003909.1	570699	571151	+	CDS	gene	NGFG_01212	NGFG_01212	50S ribosomal protein L9
+CP003909.1	571774	572580	-	CDS	gene	NGFG_01211	NGFG_01211	hypothetical protein
+CP003909.1	572581	573327	-	CDS	gene	NGFG_01210	NGFG_01210	CDP-diacylglycerol-serine O-phosphatidyltransferase
+CP003909.1	573909	574391	+	CDS	gene	NGFG_01208	NGFG_01208	hypothetical protein
+CP003909.1	574438	575811	-	CDS	gene	NGFG_01207	NGFG_01207	uracil-xanthine permease
+CP003909.1	575871	578309	+	CDS	gene	NGFG_01206	NGFG_01206	DNA translocase ftsK 1
+CP003909.1	578508	578957	-	CDS	gene	NGFG_02305	NGFG_02305	transposase
+CP003909.1	579182	580492	+	CDS	gene	NGFG_01205	NGFG_01205	trigger factor
+CP003909.1	580588	581202	+	CDS	gene	NGFG_01204	NGFG_01204	ATP-dependent Clp protease proteolytic subunit
+CP003909.1	581256	582521	-	CDS	gene	NGFG_01203	NGFG_01203	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+CP003909.1	582537	583298	-	CDS	gene	NGFG_01202	NGFG_01202	type IV pilus biogenesis/stability protein PilW
+CP003909.1	583301	584395	-	CDS	gene	NGFG_01201	NGFG_01201	ribosomal RNA large subunit methyltransferase N
+CP003909.1	584539	584964	-	CDS	gene	NGFG_01200	NGFG_01200	nucleoside diphosphate kinase
+CP003909.1	585022	586173	-	CDS	gene	NGFG_01199	NGFG_01199	ATPase
+CP003909.1	586703	587530	-	CDS	gene	NGFG_01198	NGFG_01198	S-formylglutathione hydrolase
+CP003909.1	587539	588676	-	NA	pseudogene	NGFG_01197	NGFG_01197	
+CP003909.1	588799	589206	+	CDS	gene	NGFG_01196	NGFG_01196	MerR family transcriptional regulator
+CP003909.1	589402	589716	-	CDS	gene	NGFG_01195	NGFG_01195	integration host factor subunit beta
+CP003909.1	589727	591412	-	CDS	gene	NGFG_01194	NGFG_01194	30S ribosomal protein S1
+CP003909.1	591565	592221	-	CDS	gene	NGFG_01193	NGFG_01193	cytidylate kinase
+CP003909.1	592454	593824	-	CDS	gene	NGFG_01192	NGFG_01192	NSS family neurotransmitter:Na+ symporter
+CP003909.1	594298	594990	-	CDS	gene	NGFG_01191	NGFG_01191	pseudouridine synthase
+CP003909.1	595058	597034	-	CDS	gene	NGFG_01190	NGFG_01190	membrane-bound lytic murein transglycosylase D
+CP003909.1	597213	597878	+	CDS	gene	NGFG_01189	NGFG_01189	hypothetical protein
+CP003909.1	597931	598758	+	CDS	gene	NGFG_01188	NGFG_01188	formamidopyrimidine-DNA glycosylase
+CP003909.1	598846	599613	+	CDS	gene	NGFG_01187	NGFG_01187	1-acyl-sn-glycerol-3-phosphate acyltransferase
+CP003909.1	599876	600187	-	CDS	gene	NGFG_01186	NGFG_01186	hypothetical protein
+CP003909.1	600718	602997	+	CDS	gene	NGFG_01185	NGFG_01185	ribonucleoside-diphosphate reductase subunit alpha
+CP003909.1	603119	603268	+	CDS	gene	NGFG_02306	NGFG_02306	hypothetical protein
+CP003909.1	603289	604443	+	CDS	gene	NGFG_01184	NGFG_01184	ribonucleoside-diphosphate reductase 1 subunit beta
+CP003909.1	604564	604854	+	CDS	gene	NGFG_01183	NGFG_01183	2Fe-2S iron-sulfur cluster binding protein
+CP003909.1	604895	605173	-	CDS	gene	NGFG_01182	NGFG_01182	cell division protein FtsB
+CP003909.1	605341	606627	-	CDS	gene	NGFG_01181	NGFG_01181	enolase
+CP003909.1	606674	607114	-	CDS	gene	NGFG_01180	NGFG_01180	hypothetical protein
+CP003909.1	607129	607971	-	CDS	gene	NGFG_01179	NGFG_01179	2-dehydro-3-deoxyphosphooctonate aldolase
+CP003909.1	607993	608376	-	CDS	gene	NGFG_01178	NGFG_01178	aspartate 1-decarboxylase
+CP003909.1	608538	608993	-	NA	pseudogene	NGFG_01177	NGFG_01177	
+CP003909.1	609066	612770	-	CDS	gene	NGFG_01176	NGFG_01176	transcription-repair coupling factor
+CP003909.1	612829	614382	+	CDS	gene	NGFG_01175	NGFG_01175	acyl-CoA dehydrogenase
+CP003909.1	614530	615621	+	CDS	gene	NGFG_01173	NGFG_01173	lytic murein transglycosylase B
+CP003909.1	615744	617750	-	CDS	gene	NGFG_01172	NGFG_01172	site-specific recombinase
+CP003909.1	617973	618626	+	CDS	gene	NGFG_02307	NGFG_02307	transposase
+CP003909.1	618845	621595	-	CDS	gene	NGFG_01171	NGFG_01171	DNA gyrase subunit A
+CP003909.1	621693	622193	-	CDS	gene	NGFG_01170	NGFG_01170	Fe-S protein assembly co-chaperone HscB
+CP003909.1	622275	622496	+	CDS	gene	NGFG_01169	NGFG_01169	alternative ribosome-rescue factor
+CP003909.1	622456	622776	-	CDS	gene	NGFG_01168	NGFG_01168	iron-sulfur cluster assembly protein IscA
+CP003909.1	622863	623249	-	CDS	gene	NGFG_01167	NGFG_01167	FeS cluster assembly scaffold protein
+CP003909.1	623262	623729	-	CDS	gene	NGFG_01166	NGFG_01166	cell filamentation protein
+CP003909.1	624067	624318	-	CDS	gene	NGFG_01165	NGFG_01165	hypothetical protein
+CP003909.1	624357	625571	-	CDS	gene	NGFG_01164	NGFG_01164	cysteine desulfurase
+CP003909.1	625600	626046	-	CDS	gene	NGFG_01163	NGFG_01163	iron-sulfur cluster assembly transcription factor IscR
+CP003909.1	626396	627568	+	CDS	gene	NGFG_01161	NGFG_01161	L-lactate dehydrogenase
+CP003909.1	627717	630491	-	CDS	gene	NGFG_01160	NGFG_01160	type III restriction enzyme
+CP003909.1	630481	632699	-	NA	pseudogene	NGFG_01159	NGFG_01159	
+CP003909.1	632916	633836	-	CDS	gene	NGFG_01158	NGFG_01158	tRNA pseudouridine synthase B
+CP003909.1	633894	634418	-	CDS	gene	NGFG_01157	NGFG_01157	hypothetical protein
+CP003909.1	634429	634800	-	CDS	gene	NGFG_01156	NGFG_01156	ribosome-binding factor A
+CP003909.1	634983	636227	+	CDS	gene	NGFG_01155	NGFG_01155	ATP-dependent Clp protease ATP-binding subunit ClpX
+CP003909.1	636334	637527	-	CDS	gene	NGFG_01154	NGFG_01154	acetylornithine aminotransferase
+CP003909.1	637931	638431	+	CDS	gene	NGFG_01153	NGFG_01153	hypothetical protein
+CP003909.1	638516	639070	+	CDS	gene	NGFG_01152	NGFG_01152	lipoprotein
+CP003909.1	639635	641023	-	CDS	gene	NGFG_01150	NGFG_01150	ATP-dependent RNA helicase
+CP003909.1	641234	642298	+	CDS	gene	NGFG_01149	NGFG_01149	23S rRNA (-C5)-methyltransferase
+CP003909.1	642350	642682	-	CDS	gene	NGFG_01148	NGFG_01148	thioredoxin
+CP003909.1	642980	643453	+	CDS	gene	NGFG_01146	NGFG_01146	hypothetical protein
+CP003909.1	643524	644315	-	CDS	gene	NGFG_01145	NGFG_01145	NAD+ synthetase
+CP003909.1	644542	645897	+	CDS	gene	NGFG_01144	NGFG_01144	exodeoxyribonuclease 7 large subunit
+CP003909.1	646397	647938	+	CDS	gene	NGFG_01143	NGFG_01143	oxalate/formate antiporter
+CP003909.1	647997	649046	-	CDS	gene	NGFG_01141	NGFG_01141	pseudouridine synthase
+CP003909.1	649267	649899	+	CDS	gene	NGFG_01139	NGFG_01139	pyridoxine/pyridoxamine 5'-phosphate oxidase
+CP003909.1	650029	651039	-	CDS	gene	NGFG_01138	NGFG_01138	CDP-4-dehydro-6-deoxyglucose reductase
+CP003909.1	651266	652696	-	CDS	gene	NGFG_01137	NGFG_01137	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+CP003909.1	652739	653671	-	CDS	gene	NGFG_01136	NGFG_01136	hypothetical protein
+CP003909.1	653668	655113	-	CDS	gene	NGFG_01135	NGFG_01135	glutamyl-tRNA(Gln) amidotransferase subunit A
+CP003909.1	655176	655466	-	CDS	gene	NGFG_01134	NGFG_01134	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+CP003909.1	655616	656269	+	CDS	gene	NGFG_01133	NGFG_01133	multiple antibiotic resistance membrane protein MarC
+CP003909.1	656274	657617	+	CDS	gene	NGFG_01132	NGFG_01132	aldehyde dehydrogenase
+CP003909.1	657666	658094	-	CDS	gene	NGFG_01131	NGFG_01131	hypothetical protein
+CP003909.1	658440	659696	-	CDS	gene	NGFG_01129	NGFG_01129	ribosomal RNA small subunit methyltransferase B
+CP003909.1	659732	660580	-	CDS	gene	NGFG_01128	NGFG_01128	hypothetical protein
+CP003909.1	660642	661457	-	CDS	gene	NGFG_01127	NGFG_01127	RNA methyltransferase%2C TrmH family%2C group 1
+CP003909.1	661701	662486	+	CDS	gene	NGFG_01125	NGFG_01125	inositol-1-monophosphatase
+CP003909.1	662604	662795	+	CDS	gene	NGFG_02308	NGFG_02308	hypothetical protein
+CP003909.1	662792	663445	+	CDS	gene	NGFG_02309	NGFG_02309	transposase
+CP003909.1	663473	664543	-	CDS	gene	NGFG_01123	NGFG_01123	3-isopropylmalate dehydrogenase
+CP003909.1	664577	665308	-	CDS	gene	NGFG_01122	NGFG_01122	type II restriction endonuclease NlaIV
+CP003909.1	665324	666595	-	CDS	gene	NGFG_01121	NGFG_01121	modification methylase NlaIV
+CP003909.1	666762	667523	-	CDS	gene	NGFG_01120	NGFG_01120	3-isopropylmalate dehydratase small subunit
+CP003909.1	667465	667719	-	CDS	gene	NGFG_01119	NGFG_01119	lipoprotein
+CP003909.1	667814	669223	-	CDS	gene	NGFG_01118	NGFG_01118	3-isopropylmalate dehydratase large subunit
+CP003909.1	669475	670824	+	CDS	gene	NGFG_01117	NGFG_01117	glutamate-cysteine ligase
+CP003909.1	670947	671624	+	CDS	gene	NGFG_01116	NGFG_01116	DNA repair protein RadC
+CP003909.1	671697	672422	+	CDS	gene	NGFG_01115	NGFG_01115	hypothetical protein
+CP003909.1	672574	673854	+	CDS	gene	NGFG_01114	NGFG_01114	hypothetical protein
+CP003909.1	673860	675038	+	CDS	gene	NGFG_01113	NGFG_01113	GTP-binding protein HflX
+CP003909.1	675035	677506	+	CDS	gene	NGFG_01112	NGFG_01112	heavy metal translocating P-type ATPase
+CP003909.1	678164	678940	-	CDS	gene	NGFG_01110	NGFG_01110	ferredoxin-NADP+ reductase
+CP003909.1	679128	679922	-	CDS	gene	NGFG_01109	NGFG_01109	hypothetical protein
+CP003909.1	679969	681378	-	CDS	gene	NGFG_01108	NGFG_01108	threonine synthase
+CP003909.1	681451	681819	-	CDS	gene	NGFG_01107	NGFG_01107	lipoprotein
+CP003909.1	682070	682366	-	CDS	gene	NGFG_01106	NGFG_01106	membrane protein
+CP003909.1	682249	682641	-	CDS	gene	NGFG_01105	NGFG_01105	membrane protein
+CP003909.1	682756	683376	-	CDS	gene	NGFG_01104	NGFG_01104	hypothetical protein
+CP003909.1	683775	684691	+	NA	pseudogene	NGFG_01102	NGFG_01102	
+CP003909.1	685231	687153	-	CDS	gene	NGFG_01100	NGFG_01100	outer membrane autotransporter barrel domain-containing protein
+CP003909.1	687110	687976	-	CDS	gene	NGFG_01099	NGFG_01099	hypothetical protein
+CP003909.1	687906	688507	-	NA	pseudogene	NGFG_01098	NGFG_01098	
+CP003909.1	688346	688882	-	CDS	gene	NGFG_01097	NGFG_01097	hypothetical protein
+CP003909.1	689153	690463	+	CDS	gene	NGFG_01096	NGFG_01096	recombination factor protein R
+CP003909.1	690562	693588	+	CDS	gene	NGFG_01095	NGFG_01095	type I restriction enzyme%2C R subunit
+CP003909.1	693638	693871	+	CDS	gene	NGFG_01094	NGFG_01094	hypothetical protein
+CP003909.1	693918	695120	+	CDS	gene	NGFG_01093	NGFG_01093	type I restriction enzyme%2C S subunit
+CP003909.1	695113	695673	+	CDS	gene	NGFG_01092	NGFG_01092	hypothetical protein
+CP003909.1	695684	696526	+	CDS	gene	NGFG_01091	NGFG_01091	hypothetical protein
+CP003909.1	696593	698194	+	NA	pseudogene	NGFG_01090	NGFG_01090	
+CP003909.1	698505	699842	-	CDS	gene	NGFG_01088	NGFG_01088	3%2C4-dihydroxy-2-butanone 4-phosphate synthase
+CP003909.1	700339	700548	-	CDS	gene	NGFG_02310	NGFG_02310	hypothetical protein
+CP003909.1	700800	701027	-	CDS	gene	NGFG_02311	NGFG_02311	hypothetical protein
+CP003909.1	700878	706759	+	NA	pseudogene	NGFG_01087	NGFG_01087	
+CP003909.1	707061	708911	+	NA	pseudogene	NGFG_01085	NGFG_01085	
+CP003909.1	709082	709330	-	CDS	gene	NGFG_01084	NGFG_01084	hypothetical protein
+CP003909.1	709340	709510	-	CDS	gene	NGFG_01083	NGFG_01083	hypothetical protein
+CP003909.1	709673	710713	-	CDS	gene	NGFG_01081	NGFG_01081	A/G-specific adenine glycosylase
+CP003909.1	710876	711916	+	CDS	gene	NGFG_01080	NGFG_01080	alcohol dehydrogenase
+CP003909.1	712511	713149	-	CDS	gene	NGFG_01078	NGFG_01078	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase
+CP003909.1	713359	715194	-	CDS	gene	NGFG_01077	NGFG_01077	phosphogluconate dehydratase
+CP003909.1	715714	717159	+	CDS	gene	NGFG_01076	NGFG_01076	glucose-6-phosphate dehydrogenase
+CP003909.1	717311	718006	+	CDS	gene	NGFG_01075	NGFG_01075	6-phosphogluconolactonase
+CP003909.1	717987	718973	+	CDS	gene	NGFG_01074	NGFG_01074	glucokinase
+CP003909.1	719022	719870	+	CDS	gene	NGFG_01073	NGFG_01073	RpiR family transcriptional regulator
+CP003909.1	720096	721742	+	CDS	gene	NGFG_01072	NGFG_01072	glucose-6-phosphate isomerase 1
+CP003909.1	721959	722972	+	CDS	gene	NGFG_01070	NGFG_01070	phage protein
+CP003909.1	723017	723157	+	CDS	gene	NGFG_01069	NGFG_01069	hypothetical protein
+CP003909.1	723262	723645	+	CDS	gene	NGFG_01068	NGFG_01068	hypothetical protein
+CP003909.1	724283	724720	-	CDS	gene	NGFG_02312	NGFG_02312	hypothetical protein
+CP003909.1	724805	725095	+	CDS	gene	NGFG_01064	NGFG_01064	proteic killer suppression protein
+CP003909.1	725092	725403	+	CDS	gene	NGFG_01063	NGFG_01063	plasmid maintenance system antidote protein
+CP003909.1	725419	725748	-	CDS	gene	NGFG_01062	NGFG_01062	phage protein
+CP003909.1	725847	727843	-	NA	pseudogene	NGFG_01061	NGFG_01061	
+CP003909.1	728138	728701	-	CDS	gene	NGFG_01060	NGFG_01060	phage tail protein I
+CP003909.1	728872	729486	-	CDS	gene	NGFG_01059	NGFG_01059	phage baseplate assembly protein
+CP003909.1	729608	729934	-	CDS	gene	NGFG_01058	NGFG_01058	phage protein
+CP003909.1	729931	730513	-	NA	pseudogene	NGFG_01057	NGFG_01057	
+CP003909.1	730616	730855	-	CDS	gene	NGFG_01056	NGFG_01056	phage protein
+CP003909.1	730883	731536	-	CDS	gene	NGFG_02313	NGFG_02313	transposase
+CP003909.1	731558	731842	-	CDS	gene	NGFG_01055	NGFG_01055	phage protein
+CP003909.1	731879	732142	-	CDS	gene	NGFG_01054	NGFG_01054	phage protein
+CP003909.1	732162	732410	-	CDS	gene	NGFG_01053	NGFG_01053	hypothetical protein
+CP003909.1	732371	733441	-	CDS	gene	NGFG_01052	NGFG_01052	phage integrase
+CP003909.1	733650	734429	-	CDS	gene	NGFG_01051	NGFG_01051	ferredoxin-NADP+ reductase
+CP003909.1	734602	735017	-	NA	pseudogene	NGFG_01049	NGFG_01049	
+CP003909.1	735329	736387	+	CDS	gene	NGFG_01048	NGFG_01048	DNA polymerase IV
+CP003909.1	736457	738528	-	NA	pseudogene	NGFG_01047	NGFG_01047	
+CP003909.1	738491	739255	-	CDS	gene	NGFG_01046	NGFG_01046	3-dehydroquinate dehydratase
+CP003909.1	739455	740501	+	CDS	gene	NGFG_01045	NGFG_01045	protein recA
+CP003909.1	741154	741489	-	CDS	gene	NGFG_01044	NGFG_01044	UPF0133 protein
+CP003909.1	741570	743693	-	CDS	gene	NGFG_01043	NGFG_01043	DNA polymerase III%2C subunit gamma and tau
+CP003909.1	743788	745763	-	NA	pseudogene	NGFG_01042	NGFG_01042	
+CP003909.1	745907	746092	+	CDS	gene	NGFG_01041	NGFG_01041	hypothetical protein
+CP003909.1	746103	746771	+	CDS	gene	NGFG_01040	NGFG_01040	O-methyltransferase
+CP003909.1	746771	747484	+	CDS	gene	NGFG_01039	NGFG_01039	hypothetical protein
+CP003909.1	747532	748017	+	CDS	gene	NGFG_01038	NGFG_01038	phosphoribosylaminoimidazole carboxylase%2C catalytic subunit
+CP003909.1	748459	748914	+	CDS	gene	NGFG_02314	NGFG_02314	hypothetical protein
+CP003909.1	748932	749228	-	CDS	gene	NGFG_02315	NGFG_02315	hypothetical protein
+CP003909.1	749939	750847	+	CDS	gene	NGFG_01037	NGFG_01037	outer membrane autotransporter barrel domain-containing protein
+CP003909.1	751003	751659	-	CDS	gene	NGFG_01036	NGFG_01036	two-component system%2C NarL family%2C nitrate/nitrite response regulator NarL
+CP003909.1	751656	753425	-	CDS	gene	NGFG_01035	NGFG_01035	two-component system%2C NarL family%2C nitrate/nitrite sensor kinase NarX
+CP003909.1	753632	754246	+	CDS	gene	NGFG_01034	NGFG_01034	molybdopterin-guanine dinucleotide biosynthesis protein A
+CP003909.1	754322	755026	+	CDS	gene	NGFG_01033	NGFG_01033	riboflavin synthase%2C alpha subunit
+CP003909.1	755034	755897	+	CDS	gene	NGFG_01032	NGFG_01032	hypothetical protein
+CP003909.1	755910	756476	-	CDS	gene	NGFG_01031	NGFG_01031	hypothetical protein
+CP003909.1	756490	757173	+	CDS	gene	NGFG_01030	NGFG_01030	ribulose-phosphate 3-epimerase
+CP003909.1	757418	758449	-	CDS	gene	NGFG_01029	NGFG_01029	Holliday junction ATP-dependent DNA helicase ruvB
+CP003909.1	758531	758839	-	CDS	gene	NGFG_01028	NGFG_01028	hypothetical protein
+CP003909.1	759257	760489	-	CDS	gene	NGFG_01027	NGFG_01027	multifunctional CCA protein
+CP003909.1	760568	762196	-	CDS	gene	NGFG_01026	NGFG_01026	ABC transporter ATP-binding protein
+CP003909.1	762346	762720	+	CDS	gene	NGFG_01025	NGFG_01025	ArsC family protein
+CP003909.1	762769	764307	+	CDS	gene	NGFG_01024	NGFG_01024	peptidyl-prolyl cis-trans isomerase D
+CP003909.1	764374	764991	+	CDS	gene	NGFG_01023	NGFG_01023	recombination protein recR
+CP003909.1	765047	765325	-	CDS	gene	NGFG_01022	NGFG_01022	hypothetical protein
+CP003909.1	765551	766798	+	CDS	gene	NGFG_01020	NGFG_01020	lipoprotein-releasing system transmembrane protein lolC
+CP003909.1	766791	767486	+	CDS	gene	NGFG_01019	NGFG_01019	lipoprotein-releasing system ATP-binding protein LolD
+CP003909.1	767553	769298	+	CDS	gene	NGFG_01018	NGFG_01018	exodeoxyribonuclease V%2C alpha subunit
+CP003909.1	769591	769956	-	CDS	gene	NGFG_01016	NGFG_01016	hypothetical protein
+CP003909.1	769985	770986	+	CDS	gene	NGFG_02316	NGFG_02316	hypothetical protein
+CP003909.1	770789	771574	-	CDS	gene	NGFG_01015	NGFG_01015	hypothetical protein
+CP003909.1	771826	774288	+	CDS	gene	NGFG_01014	NGFG_01014	ATP-dependent protease La
+CP003909.1	774470	774739	+	CDS	gene	NGFG_01012	NGFG_01012	DNA-binding protein HU-beta
+CP003909.1	774915	775349	-	CDS	gene	NGFG_01011	NGFG_01011	hypothetical protein
+CP003909.1	775342	776649	-	CDS	gene	NGFG_01010	NGFG_01010	homoserine dehydrogenase
+CP003909.1	776845	777216	+	CDS	gene	NGFG_01009	NGFG_01009	hypothetical protein
+CP003909.1	777293	779215	+	CDS	gene	NGFG_01008	NGFG_01008	ABC transporter ATP-binding protein
+CP003909.1	779688	780200	+	CDS	gene	NGFG_01006	NGFG_01006	hypothetical protein
+CP003909.1	780248	780424	+	CDS	gene	NGFG_01005	NGFG_01005	hypothetical protein
+CP003909.1	780645	781340	-	CDS	gene	NGFG_01004	NGFG_01004	TraD protein
+CP003909.1	781330	783372	-	CDS	gene	NGFG_01003	NGFG_01003	conjugative coupling factor TraD%2C PFGI-1 class
+CP003909.1	783369	785921	-	CDS	gene	NGFG_01002	NGFG_01002	conjugal transfer pilus assembly protein TraI
+CP003909.1	785918	786337	-	CDS	gene	NGFG_01001	NGFG_01001	hypothetical protein
+CP003909.1	786847	787308	+	CDS	gene	NGFG_01000	NGFG_01000	LtgX protein
+CP003909.1	787278	787799	+	CDS	gene	NGFG_00999	NGFG_00999	hypothetical protein
+CP003909.1	787855	788106	+	CDS	gene	NGFG_00998	NGFG_00998	conjugal transfer pilus assembly protein TraA
+CP003909.1	788169	788450	+	CDS	gene	NGFG_00997	NGFG_00997	type IV conjugative transfer system protein TraL
+CP003909.1	788462	789112	+	CDS	gene	NGFG_00996	NGFG_00996	type IV conjugative transfer system protein TraE
+CP003909.1	789114	789848	+	CDS	gene	NGFG_00995	NGFG_00995	type-F conjugative transfer system secretin TraK
+CP003909.1	789850	791163	+	CDS	gene	NGFG_00994	NGFG_00994	conjugal transfer pilus assembly protein TraB
+CP003909.1	791173	791892	+	CDS	gene	NGFG_00993	NGFG_00993	thiol:disulfide interchange protein DsbC
+CP003909.1	791889	792470	+	CDS	gene	NGFG_00992	NGFG_00992	type IV conjugative transfer system protein TraV
+CP003909.1	792480	795056	+	CDS	gene	NGFG_00991	NGFG_00991	type-IV secretion system protein TraC
+CP003909.1	795084	795632	+	CDS	gene	NGFG_00990	NGFG_00990	hypothetical protein
+CP003909.1	795632	796177	+	CDS	gene	NGFG_00989	NGFG_00989	conjugal transfer pilin signal peptidase TrbI
+CP003909.1	796186	796842	+	CDS	gene	NGFG_00988	NGFG_00988	type-F conjugative transfer system protein TraW
+CP003909.1	796839	797957	+	CDS	gene	NGFG_00987	NGFG_00987	conjugal transfer pilus assembly protein TraU
+CP003909.1	797972	798724	+	CDS	gene	NGFG_00986	NGFG_00986	type-F conjugative transfer system pilin assembly protein TrbC
+CP003909.1	798721	799965	+	CDS	gene	NGFG_00985	NGFG_00985	hypothetical protein
+CP003909.1	799962	801545	+	CDS	gene	NGFG_00984	NGFG_00984	conjugal transfer mating pair stabilization protein TraN
+CP003909.1	801532	801957	+	CDS	gene	NGFG_00983	NGFG_00983	hypothetical protein
+CP003909.1	801969	802745	+	CDS	gene	NGFG_00982	NGFG_00982	conjugal transfer pilus assembly protein TraF
+CP003909.1	802917	804422	+	CDS	gene	NGFG_00981	NGFG_00981	conjugative transfer pilus assembly protein TraH
+CP003909.1	804432	807431	+	CDS	gene	NGFG_00980	NGFG_00980	conjugal transfer mating pair stabilization protein TraG
+CP003909.1	807473	808018	+	CDS	gene	NGFG_00979	NGFG_00979	hypothetical protein
+CP003909.1	808022	808180	+	CDS	gene	NGFG_00978	NGFG_00978	hypothetical protein
+CP003909.1	808675	809253	-	CDS	gene	NGFG_00976	NGFG_00976	CspA protein
+CP003909.1	809456	809728	-	CDS	gene	NGFG_00975	NGFG_00975	hypothetical protein
+CP003909.1	809873	810487	-	CDS	gene	NGFG_00974	NGFG_00974	hypothetical protein
+CP003909.1	810540	811490	-	CDS	gene	NGFG_00973	NGFG_00973	hypothetical protein
+CP003909.1	811729	812163	-	CDS	gene	NGFG_00972	NGFG_00972	hypothetical protein
+CP003909.1	812180	812491	-	CDS	gene	NGFG_00971	NGFG_00971	hypothetical protein
+CP003909.1	812895	813359	-	CDS	gene	NGFG_00970	NGFG_00970	hypothetical protein
+CP003909.1	813448	814227	-	CDS	gene	NGFG_00969	NGFG_00969	hypothetical protein
+CP003909.1	814448	814540	-	CDS	gene	NGFG_02317	NGFG_02317	hypothetical protein
+CP003909.1	814540	814725	-	CDS	gene	NGFG_00968	NGFG_00968	hypothetical protein
+CP003909.1	814798	815313	-	CDS	gene	NGFG_00967	NGFG_00967	hypothetical protein
+CP003909.1	815405	815986	-	CDS	gene	NGFG_00966	NGFG_00966	hypothetical protein
+CP003909.1	816222	817743	-	NA	pseudogene	NGFG_00965	NGFG_00965	
+CP003909.1	817832	818056	-	CDS	gene	NGFG_00964	NGFG_00964	hypothetical protein
+CP003909.1	818292	818408	-	CDS	gene	NGFG_02318	NGFG_02318	hypothetical protein
+CP003909.1	818504	818614	-	CDS	gene	NGFG_02319	NGFG_02319	hypothetical protein
+CP003909.1	818608	818865	-	CDS	gene	NGFG_00963	NGFG_00963	hypothetical protein
+CP003909.1	819113	821596	-	CDS	gene	NGFG_00962	NGFG_00962	hypothetical protein
+CP003909.1	821692	822183	-	CDS	gene	NGFG_00961	NGFG_00961	acetyltransferase
+CP003909.1	822185	822463	-	CDS	gene	NGFG_00960	NGFG_00960	hypothetical protein
+CP003909.1	822702	823109	-	CDS	gene	NGFG_02320	NGFG_02320	hypothetical protein
+CP003909.1	823381	823935	-	CDS	gene	NGFG_02209	NGFG_02209	hypothetical protein
+CP003909.1	824289	824630	-	CDS	gene	NGFG_02321	NGFG_02321	hypothetical protein
+CP003909.1	824856	825437	-	CDS	gene	NGFG_00959	NGFG_00959	hypothetical protein
+CP003909.1	825447	825962	-	CDS	gene	NGFG_00958	NGFG_00958	hypothetical protein
+CP003909.1	827147	827596	-	CDS	gene	NGFG_00956	NGFG_00956	hypothetical protein
+CP003909.1	827860	828432	-	CDS	gene	NGFG_00955	NGFG_00955	hypothetical protein
+CP003909.1	828536	829075	-	CDS	gene	NGFG_00954	NGFG_00954	hypothetical protein
+CP003909.1	829090	831078	-	CDS	gene	NGFG_00953	NGFG_00953	DNA topoisomerase III
+CP003909.1	831321	831752	-	CDS	gene	NGFG_00952	NGFG_00952	single-strand DNA-binding protein
+CP003909.1	832132	832685	-	NA	pseudogene	NGFG_00951	NGFG_00951	
+CP003909.1	832772	833821	-	CDS	gene	NGFG_00950	NGFG_00950	integrating conjugative element protein
+CP003909.1	834012	835529	-	CDS	gene	NGFG_00949	NGFG_00949	hypothetical protein
+CP003909.1	835529	836278	-	CDS	gene	NGFG_00948	NGFG_00948	hypothetical protein
+CP003909.1	836281	836886	-	CDS	gene	NGFG_00947	NGFG_00947	hypothetical protein
+CP003909.1	836876	838366	-	CDS	gene	NGFG_00946	NGFG_00946	chromosome partitioning protein ParB family protein
+CP003909.1	838363	839250	-	CDS	gene	NGFG_00945	NGFG_00945	hypothetical protein
+CP003909.1	840045	840704	-	CDS	gene	NGFG_00943	NGFG_00943	uracil-DNA glycosylase
+CP003909.1	840683	841192	+	CDS	gene	NGFG_00942	NGFG_00942	hypothetical protein
+CP003909.1	841207	842154	+	CDS	gene	NGFG_00941	NGFG_00941	outer membrane protein
+CP003909.1	842261	843331	-	CDS	gene	NGFG_00940	NGFG_00940	hypothetical protein
+CP003909.1	843516	843791	+	CDS	gene	NGFG_00938	NGFG_00938	UPF0250 protein
+CP003909.1	843793	844416	+	CDS	gene	NGFG_00937	NGFG_00937	octanoyltransferase
+CP003909.1	844409	845392	+	CDS	gene	NGFG_00936	NGFG_00936	lipoyl synthase
+CP003909.1	845868	846332	+	CDS	gene	NGFG_00934	NGFG_00934	bacterioferritin A
+CP003909.1	846360	846833	+	CDS	gene	NGFG_00933	NGFG_00933	bacterioferritin B
+CP003909.1	847161	847481	+	CDS	gene	NGFG_00932	NGFG_00932	transcriptional regulator
+CP003909.1	847530	850088	+	CDS	gene	NGFG_00931	NGFG_00931	[protein-PII] uridylyltransferase
+CP003909.1	850235	851698	+	CDS	gene	NGFG_00930	NGFG_00930	inosine-5'-monophosphate dehydrogenase
+CP003909.1	852034	854409	-	CDS	gene	NGFG_00928	NGFG_00928	ribonuclease R
+CP003909.1	854498	854584	+	exon	tRNA	NGFG_06013	NGFG_06013	tRNA-Leu
+CP003909.1	854623	854713	+	exon	tRNA	NGFG_06014	NGFG_06014	tRNA-Ser
+CP003909.1	855110	856921	-	CDS	gene	NGFG_00926	NGFG_00926	GTP-binding protein TypA/BipA
+CP003909.1	857038	857928	-	CDS	gene	NGFG_00925	NGFG_00925	carbohydrate kinase
+CP003909.1	857993	858649	+	CDS	gene	NGFG_00924	NGFG_00924	nickel-dependent hydrogenase%2C b-type cytochrome subunit
+CP003909.1	859078	860160	+	CDS	gene	NGFG_00923	NGFG_00923	siroheme synthase
+CP003909.1	860228	860911	+	CDS	gene	NGFG_00922	NGFG_00922	sulfite reductase [NADPH] flavoprotein alpha-component
+CP003909.1	860916	861950	+	CDS	gene	NGFG_00921	NGFG_00921	sulfite reductase [NADPH] flavoprotein alpha-component
+CP003909.1	861977	862264	+	CDS	gene	NGFG_00920	NGFG_00920	sulfite reductase [NADPH] hemoprotein beta-component
+CP003909.1	862345	863742	+	CDS	gene	NGFG_00919	NGFG_00919	sulfite reductase [NADPH] hemoprotein beta-component
+CP003909.1	863915	865774	+	CDS	gene	NGFG_00918	NGFG_00918	dihydroxy-acid dehydratase
+CP003909.1	866194	867033	+	CDS	gene	NGFG_02322	NGFG_02322	hypothetical protein
+CP003909.1	867129	868379	-	CDS	gene	NGFG_00914	NGFG_00914	biotin synthase
+CP003909.1	868388	869764	-	CDS	gene	NGFG_00913	NGFG_00913	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+CP003909.1	869826	870131	-	CDS	gene	NGFG_00912	NGFG_00912	hypothetical protein
+CP003909.1	870143	870496	-	CDS	gene	NGFG_00911	NGFG_00911	hypothetical protein
+CP003909.1	870758	870955	-	CDS	gene	NGFG_00910	NGFG_00910	hypothetical protein
+CP003909.1	870965	871750	-	CDS	gene	NGFG_00909	NGFG_00909	TrmH family RNA methyltransferase
+CP003909.1	871824	873134	-	CDS	gene	NGFG_00908	NGFG_00908	tRNA(Ile)-lysidine synthase
+CP003909.1	873208	874161	-	CDS	gene	NGFG_00907	NGFG_00907	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+CP003909.1	874373	874774	+	CDS	gene	NGFG_00906	NGFG_00906	hsp15-like protein
+CP003909.1	874842	875039	-	CDS	gene	NGFG_00905	NGFG_00905	FeS assembly protein IscX
+CP003909.1	875252	875599	+	CDS	gene	NGFG_00903	NGFG_00903	hypothetical protein
+CP003909.1	875852	876193	-	CDS	gene	NGFG_00901	NGFG_00901	ferredoxin%2C 2Fe-2S type%2C ISC system protein
+CP003909.1	876249	876998	-	CDS	gene	NGFG_00900	NGFG_00900	hypothetical protein
+CP003909.1	877037	877573	-	CDS	gene	NGFG_00899	NGFG_00899	hypothetical protein
+CP003909.1	877871	879889	-	CDS	gene	NGFG_00898	NGFG_00898	Fe-S protein assembly chaperone HscA
+CP003909.1	879904	880776	+	CDS	gene	NGFG_00897	NGFG_00897	squalene synthase HpnD
+CP003909.1	880851	882164	+	CDS	gene	NGFG_00896	NGFG_00896	oxidoreductase
+CP003909.1	882246	882965	+	CDS	gene	NGFG_00895	NGFG_00895	short chain dehydrogenase
+CP003909.1	883131	883802	+	CDS	gene	NGFG_00894	NGFG_00894	lipoprotein
+CP003909.1	883812	884099	+	CDS	gene	NGFG_00893	NGFG_00893	hypothetical protein
+CP003909.1	884175	884822	+	CDS	gene	NGFG_00892	NGFG_00892	lipoprotein
+CP003909.1	885215	886978	+	NA	pseudogene	NGFG_00890	NGFG_00890	
+CP003909.1	887082	887750	+	CDS	gene	NGFG_00889	NGFG_00889	DnaA regulatory inactivator Hda
+CP003909.1	887747	888415	+	CDS	gene	NGFG_00888	NGFG_00888	HAD hydrolase%2C family IB
+CP003909.1	888420	888707	+	CDS	gene	NGFG_02323	NGFG_02323	ubiquitin-activating enzyme E1 family protein
+CP003909.1	889005	889901	-	CDS	gene	NGFG_00886	NGFG_00886	acetylglutamate kinase
+CP003909.1	890071	891201	+	CDS	gene	NGFG_00884	NGFG_00884	zinc carboxypeptidase
+CP003909.1	891275	892126	+	CDS	gene	NGFG_00883	NGFG_00883	prolipoprotein diacylglyceryl transferase
+CP003909.1	892211	892873	-	CDS	gene	NGFG_00882	NGFG_00882	yecA family protein
+CP003909.1	893072	894865	-	CDS	gene	NGFG_00881	NGFG_00881	2-isopropylmalate synthase
+CP003909.1	895111	896220	+	CDS	gene	NGFG_00880	NGFG_00880	glutamate 5-kinase
+CP003909.1	896233	897495	+	CDS	gene	NGFG_00879	NGFG_00879	gamma-glutamyl phosphate reductase
+CP003909.1	897671	900715	-	CDS	gene	NGFG_00878	NGFG_00878	DNA translocase ftsK 2
+CP003909.1	900880	901560	+	CDS	gene	NGFG_00877	NGFG_00877	hypothetical protein
+CP003909.1	901589	901948	+	CDS	gene	NGFG_00876	NGFG_00876	protein CrcB
+CP003909.1	902553	903089	-	CDS	gene	NGFG_00874	NGFG_00874	ADP-ribose pyrophosphatase
+CP003909.1	903123	903479	-	CDS	gene	NGFG_00873	NGFG_00873	dihydroneopterin aldolase
+CP003909.1	903535	904137	+	CDS	gene	NGFG_00872	NGFG_00872	glycerol-3-phosphate acyltransferase
+CP003909.1	904163	905074	+	CDS	gene	NGFG_00871	NGFG_00871	hypothetical protein
+CP003909.1	905182	905514	-	CDS	gene	NGFG_00870	NGFG_00870	hypothetical protein
+CP003909.1	905564	905806	-	CDS	gene	NGFG_00869	NGFG_00869	hypothetical protein
+CP003909.1	905866	907029	+	CDS	gene	NGFG_00868	NGFG_00868	fructose-1%2C6-bisphosphatase class 1
+CP003909.1	907188	907406	-	CDS	gene	NGFG_00867	NGFG_00867	hypothetical protein
+CP003909.1	907573	907863	+	CDS	gene	NGFG_00866	NGFG_00866	glutaredoxin-like protein
+CP003909.1	907986	909851	+	NA	pseudogene	NGFG_00865	NGFG_00865	
+CP003909.1	910024	910266	+	CDS	gene	NGFG_00864	NGFG_00864	hypothetical protein
+CP003909.1	910333	911583	+	CDS	gene	NGFG_00863	NGFG_00863	serine hydroxymethyltransferase
+CP003909.1	911656	912045	-	CDS	gene	NGFG_00862	NGFG_00862	hypothetical protein
+CP003909.1	912179	912900	+	NA	pseudogene	NGFG_00861	NGFG_00861	
+CP003909.1	912985	913772	+	NA	pseudogene	NGFG_00860	NGFG_00860	
+CP003909.1	913923	914567	+	CDS	gene	NGFG_00859	NGFG_00859	dedA family membrane protein
+CP003909.1	914586	916496	+	CDS	gene	NGFG_00858	NGFG_00858	ABC transporter ATP-binding protein
+CP003909.1	916518	916883	+	CDS	gene	NGFG_00857	NGFG_00857	hypothetical protein
+CP003909.1	916995	918470	+	CDS	gene	NGFG_00856	NGFG_00856	anthranilate synthase component 1
+CP003909.1	918554	919492	+	CDS	gene	NGFG_00855	NGFG_00855	modification methylase NgoMIV
+CP003909.1	919493	920353	+	CDS	gene	NGFG_00854	NGFG_00854	type-2 restriction enzyme NgoMIV
+CP003909.1	920370	921449	+	CDS	gene	NGFG_00853	NGFG_00853	phosphoribosylaminoimidazole carboxylase%2C ATPase subunit
+CP003909.1	921552	922034	+	CDS	gene	NGFG_00852	NGFG_00852	acetyltransferase
+CP003909.1	922187	923188	+	CDS	gene	NGFG_00851	NGFG_00851	sulfate ABC transporter%2C sulfate-binding protein
+CP003909.1	923768	924373	+	CDS	gene	NGFG_00848	NGFG_00848	hypothetical protein
+CP003909.1	925116	925361	-	CDS	gene	NGFG_02324	NGFG_02324	transposase
+CP003909.1	925358	925936	-	CDS	gene	NGFG_02325	NGFG_02325	transposase
+CP003909.1	925941	926342	-	CDS	gene	NGFG_02200	NGFG_02200	hypothetical protein
+CP003909.1	927039	927209	-	CDS	gene	NGFG_00847	NGFG_00847	rubredoxin
+CP003909.1	927342	928424	-	CDS	gene	NGFG_00845	NGFG_00845	acyl-CoA dehydrogenase
+CP003909.1	928560	929108	-	CDS	gene	NGFG_00844	NGFG_00844	alkylhydroperoxidase
+CP003909.1	929248	929619	-	CDS	gene	NGFG_00843	NGFG_00843	hypothetical protein
+CP003909.1	929804	931495	-	CDS	gene	NGFG_00841	NGFG_00841	D-lactate dehydrogenase
+CP003909.1	931592	932011	-	CDS	gene	NGFG_00840	NGFG_00840	hypothetical protein
+CP003909.1	932591	936424	+	CDS	gene	NGFG_00839	NGFG_00839	oxidoreductase
+CP003909.1	936501	937501	+	NA	pseudogene	NGFG_00838	NGFG_00838	
+CP003909.1	937562	937744	-	CDS	gene	NGFG_00836	NGFG_00836	hypothetical protein
+CP003909.1	937917	938048	-	CDS	gene	NGFG_02326	NGFG_02326	hypothetical protein
+CP003909.1	938307	939450	-	NA	pseudogene	NGFG_00833	NGFG_00833	
+CP003909.1	939776	940252	-	CDS	gene	NGFG_00831	NGFG_00831	transcription elongation factor greA
+CP003909.1	940643	941944	+	CDS	gene	NGFG_00829	NGFG_00829	3-phosphoshikimate 1-carboxyvinyltransferase
+CP003909.1	942022	942555	-	CDS	gene	NGFG_00828	NGFG_00828	lipoprotein
+CP003909.1	942612	944189	-	CDS	gene	NGFG_00827	NGFG_00827	phospholipase D-family protein
+CP003909.1	944250	945791	-	CDS	gene	NGFG_00826	NGFG_00826	drug:H+ antiporter-2 (14 Spanner) (DHA2) family drug resistance MFS transporter
+CP003909.1	945939	946718	+	CDS	gene	NGFG_00825	NGFG_00825	hypothetical protein
+CP003909.1	946715	947416	+	CDS	gene	NGFG_00824	NGFG_00824	hypothetical protein
+CP003909.1	947413	948867	+	CDS	gene	NGFG_00823	NGFG_00823	iron-sulfur cluster-binding protein
+CP003909.1	949016	949435	-	CDS	gene	NGFG_00822	NGFG_00822	toxin component of toxin-antitoxin system
+CP003909.1	949435	949671	-	CDS	gene	NGFG_00821	NGFG_00821	antitoxin component of toxin-antitoxin system
+CP003909.1	949877	950697	-	NA	pseudogene	NGFG_02327	NGFG_02327	
+CP003909.1	950702	951103	-	CDS	gene	NGFG_02328	NGFG_02328	hypothetical protein
+CP003909.1	951321	951794	+	CDS	gene	NGFG_02329	NGFG_02329	transposase
+CP003909.1	952111	953001	-	CDS	gene	NGFG_00820	NGFG_00820	succinyl-CoA ligase [ADP-forming] subunit alpha
+CP003909.1	953012	954178	-	CDS	gene	NGFG_00819	NGFG_00819	succinyl-CoA ligase [ADP-forming] subunit beta
+CP003909.1	954250	954537	-	CDS	gene	NGFG_00818	NGFG_00818	hypothetical protein
+CP003909.1	954657	956090	-	CDS	gene	NGFG_00817	NGFG_00817	dihydrolipoyl dehydrogenase
+CP003909.1	956351	957532	-	CDS	gene	NGFG_00816	NGFG_00816	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)
+CP003909.1	957632	960460	-	CDS	gene	NGFG_00815	NGFG_00815	oxoglutarate dehydrogenase (succinyl-transferring)%2C E1 component
+CP003909.1	960665	961948	-	CDS	gene	NGFG_00814	NGFG_00814	citrate (Si)-synthase
+CP003909.1	962060	962308	-	CDS	gene	NGFG_00813	NGFG_00813	hypothetical protein
+CP003909.1	962312	963019	-	CDS	gene	NGFG_00812	NGFG_00812	succinate dehydrogenase and fumarate reductase iron-sulfur protein
+CP003909.1	963139	964902	-	CDS	gene	NGFG_00811	NGFG_00811	succinate dehydrogenase%2C flavoprotein subunit
+CP003909.1	964905	965246	-	CDS	gene	NGFG_00810	NGFG_00810	succinate dehydrogenase%2C hydrophobic membrane anchor protein
+CP003909.1	965240	965617	-	CDS	gene	NGFG_00809	NGFG_00809	succinate dehydrogenase%2C cytochrome b556 subunit
+CP003909.1	965904	967373	-	CDS	gene	NGFG_00807	NGFG_00807	dihydrolipoamide dehydrogenase
+CP003909.1	967556	968293	-	CDS	gene	NGFG_00806	NGFG_00806	peroxiredoxin
+CP003909.1	968572	970848	-	CDS	gene	NGFG_00804	NGFG_00804	5-methyltetrahydropteroyltriglutamate-homocysteine methyltransferase
+CP003909.1	970984	971865	-	CDS	gene	NGFG_00803	NGFG_00803	5%2C10-methylenetetrahydrofolate reductase
+CP003909.1	972056	972331	+	CDS	gene	NGFG_00802	NGFG_00802	50S ribosomal protein L31 type B
+CP003909.1	972331	972456	+	CDS	gene	NGFG_00801	NGFG_00801	50S ribosomal protein L36
+CP003909.1	972542	972760	-	CDS	gene	NGFG_00800	NGFG_00800	hypothetical protein
+CP003909.1	972903	974042	+	CDS	gene	NGFG_00799	NGFG_00799	homoserine O-acetyltransferase
+CP003909.1	974039	974620	+	CDS	gene	NGFG_00798	NGFG_00798	methionine biosynthesis protein MetW
+CP003909.1	974737	975666	+	NA	pseudogene	NGFG_00797	NGFG_00797	
+CP003909.1	975715	976275	-	CDS	gene	NGFG_00796	NGFG_00796	elongation factor P
+CP003909.1	976318	977475	-	CDS	gene	NGFG_00795	NGFG_00795	hypothetical protein
+CP003909.1	977488	977796	-	CDS	gene	NGFG_00794	NGFG_00794	hypothetical protein
+CP003909.1	978117	979058	+	CDS	gene	NGFG_00792	NGFG_00792	tRNA dimethylallyltransferase
+CP003909.1	979062	979781	+	CDS	gene	NGFG_00791	NGFG_00791	cytosine deaminase
+CP003909.1	979786	980274	+	CDS	gene	NGFG_00790	NGFG_00790	hypothetical protein
+CP003909.1	980340	981092	+	CDS	gene	NGFG_00789	NGFG_00789	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CP003909.1	981154	982553	-	NA	pseudogene	NGFG_00788	NGFG_00788	
+CP003909.1	982908	983783	+	CDS	gene	NGFG_00787	NGFG_00787	dihydrodipicolinate synthase
+CP003909.1	983861	984988	+	CDS	gene	NGFG_00786	NGFG_00786	lipoprotein
+CP003909.1	985045	985977	-	CDS	gene	NGFG_00785	NGFG_00785	proline iminopeptidase
+CP003909.1	986489	987178	+	CDS	gene	NGFG_02330	NGFG_02330	opacity protein
+CP003909.1	987192	987398	+	CDS	gene	NGFG_02331	NGFG_02331	hypothetical protein
+CP003909.1	987858	990575	+	CDS	gene	NGFG_00782	NGFG_00782	heme-utilization protein Hup
+CP003909.1	991199	991369	-	CDS	gene	NGFG_00780	NGFG_00780	hypothetical protein
+CP003909.1	991601	992818	-	CDS	gene	NGFG_00779	NGFG_00779	aspartate kinase
+CP003909.1	993020	993748	-	CDS	gene	NGFG_00777	NGFG_00777	ribonuclease PH
+CP003909.1	993830	994294	-	CDS	gene	NGFG_00776	NGFG_00776	universal stress protein
+CP003909.1	994511	995287	+	CDS	gene	NGFG_00775	NGFG_00775	HesA/MoeB/ThiF family protein
+CP003909.1	995532	996386	+	CDS	gene	NGFG_00774	NGFG_00774	segregation and condensation protein A
+CP003909.1	996427	997635	+	CDS	gene	NGFG_00773	NGFG_00773	nicotinate phosphoribosyltransferase
+CP003909.1	997727	999445	+	CDS	gene	NGFG_00772	NGFG_00772	arginyl-tRNA synthetase
+CP003909.1	999997	1001415	+	CDS	gene	NGFG_00770	NGFG_00770	hypothetical protein
+CP003909.1	1001751	1001861	+	CDS	gene	NGFG_02332	NGFG_02332	hypothetical protein
+CP003909.1	1001868	1002614	-	CDS	gene	NGFG_00768	NGFG_00768	polar amino acid ABC transporter permease
+CP003909.1	1002793	1003464	-	CDS	gene	NGFG_00766	NGFG_00766	nuclease
+CP003909.1	1003533	1004204	-	CDS	gene	NGFG_00765	NGFG_00765	ribose-5-phosphate isomerase A
+CP003909.1	1004281	1004763	-	CDS	gene	NGFG_00764	NGFG_00764	2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase
+CP003909.1	1004795	1005484	-	CDS	gene	NGFG_00763	NGFG_00763	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+CP003909.1	1005481	1006215	-	CDS	gene	NGFG_00762	NGFG_00762	DNA polymerase III%2C epsilon subunit
+CP003909.1	1006371	1007681	-	CDS	gene	NGFG_00761	NGFG_00761	major facilitator family transporter
+CP003909.1	1007671	1007856	-	CDS	gene	NGFG_00760	NGFG_00760	cytochrome oxidase maturation protein
+CP003909.1	1007856	1008155	-	CDS	gene	NGFG_00759	NGFG_00759	hypothetical protein
+CP003909.1	1008506	1009702	+	CDS	gene	NGFG_00758	NGFG_00758	acetate kinase 1
+CP003909.1	1010215	1012020	-	CDS	gene	NGFG_00757	NGFG_00757	Thiol:disulfide interchange protein DsbD
+CP003909.1	1012147	1012617	+	CDS	gene	NGFG_00756	NGFG_00756	hypothetical protein
+CP003909.1	1012690	1013502	-	CDS	gene	NGFG_00755	NGFG_00755	squalene synthase HpnC
+CP003909.1	1013589	1014071	-	CDS	gene	NGFG_00754	NGFG_00754	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+CP003909.1	1014544	1014870	+	CDS	gene	NGFG_00752	NGFG_00752	outer membrane protein H.8
+CP003909.1	1014980	1016347	+	CDS	gene	NGFG_00751	NGFG_00751	oxidoreductase%2C FAD-binding protein
+CP003909.1	1016388	1016693	+	CDS	gene	NGFG_00750	NGFG_00750	thymidylate kinase
+CP003909.1	1016676	1018619	-	NA	pseudogene	NGFG_00749	NGFG_00749	
+CP003909.1	1019076	1019522	-	CDS	gene	NGFG_00747	NGFG_00747	SsrA-binding protein
+CP003909.1	1019577	1020587	-	CDS	gene	NGFG_00746	NGFG_00746	lipopolysaccharide heptosyltransferase II
+CP003909.1	1020718	1020793	-	exon	tRNA	NGFG_06015	NGFG_06015	tRNA-Asn
+CP003909.1	1020984	1021853	-	CDS	gene	NGFG_00745	NGFG_00745	methylated-DNA-[protein]-cysteine S-methyltransferase
+CP003909.1	1022086	1022271	+	CDS	gene	NGFG_00744	NGFG_00744	hypothetical protein
+CP003909.1	1022621	1023469	-	CDS	gene	NGFG_00743	NGFG_00743	AraC family transcriptional regulator
+CP003909.1	1023856	1025091	-	CDS	gene	NGFG_00742	NGFG_00742	succinyl-diaminopimelate desuccinylase
+CP003909.1	1025114	1025734	-	CDS	gene	NGFG_00741	NGFG_00741	hypothetical protein
+CP003909.1	1025768	1026277	-	CDS	gene	NGFG_00740	NGFG_00740	hypothetical protein
+CP003909.1	1026372	1026923	-	CDS	gene	NGFG_00739	NGFG_00739	outer membrane protein H.8
+CP003909.1	1027206	1027628	-	CDS	gene	NGFG_00736	NGFG_00736	hypothetical protein
+CP003909.1	1027760	1030510	+	CDS	gene	NGFG_00735	NGFG_00735	protein translocase subunit secA
+CP003909.1	1030656	1032428	+	CDS	gene	NGFG_00734	NGFG_00734	DNA primase
+CP003909.1	1032615	1034543	+	CDS	gene	NGFG_00733	NGFG_00733	RNA polymerase sigma factor rpoD
+CP003909.1	1034583	1034834	-	CDS	gene	NGFG_00732	NGFG_00732	CRISPR-associated protein cas4
+CP003909.1	1035119	1035583	-	CDS	gene	NGFG_00731	NGFG_00731	CRISPR-associated protein cas4
+CP003909.1	1035643	1036266	-	CDS	gene	NGFG_00730	NGFG_00730	hypothetical protein
+CP003909.1	1036408	1036767	-	CDS	gene	NGFG_02333	NGFG_02333	hypothetical protein
+CP003909.1	1036883	1037533	-	CDS	gene	NGFG_00729	NGFG_00729	CRISPR-associated recb family exonuclease
+CP003909.1	1037540	1037908	-	CDS	gene	NGFG_00728	NGFG_00728	phage protein
+CP003909.1	1037935	1038519	-	CDS	gene	NGFG_00727	NGFG_00727	CRISPR-associated protein
+CP003909.1	1038643	1040001	-	NA	pseudogene	NGFG_00726	NGFG_00726	
+CP003909.1	1040051	1040401	-	CDS	gene	NGFG_02334	NGFG_02334	transposase
+CP003909.1	1040511	1040807	-	CDS	gene	NGFG_02335	NGFG_02335	hypothetical protein
+CP003909.1	1040836	1041045	-	CDS	gene	NGFG_00725	NGFG_00725	TraR family phage/conjugal plasmid C-4 type zinc finger protein
+CP003909.1	1041038	1041328	-	CDS	gene	NGFG_00724	NGFG_00724	phage protein
+CP003909.1	1041333	1041620	-	CDS	gene	NGFG_00723	NGFG_00723	phage protein
+CP003909.1	1041740	1042749	-	NA	pseudogene	NGFG_00722	NGFG_00722	
+CP003909.1	1042746	1043786	-	CDS	gene	NGFG_00721	NGFG_00721	phage protein
+CP003909.1	1044020	1044400	-	CDS	gene	NGFG_00720	NGFG_00720	phage repressor protein
+CP003909.1	1044491	1044670	+	CDS	gene	NGFG_00719	NGFG_00719	hypothetical protein
+CP003909.1	1044609	1044902	+	CDS	gene	NGFG_00718	NGFG_00718	phage protein
+CP003909.1	1044889	1045173	+	CDS	gene	NGFG_00717	NGFG_00717	hypothetical protein
+CP003909.1	1045210	1046083	+	NA	pseudogene	NGFG_00716	NGFG_00716	
+CP003909.1	1046064	1047842	+	CDS	gene	NGFG_00715	NGFG_00715	phage protein
+CP003909.1	1048181	1049593	-	NA	pseudogene	NGFG_00714	NGFG_00714	
+CP003909.1	1049684	1049760	+	exon	tRNA	NGFG_06016	NGFG_06016	tRNA-Arg
+CP003909.1	1049778	1049852	+	exon	tRNA	NGFG_06017	NGFG_06017	tRNA-Glu
+CP003909.1	1050289	1051464	+	CDS	gene	NGFG_00713	NGFG_00713	2-nitropropane dioxygenase
+CP003909.1	1051806	1052354	-	CDS	gene	NGFG_00712	NGFG_00712	hypothetical protein
+CP003909.1	1052357	1053853	-	CDS	gene	NGFG_00711	NGFG_00711	ferredoxin
+CP003909.1	1054387	1056366	+	CDS	gene	NGFG_00709	NGFG_00709	transketolase
+CP003909.1	1056510	1057898	+	CDS	gene	NGFG_00708	NGFG_00708	fumarate hydratase class II
+CP003909.1	1057963	1058886	-	CDS	gene	NGFG_00707	NGFG_00707	hypothetical protein
+CP003909.1	1059259	1059783	-	CDS	gene	NGFG_00705	NGFG_00705	single-stranded DNA-binding protein
+CP003909.1	1059787	1061190	-	CDS	gene	NGFG_00704	NGFG_00704	major facilitator family transporter drug resistance translocase
+CP003909.1	1061281	1061904	-	CDS	gene	NGFG_00703	NGFG_00703	transglycosylase
+CP003909.1	1062406	1062642	-	CDS	gene	NGFG_00701	NGFG_00701	transposase
+CP003909.1	1062661	1062984	+	CDS	gene	NGFG_02336	NGFG_02336	hypothetical protein
+CP003909.1	1062709	1063199	-	NA	pseudogene	NGFG_00700	NGFG_00700	
+CP003909.1	1063561	1064265	-	CDS	gene	NGFG_02337	NGFG_02337	opacity protein
+CP003909.1	1064250	1064414	-	CDS	gene	NGFG_02338	NGFG_02338	opacity protein
+CP003909.1	1064751	1065497	+	CDS	gene	NGFG_00699	NGFG_00699	hypothetical protein
+CP003909.1	1065660	1067168	+	CDS	gene	NGFG_00698	NGFG_00698	exopolyphosphatase
+CP003909.1	1067378	1067722	-	CDS	gene	NGFG_02339	NGFG_02339	hypothetical protein
+CP003909.1	1068039	1068584	-	CDS	gene	NGFG_00696	NGFG_00696	hypothetical protein
+CP003909.1	1068665	1069675	-	CDS	gene	NGFG_00695	NGFG_00695	tryptophanyl-tRNA synthetase
+CP003909.1	1069935	1072514	+	CDS	gene	NGFG_00694	NGFG_00694	chaperone ClpB
+CP003909.1	1072586	1073800	-	CDS	gene	NGFG_00693	NGFG_00693	aminotransferase AlaT
+CP003909.1	1073889	1074098	-	CDS	gene	NGFG_00692	NGFG_00692	4-oxalocrotonate tautomerase family enzyme
+CP003909.1	1074290	1075096	+	CDS	gene	NGFG_00691	NGFG_00691	hypothetical protein
+CP003909.1	1075064	1075156	-	CDS	gene	NGFG_02340	NGFG_02340	hypothetical protein
+CP003909.1	1075156	1076405	-	NA	pseudogene	NGFG_00690	NGFG_00690	
+CP003909.1	1076770	1077480	+	CDS	gene	NGFG_00688	NGFG_00688	phosphoglycolate phosphatase
+CP003909.1	1077553	1078014	+	CDS	gene	NGFG_00687	NGFG_00687	regulatory protein recX
+CP003909.1	1078088	1078249	+	CDS	gene	NGFG_00686	NGFG_00686	hypothetical protein
+CP003909.1	1078402	1078884	+	CDS	gene	NGFG_00684	NGFG_00684	acyl-CoA thioester hydrolase
+CP003909.1	1079282	1080493	-	CDS	gene	NGFG_00683	NGFG_00683	lipoprotein NlpD
+CP003909.1	1080397	1081143	-	CDS	gene	NGFG_00682	NGFG_00682	5'-nucleotidase surE
+CP003909.1	1081160	1082715	-	NA	pseudogene	NGFG_00681	NGFG_00681	
+CP003909.1	1083083	1083868	-	CDS	gene	NGFG_00679	NGFG_00679	fimbrial assembly protein FimB
+CP003909.1	1083979	1085412	-	CDS	gene	NGFG_00678	NGFG_00678	succinate-semialdehyde dehydrogenase
+CP003909.1	1085813	1086607	+	CDS	gene	NGFG_00676	NGFG_00676	hypothetical protein
+CP003909.1	1086368	1086748	-	CDS	gene	NGFG_00675	NGFG_00675	lipoprotein
+CP003909.1	1087271	1089352	+	CDS	gene	NGFG_00674	NGFG_00674	carbon starvation protein
+CP003909.1	1089342	1089536	+	CDS	gene	NGFG_00673	NGFG_00673	hypothetical protein
+CP003909.1	1089659	1089844	-	CDS	gene	NGFG_02341	NGFG_02341	hypothetical protein
+CP003909.1	1090091	1091053	+	CDS	gene	NGFG_02217	NGFG_02217	adhesin mafA
+CP003909.1	1091093	1092622	+	CDS	gene	NGFG_00672	NGFG_00672	MafB family adhesin protein
+CP003909.1	1092591	1092794	+	CDS	gene	NGFG_00671	NGFG_00671	hypothetical protein
+CP003909.1	1092815	1093174	+	CDS	gene	NGFG_00670	NGFG_00670	hypothetical protein
+CP003909.1	1093305	1093496	-	CDS	gene	NGFG_02342	NGFG_02342	hypothetical protein
+CP003909.1	1093496	1093705	-	CDS	gene	NGFG_02343	NGFG_02343	hypothetical protein
+CP003909.1	1094962	1095306	+	CDS	gene	NGFG_00667	NGFG_00667	hypothetical protein
+CP003909.1	1095348	1096217	+	CDS	gene	NGFG_00666	NGFG_00666	hypothetical protein
+CP003909.1	1096221	1096631	+	CDS	gene	NGFG_02344	NGFG_02344	hypothetical protein
+CP003909.1	1096767	1096883	+	CDS	gene	NGFG_02345	NGFG_02345	hypothetical protein
+CP003909.1	1097125	1098303	+	CDS	gene	NGFG_02346	NGFG_02346	MafB family adhesin protein
+CP003909.1	1098342	1098491	-	CDS	gene	NGFG_02347	NGFG_02347	hypothetical protein
+CP003909.1	1098546	1098848	+	CDS	gene	NGFG_02348	NGFG_02348	hypothetical protein
+CP003909.1	1099349	1099522	-	CDS	gene	NGFG_02349	NGFG_02349	hypothetical protein
+CP003909.1	1099540	1099857	+	CDS	gene	NGFG_00664	NGFG_00664	hypothetical protein
+CP003909.1	1100215	1100520	+	CDS	gene	NGFG_00662	NGFG_00662	hypothetical protein
+CP003909.1	1100523	1100846	+	CDS	gene	NGFG_00661	NGFG_00661	hypothetical protein
+CP003909.1	1101013	1101198	-	CDS	gene	NGFG_02350	NGFG_02350	hypothetical protein
+CP003909.1	1101485	1104687	+	NA	pseudogene	NGFG_00660	NGFG_00660	
+CP003909.1	1105170	1105856	+	CDS	gene	NGFG_02351	NGFG_02351	opacity protein
+CP003909.1	1107258	1107704	+	CDS	gene	NGFG_00659	NGFG_00659	acyl-CoA thioesterase YciA
+CP003909.1	1107755	1108576	-	CDS	gene	NGFG_00658	NGFG_00658	oxidoreductase
+CP003909.1	1108695	1109153	+	CDS	gene	NGFG_00657	NGFG_00657	cytochrome c'
+CP003909.1	1109296	1110432	-	CDS	gene	NGFG_00656	NGFG_00656	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2%2C3-sialyltransferase
+CP003909.1	1110776	1113001	+	CDS	gene	NGFG_00654	NGFG_00654	isocitrate dehydrogenase%2C NADP-dependent
+CP003909.1	1113298	1113618	+	CDS	gene	NGFG_00653	NGFG_00653	hypothetical protein
+CP003909.1	1114560	1114727	+	CDS	gene	NGFG_00652	NGFG_00652	hypothetical protein
+CP003909.1	1114887	1115738	+	CDS	gene	NGFG_00651	NGFG_00651	phage protein
+CP003909.1	1115924	1116598	-	CDS	gene	NGFG_00649	NGFG_00649	hypothetical protein
+CP003909.1	1116595	1117080	-	CDS	gene	NGFG_00648	NGFG_00648	phage protein
+CP003909.1	1117086	1117559	-	CDS	gene	NGFG_00647	NGFG_00647	phage protein
+CP003909.1	1117614	1118909	-	CDS	gene	NGFG_00646	NGFG_00646	phage protein
+CP003909.1	1118930	1126852	-	CDS	gene	NGFG_02352	NGFG_02352	phage protein
+CP003909.1	1126849	1128045	-	CDS	gene	NGFG_00643	NGFG_00643	phage protein
+CP003909.1	1128282	1130533	-	NA	pseudogene	NGFG_00642	NGFG_00642	
+CP003909.1	1130533	1131807	-	CDS	gene	NGFG_00641	NGFG_00641	PBSX family phage terminase%2C large subunit
+CP003909.1	1131788	1132327	-	CDS	gene	NGFG_00640	NGFG_00640	phage protein
+CP003909.1	1132327	1132749	-	CDS	gene	NGFG_00639	NGFG_00639	phage protein
+CP003909.1	1132814	1133332	-	CDS	gene	NGFG_00638	NGFG_00638	phage protein
+CP003909.1	1133323	1133706	-	CDS	gene	NGFG_00637	NGFG_00637	phage protein
+CP003909.1	1133703	1134008	-	CDS	gene	NGFG_02353	NGFG_02353	phage protein
+CP003909.1	1134001	1134438	-	CDS	gene	NGFG_02354	NGFG_02354	phage protein
+CP003909.1	1134429	1134710	-	CDS	gene	NGFG_02355	NGFG_02355	hypothetical protein
+CP003909.1	1134739	1134888	-	CDS	gene	NGFG_02245	NGFG_02245	hypothetical protein
+CP003909.1	1134915	1135412	+	CDS	gene	NGFG_02356	NGFG_02356	phage protein
+CP003909.1	1135255	1135749	-	CDS	gene	NGFG_02357	NGFG_02357	phage protein
+CP003909.1	1135824	1136069	-	CDS	gene	NGFG_01308	NGFG_01308	phage protein
+CP003909.1	1136086	1137447	-	CDS	gene	NGFG_01309	NGFG_01309	DnaB family phage replicative helicase
+CP003909.1	1137444	1137764	-	CDS	gene	NGFG_02358	NGFG_02358	hypothetical protein
+CP003909.1	1138043	1138510	-	CDS	gene	NGFG_02359	NGFG_02359	hypothetical protein
+CP003909.1	1138494	1138631	-	CDS	gene	NGFG_02360	NGFG_02360	hypothetical protein
+CP003909.1	1138628	1138855	-	CDS	gene	NGFG_02189	NGFG_02189	phage protein
+CP003909.1	1139236	1139952	+	CDS	gene	NGFG_02188	NGFG_02188	phage repressor protein
+CP003909.1	1140112	1140651	+	CDS	gene	NGFG_02187	NGFG_02187	phage protein
+CP003909.1	1140652	1141011	+	CDS	gene	NGFG_02186	NGFG_02186	phage protein
+CP003909.1	1141028	1141246	-	CDS	gene	NGFG_02185	NGFG_02185	phage protein
+CP003909.1	1141730	1141930	+	CDS	gene	NGFG_02361	NGFG_02361	phage protein
+CP003909.1	1141963	1142439	+	CDS	gene	NGFG_02362	NGFG_02362	phage protein
+CP003909.1	1142436	1142711	+	CDS	gene	NGFG_02363	NGFG_02363	hypothetical protein
+CP003909.1	1142853	1143185	+	CDS	gene	NGFG_02364	NGFG_02364	phage protein
+CP003909.1	1143338	1143613	+	CDS	gene	NGFG_02365	NGFG_02365	phage protein
+CP003909.1	1143610	1143771	+	CDS	gene	NGFG_02366	NGFG_02366	phage protein
+CP003909.1	1143840	1144526	+	CDS	gene	NGFG_02367	NGFG_02367	phage protein
+CP003909.1	1144666	1144848	+	CDS	gene	NGFG_02368	NGFG_02368	phage protein
+CP003909.1	1144845	1145021	+	CDS	gene	NGFG_02369	NGFG_02369	hypothetical protein
+CP003909.1	1145043	1145339	+	CDS	gene	NGFG_02232	NGFG_02232	phage protein
+CP003909.1	1145391	1145606	+	CDS	gene	NGFG_02231	NGFG_02231	phage protein
+CP003909.1	1145717	1146700	+	CDS	gene	NGFG_02370	NGFG_02370	phage protein
+CP003909.1	1146697	1146927	+	CDS	gene	NGFG_02213	NGFG_02213	hypothetical protein
+CP003909.1	1146899	1147111	+	CDS	gene	NGFG_02371	NGFG_02371	phage protein
+CP003909.1	1147137	1147331	+	CDS	gene	NGFG_02190	NGFG_02190	phage protein
+CP003909.1	1147387	1147471	-	exon	tRNA	NGFG_06018	NGFG_06018	tRNA-Leu
+CP003909.1	1147622	1148296	+	CDS	gene	NGFG_02191	NGFG_02191	hypothetical protein
+CP003909.1	1148289	1148882	+	CDS	gene	NGFG_02192	NGFG_02192	GTP cyclohydrolase-2
+CP003909.1	1149050	1149250	+	CDS	gene	NGFG_02372	NGFG_02372	hypothetical protein
+CP003909.1	1149235	1150095	+	CDS	gene	NGFG_02373	NGFG_02373	hypothetical protein
+CP003909.1	1150833	1151192	-	CDS	gene	NGFG_02374	NGFG_02374	phage protein
+CP003909.1	1151313	1151750	-	CDS	gene	NGFG_02375	NGFG_02375	hypothetical protein
+CP003909.1	1151789	1152397	-	CDS	gene	NGFG_02376	NGFG_02376	phage protein
+CP003909.1	1152402	1154267	-	CDS	gene	NGFG_02073	NGFG_02073	TspB-like protein
+CP003909.1	1154209	1154526	-	CDS	gene	NGFG_02074	NGFG_02074	hypothetical protein
+CP003909.1	1154654	1154932	-	CDS	gene	NGFG_02075	NGFG_02075	hypothetical protein
+CP003909.1	1154939	1155157	-	CDS	gene	NGFG_02377	NGFG_02377	phage protein
+CP003909.1	1155243	1155446	-	CDS	gene	NGFG_02076	NGFG_02076	hypothetical protein
+CP003909.1	1155460	1155771	-	CDS	gene	NGFG_02077	NGFG_02077	hypothetical protein
+CP003909.1	1155785	1156816	-	CDS	gene	NGFG_02078	NGFG_02078	phage protein
+CP003909.1	1157098	1157322	-	CDS	gene	NGFG_02079	NGFG_02079	hypothetical protein
+CP003909.1	1157718	1157924	-	CDS	gene	NGFG_02080	NGFG_02080	hypothetical protein
+CP003909.1	1158019	1159188	-	CDS	gene	NGFG_02081	NGFG_02081	O-succinylhomoserine sulfhydrylase
+CP003909.1	1159334	1160104	-	CDS	gene	NGFG_02082	NGFG_02082	hypothetical protein
+CP003909.1	1160206	1160457	+	CDS	gene	NGFG_02084	NGFG_02084	hypothetical protein
+CP003909.1	1160509	1161315	+	CDS	gene	NGFG_02085	NGFG_02085	histidine-binding protein
+CP003909.1	1161505	1163145	+	CDS	gene	NGFG_02086	NGFG_02086	fumarate hydratase
+CP003909.1	1163243	1164655	+	CDS	gene	NGFG_02087	NGFG_02087	trk system potassium uptake protein TrkA
+CP003909.1	1165138	1165596	-	CDS	gene	NGFG_02088	NGFG_02088	outer membrane autotransporter barrel domain-containing protein
+CP003909.1	1165686	1166540	-	CDS	gene	NGFG_02089	NGFG_02089	hypothetical protein
+CP003909.1	1166873	1167526	+	CDS	gene	NGFG_02378	NGFG_02378	transposase
+CP003909.1	1167494	1168762	-	CDS	gene	NGFG_02090	NGFG_02090	hypothetical protein
+CP003909.1	1168960	1169035	+	exon	tRNA	NGFG_06019	NGFG_06019	tRNA-Glu
+CP003909.1	1169463	1170269	+	CDS	gene	NGFG_02092	NGFG_02092	phosphomethylpyrimidine kinase
+CP003909.1	1170327	1171181	-	CDS	gene	NGFG_02093	NGFG_02093	tellurite resistance protein TehB
+CP003909.1	1171222	1171746	+	CDS	gene	NGFG_02094	NGFG_02094	ribonuclease H
+CP003909.1	1172077	1173039	-	CDS	gene	NGFG_02379	NGFG_02379	hypothetical protein
+CP003909.1	1173550	1173909	-	CDS	gene	NGFG_02380	NGFG_02380	phage protein
+CP003909.1	1174030	1175058	-	CDS	gene	NGFG_02381	NGFG_02381	phage protein
+CP003909.1	1175126	1175416	-	CDS	gene	NGFG_02382	NGFG_02382	phage protein
+CP003909.1	1175417	1176211	-	CDS	gene	NGFG_02383	NGFG_02383	TspB3 protein
+CP003909.1	1176422	1176988	-	CDS	gene	NGFG_02384	NGFG_02384	cell-surface protein
+CP003909.1	1176930	1177247	-	CDS	gene	NGFG_02385	NGFG_02385	hypothetical protein
+CP003909.1	1177375	1177653	-	CDS	gene	NGFG_02386	NGFG_02386	hypothetical protein
+CP003909.1	1177953	1178150	-	CDS	gene	NGFG_02387	NGFG_02387	hypothetical protein
+CP003909.1	1178155	1178445	-	CDS	gene	NGFG_02388	NGFG_02388	hypothetical protein
+CP003909.1	1178490	1179836	-	CDS	gene	NGFG_02389	NGFG_02389	replication initiation factor
+CP003909.1	1179974	1180396	-	CDS	gene	NGFG_02180	NGFG_02180	DNA mismatch endonuclease Vsr
+CP003909.1	1180402	1182078	-	NA	pseudogene	NGFG_02181	NGFG_02181	
+CP003909.1	1182059	1183101	-	NA	pseudogene	NGFG_02182	NGFG_02182	
+CP003909.1	1183392	1183538	+	CDS	gene	NGFG_02183	NGFG_02183	hypothetical protein
+CP003909.1	1183654	1183908	+	CDS	gene	NGFG_02390	NGFG_02390	hypothetical protein
+CP003909.1	1183915	1184364	-	CDS	gene	NGFG_02184	NGFG_02184	pilin
+CP003909.1	1184452	1184751	-	CDS	gene	NGFG_02391	NGFG_02391	comEA protein
+CP003909.1	1185102	1185214	-	exon	rRNA	NGFG_06020	NGFG_06020	5S ribosomal RNA
+CP003909.1	1185313	1188202	-	exon	rRNA	NGFG_06021	NGFG_06021	23S ribosomal RNA
+CP003909.1	1188559	1188634	-	exon	tRNA	NGFG_06022	NGFG_06022	tRNA-Ala
+CP003909.1	1188640	1188716	-	exon	tRNA	NGFG_06023	NGFG_06023	tRNA-Ile
+CP003909.1	1188822	1190351	-	exon	rRNA	NGFG_06024	NGFG_06024	16S ribosomal RNA
+CP003909.1	1190701	1191354	-	NA	pseudogene	NGFG_01985	NGFG_01985	
+CP003909.1	1191308	1191652	-	CDS	gene	NGFG_01986	NGFG_01986	HAD hydrolase%2C family IIB
+CP003909.1	1192122	1192775	-	CDS	gene	NGFG_02392	NGFG_02392	transposase
+CP003909.1	1192867	1193205	-	CDS	gene	NGFG_01987	NGFG_01987	nitrogen regulatory protein P-II 1
+CP003909.1	1193357	1197313	+	CDS	gene	NGFG_01988	NGFG_01988	phosphoribosylformylglycinamidine synthase
+CP003909.1	1197384	1198595	-	CDS	gene	NGFG_01989	NGFG_01989	FMN oxidoreductase
+CP003909.1	1198669	1198980	-	CDS	gene	NGFG_01990	NGFG_01990	ArsR family transcriptional regulator
+CP003909.1	1199212	1199964	+	CDS	gene	NGFG_01992	NGFG_01992	hydroxyacylglutathione hydrolase
+CP003909.1	1200198	1201652	+	CDS	gene	NGFG_01993	NGFG_01993	magnesium transporter
+CP003909.1	1201738	1202646	-	CDS	gene	NGFG_01994	NGFG_01994	hsp33-like protein
+CP003909.1	1202891	1203559	+	CDS	gene	NGFG_01996	NGFG_01996	outer membrane protein
+CP003909.1	1203578	1203796	+	CDS	gene	NGFG_01997	NGFG_01997	hypothetical protein
+CP003909.1	1203941	1204285	+	CDS	gene	NGFG_01999	NGFG_01999	holin-like protein
+CP003909.1	1204285	1204977	+	CDS	gene	NGFG_02000	NGFG_02000	LrgB family protein
+CP003909.1	1205044	1206264	+	CDS	gene	NGFG_02001	NGFG_02001	arginine biosynthesis ArgJ
+CP003909.1	1206324	1207733	+	CDS	gene	NGFG_02002	NGFG_02002	chloride channel protein
+CP003909.1	1207921	1209312	+	CDS	gene	NGFG_02003	NGFG_02003	ATP-dependent helicase HrpA
+CP003909.1	1209263	1210882	+	CDS	gene	NGFG_02004	NGFG_02004	hypothetical protein
+CP003909.1	1211112	1212686	+	CDS	gene	NGFG_02005	NGFG_02005	sulfatase
+CP003909.1	1212788	1215982	+	CDS	gene	NGFG_02006	NGFG_02006	ATP-dependent helicase HrpA
+CP003909.1	1216102	1217064	-	CDS	gene	NGFG_02393	NGFG_02393	hypothetical protein
+CP003909.1	1217410	1217628	-	CDS	gene	NGFG_02248	NGFG_02248	hypothetical protein
+CP003909.1	1217731	1218180	+	CDS	gene	NGFG_02394	NGFG_02394	transposase
+CP003909.1	1218396	1219424	-	CDS	gene	NGFG_02007	NGFG_02007	anthranilate phosphoribosyltransferase
+CP003909.1	1219488	1220078	-	CDS	gene	NGFG_02008	NGFG_02008	anthranilate synthase component II
+CP003909.1	1220489	1222765	+	CDS	gene	NGFG_02010	NGFG_02010	TonB-dependent receptor
+CP003909.1	1223305	1224084	-	CDS	gene	NGFG_02011	NGFG_02011	phosphatidylserine decarboxylase proenzyme
+CP003909.1	1224238	1227087	+	CDS	gene	NGFG_02012	NGFG_02012	UvrABC system protein A
+CP003909.1	1227105	1227746	+	CDS	gene	NGFG_02013	NGFG_02013	restriction endonuclease
+CP003909.1	1227750	1228883	+	CDS	gene	NGFG_02014	NGFG_02014	DNA (cytosine-5-)-methyltransferase
+CP003909.1	1228966	1229379	+	CDS	gene	NGFG_02015	NGFG_02015	hypothetical protein
+CP003909.1	1229376	1230029	-	CDS	gene	NGFG_02395	NGFG_02395	transposase
+CP003909.1	1230171	1231805	-	CDS	gene	NGFG_02016	NGFG_02016	CTP synthase
+CP003909.1	1231917	1233587	-	CDS	gene	NGFG_02017	NGFG_02017	long-chain acyl-CoA synthetase
+CP003909.1	1233658	1234809	-	CDS	gene	NGFG_02018	NGFG_02018	tRNA-specific 2-thiouridylase mnmA
+CP003909.1	1234886	1235359	-	CDS	gene	NGFG_02019	NGFG_02019	hypothetical protein
+CP003909.1	1235491	1235874	-	CDS	gene	NGFG_02020	NGFG_02020	diacylglycerol kinase
+CP003909.1	1236033	1236989	-	CDS	gene	NGFG_02022	NGFG_02022	glutathione synthetase
+CP003909.1	1237081	1238802	-	CDS	gene	NGFG_02023	NGFG_02023	glutaminyl-tRNA synthetase
+CP003909.1	1238972	1239655	-	CDS	gene	NGFG_02024	NGFG_02024	DeoR family transcriptional regulator%2C glycerol-3-phosphate regulon repressor
+CP003909.1	1239698	1240600	-	CDS	gene	NGFG_02025	NGFG_02025	hypothetical protein
+CP003909.1	1240749	1241465	-	CDS	gene	NGFG_02027	NGFG_02027	GntR family transcriptional regulator
+CP003909.1	1241988	1242449	-	CDS	gene	NGFG_02029	NGFG_02029	OsmC family redox protein
+CP003909.1	1242528	1243196	-	CDS	gene	NGFG_02030	NGFG_02030	hypothetical protein
+CP003909.1	1243215	1243937	-	CDS	gene	NGFG_02031	NGFG_02031	phosphoribosylglycinamide formyltransferase
+CP003909.1	1243948	1244766	-	CDS	gene	NGFG_02032	NGFG_02032	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+CP003909.1	1245026	1245466	-	CDS	gene	NGFG_02033	NGFG_02033	DNA polymerase III subunit chi
+CP003909.1	1245529	1246935	-	CDS	gene	NGFG_02034	NGFG_02034	aminopeptidase A
+CP003909.1	1247108	1248223	+	CDS	gene	NGFG_02035	NGFG_02035	lipopolysaccharide exporter permease
+CP003909.1	1248220	1249290	+	CDS	gene	NGFG_02036	NGFG_02036	lipopolysaccharide exporter permease
+CP003909.1	1249605	1252190	+	CDS	gene	NGFG_02037	NGFG_02037	aconitate hydratase 2
+CP003909.1	1252332	1253327	+	CDS	gene	NGFG_02038	NGFG_02038	ornithine carbamoyltransferase
+CP003909.1	1253446	1254459	-	CDS	gene	NGFG_02039	NGFG_02039	ketol-acid reductoisomerase
+CP003909.1	1254539	1254832	-	CDS	gene	NGFG_02040	NGFG_02040	hypothetical protein
+CP003909.1	1254899	1255390	-	CDS	gene	NGFG_02041	NGFG_02041	acetolactate synthase%2C small subunit
+CP003909.1	1255401	1257128	-	CDS	gene	NGFG_02042	NGFG_02042	acetolactate synthase%2C large subunit%2C biosynthetic type
+CP003909.1	1257822	1257906	-	exon	tRNA	NGFG_06025	NGFG_06025	tRNA-Leu
+CP003909.1	1258182	1258835	+	CDS	gene	NGFG_02043	NGFG_02043	lipoprotein
+CP003909.1	1258914	1259579	+	CDS	gene	NGFG_02044	NGFG_02044	ATP phosphoribosyltransferase
+CP003909.1	1259671	1260558	+	CDS	gene	NGFG_02045	NGFG_02045	hypothetical protein
+CP003909.1	1260555	1261844	+	CDS	gene	NGFG_02046	NGFG_02046	histidinol dehydrogenase
+CP003909.1	1261890	1262969	+	CDS	gene	NGFG_02047	NGFG_02047	histidinol-phosphate aminotransferase
+CP003909.1	1262986	1263897	+	CDS	gene	NGFG_02048	NGFG_02048	imidazoleglycerol-phosphate dehydratase
+CP003909.1	1263973	1264701	+	CDS	gene	NGFG_02049	NGFG_02049	3-hydroxyisobutyrate dehydrogenase
+CP003909.1	1264652	1264843	+	CDS	gene	NGFG_02050	NGFG_02050	hypothetical protein
+CP003909.1	1265078	1265509	+	CDS	gene	NGFG_02051	NGFG_02051	MarR family transcriptional regulator
+CP003909.1	1265520	1266374	+	CDS	gene	NGFG_02052	NGFG_02052	hypothetical protein
+CP003909.1	1266425	1267525	-	CDS	gene	NGFG_02053	NGFG_02053	signal peptide peptidase SppA%2C 36K type
+CP003909.1	1267581	1267670	-	exon	tRNA	NGFG_06026	NGFG_06026	tRNA-Leu
+CP003909.1	1267771	1267844	-	exon	tRNA	NGFG_06027	NGFG_06027	tRNA-Cys
+CP003909.1	1267870	1267945	-	exon	tRNA	NGFG_06028	NGFG_06028	tRNA-Gly
+CP003909.1	1267971	1268046	-	exon	tRNA	NGFG_06029	NGFG_06029	tRNA-Gly
+CP003909.1	1268072	1268147	-	exon	tRNA	NGFG_06030	NGFG_06030	tRNA-Gly
+CP003909.1	1268228	1268791	-	CDS	gene	NGFG_02054	NGFG_02054	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+CP003909.1	1268897	1269367	-	CDS	gene	NGFG_02055	NGFG_02055	hypothetical protein
+CP003909.1	1269498	1269833	-	CDS	gene	NGFG_02056	NGFG_02056	4-carboxymuconolactone decarboxylase
+CP003909.1	1269962	1270867	+	CDS	gene	NGFG_02057	NGFG_02057	transcriptional regulator MtrA
+CP003909.1	1270929	1271426	-	CDS	gene	NGFG_02058	NGFG_02058	hypothetical protein
+CP003909.1	1271604	1272467	+	CDS	gene	NGFG_02396	NGFG_02396	hypothetical protein
+CP003909.1	1272508	1273638	-	CDS	gene	NGFG_02061	NGFG_02061	putrescine ABC transporter substrate-binding protein
+CP003909.1	1273809	1276466	+	CDS	gene	NGFG_02062	NGFG_02062	alanyl-tRNA synthetase
+CP003909.1	1277268	1277921	+	CDS	gene	NGFG_02397	NGFG_02397	transposase
+CP003909.1	1278899	1279582	-	CDS	gene	NGFG_02065	NGFG_02065	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+CP003909.1	1279731	1282034	+	CDS	gene	NGFG_02066	NGFG_02066	DNA topoisomerase 4 subunit A
+CP003909.1	1282054	1283772	+	CDS	gene	NGFG_02067	NGFG_02067	two-component system%2C NtrC family%2C sensor kinase PilS
+CP003909.1	1283872	1284624	+	CDS	gene	NGFG_02068	NGFG_02068	UPF0341 protein in rsp 3'region
+CP003909.1	1285167	1286129	-	CDS	gene	NGFG_02398	NGFG_02398	hypothetical protein
+CP003909.1	1286640	1286999	-	CDS	gene	NGFG_02399	NGFG_02399	phage protein
+CP003909.1	1287120	1288205	-	CDS	gene	NGFG_02400	NGFG_02400	phage protein
+CP003909.1	1288215	1288505	-	CDS	gene	NGFG_02401	NGFG_02401	phage protein
+CP003909.1	1288506	1290074	-	CDS	gene	NGFG_02402	NGFG_02402	TspB-like protein
+CP003909.1	1290016	1290333	-	CDS	gene	NGFG_02403	NGFG_02403	hypothetical protein
+CP003909.1	1290461	1290739	-	CDS	gene	NGFG_02404	NGFG_02404	hypothetical protein
+CP003909.1	1291039	1291236	-	CDS	gene	NGFG_02196	NGFG_02196	hypothetical protein
+CP003909.1	1291241	1291531	-	CDS	gene	NGFG_02197	NGFG_02197	hypothetical protein
+CP003909.1	1291576	1292613	-	CDS	gene	NGFG_02198	NGFG_02198	replication initiation factor
+CP003909.1	1293596	1294000	+	CDS	gene	NGFG_02151	NGFG_02151	hypothetical protein
+CP003909.1	1294040	1295221	+	CDS	gene	NGFG_02152	NGFG_02152	muramoyltetrapeptide carboxypeptidase
+CP003909.1	1295323	1297578	-	CDS	gene	NGFG_02153	NGFG_02153	nitric oxide reductase subunit B
+CP003909.1	1297952	1299130	+	CDS	gene	NGFG_02154	NGFG_02154	copper-containing nitrite reductase
+CP003909.1	1299308	1300063	+	CDS	gene	NGFG_02155	NGFG_02155	formylglycine-generating sulfatase enzyme
+CP003909.1	1300336	1300557	+	CDS	gene	NGFG_02405	NGFG_02405	pilin pilS5
+CP003909.1	1301354	1302055	+	CDS	gene	NGFG_02406	NGFG_02406	opacity protein
+CP003909.1	1302256	1302813	-	CDS	gene	NGFG_02156	NGFG_02156	nitroreductase
+CP003909.1	1302888	1304522	-	CDS	gene	NGFG_02157	NGFG_02157	sulfatase
+CP003909.1	1304920	1306200	-	CDS	gene	NGFG_02407	NGFG_02407	phosphoserine aminotransferase
+CP003909.1	1306392	1306823	+	CDS	gene	NGFG_02160	NGFG_02160	ribosome maturation factor RimP
+CP003909.1	1306851	1308353	+	CDS	gene	NGFG_02161	NGFG_02161	transcription termination factor NusA
+CP003909.1	1308365	1311196	+	CDS	gene	NGFG_02162	NGFG_02162	translation initiation factor IF-2
+CP003909.1	1311356	1312696	-	CDS	gene	NGFG_02163	NGFG_02163	GTP-binding protein
+CP003909.1	1312770	1314110	-	CDS	gene	NGFG_02164	NGFG_02164	hypothetical protein
+CP003909.1	1314253	1314879	+	CDS	gene	NGFG_02165	NGFG_02165	hemolysin III family channel protein
+CP003909.1	1314944	1316362	-	CDS	gene	NGFG_02166	NGFG_02166	sodium:alanine symporter
+CP003909.1	1316689	1317417	+	CDS	gene	NGFG_02167	NGFG_02167	UPF0082 protein
+CP003909.1	1317476	1318169	-	NA	pseudogene	NGFG_02168	NGFG_02168	
+CP003909.1	1318986	1319450	-	CDS	gene	NGFG_02170	NGFG_02170	lrp/AsnC family transcriptional regulator%2C leucine-responsive regulatory protein
+CP003909.1	1319672	1320730	+	CDS	gene	NGFG_02171	NGFG_02171	alanine racemase
+CP003909.1	1321272	1322627	-	CDS	gene	NGFG_02173	NGFG_02173	UPF0210 protein
+CP003909.1	1322642	1322914	-	CDS	gene	NGFG_02174	NGFG_02174	ACT protein
+CP003909.1	1323039	1323902	-	CDS	gene	NGFG_02175	NGFG_02175	hypothetical protein
+CP003909.1	1323914	1324825	-	CDS	gene	NGFG_02176	NGFG_02176	protein-(glutamine-N5) methyltransferase%2C ribosomal protein L3-specific
+CP003909.1	1324957	1325630	+	NA	pseudogene	NGFG_02177	NGFG_02177	
+CP003909.1	1325770	1326435	+	CDS	gene	NGFG_02408	NGFG_02408	transposase
+CP003909.1	1326709	1327050	+	CDS	gene	NGFG_02244	NGFG_02244	phage protein
+CP003909.1	1327386	1327685	-	CDS	gene	NGFG_02409	NGFG_02409	comEA protein
+CP003909.1	1328036	1328148	-	exon	rRNA	NGFG_06031	NGFG_06031	5S ribosomal RNA
+CP003909.1	1328247	1331136	-	exon	rRNA	NGFG_06032	NGFG_06032	23S ribosomal RNA
+CP003909.1	1331485	1331560	-	exon	tRNA	NGFG_06033	NGFG_06033	tRNA-Ala
+CP003909.1	1331566	1331642	-	exon	tRNA	NGFG_06034	NGFG_06034	tRNA-Ile
+CP003909.1	1331748	1333277	-	exon	rRNA	NGFG_06035	NGFG_06035	16S ribosomal RNA
+CP003909.1	1333815	1334999	+	CDS	gene	NGFG_01611	NGFG_01611	phosphopantothenoylcysteine decarboxylase/phosphopantothenate-cysteine ligase
+CP003909.1	1335066	1337222	-	CDS	gene	NGFG_01610	NGFG_01610	RelA/SpoT family protein
+CP003909.1	1337315	1337521	-	CDS	gene	NGFG_01609	NGFG_01609	DNA-directed RNA polymerase subunit omega
+CP003909.1	1337579	1338196	-	CDS	gene	NGFG_01608	NGFG_01608	guanylate kinase
+CP003909.1	1338357	1338923	+	CDS	gene	NGFG_01607	NGFG_01607	adenine phosphoribosyltransferase
+CP003909.1	1338969	1339760	-	CDS	gene	NGFG_01606	NGFG_01606	HAD hydrolase
+CP003909.1	1340083	1341438	+	CDS	gene	NGFG_01605	NGFG_01605	protease
+CP003909.1	1341570	1342042	+	NA	pseudogene	NGFG_01604	NGFG_01604	
+CP003909.1	1341872	1342090	-	CDS	gene	NGFG_01603	NGFG_01603	hypothetical protein
+CP003909.1	1342251	1342601	-	CDS	gene	NGFG_01602	NGFG_01602	hemoglobin receptor
+CP003909.1	1342586	1343524	-	CDS	gene	NGFG_01601	NGFG_01601	hemoglobin/transferrin/lactoferrin receptor protein
+CP003909.1	1343770	1344624	-	CDS	gene	NGFG_01600	NGFG_01600	hemoglobin receptor
+CP003909.1	1344837	1345502	+	CDS	gene	NGFG_02410	NGFG_02410	transposase
+CP003909.1	1345527	1346156	-	CDS	gene	NGFG_01599	NGFG_01599	heme oxygenase
+CP003909.1	1346497	1347801	+	CDS	gene	NGFG_01598	NGFG_01598	paraquat-inducible protein PqiA
+CP003909.1	1347794	1349455	+	CDS	gene	NGFG_01597	NGFG_01597	paraquat-inducible protein B
+CP003909.1	1349455	1349973	+	CDS	gene	NGFG_01596	NGFG_01596	hypothetical protein
+CP003909.1	1349977	1350528	+	CDS	gene	NGFG_01595	NGFG_01595	DNA-3-methyladenine glycosylase I
+CP003909.1	1350518	1351159	+	CDS	gene	NGFG_01594	NGFG_01594	GDSL lipase/acylhydrolase
+CP003909.1	1351330	1351689	+	CDS	gene	NGFG_01593	NGFG_01593	hypothetical protein
+CP003909.1	1351720	1354572	+	CDS	gene	NGFG_01592	NGFG_01592	glycine dehydrogenase [decarboxylating]
+CP003909.1	1354910	1355365	+	CDS	gene	NGFG_02411	NGFG_02411	hypothetical protein
+CP003909.1	1355383	1355679	-	CDS	gene	NGFG_02412	NGFG_02412	hypothetical protein
+CP003909.1	1355934	1356773	-	CDS	gene	NGFG_01591	NGFG_01591	cytochrome c
+CP003909.1	1357058	1357133	+	exon	tRNA	NGFG_06036	NGFG_06036	tRNA-Arg
+CP003909.1	1357198	1358391	-	CDS	gene	NGFG_01590	NGFG_01590	aromatic-amino-acid transaminase
+CP003909.1	1358411	1359499	-	CDS	gene	NGFG_01589	NGFG_01589	tRNA (uracil-5-)-methyltransferase
+CP003909.1	1359646	1360746	+	CDS	gene	NGFG_01588	NGFG_01588	chorismate synthase
+CP003909.1	1360837	1361262	+	CDS	gene	NGFG_01587	NGFG_01587	hypothetical protein
+CP003909.1	1361336	1363321	-	CDS	gene	NGFG_01586	NGFG_01586	DNA topoisomerase IV%2C B subunit
+CP003909.1	1363388	1363996	-	CDS	gene	NGFG_01585	NGFG_01585	dinucleoside polyphosphate hydrolase
+CP003909.1	1364078	1365373	+	CDS	gene	NGFG_01584	NGFG_01584	seryl-tRNA synthetase
+CP003909.1	1365446	1366444	-	CDS	gene	NGFG_01583	NGFG_01583	D-lactate dehydrogenase
+CP003909.1	1366569	1367645	-	CDS	gene	NGFG_01582	NGFG_01582	peptide chain release factor 1
+CP003909.1	1367735	1368505	-	CDS	gene	NGFG_01581	NGFG_01581	TatD family hydrolase
+CP003909.1	1368508	1369500	-	CDS	gene	NGFG_01580	NGFG_01580	L-asparaginase
+CP003909.1	1369567	1370250	-	CDS	gene	NGFG_01579	NGFG_01579	dedA family membrane protein
+CP003909.1	1370440	1371774	-	CDS	gene	NGFG_01578	NGFG_01578	phosphoglucosamine mutase
+CP003909.1	1371904	1372758	-	CDS	gene	NGFG_01577	NGFG_01577	dihydropteroate synthase
+CP003909.1	1372898	1373791	-	CDS	gene	NGFG_01576	NGFG_01576	hypothetical protein
+CP003909.1	1373882	1375984	+	CDS	gene	NGFG_01575	NGFG_01575	AsmA-like protein
+CP003909.1	1376048	1377526	-	CDS	gene	NGFG_01574	NGFG_01574	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+CP003909.1	1377546	1378061	-	CDS	gene	NGFG_01573	NGFG_01573	hypothetical protein
+CP003909.1	1378068	1378385	-	CDS	gene	NGFG_01572	NGFG_01572	hypothetical protein
+CP003909.1	1378452	1378604	-	CDS	gene	NGFG_02413	NGFG_02413	hypothetical protein
+CP003909.1	1378697	1379509	-	CDS	gene	NGFG_01571	NGFG_01571	hypothetical protein
+CP003909.1	1380004	1380138	+	CDS	gene	NGFG_01569	NGFG_01569	hypothetical protein
+CP003909.1	1380240	1380905	+	CDS	gene	NGFG_01568	NGFG_01568	3-oxoacyl-[acyl-carrier-protein] reductase
+CP003909.1	1380902	1382155	+	CDS	gene	NGFG_01567	NGFG_01567	3-oxoacyl-[acyl-carrier-protein] synthase II
+CP003909.1	1382298	1382373	+	exon	tRNA	NGFG_06037	NGFG_06037	tRNA-Met
+CP003909.1	1382448	1383206	+	CDS	gene	NGFG_01566	NGFG_01566	beta-1%2C4-glucosyltransferase LgtF
+CP003909.1	1383207	1384271	+	CDS	gene	NGFG_01565	NGFG_01565	lipopolysaccharide N-acetylglucosaminyltransferase
+CP003909.1	1384310	1385842	+	CDS	gene	NGFG_01564	NGFG_01564	NSS family neurotransmitter:Na+ symporter
+CP003909.1	1386017	1386978	-	NA	pseudogene	NGFG_01563	NGFG_01563	
+CP003909.1	1387038	1387832	-	CDS	gene	NGFG_01562	NGFG_01562	thymidylate synthase
+CP003909.1	1388256	1389590	+	CDS	gene	NGFG_01561	NGFG_01561	glutamate dehydrogenase (NADP+)
+CP003909.1	1389587	1389832	-	CDS	gene	NGFG_01560	NGFG_01560	hypothetical protein
+CP003909.1	1389829	1390608	-	CDS	gene	NGFG_01559	NGFG_01559	GntR family transcriptional regulator
+CP003909.1	1390958	1391185	+	CDS	gene	NGFG_01558	NGFG_01558	L-lactate permease-like protein
+CP003909.1	1391563	1392966	-	CDS	gene	NGFG_01556	NGFG_01556	NodT family efflux transporter%2C outer membrane factor (OMF) lipoprotein
+CP003909.1	1393019	1396222	-	CDS	gene	NGFG_01555	NGFG_01555	hydrophobe/amphiphile efflux-1 (HAE1) family RND transporter
+CP003909.1	1396234	1397472	-	CDS	gene	NGFG_01554	NGFG_01554	membrane fusion protein mtrC
+CP003909.1	1397723	1398355	+	CDS	gene	NGFG_01553	NGFG_01553	TetR/AcrR family transcriptional regulator%2C acrAB operon repressor
+CP003909.1	1398448	1398660	-	CDS	gene	NGFG_01552	NGFG_01552	hypothetical protein
+CP003909.1	1398992	1400560	+	CDS	gene	NGFG_01551	NGFG_01551	AbgT transporter
+CP003909.1	1400628	1403837	-	CDS	gene	NGFG_01550	NGFG_01550	exodeoxyribonuclease V%2C gamma subunit
+CP003909.1	1403938	1405347	-	CDS	gene	NGFG_01549	NGFG_01549	hypothetical protein
+CP003909.1	1405692	1407011	-	CDS	gene	NGFG_01548	NGFG_01548	cytochrome c oxidase%2C cbb3-type%2C subunit III
+CP003909.1	1407035	1407205	-	CDS	gene	NGFG_01547	NGFG_01547	cytochrome c oxidase subunit
+CP003909.1	1407210	1407821	-	CDS	gene	NGFG_01546	NGFG_01546	cytochrome c oxidase%2C cbb3-type%2C subunit II
+CP003909.1	1407848	1409281	-	CDS	gene	NGFG_01545	NGFG_01545	cytochrome c oxidase%2C cbb3-type%2C subunit I
+CP003909.1	1409455	1409571	-	CDS	gene	NGFG_02414	NGFG_02414	hypothetical protein
+CP003909.1	1409607	1411355	+	CDS	gene	NGFG_01544	NGFG_01544	M61 family glycyl aminopeptidase
+CP003909.1	1411420	1411848	+	CDS	gene	NGFG_01543	NGFG_01543	hypothetical protein
+CP003909.1	1412349	1412783	-	CDS	gene	NGFG_01542	NGFG_01542	biopolymer transporter exbD
+CP003909.1	1412786	1413448	-	CDS	gene	NGFG_01541	NGFG_01541	biopolymer transporter exbB
+CP003909.1	1413514	1414365	-	CDS	gene	NGFG_01540	NGFG_01540	protein tonB
+CP003909.1	1414621	1415259	+	CDS	gene	NGFG_01539	NGFG_01539	M50 family peptidase
+CP003909.1	1415330	1415971	-	CDS	gene	NGFG_01538	NGFG_01538	GrxB family glutaredoxin
+CP003909.1	1416114	1418327	+	CDS	gene	NGFG_01537	NGFG_01537	GTP pyrophosphokinase
+CP003909.1	1418391	1418768	-	CDS	gene	NGFG_01536	NGFG_01536	hypothetical protein
+CP003909.1	1418837	1419292	-	CDS	gene	NGFG_02415	NGFG_02415	hypothetical protein
+CP003909.1	1419273	1419902	-	CDS	gene	NGFG_02416	NGFG_02416	hypothetical protein
+CP003909.1	1420051	1420281	-	CDS	gene	NGFG_02203	NGFG_02203	hypothetical protein
+CP003909.1	1420448	1420720	-	CDS	gene	NGFG_02204	NGFG_02204	hypothetical protein
+CP003909.1	1420933	1421436	-	CDS	gene	NGFG_02205	NGFG_02205	hypothetical protein
+CP003909.1	1421651	1422010	-	CDS	gene	NGFG_02417	NGFG_02417	hypothetical protein
+CP003909.1	1422013	1422573	-	CDS	gene	NGFG_01534	NGFG_01534	MafB protein
+CP003909.1	1422668	1422949	-	CDS	gene	NGFG_01533	NGFG_01533	hypothetical protein
+CP003909.1	1422927	1423361	-	CDS	gene	NGFG_01532	NGFG_01532	MafB protein
+CP003909.1	1423499	1423834	-	CDS	gene	NGFG_01531	NGFG_01531	hypothetical protein
+CP003909.1	1423831	1424562	-	CDS	gene	NGFG_02418	NGFG_02418	hypothetical protein
+CP003909.1	1424697	1425240	-	NA	pseudogene	NGFG_01530	NGFG_01530	
+CP003909.1	1425367	1425594	-	CDS	gene	NGFG_01529	NGFG_01529	hypothetical protein
+CP003909.1	1425653	1425976	-	CDS	gene	NGFG_01528	NGFG_01528	hypothetical protein
+CP003909.1	1425966	1426319	-	CDS	gene	NGFG_01527	NGFG_01527	hypothetical protein
+CP003909.1	1426616	1427164	-	CDS	gene	NGFG_01526	NGFG_01526	hypothetical protein
+CP003909.1	1427154	1428971	-	CDS	gene	NGFG_02419	NGFG_02419	MafB family adhesin protein
+CP003909.1	1428975	1429916	-	CDS	gene	NGFG_02194	NGFG_02194	adhesin mafA 2/3
+CP003909.1	1430056	1430709	-	CDS	gene	NGFG_02420	NGFG_02420	transposase
+CP003909.1	1430776	1431357	+	CDS	gene	NGFG_02421	NGFG_02421	bacteriocin resistance protein
+CP003909.1	1431487	1433148	+	CDS	gene	NGFG_01524	NGFG_01524	electron-transfer flavoprotein dehydrogenase
+CP003909.1	1433282	1433776	-	CDS	gene	NGFG_01523	NGFG_01523	NosL-like lipoprotein
+CP003909.1	1433773	1434603	-	CDS	gene	NGFG_01522	NGFG_01522	ABC transporter permease
+CP003909.1	1434600	1435496	-	CDS	gene	NGFG_01521	NGFG_01521	ABC transporter ATP-binding protein
+CP003909.1	1435554	1436132	-	CDS	gene	NGFG_01520	NGFG_01520	copper ABC transporter periplasmic copper-binding protein
+CP003909.1	1436139	1436909	-	CDS	gene	NGFG_01519	NGFG_01519	nitrous oxidase accessory protein
+CP003909.1	1437082	1439049	-	NA	pseudogene	NGFG_01518	NGFG_01518	
+CP003909.1	1439178	1440365	-	CDS	gene	NGFG_01517	NGFG_01517	nitrous-oxide reductase transcriptional activator NosR
+CP003909.1	1440369	1441508	-	CDS	gene	NGFG_01516	NGFG_01516	FMN-binding protein
+CP003909.1	1441731	1442978	-	CDS	gene	NGFG_01515	NGFG_01515	glutamyl-tRNA reductase
+CP003909.1	1443131	1443517	-	CDS	gene	NGFG_01514	NGFG_01514	glycine cleavage system H protein
+CP003909.1	1443569	1444108	-	CDS	gene	NGFG_01513	NGFG_01513	hypothetical protein
+CP003909.1	1444255	1445355	-	CDS	gene	NGFG_01512	NGFG_01512	aminomethyltransferase
+CP003909.1	1445867	1446349	+	CDS	gene	NGFG_01511	NGFG_01511	lrp/AsnC family transcriptional regulator%2C leucine-responsive regulatory protein
+CP003909.1	1446405	1447001	+	CDS	gene	NGFG_01510	NGFG_01510	hypothetical protein
+CP003909.1	1446998	1447357	+	CDS	gene	NGFG_01509	NGFG_01509	hypothetical protein
+CP003909.1	1447716	1449137	+	CDS	gene	NGFG_01507	NGFG_01507	citrate transporter
+CP003909.1	1449211	1449864	-	CDS	gene	NGFG_02422	NGFG_02422	transposase
+CP003909.1	1450102	1451445	+	CDS	gene	NGFG_01506	NGFG_01506	Na(+)-translocating NADH-quinone reductase subunit A
+CP003909.1	1451448	1452680	+	CDS	gene	NGFG_01505	NGFG_01505	Na(+)-translocating NADH-quinone reductase subunit B
+CP003909.1	1452673	1453449	+	CDS	gene	NGFG_01504	NGFG_01504	Na(+)-translocating NADH-quinone reductase subunit C
+CP003909.1	1453449	1454075	+	CDS	gene	NGFG_01503	NGFG_01503	Na(+)-translocating NADH-quinone reductase subunit D
+CP003909.1	1454079	1454672	+	CDS	gene	NGFG_01502	NGFG_01502	Na(+)-translocating NADH-quinone reductase subunit E
+CP003909.1	1454686	1455903	+	CDS	gene	NGFG_01501	NGFG_01501	Na(+)-translocating NADH-quinone reductase subunit F
+CP003909.1	1456142	1456252	+	CDS	gene	NGFG_01500	NGFG_01500	hypothetical protein
+CP003909.1	1456420	1457475	+	CDS	gene	NGFG_01499	NGFG_01499	thiamine biosynthesis lipoprotein
+CP003909.1	1457501	1457716	+	CDS	gene	NGFG_01498	NGFG_01498	hypothetical protein
+CP003909.1	1457840	1458418	-	CDS	gene	NGFG_01497	NGFG_01497	protein grpE
+CP003909.1	1458601	1459419	+	CDS	gene	NGFG_01496	NGFG_01496	serine O-acetyltransferase
+CP003909.1	1459623	1461134	-	CDS	gene	NGFG_01495	NGFG_01495	ubiquinone biosynthesis protein
+CP003909.1	1461169	1461626	-	NA	pseudogene	NGFG_01494	NGFG_01494	
+CP003909.1	1461786	1462247	-	CDS	gene	NGFG_01493	NGFG_01493	iron-sulfur cluster assembly accessory protein
+CP003909.1	1462257	1462943	-	CDS	gene	NGFG_01492	NGFG_01492	transcriptional regulator
+CP003909.1	1463130	1463402	+	CDS	gene	NGFG_01491	NGFG_01491	hypothetical protein
+CP003909.1	1463610	1465538	+	CDS	gene	NGFG_01490	NGFG_01490	chaperone dnaK
+CP003909.1	1465791	1467687	+	NA	pseudogene	NGFG_01489	NGFG_01489	
+CP003909.1	1467744	1468721	+	CDS	gene	NGFG_01488	NGFG_01488	Tat (Twin-arginine translocation) pathway signaling protein
+CP003909.1	1469274	1470070	+	NA	pseudogene	NGFG_01487	NGFG_01487	
+CP003909.1	1470070	1470762	+	CDS	gene	NGFG_01486	NGFG_01486	NitT/TauT ABC transporter ATP-binding protein
+CP003909.1	1470954	1471568	+	CDS	gene	NGFG_01485	NGFG_01485	cadmium resistance transporter
+CP003909.1	1471907	1472960	+	NA	pseudogene	NGFG_01484	NGFG_01484	
+CP003909.1	1473007	1475196	-	CDS	gene	NGFG_01483	NGFG_01483	primosomal protein N'
+CP003909.1	1475336	1476121	+	CDS	gene	NGFG_01482	NGFG_01482	thiol:disulfide interchange protein DsbC
+CP003909.1	1476220	1478154	-	CDS	gene	NGFG_01481	NGFG_01481	macrolide export ATP-binding/permease MacB
+CP003909.1	1478220	1479398	-	CDS	gene	NGFG_01480	NGFG_01480	efflux transporter%2C RND family%2C MFP subunit
+CP003909.1	1479624	1480013	+	CDS	gene	NGFG_01479	NGFG_01479	prepilin-type N-terminal cleavage/methylation domain-containing protein
+CP003909.1	1480287	1481333	+	CDS	gene	NGFG_01478	NGFG_01478	alcohol dehydrogenase%2C propanol-preferring
+CP003909.1	1481634	1485119	-	CDS	gene	NGFG_01476	NGFG_01476	chromosome segregation protein SMC
+CP003909.1	1486132	1486617	+	CDS	gene	NGFG_02423	NGFG_02423	hypothetical protein
+CP003909.1	1486826	1487548	+	CDS	gene	NGFG_01472	NGFG_01472	UDP-2%2C3-diacylglucosamine hydrolase
+CP003909.1	1487817	1489403	+	CDS	gene	NGFG_01471	NGFG_01471	lactate permease (LctP) family transporter
+CP003909.1	1489569	1489772	-	CDS	gene	NGFG_01470	NGFG_01470	hypothetical protein
+CP003909.1	1489888	1490385	+	CDS	gene	NGFG_01469	NGFG_01469	hypothetical protein
+CP003909.1	1490467	1491657	+	CDS	gene	NGFG_01468	NGFG_01468	aspartate aminotransferase
+CP003909.1	1491888	1492343	+	CDS	gene	NGFG_02424	NGFG_02424	hypothetical protein
+CP003909.1	1492361	1492657	-	CDS	gene	NGFG_02425	NGFG_02425	hypothetical protein
+CP003909.1	1492713	1494224	-	CDS	gene	NGFG_01467	NGFG_01467	lysyl-tRNA synthetase
+CP003909.1	1494378	1495631	-	CDS	gene	NGFG_01466	NGFG_01466	hypothetical protein
+CP003909.1	1495910	1497886	+	CDS	gene	NGFG_01464	NGFG_01464	xaa-Pro aminopeptidase
+CP003909.1	1499347	1499889	-	CDS	gene	NGFG_02426	NGFG_02426	hypothetical protein
+CP003909.1	1499889	1500185	-	CDS	gene	NGFG_02237	NGFG_02237	opacity protein
+CP003909.1	1500420	1501133	-	CDS	gene	NGFG_02238	NGFG_02238	opacity protein
+CP003909.1	1501156	1501251	-	CDS	gene	NGFG_02427	NGFG_02427	hypothetical protein
+CP003909.1	1501573	1501785	+	CDS	gene	NGFG_02428	NGFG_02428	hypothetical protein
+CP003909.1	1501973	1503553	-	CDS	gene	NGFG_01461	NGFG_01461	bifunctional purine biosynthesis protein purH
+CP003909.1	1503714	1504937	-	CDS	gene	NGFG_01460	NGFG_01460	voltage gated chloride channel protein
+CP003909.1	1505001	1505834	-	CDS	gene	NGFG_01459	NGFG_01459	phosphoserine phosphatase SerB
+CP003909.1	1506123	1507661	+	CDS	gene	NGFG_01458	NGFG_01458	NAD(P)(+) transhydrogenase (AB-specific)%2C alpha subunit
+CP003909.1	1507665	1508048	+	CDS	gene	NGFG_01457	NGFG_01457	hypothetical protein
+CP003909.1	1508128	1509513	+	CDS	gene	NGFG_01455	NGFG_01455	NAD(P) transhydrogenase subunit beta
+CP003909.1	1509721	1510299	-	NA	pseudogene	NGFG_01454	NGFG_01454	
+CP003909.1	1510538	1511449	+	CDS	gene	NGFG_01453	NGFG_01453	LysR family transcriptional regulator
+CP003909.1	1511947	1512022	-	exon	tRNA	NGFG_06038	NGFG_06038	tRNA-Asn
+CP003909.1	1512114	1512473	-	CDS	gene	NGFG_01452	NGFG_01452	hypothetical protein
+CP003909.1	1512494	1513136	-	NA	pseudogene	NGFG_01451	NGFG_01451	
+CP003909.1	1513138	1513673	-	NA	pseudogene	NGFG_01450	NGFG_01450	
+CP003909.1	1513685	1514783	-	NA	pseudogene	NGFG_01449	NGFG_01449	
+CP003909.1	1514786	1516178	-	NA	pseudogene	NGFG_01448	NGFG_01448	
+CP003909.1	1516444	1517226	-	CDS	gene	NGFG_01447	NGFG_01447	biotin biosynthesis protein BioC
+CP003909.1	1517214	1517861	-	CDS	gene	NGFG_01446	NGFG_01446	hypothetical protein
+CP003909.1	1517871	1519013	-	CDS	gene	NGFG_01445	NGFG_01445	8-amino-7-oxononanoate synthase
+CP003909.1	1519035	1519172	-	CDS	gene	NGFG_02429	NGFG_02429	hypothetical protein
+CP003909.1	1519278	1520312	+	CDS	gene	NGFG_01444	NGFG_01444	hypothetical protein
+CP003909.1	1520516	1521982	-	CDS	gene	NGFG_01443	NGFG_01443	divalent anion:Na+ symporter (DASS) family transporter
+CP003909.1	1522180	1523103	-	CDS	gene	NGFG_01442	NGFG_01442	agmatinase
+CP003909.1	1523202	1525094	-	CDS	gene	NGFG_01441	NGFG_01441	biosynthetic arginine decarboxylase
+CP003909.1	1525261	1525545	-	CDS	gene	NGFG_01440	NGFG_01440	hypothetical protein
+CP003909.1	1525695	1527503	-	CDS	gene	NGFG_01439	NGFG_01439	aspartyl-tRNA synthetase
+CP003909.1	1527561	1528262	-	CDS	gene	NGFG_01438	NGFG_01438	hypothetical protein
+CP003909.1	1528404	1529543	-	CDS	gene	NGFG_01437	NGFG_01437	phospholipase A1
+CP003909.1	1529712	1529975	-	CDS	gene	NGFG_01436	NGFG_01436	30S ribosomal protein S20
+CP003909.1	1530276	1531418	+	CDS	gene	NGFG_01435	NGFG_01435	spermidine/putrescine ABC transporter substrate-binding protein
+CP003909.1	1532528	1533064	+	CDS	gene	NGFG_02430	NGFG_02430	hypothetical protein
+CP003909.1	1533132	1535875	-	NA	pseudogene	NGFG_01434	NGFG_01434	
+CP003909.1	1535962	1538060	-	NA	pseudogene	NGFG_01433	NGFG_01433	
+CP003909.1	1539472	1540581	+	CDS	gene	NGFG_01432	NGFG_01432	hypothetical protein
+CP003909.1	1541308	1542120	-	CDS	gene	NGFG_01431	NGFG_01431	glutamate racemase
+CP003909.1	1542309	1542770	+	CDS	gene	NGFG_01430	NGFG_01430	YjeE family ATPase
+CP003909.1	1542767	1544017	+	CDS	gene	NGFG_01429	NGFG_01429	N-acetylmuramoyl-L-alanine amidase AmiC
+CP003909.1	1544096	1544917	+	CDS	gene	NGFG_01428	NGFG_01428	hypothetical protein
+CP003909.1	1544963	1546105	-	CDS	gene	NGFG_01427	NGFG_01427	N6-adenine-specific DNA methylase
+CP003909.1	1546154	1546576	-	CDS	gene	NGFG_01426	NGFG_01426	hypothetical protein
+CP003909.1	1546569	1547378	-	CDS	gene	NGFG_01425	NGFG_01425	mutator mutT protein
+CP003909.1	1547460	1547837	-	CDS	gene	NGFG_01424	NGFG_01424	holo-[acyl-carrier-protein] synthase
+CP003909.1	1547887	1548615	-	CDS	gene	NGFG_01423	NGFG_01423	pyridoxine 5'-phosphate synthase
+CP003909.1	1548668	1549411	-	CDS	gene	NGFG_01422	NGFG_01422	DNA repair protein recO
+CP003909.1	1549448	1550536	-	CDS	gene	NGFG_01421	NGFG_01421	chorismate mutase
+CP003909.1	1550614	1551651	-	CDS	gene	NGFG_01420	NGFG_01420	drug resistance transporter%2C Bcr/CflA subfamily
+CP003909.1	1551667	1551945	-	CDS	gene	NGFG_01419	NGFG_01419	integral membrane efflux protein
+CP003909.1	1551935	1552810	-	CDS	gene	NGFG_01418	NGFG_01418	integral membrane protein
+CP003909.1	1553066	1553392	+	CDS	gene	NGFG_02431	NGFG_02431	pilin pilS7
+CP003909.1	1553992	1554666	+	CDS	gene	NGFG_02432	NGFG_02432	opacity protein
+CP003909.1	1554950	1555762	-	CDS	gene	NGFG_01417	NGFG_01417	nitrilase
+CP003909.1	1555847	1556719	+	CDS	gene	NGFG_01416	NGFG_01416	prephenate dehydrogenase
+CP003909.1	1556777	1557931	-	CDS	gene	NGFG_01415	NGFG_01415	hypothetical protein
+CP003909.1	1557976	1558344	-	CDS	gene	NGFG_01414	NGFG_01414	hypothetical protein
+CP003909.1	1558518	1558961	+	CDS	gene	NGFG_01413	NGFG_01413	Rrf2 family protein
+CP003909.1	1559123	1559743	-	CDS	gene	NGFG_01412	NGFG_01412	tRNA threonylcarbamoyladenosine biosynthesis protein
+CP003909.1	1559854	1561053	-	CDS	gene	NGFG_01411	NGFG_01411	acetate kinase 2
+CP003909.1	1561365	1561979	-	CDS	gene	NGFG_01409	NGFG_01409	hypothetical protein
+CP003909.1	1562003	1562530	-	CDS	gene	NGFG_01408	NGFG_01408	hypothetical protein
+CP003909.1	1563080	1564999	-	CDS	gene	NGFG_01407	NGFG_01407	aconitate hydratase
+CP003909.1	1564999	1565685	-	CDS	gene	NGFG_01406	NGFG_01406	aconitate hydratase
+CP003909.1	1565762	1566550	-	CDS	gene	NGFG_01405	NGFG_01405	hypothetical protein
+CP003909.1	1566702	1567850	-	CDS	gene	NGFG_01404	NGFG_01404	2-methylcitrate synthase
+CP003909.1	1567843	1567938	-	CDS	gene	NGFG_02433	NGFG_02433	hypothetical protein
+CP003909.1	1567935	1568714	-	CDS	gene	NGFG_01403	NGFG_01403	methylisocitrate lyase
+CP003909.1	1568715	1568810	-	CDS	gene	NGFG_02434	NGFG_02434	hypothetical protein
+CP003909.1	1569433	1570743	-	CDS	gene	NGFG_01402	NGFG_01402	MFS transporter%2C AGZA family%2C xanthine/uracil permease
+CP003909.1	1570879	1572057	-	CDS	gene	NGFG_01401	NGFG_01401	cell division protein ftsZ
+CP003909.1	1572176	1573420	-	CDS	gene	NGFG_01400	NGFG_01400	cell division protein ftsA
+CP003909.1	1573506	1574234	-	CDS	gene	NGFG_01399	NGFG_01399	cell division protein FtsQ
+CP003909.1	1574224	1575138	-	CDS	gene	NGFG_01398	NGFG_01398	D-alanine-D-alanine ligase
+CP003909.1	1575250	1576770	-	CDS	gene	NGFG_01397	NGFG_01397	UDP-N-acetylmuramate-L-alanine ligase
+CP003909.1	1576814	1577881	-	CDS	gene	NGFG_01396	NGFG_01396	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+CP003909.1	1577885	1579183	-	CDS	gene	NGFG_01395	NGFG_01395	cell division protein FtsW
+CP003909.1	1579335	1580672	-	CDS	gene	NGFG_01394	NGFG_01394	UDP-N-acetylmuramoylalanine-D-glutamate ligase
+CP003909.1	1580757	1581137	-	CDS	gene	NGFG_01393	NGFG_01393	hypothetical protein
+CP003909.1	1581262	1582344	-	CDS	gene	NGFG_01392	NGFG_01392	phospho-N-acetylmuramoyl-pentapeptide-transferase
+CP003909.1	1582589	1582765	-	CDS	gene	NGFG_01391	NGFG_01391	hypothetical protein
+CP003909.1	1582768	1584126	-	CDS	gene	NGFG_01390	NGFG_01390	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+CP003909.1	1584251	1585897	-	CDS	gene	NGFG_01389	NGFG_01389	division cluster competence associated sulfatase Dca
+CP003909.1	1585920	1587398	-	CDS	gene	NGFG_01388	NGFG_01388	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2%2C6-diaminopimelate ligase
+CP003909.1	1587423	1589174	-	CDS	gene	NGFG_01387	NGFG_01387	penicillin-binding protein 2
+CP003909.1	1589235	1589498	-	CDS	gene	NGFG_01386	NGFG_01386	cell division protein FtsL
+CP003909.1	1589525	1590481	-	CDS	gene	NGFG_01385	NGFG_01385	ribosomal RNA small subunit methyltransferase H
+CP003909.1	1590478	1590933	-	CDS	gene	NGFG_01384	NGFG_01384	protein MraZ
+CP003909.1	1591281	1592459	+	CDS	gene	NGFG_01383	NGFG_01383	hypothetical protein
+CP003909.1	1592555	1592631	+	exon	tRNA	NGFG_06039	NGFG_06039	tRNA-Met
+CP003909.1	1592639	1592714	+	exon	tRNA	NGFG_06040	NGFG_06040	tRNA-Ala
+CP003909.1	1592900	1593721	-	CDS	gene	NGFG_01382	NGFG_01382	undecaprenyl-diphosphatase
+CP003909.1	1593754	1594398	-	CDS	gene	NGFG_01381	NGFG_01381	thiol:disulfide interchange protein DsbA
+CP003909.1	1594401	1595264	-	CDS	gene	NGFG_01380	NGFG_01380	cell division protein FtsN
+CP003909.1	1595370	1596866	-	CDS	gene	NGFG_01379	NGFG_01379	magnesium chelatase
+CP003909.1	1596880	1597200	-	CDS	gene	NGFG_01378	NGFG_01378	hypothetical protein
+CP003909.1	1597688	1599214	+	CDS	gene	NGFG_01377	NGFG_01377	sodium/proline symporter
+CP003909.1	1599466	1603071	+	CDS	gene	NGFG_01376	NGFG_01376	delta-1-pyrroline-5-carboxylate dehydrogenase
+CP003909.1	1603480	1604160	+	CDS	gene	NGFG_02435	NGFG_02435	opacity protein
+CP003909.1	1604293	1604628	-	CDS	gene	NGFG_02436	NGFG_02436	hypothetical protein
+CP003909.1	1605505	1606182	+	CDS	gene	NGFG_01375	NGFG_01375	hypothetical protein
+CP003909.1	1606456	1607226	-	CDS	gene	NGFG_01374	NGFG_01374	exodeoxyribonuclease III
+CP003909.1	1607286	1607567	-	CDS	gene	NGFG_01373	NGFG_01373	ArsR family transcriptional regulator
+CP003909.1	1608302	1609183	-	CDS	gene	NGFG_01370	NGFG_01370	nicotinate-nucleotide diphosphorylase (carboxylating)
+CP003909.1	1609259	1610197	-	CDS	gene	NGFG_01369	NGFG_01369	hypothetical protein
+CP003909.1	1610399	1611511	+	CDS	gene	NGFG_01368	NGFG_01368	quinolinate synthase A
+CP003909.1	1611563	1613071	+	CDS	gene	NGFG_01367	NGFG_01367	L-aspartate oxidase
+CP003909.1	1613311	1613760	-	CDS	gene	NGFG_02437	NGFG_02437	transposase
+CP003909.1	1613892	1614542	-	CDS	gene	NGFG_01366	NGFG_01366	beta-phosphoglucomutase
+CP003909.1	1614421	1616812	-	NA	pseudogene	NGFG_01365	NGFG_01365	
+CP003909.1	1616995	1617956	-	NA	pseudogene	NGFG_01364	NGFG_01364	
+CP003909.1	1617960	1619314	-	NA	pseudogene	NGFG_01363	NGFG_01363	
+CP003909.1	1619550	1621226	+	CDS	gene	NGFG_01362	NGFG_01362	ABC transporter ATP-binding protein
+CP003909.1	1621286	1621771	-	CDS	gene	NGFG_01361	NGFG_01361	phosphatidylglycerophosphatase A
+CP003909.1	1621764	1622720	-	CDS	gene	NGFG_01360	NGFG_01360	thiamine-monophosphate kinase
+CP003909.1	1623495	1624205	-	CDS	gene	NGFG_01357	NGFG_01357	outer membrane protein P.III
+CP003909.1	1624569	1625519	+	CDS	gene	NGFG_01356	NGFG_01356	LysR family transcriptional regulator%2C Cys regulon transcriptional activator
+CP003909.1	1625632	1626366	-	CDS	gene	NGFG_01355	NGFG_01355	CRP/FNR family transcriptional regulator%2C anaerobic regulatory protein
+CP003909.1	1626501	1627922	+	CDS	gene	NGFG_01354	NGFG_01354	oxygen-independent coproporphyrinogen III oxidase
+CP003909.1	1628162	1629736	-	CDS	gene	NGFG_01353	NGFG_01353	PiT family inorganic phosphate transporter
+CP003909.1	1630061	1631161	+	CDS	gene	NGFG_01351	NGFG_01351	anhydro-N-acetylmuramic acid kinase
+CP003909.1	1631280	1632221	+	CDS	gene	NGFG_02438	NGFG_02438	MafA family adhesin protein
+CP003909.1	1632225	1633679	+	CDS	gene	NGFG_01350	NGFG_01350	MafB family adhesin protein
+CP003909.1	1633676	1634092	+	CDS	gene	NGFG_01349	NGFG_01349	hypothetical protein
+CP003909.1	1634228	1634905	+	CDS	gene	NGFG_01348	NGFG_01348	hypothetical protein
+CP003909.1	1634911	1635309	+	CDS	gene	NGFG_02439	NGFG_02439	hypothetical protein
+CP003909.1	1635340	1635717	+	CDS	gene	NGFG_01347	NGFG_01347	hypothetical protein
+CP003909.1	1635848	1636585	+	CDS	gene	NGFG_02440	NGFG_02440	hypothetical protein
+CP003909.1	1636582	1637001	+	CDS	gene	NGFG_01346	NGFG_01346	hypothetical protein
+CP003909.1	1637249	1637521	+	CDS	gene	NGFG_01345	NGFG_01345	hypothetical protein
+CP003909.1	1637642	1638187	+	CDS	gene	NGFG_01343	NGFG_01343	hypothetical protein
+CP003909.1	1638591	1638992	+	CDS	gene	NGFG_01341	NGFG_01341	hypothetical protein
+CP003909.1	1639264	1639758	+	CDS	gene	NGFG_01340	NGFG_01340	hypothetical protein
+CP003909.1	1639878	1641011	+	CDS	gene	NGFG_01339	NGFG_01339	hypothetical protein
+CP003909.1	1641018	1641338	+	CDS	gene	NGFG_02441	NGFG_02441	hypothetical protein
+CP003909.1	1641514	1641789	-	CDS	gene	NGFG_01338	NGFG_01338	endonuclease
+CP003909.1	1641786	1643069	-	CDS	gene	NGFG_01337	NGFG_01337	MFS transporter%2C PAT family%2C beta-lactamase induction signal transducer AmpG
+CP003909.1	1643218	1644636	-	CDS	gene	NGFG_01336	NGFG_01336	glutamine synthetase
+CP003909.1	1644947	1645756	+	CDS	gene	NGFG_01335	NGFG_01335	shikimate dehydrogenase
+CP003909.1	1645759	1646460	+	CDS	gene	NGFG_01334	NGFG_01334	monofunctional biosynthetic peptidoglycan transglycosylase
+CP003909.1	1646734	1646809	-	exon	tRNA	NGFG_06041	NGFG_06041	tRNA-Phe
+CP003909.1	1647000	1647734	-	CDS	gene	NGFG_01332	NGFG_01332	lipopolysaccharide ABC transporter ATP-binding protein
+CP003909.1	1647805	1648335	-	CDS	gene	NGFG_01331	NGFG_01331	lipopolysaccharide transport periplasmic protein LptA
+CP003909.1	1648316	1648897	-	CDS	gene	NGFG_01330	NGFG_01330	hypothetical protein
+CP003909.1	1648894	1649430	-	CDS	gene	NGFG_01329	NGFG_01329	YrbI family 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+CP003909.1	1649496	1650470	-	CDS	gene	NGFG_01328	NGFG_01328	KpsF/GutQ family sugar isomerase
+CP003909.1	1650567	1651622	+	CDS	gene	NGFG_01327	NGFG_01327	transaldolase
+CP003909.1	1651634	1651768	+	CDS	gene	NGFG_02442	NGFG_02442	hypothetical protein
+CP003909.1	1651773	1652063	+	CDS	gene	NGFG_01326	NGFG_01326	hypothetical protein
+CP003909.1	1652080	1652967	+	CDS	gene	NGFG_01325	NGFG_01325	glutamyl-Q tRNA(Asp) synthetase
+CP003909.1	1653037	1654083	-	CDS	gene	NGFG_01324	NGFG_01324	tRNA dihydrouridine synthase A
+CP003909.1	1654173	1655327	+	CDS	gene	NGFG_01323	NGFG_01323	phage integrase/recombinase
+CP003909.1	1655377	1655643	-	CDS	gene	NGFG_01322	NGFG_01322	phage protein
+CP003909.1	1655751	1656698	-	CDS	gene	NGFG_02443	NGFG_02443	phage protein
+CP003909.1	1656670	1656900	-	CDS	gene	NGFG_02444	NGFG_02444	hypothetical protein
+CP003909.1	1656897	1657709	-	CDS	gene	NGFG_02445	NGFG_02445	phage protein
+CP003909.1	1658258	1658749	-	CDS	gene	NGFG_02446	NGFG_02446	phage protein
+CP003909.1	1658746	1658928	-	CDS	gene	NGFG_02206	NGFG_02206	phage protein
+CP003909.1	1659068	1659754	-	CDS	gene	NGFG_02207	NGFG_02207	phage protein
+CP003909.1	1659823	1659984	-	CDS	gene	NGFG_02208	NGFG_02208	phage protein
+CP003909.1	1659981	1660256	-	CDS	gene	NGFG_01320	NGFG_01320	phage protein
+CP003909.1	1660409	1660741	-	CDS	gene	NGFG_01319	NGFG_01319	phage protein
+CP003909.1	1660882	1661082	-	CDS	gene	NGFG_01318	NGFG_01318	phage protein
+CP003909.1	1661748	1662395	-	CDS	gene	NGFG_01316	NGFG_01316	phage protein
+CP003909.1	1662515	1662916	-	CDS	gene	NGFG_01315	NGFG_01315	phage protein
+CP003909.1	1663371	1664189	-	CDS	gene	NGFG_01313	NGFG_01313	phage protein
+CP003909.1	1664464	1665219	-	CDS	gene	NGFG_01312	NGFG_01312	phage repressor protein
+CP003909.1	1665359	1665544	+	CDS	gene	NGFG_01311	NGFG_01311	hypothetical protein
+CP003909.1	1665633	1665788	+	CDS	gene	NGFG_02225	NGFG_02225	phage protein
+CP003909.1	1665765	1665953	-	CDS	gene	NGFG_02226	NGFG_02226	phage protein
+CP003909.1	1666126	1666389	+	CDS	gene	NGFG_00632	NGFG_00632	phage protein
+CP003909.1	1666386	1667285	+	CDS	gene	NGFG_00633	NGFG_00633	phage replication protein O domain protein
+CP003909.1	1667300	1668082	+	CDS	gene	NGFG_00634	NGFG_00634	phage replication protein
+CP003909.1	1668395	1668889	+	CDS	gene	NGFG_02243	NGFG_02243	phage protein
+CP003909.1	1668732	1669229	-	CDS	gene	NGFG_02447	NGFG_02447	phage protein
+CP003909.1	1669256	1669405	+	CDS	gene	NGFG_02448	NGFG_02448	phage protein
+CP003909.1	1669498	1670085	+	CDS	gene	NGFG_02449	NGFG_02449	phage protein
+CP003909.1	1670414	1671376	-	CDS	gene	NGFG_02450	NGFG_02450	hypothetical protein
+CP003909.1	1671887	1672246	-	CDS	gene	NGFG_02239	NGFG_02239	phage protein
+CP003909.1	1672367	1673452	-	CDS	gene	NGFG_02070	NGFG_02070	phage protein
+CP003909.1	1673462	1673752	-	CDS	gene	NGFG_02071	NGFG_02071	phage protein
+CP003909.1	1673753	1674323	-	NA	pseudogene	NGFG_02451	NGFG_02451	
+CP003909.1	1674323	1674550	-	CDS	gene	NGFG_02452	NGFG_02452	hypothetical protein
+CP003909.1	1674930	1675214	+	CDS	gene	NGFG_02453	NGFG_02453	integral membrane protein
+CP003909.1	1675215	1676402	+	CDS	gene	NGFG_02454	NGFG_02454	Zona occludens toxin
+CP003909.1	1676617	1677561	+	CDS	gene	NGFG_02455	NGFG_02455	transposase
+CP003909.1	1677864	1678403	+	CDS	gene	NGFG_02095	NGFG_02095	phage protein
+CP003909.1	1678403	1678561	+	CDS	gene	NGFG_02096	NGFG_02096	phage protein
+CP003909.1	1678545	1678886	+	CDS	gene	NGFG_02097	NGFG_02097	phage protein
+CP003909.1	1678825	1679043	+	CDS	gene	NGFG_02098	NGFG_02098	hypothetical protein
+CP003909.1	1679377	1679757	+	CDS	gene	NGFG_02100	NGFG_02100	phage protein
+CP003909.1	1679958	1680800	-	CDS	gene	NGFG_02102	NGFG_02102	phage protein
+CP003909.1	1681299	1681475	-	CDS	gene	NGFG_02103	NGFG_02103	hypothetical protein
+CP003909.1	1681803	1682294	-	CDS	gene	NGFG_02104	NGFG_02104	D-tyrosyl-tRNA(Tyr) deacylase
+CP003909.1	1682368	1683126	-	CDS	gene	NGFG_02105	NGFG_02105	hypothetical protein
+CP003909.1	1683196	1684062	-	CDS	gene	NGFG_02106	NGFG_02106	hypothetical protein
+CP003909.1	1684111	1684389	-	CDS	gene	NGFG_02107	NGFG_02107	BolA-lie protein
+CP003909.1	1684389	1684679	-	CDS	gene	NGFG_02108	NGFG_02108	hypothetical protein
+CP003909.1	1684682	1685212	-	CDS	gene	NGFG_02109	NGFG_02109	intracellular septation protein A
+CP003909.1	1685363	1687835	+	NA	pseudogene	NGFG_02110	NGFG_02110	
+CP003909.1	1688008	1688397	-	CDS	gene	NGFG_02111	NGFG_02111	lactoylglutathione lyase
+CP003909.1	1688450	1689658	-	CDS	gene	NGFG_02112	NGFG_02112	hypothetical protein
+CP003909.1	1689630	1690112	-	CDS	gene	NGFG_02113	NGFG_02113	hypothetical protein
+CP003909.1	1690254	1691252	+	CDS	gene	NGFG_02115	NGFG_02115	branched-chain amino acid aminotransferase
+CP003909.1	1691497	1692282	-	CDS	gene	NGFG_02116	NGFG_02116	enoyl-[acyl-carrier-protein] reductase [NADH]
+CP003909.1	1692437	1693258	-	CDS	gene	NGFG_02117	NGFG_02117	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase
+CP003909.1	1693468	1695111	-	CDS	gene	NGFG_02118	NGFG_02118	glucose-6-phosphate isomerase 2
+CP003909.1	1695621	1696853	+	CDS	gene	NGFG_02119	NGFG_02119	type IV pilus assembly protein PilC
+CP003909.1	1696927	1697787	+	CDS	gene	NGFG_02120	NGFG_02120	type 4 prepilin-like protein leader peptide-processing enzyme
+CP003909.1	1697784	1698416	+	CDS	gene	NGFG_02121	NGFG_02121	dephospho-CoA kinase
+CP003909.1	1698409	1698618	+	CDS	gene	NGFG_02122	NGFG_02122	UPF0243 zinc-binding protein ORFY
+CP003909.1	1698704	1700380	-	CDS	gene	NGFG_02123	NGFG_02123	type IV pilus assembly protein pilF
+CP003909.1	1700626	1700697	-	exon	tRNA	NGFG_06042	NGFG_06042	tRNA-Arg
+CP003909.1	1700718	1701164	-	CDS	gene	NGFG_02124	NGFG_02124	UPF0756 membrane protein
+CP003909.1	1701168	1702142	-	CDS	gene	NGFG_02125	NGFG_02125	octaprenyl-diphosphate synthase
+CP003909.1	1702366	1702674	+	CDS	gene	NGFG_02126	NGFG_02126	50S ribosomal protein L21
+CP003909.1	1702699	1702971	+	CDS	gene	NGFG_02127	NGFG_02127	50S ribosomal protein L27
+CP003909.1	1703005	1704390	+	CDS	gene	NGFG_02128	NGFG_02128	UbiH/UbiF/VisC/COQ6 family ubiquinone biosynthesis hydroxylase
+CP003909.1	1704579	1704734	-	CDS	gene	NGFG_02129	NGFG_02129	50S ribosomal protein L33
+CP003909.1	1704766	1704999	-	CDS	gene	NGFG_02130	NGFG_02130	50S ribosomal protein L28
+CP003909.1	1705249	1706772	-	CDS	gene	NGFG_02456	NGFG_02456	drug:H+ antiporter-2 (14 Spanner) (DHA2) family drug resistance MFS transporter
+CP003909.1	1706796	1707950	-	CDS	gene	NGFG_02457	NGFG_02457	multidrug resistance efflux pump membrane protein A
+CP003909.1	1708239	1708712	+	CDS	gene	NGFG_02134	NGFG_02134	NADPH-dependent 7-cyano-7-deazaguanine reductase
+CP003909.1	1708787	1709473	+	CDS	gene	NGFG_02135	NGFG_02135	hypothetical protein
+CP003909.1	1709823	1711115	-	CDS	gene	NGFG_02136	NGFG_02136	metallopeptidase
+CP003909.1	1711192	1712160	+	CDS	gene	NGFG_02137	NGFG_02137	hypothetical protein
+CP003909.1	1712361	1713791	-	CDS	gene	NGFG_02138	NGFG_02138	outer membrane protein OmpU
+CP003909.1	1714072	1715055	-	NA	pseudogene	NGFG_02139	NGFG_02139	
+CP003909.1	1715453	1715698	-	CDS	gene	NGFG_02140	NGFG_02140	hypothetical protein
+CP003909.1	1715810	1716238	+	CDS	gene	NGFG_02141	NGFG_02141	membrane protein
+CP003909.1	1716250	1716726	+	CDS	gene	NGFG_02142	NGFG_02142	adenylate cyclase
+CP003909.1	1716756	1717244	-	CDS	gene	NGFG_02143	NGFG_02143	dihydrofolate reductase
+CP003909.1	1717312	1718367	-	CDS	gene	NGFG_02144	NGFG_02144	3-deoxy-7-phosphoheptulonate synthase
+CP003909.1	1718984	1719280	+	CDS	gene	NGFG_02147	NGFG_02147	major outer membrane protein
+CP003909.1	1719277	1719516	+	CDS	gene	NGFG_02148	NGFG_02148	major outer membrane protein
+CP003909.1	1719654	1719770	-	CDS	gene	NGFG_02149	NGFG_02149	hypothetical protein
+CP003909.1	1720150	1720449	-	CDS	gene	NGFG_02458	NGFG_02458	comEA protein
+CP003909.1	1720801	1720913	-	exon	rRNA	NGFG_06043	NGFG_06043	5S ribosomal RNA
+CP003909.1	1721012	1723901	-	exon	rRNA	NGFG_06044	NGFG_06044	23S ribosomal RNA
+CP003909.1	1724250	1724325	-	exon	tRNA	NGFG_06045	NGFG_06045	tRNA-Ala
+CP003909.1	1724331	1724407	-	exon	tRNA	NGFG_06046	NGFG_06046	tRNA-Ile
+CP003909.1	1724513	1726039	-	exon	rRNA	NGFG_06047	NGFG_06047	16S ribosomal RNA
+CP003909.1	1726156	1726362	-	CDS	gene	NGFG_02459	NGFG_02459	hypothetical protein
+CP003909.1	1726503	1727309	-	CDS	gene	NGFG_01612	NGFG_01612	cytochrome c assembly protein
+CP003909.1	1727529	1728899	+	CDS	gene	NGFG_01613	NGFG_01613	signal recognition particle protein
+CP003909.1	1729155	1729610	+	CDS	gene	NGFG_01614	NGFG_01614	hypothetical protein
+CP003909.1	1729665	1730084	-	CDS	gene	NGFG_01615	NGFG_01615	hypothetical protein
+CP003909.1	1730134	1731096	+	CDS	gene	NGFG_02069	NGFG_02069	hypothetical protein
+CP003909.1	1731216	1731413	-	CDS	gene	NGFG_02460	NGFG_02460	hypothetical protein
+CP003909.1	1731462	1731860	-	CDS	gene	NGFG_01616	NGFG_01616	oxidoreductase
+CP003909.1	1731968	1732879	+	CDS	gene	NGFG_01617	NGFG_01617	LysR family transcriptional regulator
+CP003909.1	1732869	1734167	+	CDS	gene	NGFG_01618	NGFG_01618	deoxyribodipyrimidine photo-lyase
+CP003909.1	1734264	1736498	+	CDS	gene	NGFG_01619	NGFG_01619	ATP-dependent DNA helicase DinG
+CP003909.1	1736534	1737148	+	CDS	gene	NGFG_01620	NGFG_01620	hypothetical protein
+CP003909.1	1737284	1739152	-	CDS	gene	NGFG_01621	NGFG_01621	acyltransferase
+CP003909.1	1739232	1740602	-	CDS	gene	NGFG_01622	NGFG_01622	adenylosuccinate lyase
+CP003909.1	1740674	1741306	-	CDS	gene	NGFG_01623	NGFG_01623	hypothetical protein
+CP003909.1	1741462	1743342	+	CDS	gene	NGFG_01624	NGFG_01624	exoribonuclease II
+CP003909.1	1743820	1744818	-	CDS	gene	NGFG_01625	NGFG_01625	peptidyl-prolyl cis-trans isomerase SurA
+CP003909.1	1744923	1747328	-	CDS	gene	NGFG_01626	NGFG_01626	LPS-assembly protein lptD
+CP003909.1	1747398	1748402	+	CDS	gene	NGFG_01627	NGFG_01627	phosphotransferase
+CP003909.1	1748459	1749157	-	CDS	gene	NGFG_01628	NGFG_01628	thiol:disulfide interchange protein DsbA
+CP003909.1	1749595	1751133	+	CDS	gene	NGFG_01630	NGFG_01630	integral membrane virulence factor MviN
+CP003909.1	1751137	1751244	+	CDS	gene	NGFG_02461	NGFG_02461	hypothetical protein
+CP003909.1	1751266	1752222	+	CDS	gene	NGFG_01631	NGFG_01631	hypothetical protein
+CP003909.1	1752273	1753055	+	CDS	gene	NGFG_01632	NGFG_01632	indole-3-glycerol phosphate synthase
+CP003909.1	1753118	1755421	+	CDS	gene	NGFG_01633	NGFG_01633	ATP-dependent DNA helicase RecQ
+CP003909.1	1755458	1756831	-	CDS	gene	NGFG_01634	NGFG_01634	hypothetical protein
+CP003909.1	1757141	1757929	-	CDS	gene	NGFG_01635	NGFG_01635	carboxylesterase BioH
+CP003909.1	1757926	1758768	-	CDS	gene	NGFG_01636	NGFG_01636	carboxylesterase BioH
+CP003909.1	1758674	1759399	+	CDS	gene	NGFG_01637	NGFG_01637	comF family protein
+CP003909.1	1759464	1759928	+	CDS	gene	NGFG_01638	NGFG_01638	tRNA (cytidine(34)-2'-O)-methyltransferase
+CP003909.1	1760056	1760742	+	CDS	gene	NGFG_01639	NGFG_01639	rare lipoprotein A
+CP003909.1	1760803	1761129	+	CDS	gene	NGFG_01640	NGFG_01640	hypothetical protein
+CP003909.1	1761211	1761795	+	CDS	gene	NGFG_01641	NGFG_01641	Holliday junction ATP-dependent DNA helicase ruvA
+CP003909.1	1761795	1761932	+	CDS	gene	NGFG_01642	NGFG_01642	hypothetical protein
+CP003909.1	1761958	1763814	+	CDS	gene	NGFG_01643	NGFG_01643	ABC transporter ATP-binding protein/permease
+CP003909.1	1763819	1764742	+	CDS	gene	NGFG_01644	NGFG_01644	ribosome small subunit-dependent GTPase A
+CP003909.1	1764768	1765079	+	CDS	gene	NGFG_01645	NGFG_01645	exodeoxyribonuclease 7 small subunit
+CP003909.1	1765063	1765959	+	CDS	gene	NGFG_01646	NGFG_01646	geranyltranstransferase
+CP003909.1	1766076	1766375	-	CDS	gene	NGFG_01647	NGFG_01647	hypothetical protein
+CP003909.1	1766487	1767932	-	CDS	gene	NGFG_01648	NGFG_01648	NADH-quinone oxidoreductase subunit N
+CP003909.1	1767942	1769438	-	CDS	gene	NGFG_01649	NGFG_01649	proton-translocating NADH-quinone oxidoreductase%2C chain M
+CP003909.1	1769548	1770009	-	NA	pseudogene	NGFG_01650	NGFG_01650	
+CP003909.1	1770020	1771188	-	NA	pseudogene	NGFG_01651	NGFG_01651	
+CP003909.1	1771331	1773355	-	CDS	gene	NGFG_01652	NGFG_01652	NADH-quinone oxidoreductase subunit L
+CP003909.1	1773358	1773663	-	CDS	gene	NGFG_01653	NGFG_01653	NADH-quinone oxidoreductase subunit K
+CP003909.1	1773660	1774331	-	CDS	gene	NGFG_01654	NGFG_01654	NADH-quinone oxidoreductase subunit J
+CP003909.1	1774343	1774822	-	CDS	gene	NGFG_01655	NGFG_01655	NADH-quinone oxidoreductase subunit I
+CP003909.1	1774903	1775979	-	CDS	gene	NGFG_01656	NGFG_01656	NADH-quinone oxidoreductase subunit H
+CP003909.1	1775982	1778243	-	CDS	gene	NGFG_01657	NGFG_01657	NADH dehydrogenase (quinone)%2C G subunit
+CP003909.1	1778533	1778971	-	NA	pseudogene	NGFG_01658	NGFG_01658	
+CP003909.1	1778956	1780257	-	CDS	gene	NGFG_01659	NGFG_01659	NADH oxidoreductase (quinone)%2C F subunit
+CP003909.1	1780647	1781120	-	CDS	gene	NGFG_01660	NGFG_01660	NADH-quinone oxidoreductase%2C E subunit
+CP003909.1	1781120	1782376	-	CDS	gene	NGFG_01661	NGFG_01661	NADH-quinone oxidoreductase subunit D
+CP003909.1	1782366	1782959	-	CDS	gene	NGFG_01662	NGFG_01662	NADH-quinone oxidoreductase subunit C
+CP003909.1	1782972	1783454	-	CDS	gene	NGFG_01663	NGFG_01663	NADH-quinone oxidoreductase subunit B
+CP003909.1	1783445	1783801	-	CDS	gene	NGFG_01664	NGFG_01664	NADH-quinone oxidoreductase subunit A
+CP003909.1	1784294	1785781	-	CDS	gene	NGFG_01665	NGFG_01665	hypothetical protein
+CP003909.1	1785768	1786388	-	CDS	gene	NGFG_01666	NGFG_01666	hypothetical protein
+CP003909.1	1786764	1786949	+	CDS	gene	NGFG_02462	NGFG_02462	hypothetical protein
+CP003909.1	1788125	1790332	-	CDS	gene	NGFG_01667	NGFG_01667	DNA helicase II
+CP003909.1	1790356	1790805	+	CDS	gene	NGFG_01668	NGFG_01668	hypothetical protein
+CP003909.1	1790756	1793446	-	CDS	gene	NGFG_01669	NGFG_01669	glutamate-ammonia-ligase adenylyltransferase
+CP003909.1	1793639	1793851	-	CDS	gene	NGFG_01670	NGFG_01670	hypothetical protein
+CP003909.1	1793988	1794461	-	CDS	gene	NGFG_01671	NGFG_01671	hypothetical protein
+CP003909.1	1794658	1795701	-	CDS	gene	NGFG_01672	NGFG_01672	dihydroorotate dehydrogenase
+CP003909.1	1795897	1796133	+	CDS	gene	NGFG_01673	NGFG_01673	acyl carrier protein
+CP003909.1	1796290	1797537	+	CDS	gene	NGFG_01674	NGFG_01674	beta-ketoacyl-acyl-carrier-protein synthase II
+CP003909.1	1797930	1799155	+	NA	pseudogene	NGFG_01675	NGFG_01675	
+CP003909.1	1799509	1800636	+	CDS	gene	NGFG_01676	NGFG_01676	pilin glycosyltransferase PglA
+CP003909.1	1801118	1801951	-	CDS	gene	NGFG_01677	NGFG_01677	RNA polymerase sigma-54 factor
+CP003909.1	1802238	1803752	+	CDS	gene	NGFG_01678	NGFG_01678	catalase
+CP003909.1	1804268	1804834	+	NA	pseudogene	NGFG_01679	NGFG_01679	
+CP003909.1	1805056	1806219	+	CDS	gene	NGFG_01680	NGFG_01680	cytochrome c peroxidase
+CP003909.1	1806800	1808836	-	CDS	gene	NGFG_01681	NGFG_01681	oligopeptidase A
+CP003909.1	1808924	1809916	-	CDS	gene	NGFG_01682	NGFG_01682	small conductance mechanosensitive ion channel protein
+CP003909.1	1810062	1812452	+	CDS	gene	NGFG_01684	NGFG_01684	DNA gyrase subunit B
+CP003909.1	1812482	1813936	+	CDS	gene	NGFG_01685	NGFG_01685	L-serine ammonia-lyase
+CP003909.1	1814354	1814551	+	CDS	gene	NGFG_02463	NGFG_02463	hypothetical protein
+CP003909.1	1814678	1814754	-	exon	tRNA	NGFG_06048	NGFG_06048	tRNA-Asp
+CP003909.1	1814787	1814862	-	exon	tRNA	NGFG_06049	NGFG_06049	tRNA-Val
+CP003909.1	1814902	1814978	-	exon	tRNA	NGFG_06050	NGFG_06050	tRNA-Asp
+CP003909.1	1815011	1815086	-	exon	tRNA	NGFG_06051	NGFG_06051	tRNA-Val
+CP003909.1	1815156	1817132	-	CDS	gene	NGFG_01686	NGFG_01686	monovalent cation:proton antiporter-2 (CPA2) family transporter
+CP003909.1	1817278	1818117	+	CDS	gene	NGFG_01687	NGFG_01687	electron transport complex%2C rnfabcdge type%2C B subunit
+CP003909.1	1818316	1819347	+	CDS	gene	NGFG_01688	NGFG_01688	glyceraldehyde-3-phosphate dehydrogenase%2C type I
+CP003909.1	1819603	1820328	-	CDS	gene	NGFG_01689	NGFG_01689	leucyl/phenylalanyl-tRNA-protein transferase
+CP003909.1	1820398	1820832	-	CDS	gene	NGFG_01690	NGFG_01690	ferric uptake regulation protein
+CP003909.1	1821059	1821436	+	CDS	gene	NGFG_01691	NGFG_01691	lipoprotein
+CP003909.1	1821446	1822255	+	CDS	gene	NGFG_01692	NGFG_01692	dihydrodipicolinate reductase
+CP003909.1	1822895	1824049	-	CDS	gene	NGFG_01695	NGFG_01695	lipid-A-disaccharide synthase
+CP003909.1	1824218	1825210	-	CDS	gene	NGFG_01696	NGFG_01696	RluA family pseudouridine synthase
+CP003909.1	1825703	1828462	+	CDS	gene	NGFG_01697	NGFG_01697	rne/Rng family ribonuclease
+CP003909.1	1828692	1829684	-	CDS	gene	NGFG_01698	NGFG_01698	4-hydroxythreonine-4-phosphate dehydrogenase
+CP003909.1	1829843	1831270	+	CDS	gene	NGFG_01699	NGFG_01699	AGCS family alanine or glycine:cation symporter
+CP003909.1	1831443	1833338	+	CDS	gene	NGFG_01700	NGFG_01700	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CP003909.1	1833406	1833990	+	CDS	gene	NGFG_01701	NGFG_01701	ribonuclease HII
+CP003909.1	1834735	1835508	-	CDS	gene	NGFG_01703	NGFG_01703	chromosome partitioning protein ParA
+CP003909.1	1835607	1836230	-	CDS	gene	NGFG_01704	NGFG_01704	ribosomal RNA small subunit methyltransferase G
+CP003909.1	1836325	1836804	-	CDS	gene	NGFG_01705	NGFG_01705	hypothetical protein
+CP003909.1	1836911	1836986	+	exon	tRNA	NGFG_06052	NGFG_06052	tRNA-Thr
+CP003909.1	1837056	1838183	+	CDS	gene	NGFG_01706	NGFG_01706	hypothetical protein
+CP003909.1	1838292	1838696	+	CDS	gene	NGFG_01707	NGFG_01707	hypothetical protein
+CP003909.1	1838644	1839129	+	CDS	gene	NGFG_01708	NGFG_01708	hypothetical protein
+CP003909.1	1839134	1840126	+	CDS	gene	NGFG_01709	NGFG_01709	site-specific DNA methyltransferase
+CP003909.1	1840268	1840825	+	CDS	gene	NGFG_01710	NGFG_01710	ribosome-recycling factor
+CP003909.1	1840881	1841627	+	CDS	gene	NGFG_01711	NGFG_01711	undecaprenyl pyrophosphate synthase
+CP003909.1	1841630	1842427	+	CDS	gene	NGFG_01712	NGFG_01712	phosphatidate cytidylyltransferase
+CP003909.1	1842432	1843667	+	CDS	gene	NGFG_01713	NGFG_01713	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+CP003909.1	1843702	1845042	+	CDS	gene	NGFG_01714	NGFG_01714	RIP metalloprotease RseP
+CP003909.1	1845099	1847477	+	CDS	gene	NGFG_01715	NGFG_01715	outer membrane protein omp85
+CP003909.1	1847543	1848043	+	CDS	gene	NGFG_01716	NGFG_01716	outer membrane protein OmpH
+CP003909.1	1848076	1849119	+	CDS	gene	NGFG_01717	NGFG_01717	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+CP003909.1	1849155	1849604	+	CDS	gene	NGFG_01718	NGFG_01718	(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase
+CP003909.1	1849730	1850497	+	CDS	gene	NGFG_01719	NGFG_01719	hypothetical protein
+CP003909.1	1850540	1851316	+	CDS	gene	NGFG_01720	NGFG_01720	acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase
+CP003909.1	1851777	1853168	+	CDS	gene	NGFG_01721	NGFG_01721	sodium:alanine symporter
+CP003909.1	1853247	1854506	+	CDS	gene	NGFG_01722	NGFG_01722	D-amino acid dehydrogenase small subunit
+CP003909.1	1854611	1857448	+	CDS	gene	NGFG_01723	NGFG_01723	valyl-tRNA synthetase
+CP003909.1	1857525	1857989	+	CDS	gene	NGFG_01724	NGFG_01724	hypothetical protein
+CP003909.1	1858844	1859641	+	CDS	gene	NGFG_02199	NGFG_02199	tRNA pseudouridine synthase A
+CP003909.1	1860158	1861210	+	CDS	gene	NGFG_01725	NGFG_01725	major outer membrane protein P.IB
+CP003909.1	1861760	1862680	-	CDS	gene	NGFG_01726	NGFG_01726	LysR family transcriptional regulator%2C hydrogen peroxide-inducible genes activator
+CP003909.1	1862684	1862947	-	CDS	gene	NGFG_01727	NGFG_01727	cell division topological specificity factor
+CP003909.1	1862951	1863766	-	CDS	gene	NGFG_01728	NGFG_01728	septum site-determining protein minD
+CP003909.1	1863795	1864508	-	CDS	gene	NGFG_01729	NGFG_01729	septum site-determining protein MinC
+CP003909.1	1864549	1864704	-	CDS	gene	NGFG_02464	NGFG_02464	hypothetical protein
+CP003909.1	1864655	1865023	-	CDS	gene	NGFG_01730	NGFG_01730	50S ribosomal protein L17
+CP003909.1	1865047	1866033	-	CDS	gene	NGFG_01731	NGFG_01731	DNA-directed RNA polymerase subunit alpha
+CP003909.1	1866059	1866679	-	CDS	gene	NGFG_01732	NGFG_01732	30S ribosomal protein S4
+CP003909.1	1867114	1867476	-	CDS	gene	NGFG_01734	NGFG_01734	30S ribosomal protein S13
+CP003909.1	1867676	1867894	-	CDS	gene	NGFG_01735	NGFG_01735	translation initiation factor IF-1
+CP003909.1	1867899	1869209	-	CDS	gene	NGFG_01736	NGFG_01736	preprotein translocase%2C SecY subunit
+CP003909.1	1869221	1869655	-	CDS	gene	NGFG_01737	NGFG_01737	50S ribosomal protein L15
+CP003909.1	1869657	1869842	-	CDS	gene	NGFG_01738	NGFG_01738	50S ribosomal protein L30
+CP003909.1	1869835	1870353	-	CDS	gene	NGFG_01739	NGFG_01739	30S ribosomal protein S5
+CP003909.1	1870739	1871272	-	CDS	gene	NGFG_01741	NGFG_01741	50S ribosomal protein L6
+CP003909.1	1871286	1871678	-	CDS	gene	NGFG_01742	NGFG_01742	30S ribosomal protein S8
+CP003909.1	1871694	1871999	-	CDS	gene	NGFG_01743	NGFG_01743	30S ribosomal protein S14
+CP003909.1	1872002	1872541	-	CDS	gene	NGFG_01744	NGFG_01744	50S ribosomal protein L5
+CP003909.1	1872551	1872874	-	CDS	gene	NGFG_01745	NGFG_01745	50S ribosomal protein L24
+CP003909.1	1872886	1873254	-	CDS	gene	NGFG_01746	NGFG_01746	50S ribosomal protein L14
+CP003909.1	1873476	1873739	-	CDS	gene	NGFG_01747	NGFG_01747	30S ribosomal protein S17
+CP003909.1	1873739	1873930	-	CDS	gene	NGFG_01748	NGFG_01748	50S ribosomal protein L29
+CP003909.1	1873930	1874346	-	CDS	gene	NGFG_01749	NGFG_01749	50S ribosomal protein L16
+CP003909.1	1874330	1875022	-	CDS	gene	NGFG_01750	NGFG_01750	30S ribosomal protein S3
+CP003909.1	1875032	1875361	-	CDS	gene	NGFG_01751	NGFG_01751	50S ribosomal protein L22
+CP003909.1	1875370	1875648	-	CDS	gene	NGFG_01752	NGFG_01752	30S ribosomal protein S19
+CP003909.1	1875654	1876487	-	CDS	gene	NGFG_01753	NGFG_01753	50S ribosomal protein L2
+CP003909.1	1876493	1876807	-	CDS	gene	NGFG_01754	NGFG_01754	50S ribosomal protein L23
+CP003909.1	1876804	1877424	-	CDS	gene	NGFG_01755	NGFG_01755	50S ribosomal protein L4
+CP003909.1	1877424	1878068	-	CDS	gene	NGFG_01756	NGFG_01756	50S ribosomal protein L3
+CP003909.1	1878854	1879165	-	CDS	gene	NGFG_02229	NGFG_02229	30S ribosomal protein S10
+CP003909.1	1879183	1880367	-	CDS	gene	NGFG_02465	NGFG_02465	elongation factor Tu
+CP003909.1	1880455	1882560	-	CDS	gene	NGFG_01757	NGFG_01757	elongation factor G
+CP003909.1	1882579	1883049	-	CDS	gene	NGFG_01758	NGFG_01758	30S ribosomal protein S7
+CP003909.1	1883167	1883538	-	CDS	gene	NGFG_01759	NGFG_01759	30S ribosomal protein S12
+CP003909.1	1883873	1884802	-	CDS	gene	NGFG_01761	NGFG_01761	hypothetical protein
+CP003909.1	1884774	1885058	-	CDS	gene	NGFG_01762	NGFG_01762	hypothetical protein
+CP003909.1	1885254	1885793	-	CDS	gene	NGFG_01763	NGFG_01763	hypothetical protein
+CP003909.1	1885901	1886314	-	CDS	gene	NGFG_01764	NGFG_01764	hypothetical protein
+CP003909.1	1886603	1890777	-	NA	pseudogene	NGFG_01765	NGFG_01765	
+CP003909.1	1890930	1895108	-	CDS	gene	NGFG_01766	NGFG_01766	DNA-directed RNA polymerase subunit beta
+CP003909.1	1895299	1895670	-	CDS	gene	NGFG_01767	NGFG_01767	50S ribosomal protein L7/L12
+CP003909.1	1895728	1896228	-	CDS	gene	NGFG_01768	NGFG_01768	50S ribosomal protein L10
+CP003909.1	1896456	1897151	-	CDS	gene	NGFG_01770	NGFG_01770	50S ribosomal protein L1
+CP003909.1	1897151	1897585	-	CDS	gene	NGFG_01771	NGFG_01771	50S ribosomal protein L11
+CP003909.1	1897686	1898222	-	CDS	gene	NGFG_01772	NGFG_01772	transcription antitermination protein nusG
+CP003909.1	1898224	1898502	-	CDS	gene	NGFG_01773	NGFG_01773	preprotein translocase%2C SecE subunit
+CP003909.1	1898617	1898692	-	exon	tRNA	NGFG_06053	NGFG_06053	tRNA-Trp
+CP003909.1	1898699	1899883	-	CDS	gene	NGFG_02466	NGFG_02466	elongation factor Tu
+CP003909.1	1899932	1900006	-	exon	tRNA	NGFG_06054	NGFG_06054	tRNA-Thr
+CP003909.1	1900016	1900089	-	exon	tRNA	NGFG_06055	NGFG_06055	tRNA-Gly
+CP003909.1	1900120	1900203	-	exon	tRNA	NGFG_06056	NGFG_06056	tRNA-Tyr
+CP003909.1	1900300	1900551	-	CDS	gene	NGFG_01774	NGFG_01774	ferredoxin
+CP003909.1	1900674	1901243	-	CDS	gene	NGFG_01775	NGFG_01775	RsmD family RNA methyltransferase
+CP003909.1	1901332	1901505	-	CDS	gene	NGFG_01776	NGFG_01776	hypothetical protein
+CP003909.1	1901700	1902377	-	CDS	gene	NGFG_02467	NGFG_02467	opacity protein
+CP003909.1	1902362	1902595	-	CDS	gene	NGFG_02468	NGFG_02468	opacity protein
+CP003909.1	1902985	1903489	-	NA	pseudogene	NGFG_01778	NGFG_01778	
+CP003909.1	1903576	1905882	-	CDS	gene	NGFG_01779	NGFG_01779	DNA topoisomerase I
+CP003909.1	1905954	1906415	-	CDS	gene	NGFG_01780	NGFG_01780	smg protein
+CP003909.1	1906441	1907628	-	CDS	gene	NGFG_01781	NGFG_01781	DNA processing protein
+CP003909.1	1907719	1908996	-	CDS	gene	NGFG_01782	NGFG_01782	two-component system transcriptional response regulator
+CP003909.1	1908989	1911109	-	CDS	gene	NGFG_01783	NGFG_01783	two-component system sensor kinase
+CP003909.1	1911109	1911708	-	CDS	gene	NGFG_01784	NGFG_01784	hypothetical protein
+CP003909.1	1911674	1912933	-	CDS	gene	NGFG_01785	NGFG_01785	ribosomal RNA small subunit methyltransferase B
+CP003909.1	1913012	1913938	-	CDS	gene	NGFG_01786	NGFG_01786	methionyl-tRNA formyltransferase
+CP003909.1	1914026	1914529	-	CDS	gene	NGFG_01787	NGFG_01787	peptide deformylase
+CP003909.1	1914941	1916164	+	CDS	gene	NGFG_01788	NGFG_01788	LysM protein
+CP003909.1	1916585	1917229	-	CDS	gene	NGFG_01790	NGFG_01790	hypothetical protein
+CP003909.1	1917298	1917756	-	CDS	gene	NGFG_01791	NGFG_01791	aspartate carbamoyltransferase regulatory chain
+CP003909.1	1917766	1918686	-	CDS	gene	NGFG_01792	NGFG_01792	aspartate carbamoyltransferase
+CP003909.1	1918921	1919763	+	CDS	gene	NGFG_01793	NGFG_01793	acetyltransferase
+CP003909.1	1921420	1921938	-	CDS	gene	NGFG_01794	NGFG_01794	hypothetical protein
+CP003909.1	1922209	1923681	+	CDS	gene	NGFG_01796	NGFG_01796	pyruvate kinase
+CP003909.1	1924092	1924439	+	CDS	gene	NGFG_01797	NGFG_01797	long-chain fatty acid transporter
+CP003909.1	1924461	1925267	+	CDS	gene	NGFG_01798	NGFG_01798	hypothetical protein
+CP003909.1	1925350	1925772	-	CDS	gene	NGFG_01799	NGFG_01799	hypothetical protein
+CP003909.1	1926117	1926314	-	CDS	gene	NGFG_01801	NGFG_01801	hypothetical protein
+CP003909.1	1926324	1927340	-	CDS	gene	NGFG_01802	NGFG_01802	lipoprotein
+CP003909.1	1927439	1928653	-	CDS	gene	NGFG_01803	NGFG_01803	sodium/glutamate symporter
+CP003909.1	1928918	1929235	+	CDS	gene	NGFG_02469	NGFG_02469	hypothetical protein
+CP003909.1	1929206	1930330	-	CDS	gene	NGFG_01805	NGFG_01805	restriction endonuclease
+CP003909.1	1930393	1931400	-	CDS	gene	NGFG_01806	NGFG_01806	modification methylase HphIB
+CP003909.1	1931393	1932394	-	CDS	gene	NGFG_02470	NGFG_02470	modification methylase HphIA
+CP003909.1	1932425	1934698	-	CDS	gene	NGFG_01809	NGFG_01809	competence protein ComEA helix-hairpin-helix repeat region
+CP003909.1	1934813	1935829	+	CDS	gene	NGFG_01810	NGFG_01810	UDP-glucose 4-epimerase
+CP003909.1	1935830	1936870	+	CDS	gene	NGFG_01811	NGFG_01811	dTDP-glucose 4%2C6-dehydratase
+CP003909.1	1936831	1937841	+	CDS	gene	NGFG_01812	NGFG_01812	glucose-1-phosphate thymidylyltransferase
+CP003909.1	1937980	1938537	+	CDS	gene	NGFG_01813	NGFG_01813	dTDP-4-dehydrorhamnose 3%2C5-epimerase
+CP003909.1	1938581	1940599	-	CDS	gene	NGFG_01814	NGFG_01814	OPT family oligopeptide transporter
+CP003909.1	1940794	1941915	-	CDS	gene	NGFG_01815	NGFG_01815	chaperone dnaJ
+CP003909.1	1942049	1942498	+	CDS	gene	NGFG_01816	NGFG_01816	transposase
+CP003909.1	1942903	1943202	-	CDS	gene	NGFG_02471	NGFG_02471	comEA protein
+CP003909.1	1943554	1943666	-	exon	rRNA	NGFG_06057	NGFG_06057	5S ribosomal RNA
+CP003909.1	1943765	1946655	-	exon	rRNA	NGFG_06058	NGFG_06058	23S ribosomal RNA
+CP003909.1	1947004	1947079	-	exon	tRNA	NGFG_06059	NGFG_06059	tRNA-Ala
+CP003909.1	1947085	1947161	-	exon	tRNA	NGFG_06060	NGFG_06060	tRNA-Ile
+CP003909.1	1947267	1948795	-	exon	rRNA	NGFG_06061	NGFG_06061	16S ribosomal RNA
+CP003909.1	1948854	1949135	+	CDS	gene	NGFG_02472	NGFG_02472	hypothetical protein
+CP003909.1	1949267	1949683	-	CDS	gene	NGFG_01984	NGFG_01984	DnaK suppressor protein
+CP003909.1	1949831	1950622	-	CDS	gene	NGFG_01983	NGFG_01983	pyrroline-5-carboxylate reductase
+CP003909.1	1950671	1951078	-	CDS	gene	NGFG_01982	NGFG_01982	lipoprotein
+CP003909.1	1951078	1951764	-	CDS	gene	NGFG_01981	NGFG_01981	YggS family pyridoxal phosphate enzyme
+CP003909.1	1951884	1952927	+	CDS	gene	NGFG_01980	NGFG_01980	twitching motility protein
+CP003909.1	1953091	1954317	+	CDS	gene	NGFG_01979	NGFG_01979	twitching motility protein
+CP003909.1	1954434	1956584	+	CDS	gene	NGFG_01978	NGFG_01978	TIGR01666 family membrane protein
+CP003909.1	1957514	1957798	-	CDS	gene	NGFG_02247	NGFG_02247	endonuclease
+CP003909.1	1959142	1962138	-	CDS	gene	NGFG_01977	NGFG_01977	type IV pilus assembly protein PilC
+CP003909.1	1963261	1964709	+	CDS	gene	NGFG_01975	NGFG_01975	6-phosphogluconate dehydrogenase%2C decarboxylating
+CP003909.1	1964772	1966043	+	CDS	gene	NGFG_01974	NGFG_01974	3-deoxy-D-manno-octulosonic-acid transferase
+CP003909.1	1966084	1966533	+	CDS	gene	NGFG_01973	NGFG_01973	hypothetical protein
+CP003909.1	1966566	1967540	+	CDS	gene	NGFG_01972	NGFG_01972	tellurite resistance integral membrane protein TerC
+CP003909.1	1967609	1967684	+	exon	tRNA	NGFG_06062	NGFG_06062	tRNA-Lys
+CP003909.1	1967905	1969158	+	CDS	gene	NGFG_01971	NGFG_01971	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+CP003909.1	1969239	1970432	+	CDS	gene	NGFG_01970	NGFG_01970	phosphoglycerate kinase
+CP003909.1	1970484	1970732	-	CDS	gene	NGFG_01969	NGFG_01969	BolA-like protein
+CP003909.1	1970825	1971742	-	CDS	gene	NGFG_01968	NGFG_01968	cell division protein FtsX
+CP003909.1	1971739	1972389	-	CDS	gene	NGFG_02473	NGFG_02473	cell division ABC transporter ATP-binding protein
+CP003909.1	1972583	1973065	-	CDS	gene	NGFG_01965	NGFG_01965	thioredoxin
+CP003909.1	1973189	1973542	+	CDS	gene	NGFG_01964	NGFG_01964	arsenate reductase (glutaredoxin)
+CP003909.1	1973539	1974195	+	CDS	gene	NGFG_01963	NGFG_01963	hypothetical protein
+CP003909.1	1974311	1975705	+	CDS	gene	NGFG_01962	NGFG_01962	glutamyl-tRNA synthetase
+CP003909.1	1975726	1976121	+	CDS	gene	NGFG_01961	NGFG_01961	hypothetical protein
+CP003909.1	1976125	1976616	+	CDS	gene	NGFG_01960	NGFG_01960	acetyltransferase
+CP003909.1	1976892	1979486	-	CDS	gene	NGFG_01959	NGFG_01959	DNA mismatch repair protein mutS
+CP003909.1	1979917	1980921	+	CDS	gene	NGFG_01958	NGFG_01958	glyceraldehyde-3-phosphate dehydrogenase
+CP003909.1	1981073	1981753	-	CDS	gene	NGFG_01957	NGFG_01957	hypothetical protein
+CP003909.1	1982213	1982848	+	CDS	gene	NGFG_01956	NGFG_01956	nicotinamidase/pyrazinamidase
+CP003909.1	1982885	1983853	+	CDS	gene	NGFG_01955	NGFG_01955	lipopolysaccharide heptosyltransferase I
+CP003909.1	1984079	1984828	+	CDS	gene	NGFG_01954	NGFG_01954	electron transfer flavoprotein beta subunit ETFB
+CP003909.1	1984839	1985774	+	CDS	gene	NGFG_01953	NGFG_01953	electron transfer flavoprotein alpha subunit EtfA
+CP003909.1	1985837	1986448	+	CDS	gene	NGFG_01952	NGFG_01952	hypothetical protein
+CP003909.1	1986500	1986703	-	CDS	gene	NGFG_01951	NGFG_01951	hypothetical protein
+CP003909.1	1986975	1988246	+	CDS	gene	NGFG_01950	NGFG_01950	phosphoribosylamine-glycine ligase
+CP003909.1	1988280	1988882	+	CDS	gene	NGFG_01949	NGFG_01949	tRNA threonylcarbamoyladenosine biosynthesis protein RimN
+CP003909.1	1988897	1989412	+	CDS	gene	NGFG_01948	NGFG_01948	hypothetical protein
+CP003909.1	1989564	1989986	-	CDS	gene	NGFG_01947	NGFG_01947	lipoprotein
+CP003909.1	1990236	1990415	-	CDS	gene	NGFG_01946	NGFG_01946	hypothetical protein
+CP003909.1	1990421	1991008	-	CDS	gene	NGFG_01945	NGFG_01945	TIGR02943 family RNA polymerase sigma-70 factor
+CP003909.1	1991030	1991776	-	CDS	gene	NGFG_01944	NGFG_01944	hypothetical protein
+CP003909.1	1991766	1992608	-	CDS	gene	NGFG_01943	NGFG_01943	UPF0276 protein
+CP003909.1	1992726	1993034	-	CDS	gene	NGFG_01942	NGFG_01942	hypothetical protein
+CP003909.1	1993108	1993557	-	CDS	gene	NGFG_01941	NGFG_01941	oxidoreductase
+CP003909.1	1993897	1994790	+	CDS	gene	NGFG_01940	NGFG_01940	phospholipase patatin family protein
+CP003909.1	1994893	1995996	+	CDS	gene	NGFG_01939	NGFG_01939	peptide chain release factor 2
+CP003909.1	1995889	1996485	-	CDS	gene	NGFG_02474	NGFG_02474	hypothetical protein
+CP003909.1	1996764	1998221	-	CDS	gene	NGFG_01937	NGFG_01937	amino acid/peptide transporter (Peptide:H+ symporter)
+CP003909.1	1999003	2003172	-	CDS	gene	NGFG_01935	NGFG_01935	hypothetical protein
+CP003909.1	2003227	2005134	-	CDS	gene	NGFG_01934	NGFG_01934	outer membrane protein
+CP003909.1	2005445	2006674	+	CDS	gene	NGFG_01933	NGFG_01933	serine/threonine transporter sstT
+CP003909.1	2006825	2008111	+	CDS	gene	NGFG_01931	NGFG_01931	iron transporter outer membrane receptor
+CP003909.1	2008111	2008314	+	CDS	gene	NGFG_02475	NGFG_02475	hypothetical protein
+CP003909.1	2008344	2008622	+	CDS	gene	NGFG_01929	NGFG_01929	hypothetical protein
+CP003909.1	2008615	2008830	-	CDS	gene	NGFG_01928	NGFG_01928	hypothetical protein
+CP003909.1	2008823	2009038	-	CDS	gene	NGFG_01927	NGFG_01927	hypothetical protein
+CP003909.1	2009241	2010584	-	CDS	gene	NGFG_01926	NGFG_01926	argininosuccinate synthase
+CP003909.1	2010670	2011509	+	CDS	gene	NGFG_01925	NGFG_01925	CinA-like protein
+CP003909.1	2011549	2012535	+	CDS	gene	NGFG_01924	NGFG_01924	signal peptide peptidase SppA%2C 36K type
+CP003909.1	2013325	2013702	+	CDS	gene	NGFG_02476	NGFG_02476	transposase
+CP003909.1	2014139	2014513	-	CDS	gene	NGFG_01923	NGFG_01923	hypothetical protein
+CP003909.1	2014687	2015043	-	CDS	gene	NGFG_01922	NGFG_01922	hypothetical protein
+CP003909.1	2015040	2015825	-	CDS	gene	NGFG_02477	NGFG_02477	MafB family adhesin protein
+CP003909.1	2016332	2016691	-	CDS	gene	NGFG_01919	NGFG_01919	hypothetical protein
+CP003909.1	2017680	2017886	-	CDS	gene	NGFG_02223	NGFG_02223	hypothetical protein
+CP003909.1	2017896	2018678	-	CDS	gene	NGFG_02222	NGFG_02222	MafB family adhesin protein
+CP003909.1	2018842	2019051	-	CDS	gene	NGFG_01917	NGFG_01917	hypothetical protein
+CP003909.1	2019128	2019487	-	CDS	gene	NGFG_01916	NGFG_01916	hypothetical protein
+CP003909.1	2019492	2020988	-	CDS	gene	NGFG_01915	NGFG_01915	MafB family adhesin protein
+CP003909.1	2021239	2021610	-	CDS	gene	NGFG_01914	NGFG_01914	hypothetical protein
+CP003909.1	2021607	2023172	-	CDS	gene	NGFG_02478	NGFG_02478	MafB family adhesin protein
+CP003909.1	2023212	2024174	-	CDS	gene	NGFG_02219	NGFG_02219	adhesin mafA
+CP003909.1	2024365	2025084	-	CDS	gene	NGFG_01912	NGFG_01912	uridylate kinase
+CP003909.1	2025301	2026155	-	CDS	gene	NGFG_01911	NGFG_01911	elongation factor Ts
+CP003909.1	2026095	2026259	-	CDS	gene	NGFG_02479	NGFG_02479	hypothetical protein
+CP003909.1	2026284	2027012	-	CDS	gene	NGFG_01910	NGFG_01910	30S ribosomal protein S2
+CP003909.1	2027185	2027418	-	CDS	gene	NGFG_01909	NGFG_01909	hypothetical protein
+CP003909.1	2027496	2028077	+	CDS	gene	NGFG_01908	NGFG_01908	5-formyltetrahydrofolate cyclo-ligase
+CP003909.1	2028138	2028728	+	CDS	gene	NGFG_01907	NGFG_01907	hypothetical protein
+CP003909.1	2029112	2030578	+	CDS	gene	NGFG_01906	NGFG_01906	malate dehydrogenase (acceptor)
+CP003909.1	2030765	2031322	-	CDS	gene	NGFG_01905	NGFG_01905	hypothetical protein
+CP003909.1	2031374	2031673	-	CDS	gene	NGFG_01904	NGFG_01904	hypothetical protein
+CP003909.1	2031772	2032551	-	CDS	gene	NGFG_01903	NGFG_01903	methionine aminopeptidase%2C type I
+CP003909.1	2032591	2033241	-	CDS	gene	NGFG_01902	NGFG_01902	hypothetical protein
+CP003909.1	2033249	2033857	-	CDS	gene	NGFG_01901	NGFG_01901	phospholipid-binding protein
+CP003909.1	2033921	2034514	-	CDS	gene	NGFG_01900	NGFG_01900	phosphoheptose isomerase
+CP003909.1	2034519	2034866	-	CDS	gene	NGFG_01899	NGFG_01899	endonuclease
+CP003909.1	2034913	2035788	+	CDS	gene	NGFG_01898	NGFG_01898	ribosomal RNA small subunit methyltransferase I
+CP003909.1	2035823	2036353	-	CDS	gene	NGFG_01897	NGFG_01897	cytochrome b561
+CP003909.1	2036632	2037786	+	CDS	gene	NGFG_01895	NGFG_01895	GTPase obg
+CP003909.1	2037840	2038787	+	CDS	gene	NGFG_01894	NGFG_01894	DNA (cytosine-5-)-methyltransferase
+CP003909.1	2038784	2039836	+	CDS	gene	NGFG_01893	NGFG_01893	NgoI restriction endonuclease
+CP003909.1	2039846	2041273	+	CDS	gene	NGFG_01892	NGFG_01892	cysteinyl-tRNA synthetase
+CP003909.1	2041444	2042223	+	CDS	gene	NGFG_01891	NGFG_01891	exodeoxyribonuclease III (xth)
+CP003909.1	2042210	2042554	+	CDS	gene	NGFG_01890	NGFG_01890	hypothetical protein
+CP003909.1	2042564	2043094	+	CDS	gene	NGFG_01889	NGFG_01889	hypothetical protein
+CP003909.1	2043187	2044302	-	CDS	gene	NGFG_01888	NGFG_01888	aspartate-semialdehyde dehydrogenase
+CP003909.1	2044477	2045058	+	CDS	gene	NGFG_01887	NGFG_01887	integral membrane protein
+CP003909.1	2045120	2045974	-	CDS	gene	NGFG_01886	NGFG_01886	FolD protein
+CP003909.1	2046197	2046274	+	exon	tRNA	NGFG_06063	NGFG_06063	tRNA-Pro
+CP003909.1	2046299	2046375	+	exon	tRNA	NGFG_06064	NGFG_06064	tRNA-Arg
+CP003909.1	2046403	2046478	+	exon	tRNA	NGFG_06065	NGFG_06065	tRNA-His
+CP003909.1	2046614	2047120	+	CDS	gene	NGFG_01885	NGFG_01885	transferase
+CP003909.1	2047117	2048895	+	CDS	gene	NGFG_01884	NGFG_01884	bifunctional enzyme BirA/CoaX
+CP003909.1	2049008	2049832	+	CDS	gene	NGFG_01883	NGFG_01883	hypothetical protein
+CP003909.1	2050339	2050551	-	CDS	gene	NGFG_02480	NGFG_02480	histone-like nucleoid-structuring protein H-NS
+CP003909.1	2050566	2051432	-	CDS	gene	NGFG_01880	NGFG_01880	thiamine biosynthesis protein ThiG
+CP003909.1	2051433	2051627	-	CDS	gene	NGFG_01879	NGFG_01879	thiamine biosynthesis protein ThiS
+CP003909.1	2052050	2052667	-	CDS	gene	NGFG_01878	NGFG_01878	thiamine-phosphate pyrophosphorylase
+CP003909.1	2052689	2053789	-	CDS	gene	NGFG_01877	NGFG_01877	glycine oxidase ThiO
+CP003909.1	2053786	2055012	-	CDS	gene	NGFG_01876	NGFG_01876	hydroxymethylpyrimidine transporter permease CytX
+CP003909.1	2055299	2056741	+	CDS	gene	NGFG_01875	NGFG_01875	TldD protein
+CP003909.1	2056885	2057544	+	CDS	gene	NGFG_01874	NGFG_01874	His/Glu/Gln/Arg/opine family amino ABC transporter%2C permease%2C 3-TM region
+CP003909.1	2057534	2058202	+	CDS	gene	NGFG_01873	NGFG_01873	His/Glu/Gln/Arg/opine family amino ABC transporter%2C permease%2C 3-TM region
+CP003909.1	2058204	2058935	+	CDS	gene	NGFG_01872	NGFG_01872	polar amino acid ABC transporter ATP-binding protein
+CP003909.1	2059048	2059901	+	NA	pseudogene	NGFG_01871	NGFG_01871	
+CP003909.1	2060317	2061138	+	CDS	gene	NGFG_01870	NGFG_01870	protein-(glutamine-N5) methyltransferase%2C release factor-specific
+CP003909.1	2061224	2062612	+	CDS	gene	NGFG_01869	NGFG_01869	membrane protein
+CP003909.1	2062613	2062837	+	CDS	gene	NGFG_01868	NGFG_01868	SlyX protein
+CP003909.1	2063237	2064130	-	CDS	gene	NGFG_01865	NGFG_01865	thiazole biosynthesis adenylyltransferase ThiF
+CP003909.1	2064173	2066875	+	CDS	gene	NGFG_01864	NGFG_01864	phosphoenolpyruvate carboxylase
+CP003909.1	2066998	2067987	+	CDS	gene	NGFG_01863	NGFG_01863	glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CP003909.1	2068041	2068370	+	CDS	gene	NGFG_01862	NGFG_01862	hypothetical protein
+CP003909.1	2068381	2068686	+	CDS	gene	NGFG_01861	NGFG_01861	cell division protein ZapA
+CP003909.1	2069049	2069480	+	CDS	gene	NGFG_01860	NGFG_01860	50S ribosomal protein L13
+CP003909.1	2069493	2069885	+	CDS	gene	NGFG_01859	NGFG_01859	30S ribosomal protein S9
+CP003909.1	2070266	2070760	-	CDS	gene	NGFG_01857	NGFG_01857	hypothetical protein
+CP003909.1	2070953	2071882	-	CDS	gene	NGFG_01856	NGFG_01856	LysR family transcriptional regulator%2C regulator for metE and metH
+CP003909.1	2072011	2072760	+	CDS	gene	NGFG_01855	NGFG_01855	UPF0135 protein
+CP003909.1	2072883	2073464	+	CDS	gene	NGFG_01854	NGFG_01854	ubiquinol-cytochrome c reductase%2C iron-sulfur subunit
+CP003909.1	2073483	2074832	+	CDS	gene	NGFG_01853	NGFG_01853	cytochrome b
+CP003909.1	2074847	2075635	+	CDS	gene	NGFG_01852	NGFG_01852	cytochrome c1
+CP003909.1	2075967	2077757	+	CDS	gene	NGFG_01851	NGFG_01851	DNA recombination protein RmuC
+CP003909.1	2077824	2078456	-	CDS	gene	NGFG_01850	NGFG_01850	metallo-dependent hydrolase
+CP003909.1	2078549	2079373	+	CDS	gene	NGFG_01849	NGFG_01849	DNA ligase
+CP003909.1	2079442	2080005	+	CDS	gene	NGFG_01848	NGFG_01848	hypoxanthine phosphoribosyltransferase
+CP003909.1	2080088	2080525	+	CDS	gene	NGFG_01847	NGFG_01847	PTS system ascorbate-specific IIA component
+CP003909.1	2080746	2081015	+	CDS	gene	NGFG_01846	NGFG_01846	phosphocarrier protein HPr
+CP003909.1	2081015	2082790	+	CDS	gene	NGFG_01845	NGFG_01845	phosphoenolpyruvate-protein phosphotransferase
+CP003909.1	2082917	2083858	-	CDS	gene	NGFG_01844	NGFG_01844	ABC transporter ATP-binding protein
+CP003909.1	2083867	2084742	-	CDS	gene	NGFG_01843	NGFG_01843	NUDIX family hydrolase
+CP003909.1	2084925	2085001	-	exon	tRNA	NGFG_06066	NGFG_06066	tRNA-Met
+CP003909.1	2085340	2087241	+	CDS	gene	NGFG_01842	NGFG_01842	thiamine biosynthesis protein ThiC
+CP003909.1	2087686	2088063	-	CDS	gene	NGFG_02481	NGFG_02481	pilin pilS6c1
+CP003909.1	2088092	2088520	-	CDS	gene	NGFG_02482	NGFG_02482	pilin pilS6c3
+CP003909.1	2088566	2088880	+	CDS	gene	NGFG_01841	NGFG_01841	glycerate dehydrogenase
+CP003909.1	2088955	2091009	-	CDS	gene	NGFG_01840	NGFG_01840	methionyl-tRNA synthetase
+CP003909.1	2091125	2092963	-	CDS	gene	NGFG_01839	NGFG_01839	glucosamine-fructose-6-phosphate aminotransferase [isomerizing]
+CP003909.1	2093241	2094008	+	CDS	gene	NGFG_01837	NGFG_01837	lipoprotein
+CP003909.1	2094041	2095366	-	CDS	gene	NGFG_01836	NGFG_01836	membrane-bound lytic murein transglycosylase A
+CP003909.1	2095681	2096193	+	CDS	gene	NGFG_01834	NGFG_01834	FTR1 family protein
+CP003909.1	2096416	2097582	+	CDS	gene	NGFG_01832	NGFG_01832	UPF0409 lipoprotein
+CP003909.1	2097889	2099154	+	CDS	gene	NGFG_01831	NGFG_01831	dye decolorizing peroxidase
+CP003909.1	2099226	2099555	-	CDS	gene	NGFG_01830	NGFG_01830	phosphonoacetate hydrolase
+CP003909.1	2099630	2101000	-	CDS	gene	NGFG_01829	NGFG_01829	glmU protein
+CP003909.1	2101055	2102035	-	CDS	gene	NGFG_01828	NGFG_01828	hypothetical protein
+CP003909.1	2102094	2103095	+	CDS	gene	NGFG_01827	NGFG_01827	ABC transporter periplasmic binding protein%2C thiB subfamily
+CP003909.1	2103189	2104037	+	CDS	gene	NGFG_01826	NGFG_01826	small conductance mechanosensitive ion channel protein
+CP003909.1	2104064	2104549	+	CDS	gene	NGFG_01825	NGFG_01825	competence/damage-inducible protein CinA
+CP003909.1	2104633	2106201	-	CDS	gene	NGFG_01824	NGFG_01824	peptide methionine sulfoxide reductase msrA/msrB
+CP003909.1	2106347	2107600	+	CDS	gene	NGFG_01822	NGFG_01822	signal recognition particle-docking protein FtsY
+CP003909.1	2107868	2108407	-	CDS	gene	NGFG_02483	NGFG_02483	opacity protein
+CP003909.1	2109185	2109685	-	CDS	gene	NGFG_01821	NGFG_01821	pilin pilE
+CP003909.1	2110458	2110826	-	CDS	gene	NGFG_01819	NGFG_01819	pilin pilEuss2
+CP003909.1	2110959	2111390	-	CDS	gene	NGFG_01818	NGFG_01818	pilin pilEuss3
+CP003909.1	2111496	2112419	-	CDS	gene	NGFG_01817	NGFG_01817	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+CP003909.1	2112950	2113369	-	CDS	gene	NGFG_02484	NGFG_02484	pilin pilS2c1
+CP003909.1	2113465	2113869	-	CDS	gene	NGFG_02485	NGFG_02485	pilin pilS2c2
+CP003909.1	2114341	2115285	-	CDS	gene	NGFG_00001	NGFG_00001	pilin invertase/transposase
+CP003909.1	2115500	2116687	-	CDS	gene	NGFG_00002	NGFG_00002	zona occludens toxin
+CP003909.1	2116688	2116972	-	CDS	gene	NGFG_00003	NGFG_00003	integral membrane protein
+CP003909.1	2117465	2118778	-	CDS	gene	NGFG_02486	NGFG_02486	TspB protein
+CP003909.1	2119443	2119745	-	CDS	gene	NGFG_00006	NGFG_00006	hypothetical protein
+CP003909.1	2119773	2120003	-	CDS	gene	NGFG_00007	NGFG_00007	hypothetical protein
+CP003909.1	2120230	2120430	-	CDS	gene	NGFG_00008	NGFG_00008	hypothetical protein
+CP003909.1	2120434	2120745	-	CDS	gene	NGFG_00009	NGFG_00009	hypothetical protein
+CP003909.1	2120757	2121971	-	CDS	gene	NGFG_00010	NGFG_00010	phage replication initiation protein
+CP003909.1	2122673	2123455	-	CDS	gene	NGFG_02253	NGFG_02253	pilin pilS1c12
+CP003909.1	2123867	2124205	-	CDS	gene	NGFG_02487	NGFG_02487	pilin pilS1c3
+CP003909.1	2124213	2125298	-	CDS	gene	NGFG_00014	NGFG_00014	pilin pilS1c456
+CP003909.1	2125885	2126573	-	NA	pseudogene	NGFG_00016	NGFG_00016	
+CP003909.1	2126570	2127313	-	CDS	gene	NGFG_00017	NGFG_00017	1-acylglycerol-3-phosphate O-acyltransferase
+CP003909.1	2127343	2127906	-	CDS	gene	NGFG_00018	NGFG_00018	D%2CD-heptose 1%2C7-bisphosphate phosphatase
+CP003909.1	2128049	2129712	+	NA	pseudogene	NGFG_00019	NGFG_00019	
+CP003909.1	2129779	2130833	-	NA	pseudogene	NGFG_00020	NGFG_00020	
+CP003909.1	2130985	2132226	-	CDS	gene	NGFG_00021	NGFG_00021	aromatic amino acid transporter
+CP003909.1	2132386	2133102	+	CDS	gene	NGFG_00022	NGFG_00022	3-demethylubiquinone-9 3-methyltransferase
+CP003909.1	2133139	2134056	+	CDS	gene	NGFG_00023	NGFG_00023	homoserine kinase
+CP003909.1	2134242	2134760	-	CDS	gene	NGFG_00024	NGFG_00024	thermoresistant glucokinase family carbohydrate kinase
+CP003909.1	2134780	2136165	-	CDS	gene	NGFG_00025	NGFG_00025	gluconate:H+ symporter (GntP) family transporter
+CP003909.1	2136556	2138097	+	CDS	gene	NGFG_00027	NGFG_00027	thiamine ABC transporter permease
+CP003909.1	2138126	2138725	+	CDS	gene	NGFG_00028	NGFG_00028	carbonic anhydrase
+CP003909.1	2138722	2139327	+	CDS	gene	NGFG_00029	NGFG_00029	nicotinate (nicotinamide) nucleotide adenylyltransferase
+CP003909.1	2139386	2139772	+	CDS	gene	NGFG_00030	NGFG_00030	iojap-like ribosome-associated protein
+CP003909.1	2139825	2140295	+	CDS	gene	NGFG_00031	NGFG_00031	ribosomal RNA large subunit methyltransferase H
+CP003909.1	2140369	2140635	+	CDS	gene	NGFG_00032	NGFG_00032	Fe(2+)-trafficking protein family
+CP003909.1	2140792	2141475	+	CDS	gene	NGFG_00033	NGFG_00033	hypothetical protein
+CP003909.1	2141605	2142120	+	CDS	gene	NGFG_00034	NGFG_00034	phosphopantetheine adenylyltransferase
+CP003909.1	2142259	2143533	-	CDS	gene	NGFG_00035	NGFG_00035	cell surface protein
+CP003909.1	2143552	2144205	+	CDS	gene	NGFG_02488	NGFG_02488	transposase
+CP003909.1	2144240	2144998	-	CDS	gene	NGFG_00036	NGFG_00036	iron complex ABC transporter ATP-binding protein
+CP003909.1	2145082	2145708	-	CDS	gene	NGFG_00037	NGFG_00037	hypothetical protein
+CP003909.1	2145753	2146727	-	CDS	gene	NGFG_00038	NGFG_00038	iron(III) ABC transporter permease
+CP003909.1	2146717	2147685	-	CDS	gene	NGFG_00039	NGFG_00039	iron complex ABC transporter permease
+CP003909.1	2147913	2148878	-	CDS	gene	NGFG_00041	NGFG_00041	iron complex ABC transporter substrate-binding protein
+CP003909.1	2149030	2151195	-	CDS	gene	NGFG_00042	NGFG_00042	TonB-dependent siderophore receptor
+CP003909.1	2151701	2151991	+	CDS	gene	NGFG_00043	NGFG_00043	chaperonin
+CP003909.1	2152083	2153717	+	CDS	gene	NGFG_00044	NGFG_00044	chaperonin
+CP003909.1	2154370	2155956	+	CDS	gene	NGFG_00045	NGFG_00045	NSS family neurotransmitter:Na+ symporter
+CP003909.1	2155953	2156045	+	CDS	gene	NGFG_02489	NGFG_02489	hypothetical protein
+CP003909.1	2156081	2156521	-	CDS	gene	NGFG_00046	NGFG_00046	hypothetical protein
+CP003909.1	2156715	2157935	-	CDS	gene	NGFG_00048	NGFG_00048	diaminopimelate decarboxylase
+CP003909.1	2157946	2158116	-	CDS	gene	NGFG_00049	NGFG_00049	lipoprotein
+CP003909.1	2158187	2158510	+	CDS	gene	NGFG_00050	NGFG_00050	protein CyaY
+CP003909.1	2158543	2158962	+	CDS	gene	NGFG_00051	NGFG_00051	hypothetical protein
+CP003909.1	2158984	2159490	+	CDS	gene	NGFG_00052	NGFG_00052	S-ribosylhomocysteine lyase
+CP003909.1	2159634	2162426	+	CDS	gene	NGFG_00054	NGFG_00054	DNA polymerase I
+CP003909.1	2162988	2163683	+	CDS	gene	NGFG_00055	NGFG_00055	hypothetical protein
+CP003909.1	2163923	2168317	-	CDS	gene	NGFG_00056	NGFG_00056	adhesion and penetration protein
+CP003909.1	2168755	2170101	+	CDS	gene	NGFG_00058	NGFG_00058	tRNA modification GTPase mnmE
+CP003909.1	2170975	2173404	-	CDS	gene	NGFG_00062	NGFG_00062	hemoglobin-haptoglobin utilization protein B
+CP003909.1	2173432	2174460	-	CDS	gene	NGFG_00063	NGFG_00063	hemoglobin receptor
+CP003909.1	2174755	2176371	+	CDS	gene	NGFG_00064	NGFG_00064	hypothetical protein
+CP003909.1	2176432	2178306	-	CDS	gene	NGFG_00065	NGFG_00065	para-aminobenzoate synthase component
+CP003909.1	2178489	2179404	+	NA	pseudogene	NGFG_00066	NGFG_00066	
+CP003909.1	2179486	2180724	-	CDS	gene	NGFG_00067	NGFG_00067	aldehyde dehydrogenase
+CP003909.1	2180717	2180917	-	CDS	gene	NGFG_00068	NGFG_00068	aldehyde dehydrogenase
+CP003909.1	2181106	2181873	-	CDS	gene	NGFG_00069	NGFG_00069	AraC family transcriptional regulator
+CP003909.1	2182113	2182913	+	CDS	gene	NGFG_00070	NGFG_00070	hypothetical protein
+CP003909.1	2182961	2183737	+	CDS	gene	NGFG_00071	NGFG_00071	ABC transporter permease
+CP003909.1	2183788	2184282	+	CDS	gene	NGFG_00072	NGFG_00072	ABC transporter substrate-binding protein virulence factor Mce
+CP003909.1	2184313	2184903	+	CDS	gene	NGFG_00073	NGFG_00073	toluene tolerance protein
+CP003909.1	2184954	2185232	+	CDS	gene	NGFG_00074	NGFG_00074	hypothetical protein
+CP003909.1	2185229	2186056	+	CDS	gene	NGFG_00075	NGFG_00075	lipoprotein
+CP003909.1	2186061	2186543	+	CDS	gene	NGFG_00076	NGFG_00076	hypothetical protein
+CP003909.1	2186543	2186926	+	CDS	gene	NGFG_00077	NGFG_00077	thioesterase
+CP003909.1	2186923	2187411	+	CDS	gene	NGFG_00078	NGFG_00078	thioredoxin
+CP003909.1	2187626	2187988	-	CDS	gene	NGFG_02490	NGFG_02490	galactoside O-acetyltransferase
+CP003909.1	2188123	2188338	+	CDS	gene	NGFG_00081	NGFG_00081	50S ribosomal protein L31
+CP003909.1	2188595	2189230	+	CDS	gene	NGFG_00082	NGFG_00082	cadmium resistance transporter
+CP003909.1	2189376	2191052	+	CDS	gene	NGFG_00083	NGFG_00083	inner membrane protein
+CP003909.1	2191259	2191864	+	CDS	gene	NGFG_00084	NGFG_00084	stringent starvation protein A
+CP003909.1	2191936	2192328	+	CDS	gene	NGFG_00085	NGFG_00085	stringent starvation protein B
+CP003909.1	2192527	2192973	-	CDS	gene	NGFG_00087	NGFG_00087	GatB/Yqey domain protein
+CP003909.1	2193105	2193317	-	CDS	gene	NGFG_00088	NGFG_00088	30S ribosomal protein S21
+CP003909.1	2193606	2195456	-	CDS	gene	NGFG_00089	NGFG_00089	soluble lytic murein transglycosylase
+CP003909.1	2195833	2196570	+	CDS	gene	NGFG_00091	NGFG_00091	D-methionine ABC transporter ATP-binding protein
+CP003909.1	2196572	2197258	+	CDS	gene	NGFG_00092	NGFG_00092	D-methionine ABC transporter permease
+CP003909.1	2197417	2198283	+	CDS	gene	NGFG_00093	NGFG_00093	D-methionine ABC transporter substrate-binding protein
+CP003909.1	2198346	2199044	-	CDS	gene	NGFG_00094	NGFG_00094	polyprenyl P-hydroxybenzoate and phenylacrylic acid decarboxylase
+CP003909.1	2199073	2199933	+	CDS	gene	NGFG_00095	NGFG_00095	ParB-like chromosome partition protein
+CP003909.1	2200607	2200960	+	CDS	gene	NGFG_00097	NGFG_00097	ATP synthase I
+CP003909.1	2200950	2201816	+	CDS	gene	NGFG_00098	NGFG_00098	ATP synthase F0%2C subunit A
+CP003909.1	2201873	2202109	+	CDS	gene	NGFG_00099	NGFG_00099	ATP synthase subunit C
+CP003909.1	2202179	2202649	+	CDS	gene	NGFG_00100	NGFG_00100	ATP synthase F0%2C subunit B
+CP003909.1	2202654	2203187	+	CDS	gene	NGFG_00101	NGFG_00101	ATP synthase F1%2C subunit delta
+CP003909.1	2203198	2204745	+	CDS	gene	NGFG_00102	NGFG_00102	ATP synthase F1%2C subunit alpha
+CP003909.1	2204770	2205645	+	CDS	gene	NGFG_00103	NGFG_00103	ATP synthase F1%2C gamma chain
+CP003909.1	2205683	2207080	+	CDS	gene	NGFG_00104	NGFG_00104	ATP synthase F1%2C subunit beta
+CP003909.1	2207091	2207513	+	CDS	gene	NGFG_00105	NGFG_00105	ATP synthase F1%2C epsilon chain
+CP003909.1	2207685	2208581	+	CDS	gene	NGFG_00106	NGFG_00106	glycyl-tRNA synthetase alpha subunit
+CP003909.1	2208698	2210761	+	CDS	gene	NGFG_00107	NGFG_00107	glycyl-tRNA synthetase beta subunit
+CP003909.1	2210825	2211864	+	NA	pseudogene	NGFG_00108	NGFG_00108	
+CP003909.1	2211864	2212703	+	CDS	gene	NGFG_00109	NGFG_00109	lacto-N-neotetraose biosynthesis glycosyltransferase lgtB
+CP003909.1	2212746	2213633	+	CDS	gene	NGFG_00110	NGFG_00110	glycosyltransferase
+CP003909.1	2213693	2214708	+	NA	pseudogene	NGFG_00112	NGFG_00112	
+CP003909.1	2214727	2215569	+	CDS	gene	NGFG_02228	NGFG_02228	lacto-N-neotetraose biosynthesis glycosyltransferase lgtE
+CP003909.1	2216270	2216995	-	CDS	gene	NGFG_00113	NGFG_00113	RsmE family RNA methyltransferase
+CP003909.1	2217099	2217893	+	CDS	gene	NGFG_00114	NGFG_00114	inositol-1-monophosphatase
+CP003909.1	2218111	2218596	-	CDS	gene	NGFG_00115	NGFG_00115	SEC-C domain-containing protein
+CP003909.1	2218661	2219407	-	CDS	gene	NGFG_00116	NGFG_00116	3-oxoacyl-[acyl-carrier-protein] reductase
+CP003909.1	2219469	2221034	-	CDS	gene	NGFG_00117	NGFG_00117	GMP synthase [glutamine-hydrolyzing]
+CP003909.1	2221134	2223119	-	CDS	gene	NGFG_00118	NGFG_00118	lipid A export ATP-binding/permease MsbA
+CP003909.1	2223141	2224067	-	CDS	gene	NGFG_00119	NGFG_00119	malonyl CoA-acyl carrier protein transacylase
+CP003909.1	2224093	2224464	-	CDS	gene	NGFG_00120	NGFG_00120	integral membrane protein
+CP003909.1	2224511	2225473	-	CDS	gene	NGFG_00121	NGFG_00121	3-oxoacyl-[acyl-carrier-protein] synthase 3
+CP003909.1	2226012	2226257	-	CDS	gene	NGFG_02491	NGFG_02491	hypothetical protein
+CP003909.1	2226320	2226571	-	CDS	gene	NGFG_00124	NGFG_00124	hypothetical protein
+CP003909.1	2226709	2227755	-	CDS	gene	NGFG_00125	NGFG_00125	phosphate acyltransferase
+CP003909.1	2227845	2228372	-	CDS	gene	NGFG_00126	NGFG_00126	hypothetical protein
+CP003909.1	2228547	2228726	-	CDS	gene	NGFG_00127	NGFG_00127	50S ribosomal protein L32
+CP003909.1	2228760	2229260	-	CDS	gene	NGFG_00128	NGFG_00128	hypothetical protein
+CP003909.1	2229408	2229998	+	CDS	gene	NGFG_00129	NGFG_00129	maf-like protein
+CP003909.1	2230060	2230770	+	CDS	gene	NGFG_00130	NGFG_00130	16S rRNA (-2'-O)-methyltransferase
+CP003909.1	2230851	2232488	-	CDS	gene	NGFG_00131	NGFG_00131	preprotein translocase subunit YidC
+CP003909.1	2232661	2232882	-	CDS	gene	NGFG_00133	NGFG_00133	hypothetical protein
+CP003909.1	2232947	2233312	-	CDS	gene	NGFG_00134	NGFG_00134	ribonuclease P protein component
+CP003909.1	2233315	2233449	-	CDS	gene	NGFG_00135	NGFG_00135	50S ribosomal protein L34

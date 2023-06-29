@@ -21,7 +21,7 @@ myQCTrim="/projects/ag-advol/RNAseq/Trim/QC"
 FastQCFold="/home/irathman/sw/FastQC"
 TrimmFold="/home/irathman/sw/Trimmomatic-0.36"
 
-ID=$(ls -1 $myDataRaw | grep "_1.fastq.gz" | sed -n ''$i'p' | cut -d"_" -f1,2,3)
+ID=$(ls -1 $myDataRaw | grep "Run4" | grep "_1.fastq.gz" | sed -n ''$i'p' | cut -d"_" -f1,2,3)
 IDout=$(echo $ID)
 
 #FastQC before

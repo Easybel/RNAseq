@@ -1,0 +1,13 @@
+changed pilENG17 in MS11 fasta:
+
+MS11 pilE position: 2.109.185 .. 2.109.685   501 bp
+
+exchanged by pilENG17 without stop codon: 2.109.185 .. 2.109.685    501 bp 
+
+exchanged by pilEG4 without stop codon: 2.109.185 .. 2.109.685    501 bp 
+
+exchanged by pilENG32 with additional stopcodon to ensure   2.109.185 .. 2.109.685    501 bp
+
+(exchanged by pilENG24 without the last 16 bp of NG24: 2.109.185 .. 2.109.685    501 bp )
+
+exchanged by pilENG24 without stop codon (last 3 bp) and without first 12 bp: 2.109.185 .. 2.109.685    501 bp

@@ -1,0 +1,65 @@
+UniProtKB	Q04875	opaG		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA52		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04875	opaG		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA52		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04879	opaF		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA56		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04879	opaF		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA56		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q0PH56	traG3		GO:0016020	PMID:23378511	IMP		C	TraG_N domain-containing protein		protein	NCBITaxon:485	20130330	CACAO		
+UniProtKB	A0A1D3FIJ4	ftsQ		GO:0005515	PMID:29233095	IPI	UniProtKB:A0A1D3IEB2	F	Cell division protein FtsQ	E8M63_08615|F0T10_09030|F0T11_08980|F0T12_09000|NCTC13805_01702|WHOF_00743|WHOF_01787C	protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	Q05033	Q05033		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA66		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q05033	Q05033		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA66		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	P72079	ftsZ		GO:0005515	PMID:29233095	IPI	UniProtKB:A0A1D3IEB2	F	Cell division protein FtsZ		protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	Q04874	opaB		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA51		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04874	opaB		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA51		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04885	Q04885		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA65		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04885	Q04885		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA65		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04884	opaH		GO:0005515	PMID:27442026	IPI	UniProtKB:P40198	F	Opacity protein opA60		protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	Q04884	opaH		GO:0005515	PMID:27442026	IPI	UniProtKB:P13688	F	Opacity protein opA60		protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	Q04884	opaH		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA60		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04884	opaH		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA60		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04883	opaD		GO:0005515	PMID:27442026	IPI	UniProtKB:P40198	F	Opacity protein opA59		protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	Q04883	opaD		GO:0005515	PMID:27442026	IPI	UniProtKB:P13688	F	Opacity protein opA59		protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	Q04883	opaD		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA59		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04883	opaD		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA59		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04882	opaJ		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA58		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04882	opaJ		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA58		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04881	Q04881		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA68		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04881	Q04881		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA68		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04880	opaK		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA57		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04880	opaK		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA57		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04878	opaE		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA55		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04878	opaE		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA55		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04877	opaI		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA54		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04877	opaI		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA54		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q04876	opaA		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA53		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q04876	opaA		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA53		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	P95357	ftsX		GO:0051301	PMID:10819322	IMP		P	Cell division protein FtsX		protein	NCBITaxon:485	20130328	UniProt		
+UniProtKB	P95357	ftsX		GO:0043093	PMID:10819322	IMP		P	Cell division protein FtsX		protein	NCBITaxon:485	20180119	UniProt		
+UniProtKB	P95357	ftsX		GO:0009276	GO_REF:0000024	ISS	UniProtKB:P0AC30	C	Cell division protein FtsX		protein	NCBITaxon:485	20130328	UniProt		
+UniProtKB	P37763	rfbC		GO:0009103	GO_REF:0000024	ISS	UniProtKB:P26394	P	dTDP-4-dehydrorhamnose 3,5-epimerase	rmlC	protein	NCBITaxon:485	20110815	UniProt		
+UniProtKB	P37763	rfbC		GO:0045226	GO_REF:0000024	ISS	UniProtKB:P26394	P	dTDP-4-dehydrorhamnose 3,5-epimerase	rmlC	protein	NCBITaxon:485	20110815	UniProt		
+UniProtKB	P37763	rfbC		GO:0008830	GO_REF:0000024	ISS	UniProtKB:P26394	F	dTDP-4-dehydrorhamnose 3,5-epimerase	rmlC	protein	NCBITaxon:485	20110815	UniProt		
+UniProtKB	P37761	rfbB		GO:0009103	GO_REF:0000024	ISS	UniProtKB:P27830	P	dTDP-glucose 4,6-dehydratase		protein	NCBITaxon:485	20100914	UniProt		
+UniProtKB	P37761	rfbB		GO:0045226	GO_REF:0000024	ISS	UniProtKB:P27830	P	dTDP-glucose 4,6-dehydratase		protein	NCBITaxon:485	20100914	UniProt		
+UniProtKB	P37761	rfbB		GO:0008460	GO_REF:0000024	ISS	UniProtKB:P27830	F	dTDP-glucose 4,6-dehydratase		protein	NCBITaxon:485	20100914	UniProt		
+UniProtKB	I6TWH9	eppA		GO:0009253	PMID:23378511	IDA		P	Peptidase_M23 domain-containing protein	WHOF_00168|WHOF_00871	protein	NCBITaxon:485	20130330	CACAO		
+UniProtKB	D6JLP0	dnrN		GO:0006979	PMID:18203837	IMP		P	Iron-sulfur cluster repair protein DnrN	NGNG_00128	protein	NCBITaxon:485	20110204	UniProt		
+UniProtKB	D6JLP0	dnrN		GO:0051409	PMID:18203837	IMP		P	Iron-sulfur cluster repair protein DnrN	NGNG_00128	protein	NCBITaxon:485	20110204	UniProt		
+UniProtKB	D6JLP0	dnrN		GO:0030091	PMID:18203837	IMP		P	Iron-sulfur cluster repair protein DnrN	NGNG_00128	protein	NCBITaxon:485	20110204	UniProt		
+UniProtKB	P18195	porB		GO:0006898	Reactome:R-HSA-3000484	TAS		P	Major outer membrane protein P.IB		protein	NCBITaxon:485	20150807	Reactome		
+UniProtKB	P18195	porB		GO:0071682	Reactome:R-HSA-2247514	TAS		C	Major outer membrane protein P.IB		protein	NCBITaxon:485	20130317	Reactome		
+UniProtKB	P18195	porB		GO:0005576	Reactome:R-HSA-2247514	TAS		C	Major outer membrane protein P.IB		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	P11297	P11297		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein V28		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	P11297	P11297		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein V28		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	P11296	opaC		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA50		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	P11296	opaC		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA50		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q05034	Q05034		GO:0050900	Reactome:R-HSA-202733	TAS		P	Opacity protein opA67		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	Q05034	Q05034		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Opacity protein opA67		protein	NCBITaxon:485	20160716	Reactome		
+UniProtKB	Q50991	tpc		GO:0005515	PMID:29233095	IPI	UniProtKB:A0A1D3IEB2	F	SPOR domain-containing protein	ftsN|F0T10_01535|F0T11_01535|F0T12_01530|WHOF_00219|WHOF_00284C	protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	P58152	minE		GO:0005515	PMID:20937912	IPI	UniProtKB:Q9AG19	F	Cell division topological specificity factor		protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	P58152	minE		GO:0042802	PMID:20937912	IPI	UniProtKB:P58152	F	Cell division topological specificity factor		protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	Q9AG19	minD		GO:0005515	PMID:20937912	IPI	UniProtKB:P58152	F	Cell division inhibitor MinD	minD_2|E8M63_02800|F0T10_10945|F0T11_10875|F0T12_10895|NCTC13805_02287|WHOF_00561|WHOF_02109C	protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	O30554	atlA		GO:0008933	PMID:17526702	IDA		F	AtlA	F0T10_04550|F0T11_04935|F0T12_04540|NCTC13805_01040	protein	NCBITaxon:485	20161108	CACAO		
+UniProtKB	A0A1D3IEB2	ftsA		GO:0005515	PMID:29233095	IPI	UniProtKB:Q50991	F	Cell division protein FtsA	E8M63_08620|F0T11_08975|F0T12_08995|NCTC13805_01701|WHOF_00744|WHOF_01786C	protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	A0A1D3IEB2	ftsA		GO:0005515	PMID:29233095	IPI	UniProtKB:P72079	F	Cell division protein FtsA	E8M63_08620|F0T11_08975|F0T12_08995|NCTC13805_01701|WHOF_00744|WHOF_01786C	protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	A0A1D3IEB2	ftsA		GO:0005515	PMID:29233095	IPI	UniProtKB:A0A1D3FIJ4	F	Cell division protein FtsA	E8M63_08620|F0T11_08975|F0T12_08995|NCTC13805_01701|WHOF_00744|WHOF_01786C	protein	NCBITaxon:485	20210403	IntAct		
+UniProtKB	P09888	piiC		GO:0050900	Reactome:R-HSA-202733	TAS		P	Outer membrane protein P.IIC		protein	NCBITaxon:485	20200813	Reactome		
+UniProtKB	P09888	piiC		GO:0009279	Reactome:R-HSA-8867135	TAS		C	Outer membrane protein P.IIC		protein	NCBITaxon:485	20160716	Reactome		

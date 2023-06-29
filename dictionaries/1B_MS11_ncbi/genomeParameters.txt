@@ -1,0 +1,15 @@
+### ./STAR   --runMode genomeGenerate   --runThreadN 8   --genomeDir /projects/ag-advol/dictionaries/MS11_ncbi_IR   --genomeFastaFiles /projects/ag-advol/dictionaries/MS11_ncbi_IR/MS11.fasta      --genomeSAindexNbases 8
+versionGenome	20201
+genomeFastaFiles	/projects/ag-advol/dictionaries/MS11_ncbi_IR/MS11.fasta 
+genomeSAindexNbases	8
+genomeChrBinNbits	18
+genomeSAsparseD	1
+sjdbOverhang	0
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	-
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	2359296 18427533

@@ -1,7 +1,7 @@
 ## Neisseria gonorrhoeae transcriptome project
 
 # This script takes the count table and analyses if everything is ok with the samples
-# -- do they cluster?
+# -- do they cluster biologically?
 # -- Do we need batch correction?
 
 # input: count table
@@ -11,7 +11,6 @@
 
 # we have 7 different phenotypes: 
 # -- we want to compare the planktonic against biofilm **
-# -- for both conditions we have 3 replicates 
 #       -- these were made on the same day
 # -- Batch: we assume that all samples are from the same batch --> but are they?
 
@@ -33,7 +32,6 @@ inName = "Run4Ngo_CDS_Counts_G4_DpilE_NG17_NG24_NG32.csv"
 # do you want to exclude multi mapper?
 excMM = "YES"
 
-
 ################ LOAD DATA #######################
 if (excMM == "YES") {
 List_MM_file <- read.csv("/home/isabel/Documents/Doktorarbeit_Mai2022/P5_Ngo_fromSciebo/dictionaries/1A_MS11_ManualLists/MULTIMAPPER_Ms11toMs11/MS11_2_MS11_allGenes_woRNA.csv",
@@ -43,7 +41,7 @@ exc_pilS_E = paste("gene-",c("NGFG_01821","NGFG_02431","NGFG_02484","NGFG_02482"
 
 List_MM <- c(List_MM,exc_pilS_E)}
 ####
-## Ngo -- here the data is loaded and columns are added with sum, mean, median
+## Ngo -- here the data is loaded
 data_raw <- read.table(inName, sep=" ", header = TRUE)
 ID2geneInfo <- read.csv("/home/isabel/Documents/Doktorarbeit_Mai2022/P5_Ngo_fromSciebo/dictionaries/1A_MS11_ManualLists/NgoBlast2_NmenANDFA1090_onlyCDS.csv",
                         sep="\t", header = TRUE)
@@ -51,10 +49,8 @@ data_samnum <- length(data_raw) -1
 
 ############################# EXTRA INFORMATION ################################
 # information about the data
-# all initial infos that apply to all are capitalized to distinguish from later use
-Conditions <- c(rep("G4wt",3),rep("G4pilEKO",3),rep("G4pilENG17",3),rep("G4pilENG24",3),rep("G4pilENG32",3))                                #set
-replicate <- rep(c(1,2,3),data_samnum/3)                                                     #set                                                          #set
-
+Conditions <- c(rep("G4wt",3),rep("G4pilEKO",3),rep("G4pilENG17",3),rep("G4pilENG24",3),rep("G4pilENG32",3))   #set
+replicate <- rep(c(1,2,3),data_samnum/3)                                                                       #set
 
 # automatically generates the Sample Names
 SamNames <- paste(Conditions,replicate,sep = "_")
@@ -90,7 +86,7 @@ counts_depCond
 #############################################################################################################
 ################## Process the data
 
-# Pre-filter: Based on distributions the data is pre-filtered 
+# Pre-filter: optionally, data is pre-filtered based on distributions
 data_filt <- data_raw #[which(tab$med > 9 & (tab$sum > 15 | tab$sum < 10000)),]
 
 # convert data in table to matrix
@@ -103,8 +99,8 @@ colnames(data_mat) <- SamNames
 if (excMM == "YES") {
 idx_exc <- which(data_filt[,1] %in% List_MM)
 data_mat <- data_mat[-(idx_exc),]}
-################## Create the dds object for the analysis
 
+################## Create the dds object for the analysis
 # give information on samples, conditions, batch
 
 data_mat_oi <- data_mat[,idx_all]
@@ -132,20 +128,6 @@ rlogMat <- assay(myRLOG)
 rlogMat_cent <- rlogMat - apply(rlogMat,1,mean)
 #head(rlogMat)
 
-### tests ###
-# R-R plots (replicates)
-# which_rep <- c(8,9) # set
-# sample1 <- rownames(myColData)[which_rep[1]]
-# sample2 <- rownames(myColData)[which_rep[2]]
-# # the same sample which differs in batch
-# par(mfrow=c(2,1), mar=c(2.5,2.5,2,0.5), mgp=c(1.5,0.5,0), cex.lab=0.75, cex.axis=0.75, cex.main=0.85)
-# plot(data_mat_oi[,which_rep[1]], data_mat_oi[,which_rep[2]], xlab=sample1, ylab=sample2, main="raw counts")
-# r1 <- cor.test(data_mat_oi[,which_rep[1]], data_mat_oi[,which_rep[2]])
-# text(x=10000, y=100000, as.character(r1$estimate))
-# r2 <- cor.test(rlogMat_cent[,which_rep[1]], rlogMat_cent[,which_rep[2]])
-# plot(rlogMat_cent[,which_rep[1]], rlogMat_cent[,which_rep[2]],  xlab=sample1, ylab=sample2, main="normalized values")
-# text(x=1, y=10, as.character(r2$estimate))
-
 # heatmaps (dendrograms)
 pheatmap(data_mat_oi, cluster_rows = FALSE, labels_col = SamNames[idx_all], show_rownames = FALSE,
          cellheight = 0, legend = FALSE, main="raw counts")
@@ -160,7 +142,7 @@ plotPCA(myRLOG, intgroup=c("conds"),ntop=1900) + ggtitle("PCA - rlog normalized 
 
 pcaData <- plotPCA(myRLOG, intgroup=c("conds", "replicate"), returnData=TRUE) #, 
 percentVar <- round(100 * attr(pcaData, "percentVar"))
-ggplot(pcaData, aes(PC1, PC2, color=conds, shape = days)) +
+ggplot(pcaData, aes(PC1, PC2, color=conds)) +
   geom_point(size=3) +
   xlab(paste0("PC1: ",percentVar[1],"% variance")) +
   ylab(paste0("PC2: ",percentVar[2],"% variance")) + 
